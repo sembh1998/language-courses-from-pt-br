@@ -1,0 +1,114 @@
+topic: Regras de leitura essenciais
+level: A1
+exercises:
+  - type: multiple_choice
+    instruction: Escolha o som correto para a combinação destacada.
+    items:
+      - question: Em mein, ei soa como...
+        options:
+          - ai
+          - i longo
+          - oi
+        answer: ai
+      - question: Em Liebe, ie soa como...
+        options:
+          - i longo
+          - ai
+          - au
+        answer: i longo
+      - question: Em heute, eu soa como...
+        options:
+          - ói
+          - u
+          - ei
+        answer: ói
+      - question: Em Schule, sch soa como...
+        options:
+          - ch de chá
+          - s simples
+          - z
+        answer: ch de chá
+
+  - type: fill_blank
+    instruction: Complete com ei, ie, eu ou äu.
+    items:
+      - question: m___n
+        answer: ei
+      - question: L___be
+        answer: ie
+      - question: h___te
+        answer: eu
+      - question: H___ser
+        answer: äu
+      - question: Z___t
+        answer: ei
+
+  - type: multiple_choice
+    instruction: Escolha a palavra que combina com a regra.
+    items:
+      - question: Qual palavra começa com som de ts?
+        options:
+          - Zeit
+          - Vater
+          - Wasser
+        answer: Zeit
+      - question: Qual palavra tem w com som de v português?
+        options:
+          - Wasser
+          - Schule
+          - Buch
+        answer: Wasser
+      - question: Qual palavra costuma ter v com som de f?
+        options:
+          - Vater
+          - ja
+          - Zeit
+        answer: Vater
+      - question: Qual palavra começa com som parecido com shp?
+        options:
+          - spielen
+          - stehen
+          - Schule
+        answer: spielen
+
+  - type: fill_blank
+    instruction: Complete a palavra alemã.
+    items:
+      - question: ___ule
+        answer: Sch
+      - question: ___ielen
+        answer: sp
+      - question: ___ehen
+        answer: st
+      - question: ___eit
+        answer: Z
+      - question: ___a
+        answer: j
+
+  - type: multiple_choice
+    instruction: Escolha a observação correta sobre ch.
+    items:
+      - question: Em ich, ch é...
+        options:
+          - ich-Laut
+          - ach-Laut
+          - som de z
+        answer: ich-Laut
+      - question: Em Buch, ch é...
+        options:
+          - ach-Laut
+          - ich-Laut
+          - som de sch
+        answer: ach-Laut
+      - question: Depois de a, o, u ou au, ch geralmente tem...
+        options:
+          - ach-Laut
+          - som de w
+          - som de z
+        answer: ach-Laut
+      - question: Depois de i, e, ä, ö, ü, ei ou eu, ch geralmente tem...
+        options:
+          - ich-Laut
+          - ach-Laut
+          - som de sp
+        answer: ich-Laut

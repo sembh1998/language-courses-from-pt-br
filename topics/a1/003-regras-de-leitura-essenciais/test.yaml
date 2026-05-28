@@ -1,0 +1,65 @@
+topic: Regras de leitura essenciais
+level: A1
+questions:
+  - type: multiple_choice
+    question: Em mein, ei soa como...
+    options:
+      - ai
+      - i longo
+      - u
+    answer: ai
+  - type: multiple_choice
+    question: Em sie, ie soa como...
+    options:
+      - i longo
+      - ai
+      - oi
+    answer: i longo
+  - type: multiple_choice
+    question: Qual palavra contém eu com som parecido com ói?
+    options:
+      - heute
+      - Haus
+      - ich
+    answer: heute
+  - type: fill_blank
+    question: "Complete a palavra alemã para escola: ___ule"
+    answer: Sch
+  - type: multiple_choice
+    question: Qual palavra começa com som parecido com shp?
+    options:
+      - spielen
+      - stehen
+      - Zeit
+    answer: spielen
+  - type: multiple_choice
+    question: Qual palavra começa com som parecido com sht?
+    options:
+      - stehen
+      - spielen
+      - Vater
+    answer: stehen
+  - type: fill_blank
+    question: "Complete com ch ou sch: Bu___"
+    answer: ch
+  - type: multiple_choice
+    question: Em Zeit, z soa como...
+    options:
+      - ts
+      - v
+      - j
+    answer: ts
+  - type: multiple_choice
+    question: Qual letra costuma soar como v português em alemão?
+    options:
+      - w
+      - j
+      - z
+    answer: w
+  - type: multiple_choice
+    question: Em Vater, v geralmente soa como...
+    options:
+      - f
+      - v português
+      - ts
+    answer: f

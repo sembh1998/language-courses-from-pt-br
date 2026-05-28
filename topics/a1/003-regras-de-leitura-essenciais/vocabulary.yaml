@@ -1,0 +1,136 @@
+topic: Regras de leitura essenciais
+level: A1
+words:
+  - german: die Regel
+    translation: a regra
+    type: noun
+    gender: feminine
+    plural: die Regeln
+    example: Das ist eine Regel.
+    example_translation: Esta é uma regra.
+  - german: lesen
+    translation: ler
+    type: verb
+    gender: null
+    plural: null
+    example: Ich lese Deutsch.
+    example_translation: Eu leio alemão.
+  - german: schreiben
+    translation: escrever
+    type: verb
+    gender: null
+    plural: null
+    example: Ich schreibe ein Wort.
+    example_translation: Eu escrevo uma palavra.
+  - german: das Wort
+    translation: a palavra
+    type: noun
+    gender: neuter
+    plural: die Wörter
+    example: Das Wort ist kurz.
+    example_translation: A palavra é curta.
+  - german: das Beispiel
+    translation: o exemplo
+    type: noun
+    gender: neuter
+    plural: die Beispiele
+    example: Das Beispiel ist einfach.
+    example_translation: O exemplo é simples.
+  - german: mein
+    translation: meu; minha
+    type: possessive
+    gender: null
+    plural: null
+    example: Das ist mein Buch.
+    example_translation: Este é meu livro.
+  - german: sie
+    translation: ela; eles; elas
+    type: pronoun
+    gender: null
+    plural: null
+    example: Sie lernt Deutsch.
+    example_translation: Ela aprende alemão.
+  - german: Deutsch
+    translation: alemão; língua alemã
+    type: noun
+    gender: null
+    plural: null
+    example: Ich lerne Deutsch.
+    example_translation: Eu aprendo alemão.
+  - german: heute
+    translation: hoje
+    type: adverb
+    gender: null
+    plural: null
+    example: Heute lese ich Deutsch.
+    example_translation: Hoje eu leio alemão.
+  - german: das Haus
+    translation: a casa
+    type: noun
+    gender: neuter
+    plural: die Häuser
+    example: Die Häuser sind klein.
+    example_translation: As casas são pequenas.
+  - german: ich
+    translation: eu
+    type: pronoun
+    gender: null
+    plural: null
+    example: Ich bin hier.
+    example_translation: Eu estou aqui.
+  - german: das Buch
+    translation: o livro
+    type: noun
+    gender: neuter
+    plural: die Bücher
+    example: Das Buch ist hier.
+    example_translation: O livro está aqui.
+  - german: die Schule
+    translation: a escola
+    type: noun
+    gender: feminine
+    plural: die Schulen
+    example: Die Schule ist groß.
+    example_translation: A escola é grande.
+  - german: spielen
+    translation: jogar; brincar; tocar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich spiele.
+    example_translation: Eu jogo.
+  - german: stehen
+    translation: estar de pé; ficar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich stehe hier.
+    example_translation: Eu estou aqui.
+  - german: die Zeit
+    translation: o tempo
+    type: noun
+    gender: feminine
+    plural: die Zeiten
+    example: Die Zeit ist kurz.
+    example_translation: O tempo é curto.
+  - german: der Vater
+    translation: o pai
+    type: noun
+    gender: masculine
+    plural: die Väter
+    example: Mein Vater ist hier.
+    example_translation: Meu pai está aqui.
+  - german: das Wasser
+    translation: a água
+    type: noun
+    gender: neuter
+    plural: null
+    example: Das Wasser ist kalt.
+    example_translation: A água está fria.
+  - german: ja
+    translation: sim
+    type: particle
+    gender: null
+    plural: null
+    example: Ja, ich lerne Deutsch.
+    example_translation: Sim, eu aprendo alemão.

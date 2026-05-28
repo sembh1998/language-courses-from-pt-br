@@ -1,0 +1,55 @@
+topic: Regras de leitura essenciais
+level: A1
+cards:
+  - front: ei
+    back: som parecido com ai
+    example: Das ist mein Buch.
+    example_translation: Este é meu livro.
+  - front: ie
+    back: som de i longo
+    example: Sie lernt Deutsch.
+    example_translation: Ela aprende alemão.
+  - front: eu
+    back: som parecido com ói
+    example: Heute lerne ich Deutsch.
+    example_translation: Hoje eu aprendo alemão.
+  - front: äu
+    back: mesmo som de eu, parecido com ói
+    example: Die Häuser sind klein.
+    example_translation: As casas são pequenas.
+  - front: ch depois de i ou e
+    back: ich-Laut, som leve
+    example: Ich lese.
+    example_translation: Eu leio.
+  - front: ch depois de a, o, u ou au
+    back: ach-Laut, som mais forte
+    example: Das Buch ist hier.
+    example_translation: O livro está aqui.
+  - front: sch
+    back: som parecido com ch de chá
+    example: Die Schule ist groß.
+    example_translation: A escola é grande.
+  - front: sp no começo
+    back: som parecido com shp
+    example: Ich spiele.
+    example_translation: Eu jogo.
+  - front: st no começo
+    back: som parecido com sht
+    example: Ich stehe hier.
+    example_translation: Eu estou aqui.
+  - front: z
+    back: som de ts
+    example: Die Zeit ist kurz.
+    example_translation: O tempo é curto.
+  - front: v em palavras comuns
+    back: muitas vezes som de f
+    example: Mein Vater ist hier.
+    example_translation: Meu pai está aqui.
+  - front: w
+    back: som de v português
+    example: Das Wasser ist kalt.
+    example_translation: A água está fria.
+  - front: j
+    back: som de i ou y
+    example: Ja, ich lerne Deutsch.
+    example_translation: Sim, eu aprendo alemão.
