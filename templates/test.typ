@@ -1,39 +1,51 @@
+#import "theme.typ": *
+
 #let topic = sys.inputs.at("topic", default: "topics/a1/001-alfabeto-alemao-e-sons-basicos")
 #let test = yaml(topic + "/test.yaml")
 
-#set document(title: test.topic + " Test")
-#set page(paper: "a4", margin: (x: 1.6cm, y: 1.6cm))
-#set text(size: 10.5pt, lang: "en")
-#set heading(numbering: "1.")
-#set par(leading: 0.5em)
+#show: doc => workbook(doc, title: test.topic + " Test", kind: "Test", accent: blue, margin: (x: 1.45cm, y: 1.5cm), body-size: 10.2pt)
 
-#show heading: it => [
-  #v(0.8em)
-  #it
-  #v(0.4em)
-]
-
-= #test.topic Test
-
-Level: #test.level
-
-Name: #line(length: 7cm) Date: #line(length: 4cm)
-
-#v(0.7em)
-
-#for (index, question) in test.questions.enumerate() [
-  #strong(str(index + 1) + ".") #question.question
+#let test-question(question, number) = block(
+  width: 100%,
+  fill: surface,
+  stroke: 0.65pt + sand,
+  radius: 9pt,
+  inset: 10pt,
+  breakable: false,
+)[
+  #grid(columns: (auto, 1fr), gutter: 7pt, align: horizon)[
+    #number-badge(str(number), fill: blue)
+    #text(weight: "bold")[#question.question]
+  ]
 
   #if "options" in question [
+    #v(0.3em)
     #grid(
       columns: (1fr, 1fr, 1fr),
       gutter: 6pt,
-      ..question.options.map(option => [□ #option])
+      ..question.options.map(option => checkbox(option))
     )
   ] else [
-    #v(0.25em)
-    #line(length: 100%, stroke: 0.45pt)
+    #answer-line()
   ]
+]
 
-  #v(0.6cm)
+#hero(test.topic + " Test", kind: "Test", level: test.level, accent: blue)
+
+#v(0.6em)
+#block(width: 100%, fill: blue-soft, stroke: 0.6pt + blue, radius: 9pt, inset: 10pt)[
+  #text(font: ui-font, size: 8.5pt, weight: "bold", fill: muted)[Name]
+  #v(0.15em)
+  #line(length: 100%, stroke: 0.75pt + blue)
+  #v(0.35em)
+  #text(font: ui-font, size: 8.5pt, weight: "bold", fill: muted)[Date]
+  #v(0.15em)
+  #line(length: 100%, stroke: 0.75pt + blue)
+]
+
+#v(0.75em)
+
+#for (index, question) in test.questions.enumerate() [
+  #test-question(question, index + 1)
+  #v(0.5em)
 ]

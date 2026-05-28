@@ -1,18 +1,9 @@
 #import "@preview/cmarker:0.1.3": render
+#import "theme.typ": *
 
 #let topic = sys.inputs.at("topic", default: "topics/a1/001-alfabeto-alemao-e-sons-basicos")
 #let story = read(topic + "/story.md")
 
-#set document(title: "German Story")
-#set page(paper: "a4", margin: (x: 2cm, y: 2cm))
-#set text(size: 11pt, lang: "en")
-#set heading(numbering: "1.")
-#set par(leading: 0.65em)
-
-#show heading: it => [
-  #v(0.8em)
-  #it
-  #v(0.4em)
-]
+#show: doc => workbook(doc, title: "German Story", kind: "Story", accent: amber, margin: (x: 1.8cm, y: 1.85cm), body-size: 10.6pt)
 
 #render(story)

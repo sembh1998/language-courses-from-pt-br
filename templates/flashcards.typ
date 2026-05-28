@@ -1,45 +1,39 @@
+#import "theme.typ": *
+
 #let topic = sys.inputs.at("topic", default: "topics/a1/001-alfabeto-alemao-e-sons-basicos")
 #let data = yaml(topic + "/flashcards.yaml")
 
-#set document(title: "German Flashcards")
-#set page(paper: "a4", margin: (x: 1.4cm, y: 1.5cm))
-#set text(size: 10pt, lang: "en")
-#set heading(numbering: "1.")
-#set par(leading: 0.65em)
+#show: doc => workbook(doc, title: "German Flashcards", kind: "Cards", accent: rose, margin: (x: 1.35cm, y: 1.45cm), body-size: 10pt)
 
-#show heading: it => [
-  #v(0.8em)
-  #it
-  #v(0.4em)
+#let card-number(n) = pill("#" + str(n), fill: blue-soft, stroke: blue, text-fill: blue)
+
+#let flashcard(card, number) = block(
+  width: 100%,
+  height: 5.45cm,
+  fill: surface,
+  stroke: (top: 2pt + rose, rest: 0.7pt + sand),
+  radius: 10pt,
+  inset: 0pt,
+  breakable: false,
+)[
+  #block(inset: (x: 9pt, y: 8pt))[#grid(columns: (1fr, auto), gutter: 6pt, align: horizon)[
+    #text(font: ui-font, size: 12.5pt, weight: "black", fill: ink)[#card.front]
+    #card-number(number)
+  ]]
+  #block(inset: (x: 9pt, y: 3pt))[#text(size: 10.3pt, fill: ink)[#card.back]]
+  #block(inset: (x: 9pt, y: 4pt))[#line(length: 100%, stroke: 0.45pt + sand)]
+  #block(inset: (x: 9pt, y: 3pt))[#text(size: 9.3pt)[#card.example]\
+  #text(size: 8.8pt, style: "italic", fill: muted)[#card.example_translation]]
 ]
 
-= Flashcards
+#hero("Flashcards", kind: "Cards", level: data.level, accent: rose)
 
-Topic: #data.topic\
-Level: #data.level
-
-#v(0.6em)
+#v(0.5em)
+#pill(data.topic, fill: amber-soft, stroke: amber)
+#v(0.7em)
 
 #grid(
   columns: (1fr, 1fr),
-  gutter: 8pt,
-  ..data.cards.map(card => box(
-    width: 100%,
-    height: 4.1cm,
-    stroke: 0.7pt + gray,
-    inset: 0pt,
-    [
-      #block(fill: luma(245), inset: 8pt, width: 100%)[
-        #text(size: 12pt, weight: "bold")[#card.front]
-      ]
-      #block(inset: 8pt)[
-        #text(size: 10.5pt)[#card.back]
-        #v(0.45em)
-        #line(length: 100%, stroke: 0.4pt + luma(210))
-        #v(0.45em)
-        #text(size: 9.5pt)[#card.example]\
-        #text(size: 9pt, style: "italic")[#card.example_translation]
-      ]
-    ],
-  ))
+  gutter: 12pt,
+  ..data.cards.enumerate().map(((index, card)) => flashcard(card, index + 1))
 )
