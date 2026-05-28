@@ -1,0 +1,9 @@
+# Generated PDFs can always be rebuilt locally.
+*.pdf
+output/pdf/**/*.pdf
+
+# Keep output folders available without committing generated files.
+output/pdf/*
+output/exports/*
+!output/pdf/.gitkeep
+!output/exports/.gitkeep

@@ -1,0 +1,10 @@
+topic: string
+level: string
+exercises:
+  - type: fill_blank | multiple_choice | translation | matching | short_answer
+    instruction: string
+    items:
+      - question: string
+        options:
+          - string
+        answer: string

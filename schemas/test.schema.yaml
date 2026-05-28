@@ -1,0 +1,8 @@
+topic: string
+level: string
+questions:
+  - type: fill_blank | multiple_choice | translation | matching | short_answer
+    question: string
+    options:
+      - string
+    answer: string

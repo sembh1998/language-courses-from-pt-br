@@ -1,0 +1,10 @@
+topic: string
+level: string
+words:
+  - german: string
+    translation: string
+    type: string
+    gender: string | null
+    plural: string | null
+    example: string
+    example_translation: string

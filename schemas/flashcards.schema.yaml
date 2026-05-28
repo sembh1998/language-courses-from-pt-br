@@ -1,0 +1,7 @@
+topic: string
+level: string
+cards:
+  - front: string
+    back: string
+    example: string
+    example_translation: string
