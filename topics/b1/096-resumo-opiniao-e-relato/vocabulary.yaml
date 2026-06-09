@@ -1,0 +1,115 @@
+topic: Resumo, opinião e relato
+level: B1
+words:
+  - german: die Zusammenfassung
+    translation: o resumo
+    type: noun
+    gender: feminine
+    plural: die Zusammenfassungen
+    example: Die Zusammenfassung ist kurz und klar.
+    example_translation: O resumo é curto e claro.
+  - german: die Meinung
+    translation: a opinião
+    type: noun
+    gender: feminine
+    plural: die Meinungen
+    example: Ich möchte meine Meinung äußern.
+    example_translation: Eu gostaria de expressar minha opinião.
+  - german: die Erfahrung
+    translation: a experiência
+    type: noun
+    gender: feminine
+    plural: die Erfahrungen
+    example: Diese Erfahrung war sehr wichtig für mich.
+    example_translation: Essa experiência foi muito importante para mim.
+  - german: berichten
+    translation: relatar
+    type: verb
+    gender: null
+    plural: null
+    example: Sie berichtet über ihr Praktikum.
+    example_translation: Ela relata sobre o estágio dela.
+  - german: zusammenfassen
+    translation: resumir
+    type: verb
+    gender: null
+    plural: null
+    example: Kannst du den Text kurz zusammenfassen?
+    example_translation: Você consegue resumir o texto brevemente?
+  - german: äußern
+    translation: expressar
+    type: verb
+    gender: null
+    plural: null
+    example: Er äußert seine Meinung höflich.
+    example_translation: Ele expressa sua opinião de forma educada.
+  - german: der Autor
+    translation: o autor
+    type: noun
+    gender: masculine
+    plural: die Autoren
+    example: Der Autor beschreibt ein Problem in der Schule.
+    example_translation: O autor descreve um problema na escola.
+  - german: das Thema
+    translation: o tema
+    type: noun
+    gender: neuter
+    plural: die Themen
+    example: Das Thema ist für viele Menschen aktuell.
+    example_translation: O tema é atual para muitas pessoas.
+  - german: der Vorteil
+    translation: a vantagem
+    type: noun
+    gender: masculine
+    plural: die Vorteile
+    example: Ein Vorteil ist die flexible Arbeitszeit.
+    example_translation: Uma vantagem é o horário de trabalho flexível.
+  - german: der Nachteil
+    translation: a desvantagem
+    type: noun
+    gender: masculine
+    plural: die Nachteile
+    example: Ein Nachteil ist der hohe Preis.
+    example_translation: Uma desvantagem é o preço alto.
+  - german: meiner Meinung nach
+    translation: na minha opinião
+    type: expression
+    gender: null
+    plural: null
+    example: Meiner Meinung nach ist die Idee sinnvoll.
+    example_translation: Na minha opinião, a ideia faz sentido.
+  - german: zusammenfassend
+    translation: em resumo
+    type: adverb
+    gender: null
+    plural: null
+    example: Zusammenfassend kann man sagen, dass der Plan gut ist.
+    example_translation: Em resumo, pode-se dizer que o plano é bom.
+  - german: außerdem
+    translation: além disso
+    type: connector
+    gender: null
+    plural: null
+    example: Außerdem spart man Zeit.
+    example_translation: Além disso, economiza-se tempo.
+  - german: jedoch
+    translation: porém
+    type: connector
+    gender: null
+    plural: null
+    example: Die Idee ist interessant, jedoch nicht billig.
+    example_translation: A ideia é interessante, porém não é barata.
+  - german: trotzdem
+    translation: apesar disso
+    type: connector
+    gender: null
+    plural: null
+    example: Es regnete, trotzdem gingen wir spazieren.
+    example_translation: Chovia, apesar disso fomos caminhar.
+  - german: deshalb
+    translation: por isso
+    type: connector
+    gender: null
+    plural: null
+    example: Ich hatte wenig Zeit, deshalb schrieb ich nur eine kurze Antwort.
+    example_translation: Eu tinha pouco tempo, por isso escrevi apenas uma resposta curta.

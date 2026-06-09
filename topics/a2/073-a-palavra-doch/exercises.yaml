@@ -1,0 +1,80 @@
+topic: A palavra doch
+level: A2
+exercises:
+  - type: multiple_choice
+    instruction: Escolha a resposta correta para responder positivamente à pergunta negativa.
+    items:
+      - question: Kommst du nicht zur Party?
+        options:
+          - Doch, ich komme.
+          - Nein, ich komme nicht.
+          - Ja, ich komme nicht.
+        answer: Doch, ich komme.
+      - question: Hast du keinen Hunger?
+        options:
+          - Nein, ich habe Hunger.
+          - Doch, ich habe Hunger.
+          - Nein, ich esse viel.
+        answer: Doch, ich habe Hunger.
+      - question: Ist Paul nicht zu Hause?
+        options:
+          - Nein, er ist zu Hause.
+          - Ja, er ist nicht zu Hause.
+          - Doch, er ist zu Hause.
+        answer: Doch, er ist zu Hause.
+      - question: Magst du keinen Tee?
+        options:
+          - Doch, ich mag Tee.
+          - Nein, ich mag Tee.
+          - Ja, ich mag keinen Tee.
+        answer: Doch, ich mag Tee.
+
+  - type: fill_blank
+    instruction: Complete com doch ou nein conforme o sentido em português.
+    items:
+      - question: "A: Trinkst du keinen Kaffee? B: ___, ich trinke Kaffee."
+        answer: Doch
+      - question: "A: Hast du heute keine Zeit? B: ___, ich habe keine Zeit."
+        answer: Nein
+      - question: "A: Ist Maria nicht da? B: ___, sie ist da."
+        answer: Doch
+      - question: "A: Wohnst du nicht in Köln? B: ___, ich wohne nicht in Köln."
+        answer: Nein
+      - question: "A: Arbeitest du morgen nicht? B: ___, ich arbeite morgen."
+        answer: Doch
+
+  - type: transformation
+    instruction: Responda em alemão com Doch e uma frase completa.
+    items:
+      - question: Lernst du nicht Deutsch?
+        answer: Doch, ich lerne Deutsch.
+      - question: Hast du kein Fahrrad?
+        answer: Doch, ich habe ein Fahrrad.
+      - question: Ist das nicht dein Handy?
+        answer: Doch, das ist mein Handy.
+      - question: Geht ihr nicht ins Kino?
+        answer: Doch, wir gehen ins Kino.
+
+  - type: matching
+    instruction: Relacione a pergunta negativa com a resposta que corrige a negação.
+    items:
+      - question: Bist du nicht müde?
+        answer: Doch, ich bin müde.
+      - question: Hat Sara kein Auto?
+        answer: Doch, sie hat ein Auto.
+      - question: Kommt ihr nicht am Samstag?
+        answer: Doch, wir kommen am Samstag.
+      - question: Ist der Laden nicht offen?
+        answer: Doch, er ist offen.
+
+  - type: short_answer
+    instruction: Escreva uma resposta curta e natural em alemão.
+    items:
+      - question: "Seu amigo pergunta: Hast du keinen Stift? Você tem uma caneta."
+        answer: Doch, ich habe einen Stift.
+      - question: "Sua colega diz: Du kommst nicht mit. Você vai junto."
+        answer: Doch, ich komme mit.
+      - question: "Alguém pergunta: Ist das nicht dein Platz? O lugar é seu."
+        answer: Doch, das ist mein Platz.
+      - question: "Alguém pergunta: Liest du das Buch nicht? Você lê o livro."
+        answer: Doch, ich lese das Buch.

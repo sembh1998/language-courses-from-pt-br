@@ -1,0 +1,126 @@
+topic: Vorgangspassiv em outros tempos
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: Complete com a forma correta de werden no Präteritum passivo.
+    items:
+      - question: Die alte Fabrik ___ 1995 geschlossen.
+        answer: wurde
+      - question: Die Gäste ___ am Eingang begrüßt.
+        answer: wurden
+      - question: Der Vertrag ___ gestern unterschrieben.
+        answer: wurde
+      - question: Wir ___ über die Änderung informiert.
+        answer: wurden
+      - question: Du ___ nach deiner Meinung gefragt.
+        answer: wurdest
+
+  - type: fill_blank
+    instruction: Complete o Perfekt passivo com ist, sind ou worden.
+    items:
+      - question: Das Formular ___ schon ausgefüllt worden.
+        answer: ist
+      - question: Die Fenster sind gestern geputzt ___.
+        answer: worden
+      - question: Der Fehler ___ endlich korrigiert worden.
+        answer: ist
+      - question: Die Pakete ___ am Morgen geliefert worden.
+        answer: sind
+      - question: Die neuen Regeln sind erklärt ___.
+        answer: worden
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta no Vorgangspassiv.
+    items:
+      - question: Qual frase expressa corretamente o passado narrativo passivo?
+        options:
+          - Das Museum wurde renoviert.
+          - Das Museum ist renoviert geworden.
+          - Das Museum wird renoviert werden gestern.
+        answer: Das Museum wurde renoviert.
+      - question: Qual frase está correta no Perfekt passivo?
+        options:
+          - Die Straße ist repariert geworden.
+          - Die Straße ist repariert worden.
+          - Die Straße wurde repariert worden.
+        answer: Die Straße ist repariert worden.
+      - question: Qual frase está correta no Futur I passivo?
+        options:
+          - Die App wird nächste Woche getestet.
+          - Die App ist nächste Woche getestet worden.
+          - Die App wird nächste Woche getestet werden.
+        answer: Die App wird nächste Woche getestet werden.
+      - question: Qual frase usa corretamente o plural no Präteritum passivo?
+        options:
+          - Die Briefe wurden verschickt.
+          - Die Briefe wurde verschickt.
+          - Die Briefe ist verschickt worden.
+        answer: Die Briefe wurden verschickt.
+      - question: Qual frase evita o erro com geworden?
+        options:
+          - Das Problem ist gelöst geworden.
+          - Das Problem ist gelöst worden.
+          - Das Problem wird gelöst worden.
+        answer: Das Problem ist gelöst worden.
+      - question: Qual frase indica futuro passivo de modo claro?
+        options:
+          - Die Dokumente wurden morgen geprüft.
+          - Die Dokumente sind morgen geprüft worden.
+          - Die Dokumente werden morgen geprüft werden.
+        answer: Die Dokumente werden morgen geprüft werden.
+
+  - type: transformation
+    instruction: Transforme a frase ativa em Vorgangspassiv no tempo indicado.
+    items:
+      - question: Die Firma baut die Wohnungen. Präteritum
+        answer: Die Wohnungen wurden gebaut.
+      - question: Der Techniker repariert den Drucker. Perfekt
+        answer: Der Drucker ist repariert worden.
+      - question: Man informiert die Nachbarn. Futur I
+        answer: Die Nachbarn werden informiert werden.
+      - question: Die Verwaltung verschiebt den Termin. Perfekt
+        answer: Der Termin ist verschoben worden.
+      - question: Jemand öffnet die Halle. Präteritum
+        answer: Die Halle wurde geöffnet.
+
+  - type: matching
+    instruction: Relacione cada forma passiva à ideia de tempo correspondente.
+    items:
+      - question: wurde kontrolliert
+        answer: passado narrativo; foi controlado ou verificado
+      - question: ist kontrolliert worden
+        answer: Perfekt passivo; foi controlado ou verificado
+      - question: wird kontrolliert werden
+        answer: futuro passivo; será controlado ou verificado
+      - question: wurden informiert
+        answer: plural no Präteritum passivo; foram informados
+      - question: sind informiert worden
+        answer: plural no Perfekt passivo; foram informados
+
+  - type: correction
+    instruction: Corrija o erro na frase em alemão.
+    items:
+      - question: Die Tür ist geschlossen geworden.
+        answer: Die Tür ist geschlossen worden.
+      - question: Der Bericht wurde gestern geschrieben worden.
+        answer: Der Bericht wurde gestern geschrieben.
+      - question: Die Kunden wird informiert werden.
+        answer: Die Kunden werden informiert werden.
+      - question: Das Paket ist geliefert werden.
+        answer: Das Paket ist geliefert worden.
+      - question: Die Fotos wurde gelöscht.
+        answer: Die Fotos wurden gelöscht.
+
+  - type: translation
+    instruction: Traduza para o alemão usando Vorgangspassiv.
+    items:
+      - question: A ponte foi construída em 2005.
+        answer: Die Brücke wurde 2005 gebaut.
+      - question: O compromisso foi adiado.
+        answer: Der Termin ist verschoben worden.
+      - question: Os documentos serão enviados amanhã.
+        answer: Die Dokumente werden morgen geschickt werden.
+      - question: A janela foi aberta pelo vento.
+        answer: Das Fenster ist durch den Wind geöffnet worden.
+      - question: Os alunos foram informados pela escola.
+        answer: Die Schüler wurden von der Schule informiert.

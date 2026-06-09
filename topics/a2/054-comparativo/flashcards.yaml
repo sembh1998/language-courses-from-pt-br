@@ -1,0 +1,35 @@
+topic: Comparativo
+level: A2
+cards:
+  - front: klein → kleiner
+    back: pequeno → menor / mais pequeno
+    example: Der Tisch ist kleiner als das Bett.
+    example_translation: A mesa é menor do que a cama.
+  - front: gut → besser
+    back: bom → melhor
+    example: Dieser Plan ist besser als der alte Plan.
+    example_translation: Este plano é melhor do que o plano antigo.
+  - front: viel → mehr
+    back: muito → mais
+    example: Wir brauchen mehr Wasser als gestern.
+    example_translation: Nós precisamos de mais água do que ontem.
+  - front: als
+    back: do que; usado em comparações de superioridade
+    example: Meine Tasche ist leichter als dein Koffer.
+    example_translation: Minha bolsa é mais leve do que a sua mala.
+  - front: schnell → schneller
+    back: rápido → mais rápido
+    example: Das Fahrrad ist schneller als der Roller.
+    example_translation: A bicicleta é mais rápida do que o patinete.
+  - front: teuer → teurer
+    back: caro → mais caro
+    example: Das Hotel ist teurer als die Wohnung.
+    example_translation: O hotel é mais caro do que o apartamento.
+  - front: alt → älter
+    back: velho → mais velho
+    example: Mein Bruder ist älter als ich.
+    example_translation: Meu irmão é mais velho do que eu.
+  - front: jung → jünger
+    back: jovem → mais jovem
+    example: Lisa ist jünger als Max.
+    example_translation: Lisa é mais jovem do que Max.

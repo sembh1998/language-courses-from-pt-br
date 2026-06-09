@@ -1,0 +1,65 @@
+topic: Preposições sempre com dativo
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Ich reise mit dem Schiff.
+      - Ich reise mit das Schiff.
+      - Ich reise mit den Schiff.
+    answer: Ich reise mit dem Schiff.
+  - type: multiple_choice
+    question: Qual opção completa corretamente? Tom ist ___ seinem Onkel.
+    options:
+      - bei seinen
+      - bei seinem
+      - bei sein
+    answer: bei seinem
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Der Markt ist gegenüber der Kino.
+      - Der Markt ist gegenüber das Kino.
+      - Der Markt ist gegenüber dem Kino.
+    answer: Der Markt ist gegenüber dem Kino.
+  - type: fill_blank
+    question: "Complete: Jana kommt ___ Österreich."
+    answer: aus
+  - type: fill_blank
+    question: "Complete: ___ dem Unterricht ruft Ben seine Mutter an."
+    answer: Nach
+  - type: fill_blank
+    question: "Complete: Ich wohne hier seit ___ Woche."
+    answer: einer
+  - type: transformation
+    question: "Transforme com contração: zu + der Bank"
+    answer: zur Bank
+  - type: transformation
+    question: "Transforme com contração: von + dem Büro"
+    answer: vom Büro
+  - type: translation
+    question: "Traduza: Nós vamos até o professor."
+    answer: Wir gehen zum Lehrer.
+  - type: translation
+    question: "Traduza: Ela está na casa da amiga dela."
+    answer: Sie ist bei ihrer Freundin.
+  - type: correction
+    question: "Corrija: Max fährt mit den Taxi."
+    answer: Max fährt mit dem Taxi.
+  - type: correction
+    question: "Corrija: Das Fahrrad ist von mein Vater."
+    answer: Das Fahrrad ist von meinem Vater.
+  - type: multiple_choice
+    question: Qual opção completa corretamente? Ich gehe morgen ___ Zahnarzt.
+    options:
+      - zum
+      - zur
+      - nach
+    answer: zum
+  - type: multiple_choice
+    question: Qual opção completa corretamente? Sie arbeitet seit ___ Jahren hier.
+    options:
+      - zwei
+      - zweien
+      - zweiem
+    answer: zwei

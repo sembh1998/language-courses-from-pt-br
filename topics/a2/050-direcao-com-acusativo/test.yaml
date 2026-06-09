@@ -1,0 +1,75 @@
+topic: Direção com acusativo
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual frase responde corretamente a Wohin geht Ben?
+    options:
+      - Ben geht in den Garten.
+      - Ben ist im Garten.
+      - Ben steht im Garten.
+    answer: Ben geht in den Garten.
+  - type: multiple_choice
+    question: Escolha a opção correta. Die Lehrerin legt die Kreide ___ Tisch.
+    options:
+      - auf dem
+      - auf den
+      - auf der
+    answer: auf den
+  - type: multiple_choice
+    question: Complete com direção. Max hängt die Uhr ___.
+    options:
+      - an der Wand
+      - an dem Wand
+      - an die Wand
+    answer: an die Wand
+  - type: multiple_choice
+    question: Qual opção usa acusativo depois de in?
+    options:
+      - in die Bibliothek
+      - in der Bibliothek
+      - in dem Bibliothek
+    answer: in die Bibliothek
+  - type: multiple_choice
+    question: Escolha a frase correta para colocar a mochila ao lado da cama.
+    options:
+      - Ich stelle den Rucksack neben dem Bett.
+      - Ich stelle den Rucksack neben das Bett.
+      - Ich stelle den Rucksack neben der Bett.
+    answer: Ich stelle den Rucksack neben das Bett.
+  - type: multiple_choice
+    question: Qual pergunta normalmente pede acusativo com Wechselpräpositionen?
+    options:
+      - Wo?
+      - Warum?
+      - Wohin?
+    answer: Wohin?
+  - type: fill_blank
+    question: Complete. Wir fahren morgen in ___ Stadt. (die Stadt)
+    answer: die
+  - type: fill_blank
+    question: Complete. Nina setzt sich an ___ Schreibtisch. (der Schreibtisch)
+    answer: den
+  - type: fill_blank
+    question: Complete. Der Junge läuft hinter ___ Haus. (das Haus)
+    answer: das
+  - type: fill_blank
+    question: Complete. Lege bitte die Zeitung unter ___ Tasche. (die Tasche)
+    answer: die
+  - type: transformation
+    question: Forme uma expressão com acusativo. der Balkon, auf
+    answer: auf den Balkon
+  - type: transformation
+    question: Forme uma expressão com acusativo. das Kino, in
+    answer: ins Kino
+  - type: translation
+    question: Traduza. Nós colocamos as cadeiras ao lado da mesa.
+    answer: Wir stellen die Stühle neben den Tisch.
+  - type: translation
+    question: Traduza. O gato pula sobre a cama.
+    answer: Die Katze springt auf das Bett.
+  - type: short_answer
+    question: Responda em alemão com uma frase curta. Wohin legst du dein Handy?
+    answer: Ich lege mein Handy auf den Tisch.
+  - type: short_answer
+    question: Responda em alemão com uma frase curta. Wohin gehst du am Montag?
+    answer: Ich gehe in die Schule.

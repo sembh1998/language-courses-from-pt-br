@@ -1,0 +1,87 @@
+topic: "Konjunktiv II: Desejos e hipóteses"
+level: B1
+words:
+  - german: "hätte"
+    translation: "teria"
+    type: verb_form
+    gender: null
+    plural: null
+    example: "Ich hätte gern mehr Zeit."
+    example_translation: "Eu gostaria de ter mais tempo."
+  - german: "wäre"
+    translation: "seria; estaria"
+    type: verb_form
+    gender: null
+    plural: null
+    example: "Ich wäre gern in Berlin."
+    example_translation: "Eu gostaria de estar em Berlim."
+  - german: "würde"
+    translation: "iria; faria; marca o condicional"
+    type: verb_form
+    gender: null
+    plural: null
+    example: "Ich würde gern mitkommen."
+    example_translation: "Eu gostaria de ir junto."
+  - german: "könnte"
+    translation: "poderia"
+    type: verb_form
+    gender: null
+    plural: null
+    example: "Ich könnte dir morgen helfen."
+    example_translation: "Eu poderia ajudar você amanhã."
+  - german: "müsste"
+    translation: "teria que; precisaria"
+    type: verb_form
+    gender: null
+    plural: null
+    example: "Ich müsste früher aufstehen."
+    example_translation: "Eu teria que acordar mais cedo."
+  - german: "wenn"
+    translation: "se; quando"
+    type: connector
+    gender: null
+    plural: null
+    example: "Wenn ich Zeit hätte, würde ich kommen."
+    example_translation: "Se eu tivesse tempo, eu viria."
+  - german: "gern"
+    translation: "com prazer; gostaria de"
+    type: adverb
+    gender: null
+    plural: null
+    example: "Ich würde gern einen Kaffee trinken."
+    example_translation: "Eu gostaria de tomar um café."
+  - german: "lieber"
+    translation: "preferencialmente; preferiria"
+    type: adverb
+    gender: null
+    plural: null
+    example: "Ich würde lieber zu Hause bleiben."
+    example_translation: "Eu preferiria ficar em casa."
+  - german: "mehr Zeit"
+    translation: "mais tempo"
+    type: phrase
+    gender: null
+    plural: null
+    example: "Wenn wir mehr Zeit hätten, würden wir langsamer lernen."
+    example_translation: "Se tivéssemos mais tempo, aprenderíamos mais devagar."
+  - german: "an deiner Stelle"
+    translation: "no seu lugar"
+    type: phrase
+    gender: null
+    plural: null
+    example: "An deiner Stelle würde ich den Kurs machen."
+    example_translation: "No seu lugar, eu faria o curso."
+  - german: "irreal"
+    translation: "irreal"
+    type: adjective
+    gender: null
+    plural: null
+    example: "Das ist eine irreale Situation."
+    example_translation: "Essa é uma situação irreal."
+  - german: "der Wunsch"
+    translation: "o desejo"
+    type: noun
+    gender: masculine
+    plural: "die Wünsche"
+    example: "Mein Wunsch wäre eine längere Reise."
+    example_translation: "Meu desejo seria uma viagem mais longa."

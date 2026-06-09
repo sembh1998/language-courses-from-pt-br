@@ -1,0 +1,51 @@
+topic: N-Deklination
+level: B1
+cards:
+  - front: der Student → den Studenten
+    back: o estudante; forma no acusativo
+    example: Ich treffe den Studenten nach dem Kurs.
+    example_translation: Eu encontro o estudante depois do curso.
+  - front: der Student → dem Studenten
+    back: o estudante; forma no dativo
+    example: Die Professorin hilft dem Studenten.
+    example_translation: A professora ajuda o estudante.
+  - front: der Mensch → den Menschen
+    back: a pessoa; forma no acusativo
+    example: Ich verstehe den Menschen gut.
+    example_translation: Eu entendo bem essa pessoa.
+  - front: der Mensch → dem Menschen
+    back: a pessoa; forma no dativo
+    example: Man sollte dem Menschen zuhören.
+    example_translation: Devemos ouvir essa pessoa.
+  - front: der Kollege → den Kollegen
+    back: o colega; forma no acusativo
+    example: Sarah ruft den Kollegen an.
+    example_translation: Sarah liga para o colega.
+  - front: der Kollege → dem Kollegen
+    back: o colega; forma no dativo
+    example: Ich gebe dem Kollegen die Datei.
+    example_translation: Eu dou o arquivo ao colega.
+  - front: der Junge → den Jungen
+    back: o menino; forma no acusativo
+    example: Die Mutter sucht den Jungen.
+    example_translation: A mãe procura o menino.
+  - front: der Junge → dem Jungen
+    back: o menino; forma no dativo
+    example: Der Trainer erklärt dem Jungen die Regel.
+    example_translation: O treinador explica a regra ao menino.
+  - front: der Patient → den Patienten
+    back: o paciente; forma no acusativo
+    example: Der Arzt untersucht den Patienten.
+    example_translation: O médico examina o paciente.
+  - front: der Kunde → dem Kunden
+    back: o cliente; forma no dativo
+    example: Die Firma schreibt dem Kunden eine E-Mail.
+    example_translation: A empresa escreve um e-mail ao cliente.
+  - front: der Herr → den Herrn
+    back: o senhor; forma no acusativo
+    example: Kennen Sie den Herrn am Fenster?
+    example_translation: Você conhece o senhor perto da janela?
+  - front: der Nachbar → dem Nachbarn
+    back: o vizinho; forma no dativo
+    example: Wir helfen dem Nachbarn beim Umzug.
+    example_translation: Nós ajudamos o vizinho na mudança.

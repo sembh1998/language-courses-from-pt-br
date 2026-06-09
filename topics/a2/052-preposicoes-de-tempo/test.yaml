@@ -1,0 +1,69 @@
+topic: Preposições de Tempo
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual expressão significa "daqui a cinco minutos"?
+    options:
+      - in fünf Minuten
+      - vor fünf Minuten
+      - seit fünf Minuten
+    answer: in fünf Minuten
+  - type: fill_blank
+    question: Der Termin ist ___ Mittwoch.
+    answer: am
+  - type: multiple_choice
+    question: Qual frase está correta para "no outono"?
+    options:
+      - am Herbst
+      - im Herbst
+      - um Herbst
+    answer: im Herbst
+  - type: fill_blank
+    question: Ich war ___ zwei Jahren in Wien.
+    answer: vor
+  - type: multiple_choice
+    question: Qual frase diz que algo continua desde maio?
+    options:
+      - Ich arbeite vor Mai hier.
+      - Ich arbeite in Mai hier.
+      - Ich arbeite seit Mai hier.
+    answer: Ich arbeite seit Mai hier.
+  - type: transform
+    question: "Escreva em alemão: A loja abre às dez horas."
+    answer: Der Laden öffnet um zehn Uhr.
+  - type: fill_blank
+    question: Der Kurs dauert von Montag ___ Donnerstag.
+    answer: bis
+  - type: multiple_choice
+    question: 'Qual opção completa corretamente: "___ nächster Woche habe ich Urlaub."?'
+    options:
+      - Ab
+      - Bis
+      - Um
+    answer: Ab
+  - type: fill_blank
+    question: Wir wohnen seit ___ Monat in Leipzig.
+    answer: einem
+  - type: multiple_choice
+    question: Qual opção expressa um horário exato?
+    options:
+      - im Morgen
+      - ab gestern
+      - um halb acht
+    answer: um halb acht
+  - type: transform
+    question: "Escreva em alemão: Nós estudamos de nove às onze horas."
+    answer: Wir lernen von neun bis elf Uhr.
+  - type: fill_blank
+    question: ___ Sommer fahren viele Familien ans Meer.
+    answer: Im
+  - type: multiple_choice
+    question: Qual frase significa "Eu espero até terça-feira"?
+    options:
+      - Ich warte bis Dienstag.
+      - Ich warte ab Dienstag.
+      - Ich warte seit Dienstag.
+    answer: Ich warte bis Dienstag.
+  - type: short_answer
+    question: Forme uma frase em alemão com seit e zwei Wochen.
+    answer: Ich lerne seit zwei Wochen Deutsch.

@@ -1,0 +1,87 @@
+topic: Declinação após artigo definido
+level: A2
+words:
+  - german: der gute Mann
+    translation: o bom homem
+    type: phrase
+    gender: masculine
+    plural: die guten Männer
+    example: Der gute Mann hilft dem Kind.
+    example_translation: O bom homem ajuda a criança.
+  - german: die gute Frau
+    translation: a boa mulher
+    type: phrase
+    gender: feminine
+    plural: die guten Frauen
+    example: Die gute Frau wohnt neben uns.
+    example_translation: A boa mulher mora ao nosso lado.
+  - german: das gute Kind
+    translation: a boa criança
+    type: phrase
+    gender: neuter
+    plural: die guten Kinder
+    example: Das gute Kind spielt leise.
+    example_translation: A boa criança brinca em silêncio.
+  - german: die guten Leute
+    translation: as boas pessoas
+    type: phrase
+    gender: null
+    plural: null
+    example: Die guten Leute warten vor dem Haus.
+    example_translation: As boas pessoas esperam em frente à casa.
+  - german: der neue Computer
+    translation: o computador novo
+    type: phrase
+    gender: masculine
+    plural: die neuen Computer
+    example: Der neue Computer steht im Büro.
+    example_translation: O computador novo está no escritório.
+  - german: die kleine Wohnung
+    translation: o apartamento pequeno
+    type: phrase
+    gender: feminine
+    plural: die kleinen Wohnungen
+    example: Die kleine Wohnung ist sehr hell.
+    example_translation: O apartamento pequeno é muito claro.
+  - german: das alte Auto
+    translation: o carro velho
+    type: phrase
+    gender: neuter
+    plural: die alten Autos
+    example: Das alte Auto fährt noch gut.
+    example_translation: O carro velho ainda anda bem.
+  - german: die netten Nachbarn
+    translation: os vizinhos simpáticos
+    type: phrase
+    gender: null
+    plural: null
+    example: Die netten Nachbarn grüßen jeden Morgen.
+    example_translation: Os vizinhos simpáticos cumprimentam todas as manhãs.
+  - german: der lange Tag
+    translation: o dia longo
+    type: phrase
+    gender: masculine
+    plural: die langen Tage
+    example: Der lange Tag endet um acht Uhr.
+    example_translation: O dia longo termina às oito horas.
+  - german: die warme Suppe
+    translation: a sopa quente
+    type: phrase
+    gender: feminine
+    plural: die warmen Suppen
+    example: Die warme Suppe schmeckt gut.
+    example_translation: A sopa quente está gostosa.
+  - german: das frische Brot
+    translation: o pão fresco
+    type: phrase
+    gender: neuter
+    plural: die frischen Brote
+    example: Das frische Brot liegt auf dem Tisch.
+    example_translation: O pão fresco está sobre a mesa.
+  - german: die schönen Bilder
+    translation: os quadros bonitos
+    type: phrase
+    gender: null
+    plural: null
+    example: Die schönen Bilder hängen im Flur.
+    example_translation: Os quadros bonitos estão pendurados no corredor.

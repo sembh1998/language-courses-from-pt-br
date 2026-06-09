@@ -1,0 +1,98 @@
+topic: Haben ou sein no Perfekt
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com haben ou sein na forma correta.
+    items:
+      - question: Ich ___ gestern nach Hause gegangen.
+        answer: bin
+      - question: Du ___ viel Deutsch gelernt.
+        answer: hast
+      - question: Maria ___ um sieben aufgestanden.
+        answer: ist
+      - question: Wir ___ einen Kaffee gekauft.
+        answer: haben
+      - question: Ihr ___ mit dem Bus gefahren.
+        answer: seid
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta.
+    items:
+      - question: Qual frase usa o auxiliar correto para movimento?
+        options:
+          - Ich bin nach Berlin gefahren.
+          - Ich habe nach Berlin gefahren.
+          - Ich hat nach Berlin gefahren.
+        answer: Ich bin nach Berlin gefahren.
+      - question: Qual frase usa o auxiliar correto para verbo transitivo?
+        options:
+          - Sie ist eine Tasche gekauft.
+          - Sie hat eine Tasche gekauft.
+          - Sie bin eine Tasche gekauft.
+        answer: Sie hat eine Tasche gekauft.
+      - question: Qual frase está correta com bleiben?
+        options:
+          - Wir haben im Hotel geblieben.
+          - Wir hat im Hotel geblieben.
+          - Wir sind im Hotel geblieben.
+        answer: Wir sind im Hotel geblieben.
+      - question: Qual frase está correta com sehen?
+        options:
+          - Ich habe den Lehrer gesehen.
+          - Ich bin den Lehrer gesehen.
+          - Ich seid den Lehrer gesehen.
+        answer: Ich habe den Lehrer gesehen.
+
+  - type: transformation
+    instruction: Transforme as frases do presente para o Perfekt.
+    items:
+      - question: Ich gehe zum Supermarkt.
+        answer: Ich bin zum Supermarkt gegangen.
+      - question: Er kauft eine Fahrkarte.
+        answer: Er hat eine Fahrkarte gekauft.
+      - question: Wir kommen spät.
+        answer: Wir sind spät gekommen.
+      - question: Lea liest eine E-Mail.
+        answer: Lea hat eine E-Mail gelesen.
+      - question: Die Kinder schlafen schnell ein.
+        answer: Die Kinder sind schnell eingeschlafen.
+
+  - type: sorting
+    instruction: "Classifique cada verbo pelo auxiliar mais comum no Perfekt: haben ou sein."
+    items:
+      - question: gehen
+        answer: sein
+      - question: lernen
+        answer: haben
+      - question: kommen
+        answer: sein
+      - question: machen
+        answer: haben
+      - question: aufstehen
+        answer: sein
+      - question: sehen
+        answer: haben
+
+  - type: error_correction
+    instruction: Corrija o auxiliar errado na frase.
+    items:
+      - question: Ich habe gestern nach Wien gefahren.
+        answer: Ich bin gestern nach Wien gefahren.
+      - question: Sie ist ein Buch gelesen.
+        answer: Sie hat ein Buch gelesen.
+      - question: Wir haben früh aufgestanden.
+        answer: Wir sind früh aufgestanden.
+      - question: Paul ist die Hausaufgabe gemacht.
+        answer: Paul hat die Hausaufgabe gemacht.
+
+  - type: short_answer
+    instruction: Responda em alemão com uma frase curta no Perfekt.
+    items:
+      - question: Wohin bist du gestern gegangen? Use nach Hause.
+        answer: Ich bin gestern nach Hause gegangen.
+      - question: Was hast du am Wochenende gelernt? Use Deutsch.
+        answer: Ich habe am Wochenende Deutsch gelernt.
+      - question: Wann bist du heute aufgestanden? Use um sieben Uhr.
+        answer: Ich bin heute um sieben Uhr aufgestanden.
+      - question: Was hast du im Supermarkt gekauft? Use Brot.
+        answer: Ich habe im Supermarkt Brot gekauft.

@@ -1,0 +1,101 @@
+topic: "Wechselpräpositionen: Localização com dativo"
+level: A2
+words:
+  - german: in der Schule
+    translation: na escola
+    type: phrase
+    gender: null
+    plural: null
+    example: Anna ist in der Schule.
+    example_translation: Anna está na escola.
+  - german: auf dem Tisch
+    translation: sobre a mesa
+    type: phrase
+    gender: null
+    plural: null
+    example: Das Buch liegt auf dem Tisch.
+    example_translation: O livro está sobre a mesa.
+  - german: an der Wand
+    translation: na parede
+    type: phrase
+    gender: null
+    plural: null
+    example: Das Bild hängt an der Wand.
+    example_translation: O quadro está na parede.
+  - german: neben dem Bett
+    translation: ao lado da cama
+    type: phrase
+    gender: null
+    plural: null
+    example: Die Lampe steht neben dem Bett.
+    example_translation: A luminária está ao lado da cama.
+  - german: unter dem Stuhl
+    translation: embaixo da cadeira
+    type: phrase
+    gender: null
+    plural: null
+    example: Die Tasche ist unter dem Stuhl.
+    example_translation: A bolsa está embaixo da cadeira.
+  - german: vor der Tür
+    translation: em frente à porta
+    type: phrase
+    gender: null
+    plural: null
+    example: Max wartet vor der Tür.
+    example_translation: Max espera em frente à porta.
+  - german: hinter dem Haus
+    translation: atrás da casa
+    type: phrase
+    gender: null
+    plural: null
+    example: Das Fahrrad steht hinter dem Haus.
+    example_translation: A bicicleta está atrás da casa.
+  - german: zwischen den Stühlen
+    translation: entre as cadeiras
+    type: phrase
+    gender: null
+    plural: null
+    example: Der Rucksack steht zwischen den Stühlen.
+    example_translation: A mochila está entre as cadeiras.
+  - german: im Zimmer
+    translation: no quarto
+    type: phrase
+    gender: null
+    plural: null
+    example: Der Schreibtisch steht im Zimmer.
+    example_translation: A escrivaninha está no quarto.
+  - german: am Fenster
+    translation: junto à janela
+    type: phrase
+    gender: null
+    plural: null
+    example: Der Tisch steht am Fenster.
+    example_translation: A mesa está junto à janela.
+  - german: liegen
+    translation: estar deitado; estar colocado
+    type: verb
+    gender: null
+    plural: null
+    example: Das Handy liegt auf dem Sofa.
+    example_translation: O celular está no sofá.
+  - german: stehen
+    translation: estar em pé; estar posicionado
+    type: verb
+    gender: null
+    plural: null
+    example: Die Flasche steht auf dem Tisch.
+    example_translation: A garrafa está sobre a mesa.
+  - german: hängen
+    translation: estar pendurado
+    type: verb
+    gender: null
+    plural: null
+    example: Die Uhr hängt an der Wand.
+    example_translation: O relógio está na parede.
+  - german: wo?
+    translation: onde?
+    type: question
+    gender: null
+    plural: null
+    example: Wo ist mein Schlüssel?
+    example_translation: Onde está minha chave?

@@ -1,0 +1,108 @@
+topic: Verbos com Dativo
+level: A2
+words:
+  - german: helfen
+    translation: ajudar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich helfe meinem Nachbarn.
+    example_translation: Eu ajudo meu vizinho.
+  - german: danken
+    translation: agradecer
+    type: verb
+    gender: null
+    plural: null
+    example: Wir danken der Ärztin.
+    example_translation: Nós agradecemos à médica.
+  - german: gefallen
+    translation: agradar, ser do agrado de alguém
+    type: verb
+    gender: null
+    plural: null
+    example: Der Pullover gefällt mir.
+    example_translation: Eu gosto do suéter.
+  - german: gehören
+    translation: pertencer
+    type: verb
+    gender: null
+    plural: null
+    example: Das Handy gehört meinem Bruder.
+    example_translation: O celular pertence ao meu irmão.
+  - german: passen
+    translation: servir, caber, cair bem
+    type: verb
+    gender: null
+    plural: null
+    example: Die Hose passt dir gut.
+    example_translation: A calça serve bem em você.
+  - german: fehlen
+    translation: faltar, fazer falta
+    type: verb
+    gender: null
+    plural: null
+    example: Meine Schlüssel fehlen mir.
+    example_translation: Minhas chaves estão faltando para mim.
+  - german: antworten
+    translation: responder
+    type: verb
+    gender: null
+    plural: null
+    example: Er antwortet dem Kunden schnell.
+    example_translation: Ele responde rapidamente ao cliente.
+  - german: wem
+    translation: a quem, para quem
+    type: question_word
+    gender: null
+    plural: null
+    example: Wem hilfst du?
+    example_translation: Você ajuda quem?
+  - german: dem Lehrer
+    translation: ao professor
+    type: dative_phrase
+    gender: masculine
+    plural: die Lehrer
+    example: Ich danke dem Lehrer.
+    example_translation: Eu agradeço ao professor.
+  - german: der Freundin
+    translation: à amiga
+    type: dative_phrase
+    gender: feminine
+    plural: die Freundinnen
+    example: Das Kleid gefällt der Freundin.
+    example_translation: A amiga gosta do vestido.
+  - german: dem Kind
+    translation: à criança, para a criança
+    type: dative_phrase
+    gender: neuter
+    plural: die Kinder
+    example: Wir helfen dem Kind.
+    example_translation: Nós ajudamos a criança.
+  - german: den Eltern
+    translation: aos pais
+    type: dative_phrase
+    gender: plural
+    plural: die Eltern
+    example: Sie antwortet den Eltern.
+    example_translation: Ela responde aos pais.
+  - german: mir
+    translation: a mim, para mim, me
+    type: pronoun
+    gender: null
+    plural: null
+    example: Kaffee gefällt mir nicht.
+    example_translation: Eu não gosto de café.
+  - german: dir
+    translation: a você, para você, te
+    type: pronoun
+    gender: null
+    plural: null
+    example: Fehlt dir etwas?
+    example_translation: Está faltando algo para você?
+  - german: Ihnen
+    translation: ao senhor, à senhora, a vocês formal
+    type: pronoun
+    gender: null
+    plural: null
+    example: Kann ich Ihnen helfen?
+    example_translation: Posso ajudar o senhor ou a senhora?

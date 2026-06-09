@@ -1,0 +1,51 @@
+topic: "Dativo: função básica"
+level: A2
+cards:
+  - front: dem Mann
+    back: ao homem; para o homem
+    example: Ich gebe dem Mann den Kaffee.
+    example_translation: Eu dou o café ao homem.
+  - front: der Frau
+    back: à mulher; para a mulher
+    example: Er erklärt der Frau den Weg.
+    example_translation: Ele explica o caminho à mulher.
+  - front: dem Kind
+    back: à criança; para a criança
+    example: Sie schenkt dem Kind ein Spielzeug.
+    example_translation: Ela dá um brinquedo de presente para a criança.
+  - front: den Kindern
+    back: às crianças; para as crianças
+    example: Wir zeigen den Kindern den Garten.
+    example_translation: Nós mostramos o jardim às crianças.
+  - front: mir
+    back: para mim; me
+    example: Kannst du mir helfen?
+    example_translation: Você pode me ajudar?
+  - front: dir
+    back: para você; te
+    example: Ich schreibe dir morgen.
+    example_translation: Eu escrevo para você amanhã.
+  - front: ihm
+    back: para ele; lhe
+    example: Maria gibt ihm die Adresse.
+    example_translation: Maria dá o endereço para ele.
+  - front: ihr
+    back: para ela; lhe
+    example: Tom bringt ihr Tee.
+    example_translation: Tom traz chá para ela.
+  - front: uns
+    back: para nós; nos
+    example: Der Lehrer erklärt uns die Regel.
+    example_translation: O professor nos explica a regra.
+  - front: euch
+    back: para vocês; a vocês
+    example: Ich zeige euch mein Zimmer.
+    example_translation: Eu mostro meu quarto para vocês.
+  - front: ihnen
+    back: para eles; para elas; lhes
+    example: Wir helfen ihnen am Wochenende.
+    example_translation: Nós os ajudamos no fim de semana.
+  - front: Ihnen
+    back: para o senhor; para a senhora; lhe formal
+    example: Kann ich Ihnen helfen?
+    example_translation: Posso ajudar o senhor ou a senhora?

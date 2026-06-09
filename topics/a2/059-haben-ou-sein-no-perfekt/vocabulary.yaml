@@ -1,0 +1,87 @@
+topic: Haben ou sein no Perfekt
+level: A2
+words:
+  - german: gehen
+    translation: ir a pé
+    type: verb
+    gender: null
+    plural: null
+    example: Ich bin nach Hause gegangen.
+    example_translation: Eu fui para casa.
+  - german: fahren
+    translation: ir de veículo; dirigir
+    type: verb
+    gender: null
+    plural: null
+    example: Wir sind mit dem Bus gefahren.
+    example_translation: Nós fomos de ônibus.
+  - german: kommen
+    translation: vir
+    type: verb
+    gender: null
+    plural: null
+    example: Sie ist spät gekommen.
+    example_translation: Ela veio tarde.
+  - german: bleiben
+    translation: ficar; permanecer
+    type: verb
+    gender: null
+    plural: null
+    example: Ich bin zu Hause geblieben.
+    example_translation: Eu fiquei em casa.
+  - german: aufstehen
+    translation: levantar-se
+    type: verb
+    gender: null
+    plural: null
+    example: Er ist früh aufgestanden.
+    example_translation: Ele se levantou cedo.
+  - german: einschlafen
+    translation: adormecer
+    type: verb
+    gender: null
+    plural: null
+    example: Das Kind ist schnell eingeschlafen.
+    example_translation: A criança adormeceu rapidamente.
+  - german: lernen
+    translation: estudar; aprender
+    type: verb
+    gender: null
+    plural: null
+    example: Ich habe viel gelernt.
+    example_translation: Eu estudei muito.
+  - german: kaufen
+    translation: comprar
+    type: verb
+    gender: null
+    plural: null
+    example: Du hast Brot gekauft.
+    example_translation: Você comprou pão.
+  - german: sehen
+    translation: ver
+    type: verb
+    gender: null
+    plural: null
+    example: Wir haben den Film gesehen.
+    example_translation: Nós vimos o filme.
+  - german: lesen
+    translation: ler
+    type: verb
+    gender: null
+    plural: null
+    example: Sie hat die Nachricht gelesen.
+    example_translation: Ela leu a mensagem.
+  - german: nach Hause
+    translation: para casa
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich bin um sechs nach Hause gegangen.
+    example_translation: Eu fui para casa às seis.
+  - german: zu Hause
+    translation: em casa
+    type: phrase
+    gender: null
+    plural: null
+    example: Am Sonntag sind wir zu Hause geblieben.
+    example_translation: No domingo nós ficamos em casa.

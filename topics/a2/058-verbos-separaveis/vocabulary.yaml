@@ -1,0 +1,115 @@
+topic: Verbos Separáveis
+level: A2
+words:
+  - german: aufstehen
+    translation: levantar-se
+    type: verb
+    gender: null
+    plural: null
+    example: Ich stehe um sieben Uhr auf.
+    example_translation: Eu me levanto às sete horas.
+  - german: aufgestanden
+    translation: levantado; particípio de aufstehen
+    type: participle
+    gender: null
+    plural: null
+    example: Ich bin früh aufgestanden.
+    example_translation: Eu me levantei cedo.
+  - german: einkaufen
+    translation: fazer compras
+    type: verb
+    gender: null
+    plural: null
+    example: Wir kaufen nach der Arbeit ein.
+    example_translation: Nós fazemos compras depois do trabalho.
+  - german: eingekauft
+    translation: comprado; feito compras
+    type: participle
+    gender: null
+    plural: null
+    example: Wir haben gestern eingekauft.
+    example_translation: Nós fizemos compras ontem.
+  - german: anrufen
+    translation: telefonar para alguém
+    type: verb
+    gender: null
+    plural: null
+    example: Rufst du mich heute an?
+    example_translation: Você me telefona hoje?
+  - german: angerufen
+    translation: telefonado; chamado por telefone
+    type: participle
+    gender: null
+    plural: null
+    example: Ich habe meinen Bruder angerufen.
+    example_translation: Eu telefonei para meu irmão.
+  - german: aufräumen
+    translation: arrumar; organizar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Kinder räumen ihr Zimmer auf.
+    example_translation: As crianças arrumam o quarto delas.
+  - german: aufgeräumt
+    translation: arrumado; organizado
+    type: participle
+    gender: null
+    plural: null
+    example: Sie hat die Küche aufgeräumt.
+    example_translation: Ela arrumou a cozinha.
+  - german: zumachen
+    translation: fechar
+    type: verb
+    gender: null
+    plural: null
+    example: Mach bitte das Fenster zu.
+    example_translation: Por favor, feche a janela.
+  - german: zugemacht
+    translation: fechado
+    type: participle
+    gender: null
+    plural: null
+    example: Ich habe die Tür zugemacht.
+    example_translation: Eu fechei a porta.
+  - german: mitkommen
+    translation: vir junto; acompanhar
+    type: verb
+    gender: null
+    plural: null
+    example: Kommst du ins Kino mit?
+    example_translation: Você vem junto ao cinema?
+  - german: mitgekommen
+    translation: vindo junto; acompanhado
+    type: participle
+    gender: null
+    plural: null
+    example: Paul ist gestern mitgekommen.
+    example_translation: Paul veio junto ontem.
+  - german: einschlafen
+    translation: adormecer
+    type: verb
+    gender: null
+    plural: null
+    example: Das Baby schläft schnell ein.
+    example_translation: O bebê adormece rapidamente.
+  - german: eingeschlafen
+    translation: adormecido
+    type: participle
+    gender: null
+    plural: null
+    example: Ich bin auf dem Sofa eingeschlafen.
+    example_translation: Eu adormeci no sofá.
+  - german: weil
+    translation: porque
+    type: conjunction
+    gender: null
+    plural: null
+    example: Ich bin müde, weil ich früh aufgestanden bin.
+    example_translation: Estou cansado porque me levantei cedo.
+  - german: dass
+    translation: que
+    type: conjunction
+    gender: null
+    plural: null
+    example: Ich weiß, dass du eingekauft hast.
+    example_translation: Eu sei que você fez compras.

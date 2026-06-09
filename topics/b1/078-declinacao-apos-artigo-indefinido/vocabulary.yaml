@@ -1,0 +1,87 @@
+topic: Declinação após artigo indefinido
+level: B1
+words:
+  - german: ein guter Mann
+    translation: um bom homem
+    type: phrase
+    gender: masculine
+    plural: gute Männer
+    example: Ein guter Mann hört aufmerksam zu.
+    example_translation: Um bom homem escuta com atenção.
+  - german: eine gute Frau
+    translation: uma boa mulher
+    type: phrase
+    gender: feminine
+    plural: gute Frauen
+    example: Eine gute Frau leitet das Team.
+    example_translation: Uma boa mulher lidera a equipe.
+  - german: ein gutes Kind
+    translation: uma boa criança
+    type: phrase
+    gender: neuter
+    plural: gute Kinder
+    example: Ein gutes Kind stellt viele Fragen.
+    example_translation: Uma boa criança faz muitas perguntas.
+  - german: einen guten Freund
+    translation: um bom amigo
+    type: phrase
+    gender: masculine
+    plural: gute Freunde
+    example: Ich besuche heute einen guten Freund.
+    example_translation: Eu visito hoje um bom amigo.
+  - german: eine neue Wohnung
+    translation: um apartamento novo
+    type: phrase
+    gender: feminine
+    plural: neue Wohnungen
+    example: Sie sucht eine neue Wohnung in Köln.
+    example_translation: Ela procura um apartamento novo em Colônia.
+  - german: ein kleines Problem
+    translation: um pequeno problema
+    type: phrase
+    gender: neuter
+    plural: kleine Probleme
+    example: Wir haben nur ein kleines Problem.
+    example_translation: Nós temos apenas um pequeno problema.
+  - german: mit einem netten Kollegen
+    translation: com um colega simpático
+    type: phrase
+    gender: masculine
+    plural: mit netten Kollegen
+    example: Ich arbeite mit einem netten Kollegen.
+    example_translation: Eu trabalho com um colega simpático.
+  - german: mit einer alten Freundin
+    translation: com uma velha amiga
+    type: phrase
+    gender: feminine
+    plural: mit alten Freundinnen
+    example: Er telefoniert mit einer alten Freundin.
+    example_translation: Ele fala ao telefone com uma velha amiga.
+  - german: gute Ideen
+    translation: boas ideias
+    type: phrase
+    gender: null
+    plural: null
+    example: Gute Ideen brauchen manchmal Zeit.
+    example_translation: Boas ideias às vezes precisam de tempo.
+  - german: mit guten Ideen
+    translation: com boas ideias
+    type: phrase
+    gender: null
+    plural: null
+    example: Mit guten Ideen lösen wir das Problem.
+    example_translation: Com boas ideias, resolvemos o problema.
+  - german: junge Leute
+    translation: jovens pessoas
+    type: phrase
+    gender: null
+    plural: null
+    example: Junge Leute benutzen oft diese App.
+    example_translation: Jovens usam frequentemente este aplicativo.
+  - german: wegen schlechten Wetters
+    translation: por causa do mau tempo
+    type: phrase
+    gender: neuter
+    plural: null
+    example: Wegen schlechten Wetters fährt der Zug langsamer.
+    example_translation: Por causa do mau tempo, o trem anda mais devagar.

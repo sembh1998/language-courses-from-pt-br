@@ -1,0 +1,35 @@
+topic: Particípio II irregular
+level: A2
+cards:
+  - front: gesehen
+    back: visto; particípio de sehen
+    example: Ich habe einen Hund gesehen.
+    example_translation: Eu vi um cachorro.
+  - front: geschrieben
+    back: escrito; particípio de schreiben
+    example: Sie hat eine Karte geschrieben.
+    example_translation: Ela escreveu um cartão.
+  - front: gegessen
+    back: comido; particípio de essen
+    example: Wir haben Nudeln gegessen.
+    example_translation: Nós comemos macarrão.
+  - front: getrunken
+    back: bebido; tomado; particípio de trinken
+    example: Er hat Saft getrunken.
+    example_translation: Ele tomou suco.
+  - front: gefahren
+    back: ido de veículo; viajado; particípio de fahren
+    example: Ich bin nach Hause gefahren.
+    example_translation: Eu fui para casa.
+  - front: ich habe gesehen
+    back: eu vi
+    example: Ich habe das Foto gesehen.
+    example_translation: Eu vi a foto.
+  - front: wir haben gegessen
+    back: nós comemos
+    example: Wir haben im Restaurant gegessen.
+    example_translation: Nós comemos no restaurante.
+  - front: sie ist gefahren
+    back: ela foi de veículo; ela viajou
+    example: Sie ist mit dem Auto gefahren.
+    example_translation: Ela foi de carro.

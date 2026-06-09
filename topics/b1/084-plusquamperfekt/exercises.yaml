@@ -1,0 +1,124 @@
+topic: Plusquamperfekt
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: "Complete com hatte, hattest, hatten, hattet, war, warst, waren ou wart."
+    items:
+      - question: "Ich ___ die E-Mail schon geschrieben."
+        answer: "hatte"
+      - question: "Lena ___ nach Hause gegangen."
+        answer: "war"
+      - question: "Wir ___ die Tickets vorher gekauft."
+        answer: "hatten"
+      - question: "Du ___ zu spät angekommen."
+        answer: "warst"
+      - question: "Ihr ___ den Termin vergessen."
+        answer: "hattet"
+      - question: "Die Gäste ___ schon im Hotel angekommen."
+        answer: "waren"
+
+  - type: multiple_choice
+    instruction: "Escolha a frase correta no Plusquamperfekt."
+    items:
+      - question: "Qual frase significa 'Eu tinha feito a compra'?"
+        options:
+          - "Ich hatte den Einkauf gemacht."
+          - "Ich war den Einkauf gemacht."
+          - "Ich habe den Einkauf machte."
+        answer: "Ich hatte den Einkauf gemacht."
+      - question: "Qual frase usa corretamente um verbo de movimento?"
+        options:
+          - "Er hatte zum Bahnhof gegangen."
+          - "Er war zum Bahnhof gegangen."
+          - "Er war zum Bahnhof gehen."
+        answer: "Er war zum Bahnhof gegangen."
+      - question: "Qual frase está correta com nachdem?"
+        options:
+          - "Nachdem sie hatte gegessen, ging sie spazieren."
+          - "Nachdem sie gegessen hat, ging sie spazieren."
+          - "Nachdem sie gegessen hatte, ging sie spazieren."
+        answer: "Nachdem sie gegessen hatte, ging sie spazieren."
+      - question: "Qual frase mostra claramente que a reserva aconteceu antes da chegada?"
+        options:
+          - "Wir hatten das Zimmer reserviert, bevor wir ankamen."
+          - "Wir waren das Zimmer reserviert, bevor wir ankamen."
+          - "Wir reservierten das Zimmer, bevor wir hatten angekommen."
+        answer: "Wir hatten das Zimmer reserviert, bevor wir ankamen."
+      - question: "Qual frase usa corretamente schon?"
+        options:
+          - "Der Kurs war schon begonnen hatte."
+          - "Der Kurs hatte schon begonnen."
+          - "Der Kurs hatte schon beginnen."
+        answer: "Der Kurs hatte schon begonnen."
+      - question: "Qual frase está correta com sein?"
+        options:
+          - "Sie hatte müde geworden."
+          - "Sie war müde werden."
+          - "Sie war müde geworden."
+        answer: "Sie war müde geworden."
+
+  - type: transformation
+    instruction: "Una as duas frases usando nachdem e coloque a primeira ação no Plusquamperfekt."
+    items:
+      - question: "Ich esse zu Mittag. Danach fahre ich zur Arbeit."
+        answer: "Nachdem ich zu Mittag gegessen hatte, fuhr ich zur Arbeit."
+      - question: "Paul kommt im Büro an. Danach beginnt die Besprechung."
+        answer: "Nachdem Paul im Büro angekommen war, begann die Besprechung."
+      - question: "Wir buchen den Flug. Danach suchen wir ein Hotel."
+        answer: "Nachdem wir den Flug gebucht hatten, suchten wir ein Hotel."
+      - question: "Anna zieht nach Hamburg. Danach findet sie eine neue Stelle."
+        answer: "Nachdem Anna nach Hamburg gezogen war, fand sie eine neue Stelle."
+      - question: "Die Kinder schlafen ein. Danach räumen die Eltern die Küche auf."
+        answer: "Nachdem die Kinder eingeschlafen waren, räumten die Eltern die Küche auf."
+
+  - type: correction
+    instruction: "Corrija o erro na frase em alemão."
+    items:
+      - question: "Ich war die Rechnung bezahlt."
+        answer: "Ich hatte die Rechnung bezahlt."
+      - question: "Nachdem wir hatten gelernt, sahen wir einen Film."
+        answer: "Nachdem wir gelernt hatten, sahen wir einen Film."
+      - question: "Sie hatte nach Berlin gefahren."
+        answer: "Sie war nach Berlin gefahren."
+      - question: "Der Zug hatte schon abgefahren."
+        answer: "Der Zug war schon abgefahren."
+      - question: "Du warst das Passwort vergessen."
+        answer: "Du hattest das Passwort vergessen."
+
+  - type: translation
+    instruction: "Traduza para o alemão usando Plusquamperfekt quando necessário."
+    items:
+      - question: "Eu já tinha lido o relatório."
+        answer: "Ich hatte den Bericht schon gelesen."
+      - question: "Ela tinha chegado antes das oito."
+        answer: "Sie war vor acht Uhr angekommen."
+      - question: "Depois que nós tínhamos comido, fomos ao cinema."
+        answer: "Nachdem wir gegessen hatten, gingen wir ins Kino."
+      - question: "O ônibus já tinha partido quando cheguei."
+        answer: "Der Bus war schon abgefahren, als ich ankam."
+      - question: "Vocês tinham esquecido a chave?"
+        answer: "Hattet ihr den Schlüssel vergessen?"
+
+  - type: ordering
+    instruction: "Indique qual ação aconteceu primeiro, de acordo com a frase."
+    items:
+      - question: "Nachdem Max den Vertrag unterschrieben hatte, schickte er ihn per E-Mail."
+        answer: "Max unterschrieb den Vertrag primeiro."
+      - question: "Als wir am Bahnhof ankamen, war der Zug schon abgefahren."
+        answer: "Der Zug fuhr primeiro ab."
+      - question: "Ich konnte nicht bezahlen, weil ich mein Portemonnaie vergessen hatte."
+        answer: "Ich vergaß mein Portemonnaie primeiro."
+      - question: "Nachdem die Kollegin gegangen war, begann das Team ohne sie."
+        answer: "Die Kollegin ging primeiro."
+
+  - type: short_answer
+    instruction: "Responda em alemão com uma frase curta usando Plusquamperfekt."
+    items:
+      - question: "Warum konntest du die Tür nicht öffnen? Use: den Schlüssel verlieren."
+        answer: "Ich hatte den Schlüssel verloren."
+      - question: "Warum kam Nina nicht mit? Use: schon nach Hause gehen."
+        answer: "Sie war schon nach Hause gegangen."
+      - question: "Warum wart ihr nicht hungrig? Use: schon essen."
+        answer: "Wir hatten schon gegessen."
+      - question: "Warum war Tim so müde? Use: schlecht schlafen."
+        answer: "Er hatte schlecht geschlafen."

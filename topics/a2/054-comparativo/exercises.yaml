@@ -1,0 +1,92 @@
+topic: Comparativo
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com a forma comparativa correta do adjetivo entre parênteses.
+    items:
+      - question: "Mein Handy ist ___ als dein Handy. (klein)"
+        answer: kleiner
+      - question: "Diese Straße ist ___ als die andere Straße. (lang)"
+        answer: länger
+      - question: "Der Zug ist ___ als der Bus. (schnell)"
+        answer: schneller
+      - question: "Das Brot ist ___ als der Kuchen. (billig)"
+        answer: billiger
+      - question: "Heute ist es ___ als gestern. (warm)"
+        answer: wärmer
+
+  - type: multiple_choice
+    instruction: Escolha a opção correta para completar a comparação.
+    items:
+      - question: "Deutsch ist für mich ___ als Englisch."
+        options:
+          - schwerer
+          - schwer
+          - mehr schwer
+        answer: schwerer
+      - question: "Diese Pizza ist ___ als der Salat."
+        options:
+          - gut
+          - besser
+          - mehr gut
+        answer: besser
+      - question: "Ich habe ___ Bücher als du."
+        options:
+          - viele
+          - vieler
+          - mehr
+        answer: mehr
+      - question: "Der Supermarkt ist ___ als die Bäckerei."
+        options:
+          - groß
+          - mehr groß
+          - größer
+        answer: größer
+
+  - type: fill_blank
+    instruction: Complete as frases com als.
+    items:
+      - question: "Mein Kaffee ist heißer ___ dein Tee."
+        answer: als
+      - question: "Laura ist älter ___ Jonas."
+        answer: als
+      - question: "Das Museum ist interessanter ___ der Park."
+        answer: als
+      - question: "Wir haben mehr Aufgaben ___ letzte Woche."
+        answer: als
+
+  - type: translation
+    instruction: Traduza para o alemão usando comparativo e als.
+    items:
+      - question: "Meu quarto é menor do que a cozinha."
+        answer: Mein Zimmer ist kleiner als die Küche.
+      - question: "Este filme é melhor do que a série."
+        answer: Dieser Film ist besser als die Serie.
+      - question: "Eu tenho mais tempo do que Maria."
+        answer: Ich habe mehr Zeit als Maria.
+      - question: "O trem é mais caro do que o ônibus."
+        answer: Der Zug ist teurer als der Bus.
+
+  - type: sentence_transformation
+    instruction: Reescreva a ideia como uma comparação simples em alemão.
+    items:
+      - question: "Das Auto ist schnell. Das Fahrrad ist nicht so schnell."
+        answer: Das Auto ist schneller als das Fahrrad.
+      - question: "Anna hat viel Kaffee. Tom hat nicht so viel Kaffee."
+        answer: Anna hat mehr Kaffee als Tom.
+      - question: "Der neue Test ist gut. Der alte Test ist nicht so gut."
+        answer: Der neue Test ist besser als der alte Test.
+      - question: "Die Tasche ist klein. Der Koffer ist nicht so klein."
+        answer: Die Tasche ist kleiner als der Koffer.
+
+  - type: correction
+    instruction: Corrija a comparação em alemão.
+    items:
+      - question: "Mein Buch ist mehr klein als dein Buch."
+        answer: Mein Buch ist kleiner als dein Buch.
+      - question: "Der Kaffee ist guter als der Tee."
+        answer: Der Kaffee ist besser als der Tee.
+      - question: "Ich brauche viel mehr als Wasser."
+        answer: Ich brauche mehr Wasser als du.
+      - question: "Hamburg ist größer wie Bremen."
+        answer: Hamburg ist größer als Bremen.

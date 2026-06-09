@@ -1,0 +1,69 @@
+topic: Pronomes Possessivos
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Ich besuche meinen Onkel.
+      - Ich besuche mein Onkel.
+      - Ich besuche meine Onkel.
+    answer: Ich besuche meinen Onkel.
+  - type: fill_blank
+    question: "Complete: ___ Freundin wohnt in Leipzig. (você, informal)"
+    answer: Deine
+  - type: multiple_choice
+    question: "Complete: Tom sucht ___ Rucksack."
+    options:
+      - seine
+      - seinen
+      - sein
+    answer: seinen
+  - type: fill_blank
+    question: "Complete: Ich kenne ___ Eltern. (nós)"
+    answer: unsere
+  - type: multiple_choice
+    question: Qual opção usa corretamente o nominativo?
+    options:
+      - Euren Bruder spielt Tennis.
+      - Eure Bruder spielt Tennis.
+      - Euer Bruder spielt Tennis.
+    answer: Euer Bruder spielt Tennis.
+  - type: translation
+    question: "Traduza: Eu encontro minha professora."
+    answer: Ich treffe meine Lehrerin.
+  - type: fill_blank
+    question: "Complete: Lisa liebt ___ Katze. (ela)"
+    answer: ihre
+  - type: multiple_choice
+    question: "Complete: ___ Computer ist neu. (ele)"
+    options:
+      - Sein
+      - Seinen
+      - Seine
+    answer: Sein
+  - type: transformation
+    question: "Transforme para acusativo: unser Sohn"
+    answer: unseren Sohn
+  - type: multiple_choice
+    question: "Complete: Wir hören ___ Musik. (vocês, informal plural)"
+    options:
+      - euer
+      - eure
+      - euren
+    answer: eure
+  - type: error_correction
+    question: "Corrija: Ich mag dein Bruder."
+    answer: Ich mag deinen Bruder.
+  - type: fill_blank
+    question: "Complete: ___ Großeltern wohnen in Bremen. (ela)"
+    answer: Ihre
+  - type: multiple_choice
+    question: Qual frase está correta no acusativo masculino?
+    options:
+      - Paula fotografiert ihr Hund.
+      - Paula fotografiert ihre Hund.
+      - Paula fotografiert ihren Hund.
+    answer: Paula fotografiert ihren Hund.
+  - type: translation
+    question: "Traduza: O carro de vocês é rápido."
+    answer: Euer Auto ist schnell.

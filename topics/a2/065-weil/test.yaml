@@ -1,0 +1,65 @@
+topic: Weil
+level: A2
+questions:
+  - type: multiple_choice
+    question: Identifique a opção com o verbo no final depois de weil.
+    options:
+      - Ich gehe zum Arzt, weil ich krank bin.
+      - Ich gehe zum Arzt, weil ich bin krank.
+      - Ich gehe zum Arzt, weil krank ich bin.
+    answer: Ich gehe zum Arzt, weil ich krank bin.
+  - type: fill_blank
+    question: Nina kauft Milch, ___ sie Milch braucht.
+    answer: weil
+  - type: multiple_choice
+    question: Qual opção tem a ordem correta depois de weil?
+    options:
+      - Ben bleibt im Büro, weil hat er Arbeit.
+      - Ben bleibt im Büro, weil er Arbeit hat.
+      - Ben bleibt im Büro, weil er hat Arbeit.
+    answer: Ben bleibt im Büro, weil er Arbeit hat.
+  - type: transformation
+    question: "Una com weil: Ich nehme einen Regenschirm. Es regnet stark."
+    answer: Ich nehme einen Regenschirm, weil es stark regnet.
+  - type: multiple_choice
+    question: Em uma frase com modal, qual opção segue a regra de weil?
+    options:
+      - Lea ist nervös, weil sie ein Referat halten muss.
+      - Lea ist nervös, weil sie muss ein Referat halten.
+      - Lea ist nervös, weil muss sie ein Referat halten.
+    answer: Lea ist nervös, weil sie ein Referat halten muss.
+  - type: error_correction
+    question: "Corrija a frase: Wir essen früh, weil wir haben Hunger."
+    answer: Wir essen früh, weil wir Hunger haben.
+  - type: fill_blank
+    question: Karl bleibt zu Hause, weil sein Sohn krank ___ .
+    answer: ist
+  - type: transformation
+    question: "Una com weil: Sara geht langsam. Ihre Tasche ist schwer."
+    answer: Sara geht langsam, weil ihre Tasche schwer ist.
+  - type: multiple_choice
+    question: No Perfekt, qual opção deixa o auxiliar no final depois de weil?
+    options:
+      - Ich bin froh, weil ich habe eine Stelle gefunden.
+      - Ich bin froh, weil gefunden ich eine Stelle habe.
+      - Ich bin froh, weil ich eine Stelle gefunden habe.
+    answer: Ich bin froh, weil ich eine Stelle gefunden habe.
+  - type: word_order
+    question: "Ordene: wir / üben / weil / der Test / schwer / ist"
+    answer: Wir üben, weil der Test schwer ist.
+  - type: short_answer
+    question: "Escreva em alemão: Eu aprendo alemão porque preciso de alemão no trabalho."
+    answer: Ich lerne Deutsch, weil ich Deutsch bei der Arbeit brauche.
+  - type: multiple_choice
+    question: Qual frase explica uma causa com weil?
+    options:
+      - Tom kauft Brot, weil der Bäcker offen ist.
+      - Tom kauft Brot, und der Bäcker ist offen.
+      - Tom kauft Brot, aber der Bäcker ist offen.
+    answer: Tom kauft Brot, weil der Bäcker offen ist.
+  - type: error_correction
+    question: "Corrija a frase: Eva ist glücklich, weil sie kann reisen."
+    answer: Eva ist glücklich, weil sie reisen kann.
+  - type: short_answer
+    question: "Escreva em alemão: Nós chegamos tarde porque o trem está atrasado."
+    answer: Wir kommen spät an, weil der Zug Verspätung hat.

@@ -1,0 +1,51 @@
+topic: "Wechselpräpositionen: Localização com dativo"
+level: A2
+cards:
+  - front: in der Schule
+    back: na escola
+    example: Ich bin in der Schule.
+    example_translation: Eu estou na escola.
+  - front: auf dem Tisch
+    back: sobre a mesa
+    example: Der Teller steht auf dem Tisch.
+    example_translation: O prato está sobre a mesa.
+  - front: an der Wand
+    back: na parede
+    example: Der Kalender hängt an der Wand.
+    example_translation: O calendário está na parede.
+  - front: unter dem Bett
+    back: embaixo da cama
+    example: Die Schuhe sind unter dem Bett.
+    example_translation: Os sapatos estão embaixo da cama.
+  - front: neben dem Sofa
+    back: ao lado do sofá
+    example: Der Tisch steht neben dem Sofa.
+    example_translation: A mesa está ao lado do sofá.
+  - front: vor der Tür
+    back: em frente à porta
+    example: Der Hund sitzt vor der Tür.
+    example_translation: O cachorro está sentado em frente à porta.
+  - front: hinter dem Schrank
+    back: atrás do armário
+    example: Die Tasche ist hinter dem Schrank.
+    example_translation: A bolsa está atrás do armário.
+  - front: zwischen den Büchern
+    back: entre os livros
+    example: Der Stift liegt zwischen den Büchern.
+    example_translation: A caneta está entre os livros.
+  - front: im Büro
+    back: no escritório
+    example: Mein Vater ist im Büro.
+    example_translation: Meu pai está no escritório.
+  - front: am Fenster
+    back: junto à janela
+    example: Lisa sitzt am Fenster.
+    example_translation: Lisa está sentada junto à janela.
+  - front: wo? + dativo
+    back: onde? + dativo
+    example: Wo ist der Schlüssel? Er ist auf dem Tisch.
+    example_translation: Onde está a chave? Ela está sobre a mesa.
+  - front: die Schule → in der Schule
+    back: a escola → na escola
+    example: Die Kinder sind in der Schule.
+    example_translation: As crianças estão na escola.

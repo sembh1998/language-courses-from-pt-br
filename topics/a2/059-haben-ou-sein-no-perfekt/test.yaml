@@ -1,0 +1,75 @@
+topic: Haben ou sein no Perfekt
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual opção forma o Perfekt correto com gehen?
+    options:
+      - Tom ist zur Arbeit gegangen.
+      - Tom hat zur Arbeit gegangen.
+      - Tom bist zur Arbeit gegangen.
+    answer: Tom ist zur Arbeit gegangen.
+  - type: fill_blank
+    question: Lena ___ gestern viel gearbeitet.
+    answer: hat
+  - type: multiple_choice
+    question: Qual auxiliar combina melhor com mudança de estado?
+    options:
+      - haben
+      - sein
+      - werden
+    answer: sein
+  - type: fill_blank
+    question: Wir ___ am Samstag nach München gefahren.
+    answer: sind
+  - type: multiple_choice
+    question: Qual frase está correta com objeto direto?
+    options:
+      - Ich bin ein Sandwich gegessen.
+      - Ich bist ein Sandwich gegessen.
+      - Ich habe ein Sandwich gegessen.
+    answer: Ich habe ein Sandwich gegessen.
+  - type: transformation
+    question: "Transforme para o Perfekt: Du kommst um zehn Uhr."
+    answer: Du bist um zehn Uhr gekommen.
+  - type: fill_blank
+    question: Meine Schwester ___ schnell eingeschlafen.
+    answer: ist
+  - type: multiple_choice
+    question: Qual verbo normalmente usa sein no Perfekt?
+    options:
+      - aufstehen
+      - bezahlen
+      - hören
+    answer: aufstehen
+  - type: error_correction
+    question: "Corrija a frase: Er ist einen Brief geschrieben."
+    answer: Er hat einen Brief geschrieben.
+  - type: fill_blank
+    question: Ihr ___ die Wohnung geputzt.
+    answer: habt
+  - type: multiple_choice
+    question: Qual frase está correta com reisen?
+    options:
+      - Die Studenten haben nach Österreich gereist.
+      - Die Studenten sind nach Österreich gereist.
+      - Die Studenten seid nach Österreich gereist.
+    answer: Die Studenten sind nach Österreich gereist.
+  - type: transformation
+    question: "Transforme para o Perfekt: Ich sehe meine Nachbarin."
+    answer: Ich habe meine Nachbarin gesehen.
+  - type: fill_blank
+    question: Der Kurs ___ um neun Uhr begonnen.
+    answer: hat
+  - type: multiple_choice
+    question: Qual frase mostra deslocamento e usa o auxiliar correto?
+    options:
+      - Wir haben ins Kino gegangen.
+      - Wir seid ins Kino gegangen.
+      - Wir sind ins Kino gegangen.
+    answer: Wir sind ins Kino gegangen.
+  - type: short_answer
+    question: "Escreva em alemão: Eu fui para Hamburgo."
+    answer: Ich bin nach Hamburg gefahren.
+  - type: short_answer
+    question: "Escreva em alemão: Eu estudei para o teste."
+    answer: Ich habe für den Test gelernt.

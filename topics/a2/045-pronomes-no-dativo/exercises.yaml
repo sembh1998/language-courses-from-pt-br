@@ -1,0 +1,107 @@
+topic: Pronomes no dativo
+level: A2
+exercises:
+  - type: multiple_choice
+    instruction: Escolha o pronome no dativo correto.
+    items:
+      - question: Kannst du ___ helfen?
+        options:
+          - mir
+          - mich
+          - mein
+        answer: mir
+      - question: Ich schreibe ___ heute Abend.
+        options:
+          - dich
+          - dein
+          - dir
+        answer: dir
+      - question: Die Tasche gehört ___.
+        options:
+          - ihn
+          - ihm
+          - er
+        answer: ihm
+      - question: Wir antworten ___ morgen.
+        options:
+          - ihr
+          - sie
+          - ihre
+        answer: ihr
+      - question: Der Kaffee schmeckt ___.
+        options:
+          - euch
+          - uns
+          - wir
+        answer: uns
+      - question: Kann ich ___ helfen?
+        options:
+          - Sie
+          - sie
+          - Ihnen
+        answer: Ihnen
+  - type: fill_blank
+    instruction: Complete com o pronome no dativo adequado à pessoa entre parênteses.
+    items:
+      - question: Der Lehrer erklärt ___ die Regel. (ich)
+        answer: mir
+      - question: Ich gebe ___ den Schlüssel. (du)
+        answer: dir
+      - question: Die Musik gefällt ___. (sie, singular)
+        answer: ihr
+      - question: Der Arzt hilft ___. (wir)
+        answer: uns
+      - question: Maria zeigt ___ die Fotos. (ihr, plural)
+        answer: euch
+      - question: Die Kinder danken ___. (sie, plural)
+        answer: ihnen
+  - type: transformation
+    instruction: Reescreva a frase trocando o nome pelo pronome no dativo.
+    items:
+      - question: Ich helfe Anna.
+        answer: Ich helfe ihr.
+      - question: Wir danken dem Lehrer.
+        answer: Wir danken ihm.
+      - question: Das Auto gehört meinen Eltern.
+        answer: Das Auto gehört ihnen.
+      - question: Er antwortet Frau Keller.
+        answer: Er antwortet ihr.
+      - question: Ich zeige Paul und Max den Park.
+        answer: Ich zeige ihnen den Park.
+  - type: translation
+    instruction: Traduza para o alemão usando o pronome no dativo.
+    items:
+      - question: Eu agradeço a você.
+        answer: Ich danke dir.
+      - question: O filme agrada a mim.
+        answer: Der Film gefällt mir.
+      - question: Nós ajudamos vocês.
+        answer: Wir helfen euch.
+      - question: A casa pertence a eles.
+        answer: Das Haus gehört ihnen.
+      - question: Posso ajudar a senhora?
+        answer: Kann ich Ihnen helfen?
+  - type: correction
+    instruction: Corrija o pronome incorreto.
+    items:
+      - question: Ich helfe dich.
+        answer: Ich helfe dir.
+      - question: Das gefällt mich.
+        answer: Das gefällt mir.
+      - question: Wir danken sie.
+        answer: Wir danken ihr.
+      - question: Der Laptop gehört er.
+        answer: Der Laptop gehört ihm.
+      - question: Ich antworte Sie morgen.
+        answer: Ich antworte Ihnen morgen.
+  - type: short_answer
+    instruction: Responda em alemão com uma frase curta e um pronome no dativo.
+    items:
+      - question: Wem hilfst du? (dein Bruder)
+        answer: Ich helfe ihm.
+      - question: Wem schreibst du? (deine Freundin)
+        answer: Ich schreibe ihr.
+      - question: Wem dankt ihr? (unsere Lehrerin)
+        answer: Wir danken ihr.
+      - question: Wem zeigt Lisa die Wohnung? (wir)
+        answer: Lisa zeigt uns die Wohnung.

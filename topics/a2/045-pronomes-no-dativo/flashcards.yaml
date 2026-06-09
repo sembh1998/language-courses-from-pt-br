@@ -1,0 +1,51 @@
+topic: Pronomes no dativo
+level: A2
+cards:
+  - front: mir
+    back: para mim, a mim, me
+    example: Kannst du mir helfen?
+    example_translation: Você pode me ajudar?
+  - front: dir
+    back: para você, a você, te
+    example: Ich gebe dir die Adresse.
+    example_translation: Eu dou o endereço para você.
+  - front: ihm
+    back: para ele, a ele
+    example: Das Buch gehört ihm.
+    example_translation: O livro pertence a ele.
+  - front: ihr
+    back: para ela, a ela
+    example: Ich antworte ihr sofort.
+    example_translation: Eu respondo a ela imediatamente.
+  - front: ihm
+    back: para isso ou para o neutro
+    example: Dem Kind geht es gut, ihm fehlt nichts.
+    example_translation: A criança está bem, não falta nada a ela.
+  - front: uns
+    back: para nós, a nós, nos
+    example: Der Kurs gefällt uns.
+    example_translation: O curso agrada a nós.
+  - front: euch
+    back: para vocês, a vocês
+    example: Ich zeige euch die Stadt.
+    example_translation: Eu mostro a cidade para vocês.
+  - front: ihnen
+    back: para eles ou elas, a eles ou elas
+    example: Wir helfen ihnen heute.
+    example_translation: Nós ajudamos eles ou elas hoje.
+  - front: Ihnen
+    back: para o senhor, para a senhora, para vocês formal
+    example: Wie geht es Ihnen?
+    example_translation: Como o senhor ou a senhora está?
+  - front: helfen plus dativo
+    back: ajudar alguém
+    example: Sie hilft mir.
+    example_translation: Ela me ajuda.
+  - front: danken plus dativo
+    back: agradecer a alguém
+    example: Wir danken euch.
+    example_translation: Nós agradecemos a vocês.
+  - front: gefallen plus dativo
+    back: agradar a alguém
+    example: Der Film gefällt dir.
+    example_translation: O filme agrada a você.

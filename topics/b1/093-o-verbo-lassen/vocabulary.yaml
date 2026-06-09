@@ -1,0 +1,87 @@
+topic: O verbo lassen
+level: B1
+words:
+  - german: lassen
+    translation: deixar, permitir, mandar fazer
+    type: verb
+    gender: null
+    plural: null
+    example: Ich lasse dich später anrufen.
+    example_translation: Eu deixo você ligar mais tarde.
+  - german: lässt
+    translation: deixa, permite, manda fazer
+    type: verb form
+    gender: null
+    plural: null
+    example: Er lässt sein Auto waschen.
+    example_translation: Ele manda lavar o carro dele.
+  - german: ließ
+    translation: deixava, deixou, mandou fazer
+    type: verb form
+    gender: null
+    plural: null
+    example: Früher ließ sie ihre Kleider ändern.
+    example_translation: Antigamente ela mandava ajustar suas roupas.
+  - german: gelassen
+    translation: deixado, permitido
+    type: participle
+    gender: null
+    plural: null
+    example: Ich habe die Tür offen gelassen.
+    example_translation: Eu deixei a porta aberta.
+  - german: sich lassen
+    translation: dar para, poder ser feito
+    type: expression
+    gender: null
+    plural: null
+    example: Das lässt sich gut erklären.
+    example_translation: Isso dá para explicar bem.
+  - german: reparieren lassen
+    translation: mandar consertar
+    type: expression
+    gender: null
+    plural: null
+    example: Wir lassen die Waschmaschine reparieren.
+    example_translation: Nós mandamos consertar a máquina de lavar.
+  - german: schneiden lassen
+    translation: mandar cortar
+    type: expression
+    gender: null
+    plural: null
+    example: Ich lasse mir morgen die Haare schneiden.
+    example_translation: Amanhã eu vou mandar cortar meu cabelo.
+  - german: machen lassen
+    translation: mandar fazer, deixar fazer
+    type: expression
+    gender: null
+    plural: null
+    example: Lass das bitte den Techniker machen.
+    example_translation: Deixe o técnico fazer isso, por favor.
+  - german: liegen lassen
+    translation: deixar esquecido, deixar largado
+    type: separable expression
+    gender: null
+    plural: null
+    example: Ich habe mein Handy im Büro liegen lassen.
+    example_translation: Eu deixei meu celular esquecido no escritório.
+  - german: in Ruhe lassen
+    translation: deixar em paz
+    type: expression
+    gender: null
+    plural: null
+    example: Lass mich bitte in Ruhe.
+    example_translation: Me deixe em paz, por favor.
+  - german: ausreden lassen
+    translation: deixar terminar de falar
+    type: expression
+    gender: null
+    plural: null
+    example: Lass mich bitte ausreden.
+    example_translation: Deixe-me terminar de falar, por favor.
+  - german: öffnen lassen
+    translation: deixar abrir, dar para abrir
+    type: expression
+    gender: null
+    plural: null
+    example: Das Fenster lässt sich nicht öffnen.
+    example_translation: Não dá para abrir a janela.

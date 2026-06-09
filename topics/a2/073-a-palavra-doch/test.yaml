@@ -1,0 +1,63 @@
+topic: A palavra doch
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual resposta mostra claramente que você vai ao mercado?
+    options:
+      - Doch, ich gehe zum Markt.
+      - Nein, ich gehe nicht zum Markt.
+      - Ja, ich gehe nicht.
+    answer: Doch, ich gehe zum Markt.
+  - type: multiple_choice
+    question: "A: Hast du keine Jacke? B: ___, ich habe eine Jacke."
+    options:
+      - Nein
+      - Doch
+      - Nicht
+    answer: Doch
+  - type: multiple_choice
+    question: Qual resposta confirma que Lisa não vem?
+    options:
+      - Doch, Lisa kommt.
+      - Ja, Lisa kommt.
+      - Nein, Lisa kommt nicht.
+    answer: Nein, Lisa kommt nicht.
+  - type: fill_blank
+    question: "A: Ist dein Bruder nicht krank? B: ___, er ist krank."
+    answer: Doch
+  - type: fill_blank
+    question: "A: Hast du kein Geld dabei? B: ___, ich habe kein Geld dabei."
+    answer: Nein
+  - type: short_answer
+    question: "Responda positivamente em alemão: Fährst du nicht nach Hamburg?"
+    answer: Doch, ich fahre nach Hamburg.
+  - type: short_answer
+    question: "Responda positivamente em alemão: Isst du keinen Salat?"
+    answer: Doch, ich esse Salat.
+  - type: multiple_choice
+    question: Qual frase corrige a afirmação negativa "Du bist nicht fertig"?
+    options:
+      - Nein, ich bin fertig.
+      - Ja, ich bin nicht fertig.
+      - Doch, ich bin fertig.
+    answer: Doch, ich bin fertig.
+  - type: fill_blank
+    question: "A: Lernt Tom nicht für den Test? B: ___, er lernt für den Test."
+    answer: Doch
+  - type: short_answer
+    question: "Responda negativamente em alemão: Hast du keine Lust?"
+    answer: Nein, ich habe keine Lust.
+  - type: multiple_choice
+    question: Em qual situação Doch é a melhor resposta curta?
+    options:
+      - Kommst du nicht?
+      - Kommst du morgen?
+      - Wie kommst du?
+    answer: Kommst du nicht?
+  - type: multiple_choice
+    question: Qual opção significa "está aberto, sim"?
+    options:
+      - Nein, es ist nicht offen.
+      - Doch, es ist offen.
+      - Ja, es ist geschlossen.
+    answer: Doch, es ist offen.

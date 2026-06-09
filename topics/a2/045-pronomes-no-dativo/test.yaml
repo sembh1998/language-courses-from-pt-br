@@ -1,0 +1,61 @@
+topic: Pronomes no dativo
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual opção completa corretamente? Meine Mutter ruft an und ich antworte ___.
+    options:
+      - ihr
+      - sie
+      - ihre
+    answer: ihr
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Der Hund gehört wir.
+      - Der Hund gehört uns.
+      - Der Hund gehört unsere.
+    answer: Der Hund gehört uns.
+  - type: multiple_choice
+    question: Escolha o pronome correto. Herr Braun, ich schreibe ___ später.
+    options:
+      - Sie
+      - sie
+      - Ihnen
+    answer: Ihnen
+  - type: fill_blank
+    question: Complete com o dativo. Die Suppe schmeckt ___ gut. (ich)
+    answer: mir
+  - type: fill_blank
+    question: Complete com o dativo. Kann Lisa ___ das Formular geben? (du)
+    answer: dir
+  - type: transformation
+    question: Troque o nome pelo pronome. Wir helfen dem Kind.
+    answer: Wir helfen ihm.
+  - type: transformation
+    question: Troque o nome pelo pronome. Die App gefällt Julia.
+    answer: Die App gefällt ihr.
+  - type: translation
+    question: Traduza. Eu mostro o quarto para vocês.
+    answer: Ich zeige euch das Zimmer.
+  - type: translation
+    question: Traduza. Ela agradece a eles.
+    answer: Sie dankt ihnen.
+  - type: correction
+    question: Corrija a frase. Der Kurs gefällt dich.
+    answer: Der Kurs gefällt dir.
+  - type: correction
+    question: Corrija a frase. Ich helfe Sie, Frau Meier.
+    answer: Ich helfe Ihnen, Frau Meier.
+  - type: multiple_choice
+    question: Qual opção completa corretamente? Wir kaufen Tom ein Geschenk und geben ___ das Geschenk.
+    options:
+      - ihm
+      - ihn
+      - er
+    answer: ihm
+  - type: short_answer
+    question: Responda em alemão. Wem gehört die Tasche? (Maria)
+    answer: Sie gehört ihr.
+  - type: short_answer
+    question: Responda em alemão. Wem erklärst du die Aufgabe? (meine Eltern)
+    answer: Ich erkläre ihnen die Aufgabe.

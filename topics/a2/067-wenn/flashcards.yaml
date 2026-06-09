@@ -1,0 +1,35 @@
+topic: Wenn
+level: A2
+cards:
+  - front: wenn
+    back: se; quando; sempre que
+    example: Wenn ich Zeit habe, komme ich.
+    example_translation: Se eu tiver tempo, eu venho.
+  - front: wenn ich Zeit habe
+    back: se/quando eu tiver tempo
+    example: Ich lerne, wenn ich Zeit habe.
+    example_translation: Eu estudo quando tenho tempo.
+  - front: Wenn es regnet, bleibe ich zu Hause.
+    back: Quando chove, eu fico em casa.
+    example: Wenn es regnet, bleibe ich zu Hause.
+    example_translation: Quando chove, eu fico em casa.
+  - front: Ich komme, wenn ich fertig bin.
+    back: Eu venho quando eu terminar.
+    example: Ich komme, wenn ich fertig bin.
+    example_translation: Eu venho quando eu terminar.
+  - front: Ruf mich an, wenn du Hilfe brauchst.
+    back: Ligue para mim se você precisar de ajuda.
+    example: Ruf mich an, wenn du Hilfe brauchst.
+    example_translation: Ligue para mim se você precisar de ajuda.
+  - front: Wenn Anna müde ist, trinkt sie Kaffee.
+    back: Quando Anna está cansada, ela toma café.
+    example: Wenn Anna müde ist, trinkt sie Kaffee.
+    example_translation: Quando Anna está cansada, ela toma café.
+  - front: Wenn ich krank bin, arbeite ich nicht.
+    back: Quando estou doente, eu não trabalho.
+    example: Wenn ich krank bin, arbeite ich nicht.
+    example_translation: Quando estou doente, eu não trabalho.
+  - front: Wir gehen spazieren, wenn das Wetter gut ist.
+    back: Nós vamos passear quando o tempo está bom.
+    example: Wir gehen spazieren, wenn das Wetter gut ist.
+    example_translation: Nós vamos passear quando o tempo está bom.

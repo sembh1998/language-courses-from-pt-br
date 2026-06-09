@@ -1,0 +1,114 @@
+topic: Orações relativas no nominativo
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: Complete com o pronome relativo correto no nominativo.
+    items:
+      - question: Der Arzt, ___ im Krankenhaus arbeitet, ist sehr nett.
+        answer: der
+      - question: Die Studentin, ___ jeden Tag lernt, besteht die Prüfung.
+        answer: die
+      - question: Das Baby, ___ im Kinderwagen schläft, ist ruhig.
+        answer: das
+      - question: Die Bücher, ___ auf dem Tisch liegen, gehören mir.
+        answer: die
+      - question: Der Bus, ___ um acht Uhr kommt, fährt zum Bahnhof.
+        answer: der
+      - question: Das Hotel, ___ am See liegt, ist teuer.
+        answer: das
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta.
+    items:
+      - question: Qual frase está correta para masculino singular?
+        options:
+          - Der Nachbar, der Musik hört, ist jung.
+          - Der Nachbar, die Musik hört, ist jung.
+          - Der Nachbar, das Musik hört, ist jung.
+        answer: Der Nachbar, der Musik hört, ist jung.
+      - question: Qual frase respeita a posição do verbo na oração relativa?
+        options:
+          - Die Frau, die wohnt in Leipzig, ist Ärztin.
+          - Die Frau, die in Leipzig wohnt, ist Ärztin.
+          - Die Frau wohnt, die in Leipzig, ist Ärztin.
+        answer: Die Frau, die in Leipzig wohnt, ist Ärztin.
+      - question: Qual frase está correta para neutro singular?
+        options:
+          - Das Mädchen, der Geige spielt, ist talentiert.
+          - Das Mädchen, die Geige spielt, ist talentiert.
+          - Das Mädchen, das Geige spielt, ist talentiert.
+        answer: Das Mädchen, das Geige spielt, ist talentiert.
+      - question: Qual frase está correta para plural?
+        options:
+          - Die Kunden, die früh kommen, bekommen Kaffee.
+          - Die Kunden, der früh kommen, bekommen Kaffee.
+          - Die Kunden, das früh kommen, bekommen Kaffee.
+        answer: Die Kunden, die früh kommen, bekommen Kaffee.
+      - question: Qual frase mostra uma oração relativa no nominativo?
+        options:
+          - Ich sehe den Hund, den du suchst.
+          - Ich sehe den Hund, der im Hof bellt.
+          - Ich sehe den Hund, dem du hilfst.
+        answer: Ich sehe den Hund, der im Hof bellt.
+      - question: Qual frase usa vírgulas corretamente?
+        options:
+          - Der Film der heute läuft ist spannend.
+          - Der Film, der heute läuft ist spannend.
+          - Der Film, der heute läuft, ist spannend.
+        answer: Der Film, der heute läuft, ist spannend.
+
+  - type: transformation
+    instruction: Una as duas frases usando uma oração relativa no nominativo.
+    items:
+      - question: Der Lehrer ist streng. Er unterrichtet Mathe.
+        answer: Der Lehrer, der Mathe unterrichtet, ist streng.
+      - question: Die Katze ist schwarz. Sie schläft auf dem Sofa.
+        answer: Die Katze, die auf dem Sofa schläft, ist schwarz.
+      - question: Das Restaurant ist beliebt. Es öffnet um zwölf Uhr.
+        answer: Das Restaurant, das um zwölf Uhr öffnet, ist beliebt.
+      - question: Die Kinder sind müde. Sie spielen seit zwei Stunden.
+        answer: Die Kinder, die seit zwei Stunden spielen, sind müde.
+      - question: Der Computer ist neu. Er steht im Arbeitszimmer.
+        answer: Der Computer, der im Arbeitszimmer steht, ist neu.
+
+  - type: classification
+    instruction: Indique o pronome relativo correto e o motivo curto.
+    items:
+      - question: die Chefin, ___ das Team motiviert
+        answer: die, porque Chefin é feminino e o relativo é sujeito.
+      - question: das Fahrrad, ___ vor der Schule steht
+        answer: das, porque Fahrrad é neutro e o relativo é sujeito.
+      - question: der Zug, ___ nach Berlin fährt
+        answer: der, porque Zug é masculino e o relativo é sujeito.
+      - question: die Freunde, ___ am Wochenende kommen
+        answer: die, porque Freunde está no plural e o relativo é sujeito.
+      - question: die Lampe, ___ nicht funktioniert
+        answer: die, porque Lampe é feminino e o relativo é sujeito.
+
+  - type: translation
+    instruction: Traduza para o alemão usando uma oração relativa no nominativo.
+    items:
+      - question: O homem que mora aqui é jornalista.
+        answer: Der Mann, der hier wohnt, ist Journalist.
+      - question: A mulher que me ajuda é minha vizinha.
+        answer: Die Frau, die mir hilft, ist meine Nachbarin.
+      - question: A criança que lê no quarto está quieta.
+        answer: Das Kind, das im Zimmer liest, ist leise.
+      - question: Os colegas que trabalham comigo são simpáticos.
+        answer: Die Kollegen, die mit mir arbeiten, sind sympathisch.
+      - question: O café que fica perto da estação é pequeno.
+        answer: Das Café, das in der Nähe vom Bahnhof liegt, ist klein.
+
+  - type: correction
+    instruction: Corrija a frase alemã.
+    items:
+      - question: Der Mann, die im Garten arbeitet, ist mein Onkel.
+        answer: Der Mann, der im Garten arbeitet, ist mein Onkel.
+      - question: Die Lehrerin, die erklärt die Aufgabe, ist geduldig.
+        answer: Die Lehrerin, die die Aufgabe erklärt, ist geduldig.
+      - question: Das Haus, der am Fluss steht, ist alt.
+        answer: Das Haus, das am Fluss steht, ist alt.
+      - question: Die Spieler die heute trainieren sind fit.
+        answer: Die Spieler, die heute trainieren, sind fit.
+      - question: Ich kenne einen Musiker, das jeden Abend spielt.
+        answer: Ich kenne einen Musiker, der jeden Abend spielt.

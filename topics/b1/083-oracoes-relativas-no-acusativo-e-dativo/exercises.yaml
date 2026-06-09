@@ -1,0 +1,126 @@
+topic: Orações relativas no acusativo e dativo
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: Complete com o pronome relativo no acusativo.
+    items:
+      - question: Das ist der Film, ___ ich gestern gesehen habe.
+        answer: den
+      - question: Hier ist die E-Mail, ___ ich gesucht habe.
+        answer: die
+      - question: Kennst du das Restaurant, ___ Maria empfiehlt?
+        answer: das
+      - question: Das sind die Fragen, ___ wir besprechen müssen.
+        answer: die
+      - question: Der Laptop, ___ ich gekauft habe, war teuer.
+        answer: den
+
+  - type: fill_blank
+    instruction: Complete com o pronome relativo no dativo.
+    items:
+      - question: Das ist der Nachbar, ___ ich oft helfe.
+        answer: dem
+      - question: Die Lehrerin, ___ wir danken, geht bald in Rente.
+        answer: der
+      - question: Das Mädchen, ___ das Fahrrad gehört, ist acht Jahre alt.
+        answer: dem
+      - question: Die Kunden, ___ der Verkäufer antwortet, warten schon lange.
+        answer: denen
+      - question: Der Freund, ___ ich vertraue, kennt die Stadt gut.
+        answer: dem
+
+  - type: multiple_choice
+    instruction: Escolha a opção correta para completar a frase relativa.
+    items:
+      - question: Der Arzt, ___ ich angerufen habe, kommt gleich.
+        options:
+          - den
+          - dem
+          - der
+        answer: den
+      - question: Die Frau, ___ ich jeden Morgen grüße, wohnt hier.
+        options:
+          - der
+          - die
+          - denen
+        answer: die
+      - question: Die Kinder, ___ die Lehrerin hilft, lernen schnell.
+        options:
+          - die
+          - der
+          - denen
+        answer: denen
+      - question: Das Projekt, ___ wir viel Zeit geben, ist wichtig.
+        options:
+          - das
+          - dem
+          - den
+        answer: dem
+      - question: Der Kurs, ___ ich besuche, endet im Juli.
+        options:
+          - der
+          - dem
+          - den
+        answer: den
+      - question: Die Kollegin, ___ ich vertraue, organisiert das Treffen.
+        options:
+          - die
+          - der
+          - dem
+        answer: der
+
+  - type: fill_blank
+    instruction: Complete com preposição e pronome relativo.
+    items:
+      - question: Der Mann, ___ ___ ich warte, ist mein Bruder.
+        answer: auf den
+      - question: Die Firma, ___ ___ Anna arbeitet, ist international.
+        answer: für die
+      - question: Das Zimmer, ___ ___ wir schlafen, ist ruhig.
+        answer: in dem
+      - question: Die Kolleginnen, ___ ___ ich spreche, kommen aus Leipzig.
+        answer: mit denen
+      - question: Das Thema, ___ ___ wir diskutieren, ist schwierig.
+        answer: über das
+
+  - type: transformation
+    instruction: Junte as duas frases usando uma oração relativa.
+    items:
+      - question: Ich sehe den Mann. Der Mann ist mein Onkel.
+        answer: Der Mann, den ich sehe, ist mein Onkel.
+      - question: Ich helfe der Studentin. Die Studentin wohnt neben mir.
+        answer: Die Studentin, der ich helfe, wohnt neben mir.
+      - question: Wir besuchen das Museum. Das Museum ist neu.
+        answer: Das Museum, das wir besuchen, ist neu.
+      - question: Sie schreibt den Freunden. Die Freunde leben in Bremen.
+        answer: Die Freunde, denen sie schreibt, leben in Bremen.
+      - question: Ich spreche mit dem Techniker. Der Techniker repariert den Drucker.
+        answer: Der Techniker, mit dem ich spreche, repariert den Drucker.
+
+  - type: correction
+    instruction: Corrija o erro na oração relativa.
+    items:
+      - question: Der Kunde, der ich beraten habe, ist zufrieden.
+        answer: Der Kunde, den ich beraten habe, ist zufrieden.
+      - question: Die Nachbarin, die ich geholfen habe, ist krank.
+        answer: Die Nachbarin, der ich geholfen habe, ist krank.
+      - question: Das Auto, mit das wir fahren, ist alt.
+        answer: Das Auto, mit dem wir fahren, ist alt.
+      - question: Die Kollegen, mit den ich arbeite, sind nett.
+        answer: Die Kollegen, mit denen ich arbeite, sind nett.
+      - question: Der Brief, den liegt auf dem Tisch, ist wichtig.
+        answer: Der Brief, der auf dem Tisch liegt, ist wichtig.
+
+  - type: translation
+    instruction: Traduza para o alemão usando uma oração relativa.
+    items:
+      - question: A mulher que eu conheço trabalha no banco.
+        answer: Die Frau, die ich kenne, arbeitet in der Bank.
+      - question: O homem a quem eu ajudo mora em Munique.
+        answer: Der Mann, dem ich helfe, wohnt in München.
+      - question: O livro sobre o qual falamos é interessante.
+        answer: Das Buch, über das wir sprechen, ist interessant.
+      - question: As pessoas com quem viajamos são simpáticas.
+        answer: Die Leute, mit denen wir reisen, sind freundlich.
+      - question: O curso que eu faço começa às nove.
+        answer: Der Kurs, den ich besuche, beginnt um neun Uhr.

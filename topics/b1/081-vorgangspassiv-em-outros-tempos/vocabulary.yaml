@@ -1,0 +1,87 @@
+topic: Vorgangspassiv em outros tempos
+level: B1
+words:
+  - german: bauen
+    translation: construir
+    type: verb
+    gender: null
+    plural: null
+    example: Das Haus wurde gebaut.
+    example_translation: A casa foi construída.
+  - german: reparieren
+    translation: consertar; reparar
+    type: verb
+    gender: null
+    plural: null
+    example: Der Computer ist repariert worden.
+    example_translation: O computador foi consertado.
+  - german: öffnen
+    translation: abrir
+    type: verb
+    gender: null
+    plural: null
+    example: Die Tür wird morgen geöffnet werden.
+    example_translation: A porta será aberta amanhã.
+  - german: schließen
+    translation: fechar
+    type: verb
+    gender: null
+    plural: null
+    example: Das Geschäft wurde um acht Uhr geschlossen.
+    example_translation: A loja foi fechada às oito horas.
+  - german: planen
+    translation: planejar
+    type: verb
+    gender: null
+    plural: null
+    example: Das Projekt ist sorgfältig geplant worden.
+    example_translation: O projeto foi planejado cuidadosamente.
+  - german: informieren
+    translation: informar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Kunden wurden informiert.
+    example_translation: Os clientes foram informados.
+  - german: verschieben
+    translation: adiar; deslocar
+    type: verb
+    gender: null
+    plural: null
+    example: Der Termin ist verschoben worden.
+    example_translation: O compromisso foi adiado.
+  - german: kontrollieren
+    translation: controlar; verificar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Tickets wurden am Eingang kontrolliert.
+    example_translation: Os ingressos foram verificados na entrada.
+  - german: liefern
+    translation: entregar
+    type: verb
+    gender: null
+    plural: null
+    example: Das Paket wird morgen geliefert werden.
+    example_translation: O pacote será entregue amanhã.
+  - german: lösen
+    translation: resolver
+    type: verb
+    gender: null
+    plural: null
+    example: Das Problem ist gelöst worden.
+    example_translation: O problema foi resolvido.
+  - german: von der Firma
+    translation: pela empresa
+    type: phrase
+    gender: null
+    plural: null
+    example: Der Fehler wurde von der Firma korrigiert.
+    example_translation: O erro foi corrigido pela empresa.
+  - german: durch den Wind
+    translation: pelo vento
+    type: phrase
+    gender: null
+    plural: null
+    example: Das Fenster ist durch den Wind geöffnet worden.
+    example_translation: A janela foi aberta pelo vento.

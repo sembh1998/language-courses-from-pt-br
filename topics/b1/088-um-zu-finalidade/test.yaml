@@ -1,0 +1,65 @@
+topic: Um...zu
+level: B1
+questions:
+  - type: multiple_choice
+    question: Selecione a opção adequada para explicar por que alguém vai à biblioteca.
+    options:
+      - Ich gehe in die Bibliothek, um ruhig zu lernen.
+      - Ich gehe in die Bibliothek, um ruhig lernen.
+      - Ich gehe in die Bibliothek, zu um ruhig lernen.
+    answer: Ich gehe in die Bibliothek, um ruhig zu lernen.
+  - type: fill_blank
+    question: Klara macht einen Plan, ___ ihre Woche besser ___ organisieren.
+    answer: um, zu
+  - type: transform
+    question: Jonas nimmt einen Regenschirm. Er will nicht nass werden.
+    answer: Jonas nimmt einen Regenschirm, um nicht nass zu werden.
+  - type: multiple_choice
+    question: Qual opção completa corretamente? Ich kaufe ein Wörterbuch, ___ neue Wörter zu üben.
+    options:
+      - damit
+      - um
+      - zu
+    answer: um
+  - type: correction
+    question: Sara besucht einen Kurs, um besser schreiben.
+    answer: Sara besucht einen Kurs, um besser zu schreiben.
+  - type: fill_blank
+    question: Er nimmt die Kamera, um Fotos ___.
+    answer: zu machen
+  - type: multiple_choice
+    question: Identifique a opção em que o infinitivo de aufräumen aparece com zu corretamente.
+    options:
+      - Tim bleibt zu Hause, um die Wohnung aufzuräumen.
+      - Tim bleibt zu Hause, um die Wohnung zu aufräumen.
+      - Tim bleibt zu Hause, um aufzuräumen die Wohnung.
+    answer: Tim bleibt zu Hause, um die Wohnung aufzuräumen.
+  - type: transform
+    question: Ich trinke Wasser. Ich will mich besser konzentrieren.
+    answer: Ich trinke Wasser, um mich besser zu konzentrieren.
+  - type: multiple_choice
+    question: "Sujeitos diferentes: Meine Schwester hilft mir, ___ ich schneller fertig werde."
+    options:
+      - um
+      - zu
+      - damit
+    answer: damit
+  - type: correction
+    question: Wir fahren früher los, um kommen pünktlich an.
+    answer: Wir fahren früher los, um pünktlich anzukommen.
+  - type: translation
+    question: "Traduza: Ela aprende programação para encontrar um novo trabalho."
+    answer: Sie lernt Programmieren, um eine neue Arbeit zu finden.
+  - type: fill_blank
+    question: Die Studenten treffen sich, ___ gemeinsam ___ lernen.
+    answer: um, zu
+  - type: transform
+    question: Frau Müller schreibt alles auf. Sie will den Namen nicht vergessen.
+    answer: Frau Müller schreibt alles auf, um den Namen nicht zu vergessen.
+  - type: multiple_choice
+    question: Selecione a opção com a forma adequada de sein depois de um ... zu.
+    options:
+      - Ich mache eine Pause, um wieder ruhig sein.
+      - Ich mache eine Pause, um wieder ruhig zu sein.
+      - Ich mache eine Pause, damit wieder ruhig zu sein.
+    answer: Ich mache eine Pause, um wieder ruhig zu sein.

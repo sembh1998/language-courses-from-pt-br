@@ -1,0 +1,124 @@
+topic: "Konjunktiv II: Desejos e hipóteses"
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: "Complete com hätte, hättest, hätten, wäre, wären ou würdest."
+    items:
+      - question: "Wenn ich mehr Zeit ___, würde ich öfter kochen."
+        answer: "hätte"
+      - question: "Ich ___ gern in einem kleineren Dorf."
+        answer: "wäre"
+      - question: "Wenn wir frei ___, würden wir euch besuchen."
+        answer: "wären"
+      - question: "___ du gern eine neue Sprache lernen?"
+        answer: "würdest"
+      - question: "Wenn du ein Auto ___, könntest du schneller kommen."
+        answer: "hättest"
+      - question: "Wir ___ gern mehr Platz in der Wohnung."
+        answer: "hätten"
+
+  - type: multiple_choice
+    instruction: "Escolha a frase correta no Konjunktiv II."
+    items:
+      - question: "Qual frase significa 'Se eu tivesse férias, viajaria para a Suíça'?"
+        options:
+          - "Wenn ich Urlaub hätte, würde ich in die Schweiz reisen."
+          - "Wenn ich Urlaub habe, würde ich in die Schweiz reisen."
+          - "Wenn ich hätte Urlaub, ich würde in die Schweiz reisen."
+        answer: "Wenn ich Urlaub hätte, würde ich in die Schweiz reisen."
+      - question: "Qual frase está correta para um desejo com sein?"
+        options:
+          - "Ich würde gern zu Hause sein wäre."
+          - "Ich wäre gern zu Hause."
+          - "Ich gern wäre zu Hause."
+        answer: "Ich wäre gern zu Hause."
+      - question: "Qual frase usa corretamente würde + infinitivo?"
+        options:
+          - "Wir würden morgen einen Ausflug machen."
+          - "Wir würden morgen einen Ausflug machten."
+          - "Wir morgen würden einen Ausflug machen."
+        answer: "Wir würden morgen einen Ausflug machen."
+      - question: "Qual frase usa corretamente a ordem com wenn?"
+        options:
+          - "Wenn er hätte Geld, würde er umziehen."
+          - "Wenn er Geld hätte, würde er umziehen."
+          - "Wenn er Geld würde haben, er umziehen."
+        answer: "Wenn er Geld hätte, würde er umziehen."
+      - question: "Qual frase expressa preferência com lieber?"
+        options:
+          - "Sie würde lieber später anfangen."
+          - "Sie lieber würde später anfängt."
+          - "Sie hätte lieber später anfangen."
+        answer: "Sie würde lieber später anfangen."
+      - question: "Qual frase soa mais natural em B1 para 'Eu teria tempo'?"
+        options:
+          - "Ich würde Zeit haben."
+          - "Ich Zeit hätte."
+          - "Ich hätte Zeit."
+        answer: "Ich hätte Zeit."
+
+  - type: transformation
+    instruction: "Transforme a situação real em hipótese irreal com wenn e würde."
+    items:
+      - question: "Ich habe Zeit. Ich lese mehr Bücher."
+        answer: "Wenn ich Zeit hätte, würde ich mehr Bücher lesen."
+      - question: "Lena hat Geld. Sie kauft ein Fahrrad."
+        answer: "Wenn Lena Geld hätte, würde sie ein Fahrrad kaufen."
+      - question: "Wir sind in Köln. Wir besuchen den Dom."
+        answer: "Wenn wir in Köln wären, würden wir den Dom besuchen."
+      - question: "Du bist nicht müde. Du kommst mit."
+        answer: "Wenn du nicht müde wärst, würdest du mitkommen."
+      - question: "Ich kann besser Deutsch. Ich spreche mit den Nachbarn."
+        answer: "Wenn ich besser Deutsch könnte, würde ich mit den Nachbarn sprechen."
+
+  - type: correction
+    instruction: "Corrija o erro na frase em alemão."
+    items:
+      - question: "Wenn ich hätte Zeit, würde ich Sport machen."
+        answer: "Wenn ich Zeit hätte, würde ich Sport machen."
+      - question: "Ich würde gern in Hamburg wäre."
+        answer: "Ich wäre gern in Hamburg."
+      - question: "Wir würden gerne besuchen das Museum."
+        answer: "Wir würden gern das Museum besuchen."
+      - question: "Wenn sie mehr Geld hat, würde sie reisen."
+        answer: "Wenn sie mehr Geld hätte, würde sie reisen."
+      - question: "Du würdest lieber zu Hause bleibst."
+        answer: "Du würdest lieber zu Hause bleiben."
+
+  - type: translation
+    instruction: "Traduza para o alemão usando Konjunktiv II."
+    items:
+      - question: "Eu gostaria de ter mais tempo livre."
+        answer: "Ich hätte gern mehr Freizeit."
+      - question: "Se nós estivéssemos em Berlim, visitaríamos o museu."
+        answer: "Wenn wir in Berlin wären, würden wir das Museum besuchen."
+      - question: "Você poderia me ajudar amanhã?"
+        answer: "Könntest du mir morgen helfen?"
+      - question: "No seu lugar, eu aprenderia alemão todos os dias."
+        answer: "An deiner Stelle würde ich jeden Tag Deutsch lernen."
+      - question: "Ela preferiria morar no centro."
+        answer: "Sie würde lieber im Zentrum wohnen."
+
+  - type: short_answer
+    instruction: "Responda em alemão com uma frase curta no Konjunktiv II."
+    items:
+      - question: "Was würdest du machen, wenn du heute frei hättest? Use: ins Kino gehen."
+        answer: "Ich würde ins Kino gehen."
+      - question: "Wo wärst du jetzt gern? Use: am Strand."
+        answer: "Ich wäre jetzt gern am Strand."
+      - question: "Was hättest du gern? Use: eine größere Küche."
+        answer: "Ich hätte gern eine größere Küche."
+      - question: "Was würdest du lieber trinken? Use: Tee."
+        answer: "Ich würde lieber Tee trinken."
+
+  - type: matching
+    instruction: "Associe a frase alemã à tradução correta. Escreva a letra da tradução."
+    items:
+      - question: "1. Ich wäre gern in Wien. A. No seu lugar, eu ligaria. B. Eu gostaria de estar em Viena. C. Nós teríamos mais tempo."
+        answer: "B"
+      - question: "2. Wir hätten mehr Zeit. A. Nós teríamos mais tempo. B. Eu poderia ajudar. C. Você iria junto?"
+        answer: "A"
+      - question: "3. An deiner Stelle würde ich anrufen. A. Eu gostaria de ter café. B. No seu lugar, eu ligaria. C. Ela preferiria esperar."
+        answer: "B"
+      - question: "4. Würdest du mitkommen? A. Você iria junto? B. Você teria dinheiro? C. Você estaria aqui?"
+        answer: "A"

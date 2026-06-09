@@ -1,0 +1,122 @@
+topic: Perfekt com verbos separáveis e inseparáveis
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com o Particípio II correto do verbo entre parênteses.
+    items:
+      - question: Ich bin heute früh ___. (aufstehen)
+        answer: aufgestanden
+      - question: Wir haben am Abend ___. (einkaufen)
+        answer: eingekauft
+      - question: Lara hat ihren Onkel ___. (besuchen)
+        answer: besucht
+      - question: Du hast ein Paket ___. (bekommen)
+        answer: bekommen
+      - question: Ich habe die Erklärung ___. (verstehen)
+        answer: verstanden
+      - question: Tim hat seine Freundin ___. (anrufen)
+        answer: angerufen
+
+  - type: multiple_choice
+    instruction: Escolha o Particípio II correto.
+    items:
+      - question: Qual é o Particípio II de einkaufen?
+        options:
+          - eingekauft
+          - geeinkauft
+          - einkaufte
+        answer: eingekauft
+      - question: Qual é o Particípio II de besuchen?
+        options:
+          - gebesucht
+          - besucht
+          - besuchten
+        answer: besucht
+      - question: Qual é o Particípio II de verstehen?
+        options:
+          - geverstanden
+          - versteht
+          - verstanden
+        answer: verstanden
+      - question: Qual é o Particípio II de aufräumen?
+        options:
+          - aufgeräumt
+          - geaufräumt
+          - aufräumen
+        answer: aufgeräumt
+      - question: Qual é o Particípio II de bekommen?
+        options:
+          - gebekommen
+          - bekommen
+          - bekommte
+        answer: bekommen
+      - question: Qual é o Particípio II de mitbringen?
+        options:
+          - gemitbracht
+          - mitbringen
+          - mitgebracht
+        answer: mitgebracht
+
+  - type: classification
+    instruction: Classifique o verbo como separável ou inseparável.
+    items:
+      - question: aufstehen
+        answer: separável
+      - question: besuchen
+        answer: inseparável
+      - question: einkaufen
+        answer: separável
+      - question: verstehen
+        answer: inseparável
+      - question: anrufen
+        answer: separável
+      - question: bekommen
+        answer: inseparável
+
+  - type: sentence_completion
+    instruction: Complete a frase no Perfekt com o auxiliar e o Particípio II.
+    items:
+      - question: Ich ___ um neun Uhr ___. (aufstehen)
+        answer: bin aufgestanden
+      - question: Meine Eltern ___ frisches Brot ___. (einkaufen)
+        answer: haben eingekauft
+      - question: Sara ___ ihre Kollegin ___. (besuchen)
+        answer: hat besucht
+      - question: Wir ___ eine Einladung ___. (bekommen)
+        answer: haben bekommen
+      - question: Ihr ___ den Film nicht ___. (verstehen)
+        answer: habt verstanden
+      - question: Ben ___ seine Lehrerin ___. (anrufen)
+        answer: hat angerufen
+
+  - type: error_correction
+    instruction: Corrija apenas o Particípio II errado.
+    items:
+      - question: Ich bin geaufstanden.
+        answer: aufgestanden
+      - question: Wir haben geeinkauft.
+        answer: eingekauft
+      - question: Sie hat ihre Oma gebesucht.
+        answer: besucht
+      - question: Du hast die E-Mail gebekommen.
+        answer: bekommen
+      - question: Ich habe den Satz geverstanden.
+        answer: verstanden
+      - question: Er hat mich geanrufen.
+        answer: angerufen
+
+  - type: translation
+    instruction: Traduza para o alemão usando Perfekt.
+    items:
+      - question: Eu levantei cedo.
+        answer: Ich bin früh aufgestanden.
+      - question: Nós fizemos compras hoje.
+        answer: Wir haben heute eingekauft.
+      - question: Ela visitou a tia dela.
+        answer: Sie hat ihre Tante besucht.
+      - question: Você recebeu uma carta.
+        answer: Du hast einen Brief bekommen.
+      - question: Eu entendi a pergunta.
+        answer: Ich habe die Frage verstanden.
+      - question: Ele ligou para o pai dele.
+        answer: Er hat seinen Vater angerufen.

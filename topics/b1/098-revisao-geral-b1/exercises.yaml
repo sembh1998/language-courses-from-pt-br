@@ -1,0 +1,109 @@
+topic: Revisão geral B1
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: Complete as orações relativas com o pronome correto.
+    items:
+      - question: Das ist der Nachbar, ___ mir gestern geholfen hat.
+        answer: der
+      - question: Ich suche das Buch, ___ du mir empfohlen hast.
+        answer: das
+      - question: Wir besuchen die Frau, mit ___ meine Mutter arbeitet.
+        answer: der
+      - question: Das sind die Kinder, ___ wir im Park gesehen haben.
+        answer: die
+      - question: Kennst du den Mann, ___ dort an der Tür steht?
+        answer: der
+      - question: Die Studenten, ___ der Lehrer die Aufgabe erklärt hat, stellen viele Fragen.
+        answer: denen
+  - type: transformation
+    instruction: Transforme as frases em Konjunktiv II usando a forma indicada.
+    items:
+      - question: Ich habe mehr Zeit. -> Wenn ich mehr Zeit ___, ___ ich mehr lesen.
+        answer: hätte; würde
+      - question: Können Sie mir helfen? -> ___ Sie mir bitte helfen?
+        answer: Könnten
+      - question: Ich bin gern in Berlin. -> Ich ___ gern in Berlin.
+        answer: wäre
+      - question: Du sollst früher anfangen. -> An deiner Stelle ___ ich früher anfangen.
+        answer: würde
+      - question: Wir haben gern ein ruhiges Zimmer. -> Wir ___ gern ein ruhiges Zimmer.
+        answer: hätten
+  - type: transformation
+    instruction: Reescreva as frases na passiva. Mantenha o tempo verbal quando indicado.
+    items:
+      - question: Die Mitarbeiter prüfen die Dokumente. -> Die Dokumente ___.
+        answer: werden von den Mitarbeitern geprüft
+      - question: Man öffnet das Büro um acht Uhr. -> Das Büro ___.
+        answer: wird um acht Uhr geöffnet
+      - question: Die Firma bezahlte die Rechnung gestern. -> Die Rechnung ___.
+        answer: wurde gestern von der Firma bezahlt
+      - question: Man beantwortet die E-Mails am Nachmittag. -> Die E-Mails ___.
+        answer: werden am Nachmittag beantwortet
+      - question: Die Lehrerin korrigiert den Test. -> Der Test ___.
+        answer: wird von der Lehrerin korrigiert
+  - type: multiple_choice
+    instruction: Escolha o conector correto para completar a frase.
+    items:
+      - question: Ich habe morgen eine Prüfung, ___ lerne ich heute Abend.
+        options:
+          - deshalb
+          - weil
+          - obwohl
+        answer: deshalb
+      - question: ___ es kalt ist, fahren wir mit dem Fahrrad.
+        options:
+          - Deshalb
+          - Obwohl
+          - Denn
+        answer: Obwohl
+      - question: Ich bleibe zu Hause, ___ ich Kopfschmerzen habe.
+        options:
+          - trotzdem
+          - deshalb
+          - weil
+        answer: weil
+      - question: Der Kurs ist teuer, ___ möchte ich mich anmelden.
+        options:
+          - trotzdem
+          - weil
+          - dass
+        answer: trotzdem
+      - question: Ich glaube, ___ dieser Plan funktionieren kann.
+        options:
+          - denn
+          - dass
+          - deshalb
+        answer: dass
+      - question: Lisa macht eine Ausbildung, ___ sie später in einer Klinik arbeiten möchte.
+        options:
+          - trotzdem
+          - deshalb
+          - weil
+        answer: weil
+  - type: fill_blank
+    instruction: Coloque o verbo conjugado na posição correta completando a frase.
+    items:
+      - question: Ich gehe heute früh ins Bett, weil ich morgen früh ___.
+        answer: aufstehen muss
+      - question: Der Zug hatte Verspätung, deshalb ___ wir den Anschluss verpasst.
+        answer: haben
+      - question: Obwohl Maria wenig Zeit ___, hilft sie ihrem Bruder.
+        answer: hat
+      - question: Ich weiß nicht, ob der Kurs noch Plätze ___.
+        answer: hat
+      - question: Wir haben viel geübt, trotzdem ___ der Test schwierig gewesen.
+        answer: ist
+  - type: short_answer
+    instruction: Responda em alemão com uma frase completa adequada ao B1.
+    items:
+      - question: Faça um pedido educado para receber mais informações sobre um curso.
+        answer: Könnten Sie mir bitte mehr Informationen über den Kurs schicken?
+      - question: Dê um conselho a uma amiga que quer melhorar o alemão.
+        answer: An deiner Stelle würde ich jeden Tag ein bisschen Deutsch hören.
+      - question: Explique por que você aprende alemão usando weil.
+        answer: Ich lerne Deutsch, weil ich in Deutschland arbeiten möchte.
+      - question: Escreva uma frase passiva sobre uma inscrição online.
+        answer: Die Anmeldung wird online gemacht.
+      - question: Escreva uma frase relativa sobre uma pessoa que ajudou você.
+        answer: Das ist die Person, die mir geholfen hat.

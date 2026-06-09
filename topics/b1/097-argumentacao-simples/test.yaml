@@ -1,0 +1,57 @@
+topic: Argumentação simples
+level: B1
+questions:
+  - type: multiple_choice
+    question: Escolha a frase com oração subordinada correta sobre redes sociais.
+    options:
+      - Ich finde, dass soziale Medien nützlich sein können.
+      - Ich finde, dass können soziale Medien nützlich sein.
+      - Ich finde, dass soziale Medien können nützlich sein.
+    answer: Ich finde, dass soziale Medien nützlich sein können.
+  - type: multiple_choice
+    question: Escolha a continuação correta para Meiner Meinung nach.
+    options:
+      - die Schule sollte später beginnen.
+      - sollte die Schule später beginnen.
+      - später beginnen sollte die Schule.
+    answer: sollte die Schule später beginnen.
+  - type: multiple_choice
+    question: Qual frase apresenta vantagem e desvantagem?
+    options:
+      - Ich bin dagegen, weil es teuer ist.
+      - Deshalb finde ich den Plan gut.
+      - Einerseits ist das Angebot billig, andererseits ist die Qualität nicht immer gut.
+    answer: Einerseits ist das Angebot billig, andererseits ist die Qualität nicht immer gut.
+  - type: fill_blank
+    question: "Complete: Ich bin der ___, dass Kinder mehr draußen spielen sollten."
+    answer: Meinung
+  - type: fill_blank
+    question: "Complete: Ein ___ ist, dass E-Books wenig Platz brauchen."
+    answer: Vorteil
+  - type: fill_blank
+    question: "Complete: Ein ___ ist, dass der Akku leer sein kann."
+    answer: Nachteil
+  - type: transformation
+    question: "Reescreva com Ich bin der Meinung, dass ...: Mehr Bibliotheken sind gut für die Stadt."
+    answer: Ich bin der Meinung, dass mehr Bibliotheken gut für die Stadt sind.
+  - type: transformation
+    question: "Reescreva com Meiner Meinung nach ...: Jugendliche brauchen sichere Orte zum Treffen."
+    answer: Meiner Meinung nach brauchen Jugendliche sichere Orte zum Treffen.
+  - type: transformation
+    question: "Reescreva com Ich finde, dass ...: Kleine Klassen sind besser für Schüler."
+    answer: Ich finde, dass kleine Klassen besser für Schüler sind.
+  - type: short_answer
+    question: "Escreva uma frase em alemão contra carros no centro. Use: Ich bin dagegen, weil ..."
+    answer: Ich bin dagegen, weil es im Zentrum schon viel Verkehr gibt.
+  - type: short_answer
+    question: "Escreva uma frase em alemão a favor de cursos online. Use: Ich bin dafür, weil ..."
+    answer: Ich bin dafür, weil man flexibel lernen kann.
+  - type: short_answer
+    question: "Cite uma vantagem de ler notícias em alemão. Use: Ein Vorteil ist, dass ..."
+    answer: Ein Vorteil ist, dass man neue Wörter lernt.
+  - type: short_answer
+    question: "Cite uma desvantagem de estudar só com vídeos. Use: Ein Nachteil ist, dass ..."
+    answer: Ein Nachteil ist, dass man nicht genug spricht.
+  - type: short_answer
+    question: "Escreva uma conclusão com Deshalb denke ich, dass ... sobre transporte público barato."
+    answer: Deshalb denke ich, dass günstiger öffentlicher Verkehr wichtig ist.

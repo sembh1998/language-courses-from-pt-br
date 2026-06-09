@@ -1,0 +1,59 @@
+topic: Verbos Separáveis
+level: A2
+cards:
+  - front: aufstehen
+    back: levantar-se
+    example: Ich stehe früh auf.
+    example_translation: Eu me levanto cedo.
+  - front: aufgestanden
+    back: levantado; particípio de aufstehen
+    example: Ich bin um sieben Uhr aufgestanden.
+    example_translation: Eu me levantei às sete horas.
+  - front: einkaufen
+    back: fazer compras
+    example: Wir kaufen heute ein.
+    example_translation: Nós fazemos compras hoje.
+  - front: eingekauft
+    back: comprado; feito compras
+    example: Hast du schon eingekauft?
+    example_translation: Você já fez compras?
+  - front: anrufen
+    back: telefonar para alguém
+    example: Ich rufe dich morgen an.
+    example_translation: Eu telefono para você amanhã.
+  - front: angerufen
+    back: telefonado
+    example: Sie hat ihren Vater angerufen.
+    example_translation: Ela telefonou para o pai dela.
+  - front: aufräumen
+    back: arrumar; organizar
+    example: Wir räumen die Wohnung auf.
+    example_translation: Nós arrumamos o apartamento.
+  - front: aufgeräumt
+    back: arrumado; organizado
+    example: Die Kinder haben ihr Zimmer aufgeräumt.
+    example_translation: As crianças arrumaram o quarto delas.
+  - front: mitkommen
+    back: vir junto; acompanhar
+    example: Kommst du mit?
+    example_translation: Você vem junto?
+  - front: mitgekommen
+    back: vindo junto; acompanhado
+    example: Meine Schwester ist mitgekommen.
+    example_translation: Minha irmã veio junto.
+  - front: einschlafen
+    back: adormecer
+    example: Ich schlafe schnell ein.
+    example_translation: Eu adormeço rápido.
+  - front: eingeschlafen
+    back: adormecido
+    example: Er ist spät eingeschlafen.
+    example_translation: Ele adormeceu tarde.
+  - front: weil ich eingekauft habe
+    back: porque eu fiz compras
+    example: Ich koche, weil ich eingekauft habe.
+    example_translation: Eu cozinho porque fiz compras.
+  - front: weil ich aufgestanden bin
+    back: porque eu me levantei
+    example: Ich bin wach, weil ich aufgestanden bin.
+    example_translation: Estou acordado porque me levantei.

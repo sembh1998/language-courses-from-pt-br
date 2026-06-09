@@ -1,0 +1,75 @@
+topic: Contraste Wo vs Wohin
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual frase mostra posição e usa dativo corretamente?
+    options:
+      - Der Mantel hängt im Flur.
+      - Der Mantel hängt in den Flur.
+      - Der Mantel hängt ins Flur.
+    answer: Der Mantel hängt im Flur.
+  - type: multiple_choice
+    question: "Complete: Jonas geht ___ Keller. (in + der Keller)"
+    options:
+      - im
+      - in den
+      - in dem
+    answer: in den
+  - type: multiple_choice
+    question: "Qual pergunta combina com a frase: Die Schuhe stehen vor der Tür?"
+    options:
+      - Wohin?
+      - Wann?
+      - Wo?
+    answer: Wo?
+  - type: fill_blank
+    question: "Complete: Ich hänge die Jacke ___ Stuhl. (über + der Stuhl)"
+    answer: über den
+  - type: fill_blank
+    question: "Complete: Die Jacke hängt ___ Stuhl. (über + der Stuhl)"
+    answer: über dem
+  - type: multiple_choice
+    question: "Situação: o carro vai para trás da escola. Qual frase está correta?"
+    options:
+      - Das Auto fährt hinter die Schule.
+      - Das Auto steht hinter der Schule.
+      - Das Auto fährt hinter der Schule.
+    answer: Das Auto fährt hinter die Schule.
+  - type: fill_blank
+    question: "Complete: Wir essen ___ Balkon. (auf + der Balkon)"
+    answer: auf dem
+  - type: fill_blank
+    question: "Complete: Wir gehen ___ Balkon. (auf + der Balkon)"
+    answer: auf den
+  - type: multiple_choice
+    question: Qual frase corresponde a Wohin?
+    options:
+      - Die Tasche ist neben dem Regal.
+      - Ich stelle die Tasche neben das Regal.
+      - Die Tasche steht neben dem Regal.
+    answer: Ich stelle die Tasche neben das Regal.
+  - type: correction
+    question: "Corrija: Der Kaffee steht auf den Tisch."
+    answer: Der Kaffee steht auf dem Tisch.
+  - type: correction
+    question: "Corrija: Lena legt ihr Handy in der Tasche."
+    answer: Lena legt ihr Handy in die Tasche.
+  - type: short_answer
+    question: "Responda em alemão: Wo schläft das Baby? (in + das Bett)"
+    answer: Das Baby schläft im Bett.
+  - type: short_answer
+    question: "Responda em alemão: Wohin legt der Vater das Baby? (in + das Bett)"
+    answer: Der Vater legt das Baby ins Bett.
+  - type: multiple_choice
+    question: Qual par está correto?
+    options:
+      - Wo? = acusativo; Wohin? = dativo
+      - Wo? = nominativo; Wohin? = dativo
+      - Wo? = dativo; Wohin? = acusativo
+    answer: Wo? = dativo; Wohin? = acusativo
+  - type: fill_blank
+    question: "Complete: Die Apotheke ist ___ Supermarkt und der Bank. (zwischen + der Supermarkt + die Bank)"
+    answer: zwischen dem Supermarkt und der Bank
+  - type: fill_blank
+    question: "Complete: Ich setze mich ___ Fenster. (an + das Fenster)"
+    answer: ans

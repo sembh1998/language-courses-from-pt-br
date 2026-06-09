@@ -1,0 +1,87 @@
+topic: Preposições de Tempo
+level: A2
+words:
+  - german: seit
+    translation: desde; há, quando algo continua até agora
+    type: preposition
+    gender: null
+    plural: null
+    example: Ich lerne seit einem Jahr Deutsch.
+    example_translation: Eu estudo alemão há um ano.
+  - german: vor
+    translation: há, para algo que aconteceu no passado
+    type: preposition
+    gender: null
+    plural: null
+    example: Wir waren vor einer Woche in Köln.
+    example_translation: Nós estivemos em Colônia há uma semana.
+  - german: in
+    translation: em; daqui a, em expressões de tempo futuro
+    type: preposition
+    gender: null
+    plural: null
+    example: Der Zug kommt in zehn Minuten.
+    example_translation: O trem chega em dez minutos.
+  - german: um
+    translation: às, para hora exata
+    type: preposition
+    gender: null
+    plural: null
+    example: Das Konzert beginnt um acht Uhr.
+    example_translation: O concerto começa às oito horas.
+  - german: am
+    translation: no; na, para dias e partes do dia
+    type: contraction
+    gender: null
+    plural: null
+    example: Am Sonntag schlafe ich lange.
+    example_translation: No domingo eu durmo até tarde.
+  - german: im
+    translation: em; no; na, para meses e estações
+    type: contraction
+    gender: null
+    plural: null
+    example: Im April regnet es oft.
+    example_translation: Em abril chove frequentemente.
+  - german: ab
+    translation: a partir de
+    type: preposition
+    gender: null
+    plural: null
+    example: Ab nächster Woche arbeite ich wieder.
+    example_translation: A partir da próxima semana eu trabalho de novo.
+  - german: bis
+    translation: até
+    type: preposition
+    gender: null
+    plural: null
+    example: Ich bleibe bis Freitag.
+    example_translation: Eu fico até sexta-feira.
+  - german: von ... bis
+    translation: de ... até; das ... às
+    type: expression
+    gender: null
+    plural: null
+    example: Der Kurs ist von neun bis elf Uhr.
+    example_translation: O curso é das nove às onze horas.
+  - german: die Woche
+    translation: a semana
+    type: noun
+    gender: feminine
+    plural: die Wochen
+    example: Ich habe diese Woche viel Zeit.
+    example_translation: Eu tenho muito tempo esta semana.
+  - german: der Monat
+    translation: o mês
+    type: noun
+    gender: masculine
+    plural: die Monate
+    example: Im nächsten Monat fahre ich nach Hamburg.
+    example_translation: No próximo mês eu vou para Hamburgo.
+  - german: die Stunde
+    translation: a hora; a aula
+    type: noun
+    gender: feminine
+    plural: die Stunden
+    example: Wir treffen uns in einer Stunde.
+    example_translation: Nós nos encontramos em uma hora.

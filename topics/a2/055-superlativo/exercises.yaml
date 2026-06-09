@@ -1,0 +1,90 @@
+topic: Superlativo
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com a forma predicativa do superlativo.
+    items:
+      - question: "Der Bus ist ___. (langsam)"
+        answer: am langsamsten
+      - question: "Diese Aufgabe ist ___. (leicht)"
+        answer: am leichtesten
+      - question: "Paul kocht ___. (gut)"
+        answer: am besten
+      - question: "Im Juli ist es oft ___. (heiß)"
+        answer: am heißesten
+
+  - type: multiple_choice
+    instruction: Escolha a opção correta para completar a frase.
+    items:
+      - question: "Welcher Weg ist ___?"
+        options:
+          - am kürzesten
+          - der kürzeste
+          - kürzester
+        answer: am kürzesten
+      - question: "Das ist ___ Café in der Straße."
+        options:
+          - am besten
+          - das beste
+          - beste am
+        answer: das beste
+      - question: "Ich esse ___ Pasta."
+        options:
+          - die liebste
+          - liebersten
+          - am liebsten
+        answer: am liebsten
+      - question: "Wir suchen ___ Preis."
+        options:
+          - am billigsten
+          - billigste
+          - den billigsten
+        answer: den billigsten
+
+  - type: fill_blank
+    instruction: Complete com der, die ou das e a forma correta do superlativo.
+    items:
+      - question: "___ ___ Film läuft heute. (gut)"
+        answer: der beste
+      - question: "___ ___ Wohnung kostet 700 Euro. (schön)"
+        answer: die schönste
+      - question: "___ ___ Zimmer ist für Gäste. (klein)"
+        answer: das kleinste
+      - question: "___ ___ Tasche gehört mir. (leicht)"
+        answer: die leichteste
+
+  - type: translation
+    instruction: Traduza para o alemão usando superlativo.
+    items:
+      - question: "Este restaurante é o melhor."
+        answer: Dieses Restaurant ist am besten.
+      - question: "Esse é o melhor restaurante."
+        answer: Das ist das beste Restaurant.
+      - question: "Eu gosto mais de chá."
+        answer: Ich trinke am liebsten Tee.
+      - question: "Nós pegamos o trem mais rápido."
+        answer: Wir nehmen den schnellsten Zug.
+
+  - type: sentence_transformation
+    instruction: Reescreva a frase mudando do uso predicativo para o atributivo.
+    items:
+      - question: "Der Park ist am schönsten."
+        answer: Das ist der schönste Park.
+      - question: "Die Idee ist am besten."
+        answer: Das ist die beste Idee.
+      - question: "Das Zimmer ist am größten."
+        answer: Das ist das größte Zimmer.
+      - question: "Der Laden ist am billigsten."
+        answer: Das ist der billigste Laden.
+
+  - type: correction
+    instruction: Corrija a frase em alemão.
+    items:
+      - question: "Dieses Hotel ist das besten."
+        answer: Dieses Hotel ist am besten.
+      - question: "Das ist am besten Plan."
+        answer: Das ist der beste Plan.
+      - question: "Ich fahre am gernsten mit dem Zug."
+        answer: Ich fahre am liebsten mit dem Zug.
+      - question: "Die heißste ist Suppe."
+        answer: Das ist die heißeste Suppe.

@@ -1,0 +1,79 @@
+topic: "Acusativo e dativo juntos"
+level: "A2"
+questions:
+  - type: "multiple_choice"
+    question: "Qual frase está correta?"
+    options:
+      - "Ich bringe der Nachbarin die Suppe."
+      - "Ich bringe die Nachbarin der Suppe."
+      - "Ich bringe den Nachbarin die Suppe."
+    answer: "Ich bringe der Nachbarin die Suppe."
+    points: 1
+  - type: "multiple_choice"
+    question: "Como dizer: Nós mostramos a cidade a você?"
+    options:
+      - "Wir zeigen dich die Stadt."
+      - "Wir zeigen dir die Stadt."
+      - "Wir zeigen die Stadt dir."
+    answer: "Wir zeigen dir die Stadt."
+    points: 1
+  - type: "multiple_choice"
+    question: "Qual opção tem dois pronomes na ordem comum?"
+    options:
+      - "Sie gibt ihm sie."
+      - "Sie gibt der Freundin sie."
+      - "Sie gibt sie ihm."
+    answer: "Sie gibt sie ihm."
+    points: 1
+  - type: "fill_blank"
+    question: "Mein Bruder schenkt ___ einen Kalender."
+    answer: "mir"
+    points: 1
+  - type: "fill_blank"
+    question: "Die Mutter liest dem Baby ___ Geschichte vor."
+    answer: "eine"
+    points: 1
+  - type: "fill_blank"
+    question: "Kannst du ___ die Adresse schicken?"
+    answer: "uns"
+    points: 1
+  - type: "transformation"
+    question: "Er gibt der Kollegin den Bericht. Substitua 'der Kollegin' por 'ihr'."
+    answer: "Er gibt ihr den Bericht."
+    points: 2
+  - type: "transformation"
+    question: "Ich zeige meinem Vater das Ticket. Substitua 'das Ticket' por 'es'."
+    answer: "Ich zeige es meinem Vater."
+    points: 2
+  - type: "ordering"
+    question: "Ordene: dem Gast / den Kaffee / bringt / die Kellnerin"
+    answer: "Die Kellnerin bringt dem Gast den Kaffee."
+    points: 2
+  - type: "ordering"
+    question: "Ordene: es / kann / geben / mir / Lea"
+    answer: "Lea kann es mir geben."
+    points: 2
+  - type: "classification"
+    question: "Identifique: Der Verkäufer gibt der Kundin die Rechnung."
+    answer: "dativo = der Kundin, acusativo = die Rechnung"
+    points: 2
+  - type: "classification"
+    question: "Identifique: Ich erzähle dir die Geschichte."
+    answer: "dativo = dir, acusativo = die Geschichte"
+    points: 2
+  - type: "translation"
+    question: "Traduza: Ela manda o documento para ele."
+    answer: "Sie schickt ihm das Dokument."
+    points: 2
+  - type: "translation"
+    question: "Traduza: Eu compro as passagens para nós."
+    answer: "Ich kaufe uns die Fahrkarten."
+    points: 2
+  - type: "correction"
+    question: "Corrija: Bitte zeig mir ihn."
+    answer: "Bitte zeig ihn mir."
+    points: 2
+  - type: "correction"
+    question: "Corrija: Der Opa gibt dem Mädchen einen Apfel."
+    answer: "Der Opa gibt dem Mädchen einen Apfel."
+    points: 2

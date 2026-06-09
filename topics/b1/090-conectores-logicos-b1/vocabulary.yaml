@@ -1,0 +1,80 @@
+topic: "Conectores lógicos B1"
+level: "B1"
+words:
+  - german: "deshalb"
+    translation: "por isso; portanto"
+    type: "connector"
+    gender: null
+    plural: null
+    example: "Ich bin krank. Deshalb bleibe ich zu Hause."
+    example_translation: "Estou doente. Por isso fico em casa."
+  - german: "trotzdem"
+    translation: "mesmo assim; apesar disso"
+    type: "connector"
+    gender: null
+    plural: null
+    example: "Es regnet. Trotzdem fahre ich mit dem Fahrrad."
+    example_translation: "Está chovendo. Mesmo assim vou de bicicleta."
+  - german: "obwohl"
+    translation: "embora; apesar de que"
+    type: "subordinating_connector"
+    gender: null
+    plural: null
+    example: "Ich lerne, obwohl ich müde bin."
+    example_translation: "Eu estudo, embora esteja cansado."
+  - german: "außerdem"
+    translation: "além disso"
+    type: "connector"
+    gender: null
+    plural: null
+    example: "Der Kurs ist interessant. Außerdem ist er kostenlos."
+    example_translation: "O curso é interessante. Além disso, é gratuito."
+  - german: "dann"
+    translation: "então; depois"
+    type: "connector"
+    gender: null
+    plural: null
+    example: "Ich frühstücke. Dann gehe ich zur Arbeit."
+    example_translation: "Eu tomo café da manhã. Depois vou ao trabalho."
+  - german: "danach"
+    translation: "depois disso"
+    type: "connector"
+    gender: null
+    plural: null
+    example: "Wir essen zu Mittag. Danach machen wir einen Spaziergang."
+    example_translation: "Nós almoçamos. Depois disso fazemos uma caminhada."
+  - german: "zuerst"
+    translation: "primeiro; em primeiro lugar"
+    type: "connector"
+    gender: null
+    plural: null
+    example: "Zuerst lese ich die E-Mail."
+    example_translation: "Primeiro eu leio o e-mail."
+  - german: "schließlich"
+    translation: "por fim; finalmente"
+    type: "connector"
+    gender: null
+    plural: null
+    example: "Schließlich unterschreibt sie den Vertrag."
+    example_translation: "Por fim ela assina o contrato."
+  - german: "der Grund"
+    translation: "o motivo; a razão"
+    type: "noun"
+    gender: "masculine"
+    plural: "die Gründe"
+    example: "Der Grund ist einfach."
+    example_translation: "O motivo é simples."
+  - german: "die Folge"
+    translation: "a consequência"
+    type: "noun"
+    gender: "feminine"
+    plural: "die Folgen"
+    example: "Die Folge ist klar."
+    example_translation: "A consequência é clara."
+  - german: "der Gegensatz"
+    translation: "o contraste; a oposição"
+    type: "noun"
+    gender: "masculine"
+    plural: "die Gegensätze"
+    example: "Der Gegensatz ist wichtig für den Text."
+    example_translation: "O contraste é importante para o texto."

@@ -1,0 +1,73 @@
+topic: Adjetivos após possessivos e kein
+level: A2
+words:
+  - german: mein guter Freund
+    translation: meu bom amigo
+    type: phrase
+    gender: masculine
+    plural: meine guten Freunde
+    example: Mein guter Freund hilft mir.
+    example_translation: Meu bom amigo me ajuda.
+  - german: meine gute Freundin
+    translation: minha boa amiga
+    type: phrase
+    gender: feminine
+    plural: meine guten Freundinnen
+    example: Meine gute Freundin wohnt hier.
+    example_translation: Minha boa amiga mora aqui.
+  - german: mein kleines Zimmer
+    translation: meu quarto pequeno
+    type: phrase
+    gender: neuter
+    plural: meine kleinen Zimmer
+    example: Mein kleines Zimmer ist gemütlich.
+    example_translation: Meu quarto pequeno é aconchegante.
+  - german: keine alten Bücher
+    translation: nenhum livro velho
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich habe keine alten Bücher.
+    example_translation: Eu não tenho livros velhos.
+  - german: kein kleines Problem
+    translation: nenhum problema pequeno
+    type: phrase
+    gender: neuter
+    plural: keine kleinen Probleme
+    example: Das ist kein kleines Problem.
+    example_translation: Isso não é um problema pequeno.
+  - german: keinen teuren Mantel
+    translation: nenhum casaco caro
+    type: phrase
+    gender: masculine
+    plural: keine teuren Mäntel
+    example: Ich kaufe keinen teuren Mantel.
+    example_translation: Eu não compro nenhum casaco caro.
+  - german: meine neue Tasche
+    translation: minha bolsa nova
+    type: phrase
+    gender: feminine
+    plural: meine neuen Taschen
+    example: Ich nehme meine neue Tasche.
+    example_translation: Eu pego minha bolsa nova.
+  - german: dein schneller Zug
+    translation: seu trem rápido
+    type: phrase
+    gender: masculine
+    plural: deine schnellen Züge
+    example: Dein schneller Zug kommt gleich.
+    example_translation: Seu trem rápido chega já.
+  - german: ihr schönes Haus
+    translation: a casa bonita dela
+    type: phrase
+    gender: neuter
+    plural: ihre schönen Häuser
+    example: Ihr schönes Haus ist sehr hell.
+    example_translation: A casa bonita dela é muito clara.
+  - german: unsere netten Nachbarn
+    translation: nossos vizinhos simpáticos
+    type: phrase
+    gender: null
+    plural: null
+    example: Unsere netten Nachbarn grüßen immer.
+    example_translation: Nossos vizinhos simpáticos sempre cumprimentam.

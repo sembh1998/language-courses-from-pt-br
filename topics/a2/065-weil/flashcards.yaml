@@ -1,0 +1,35 @@
+topic: Weil
+level: A2
+cards:
+  - front: weil
+    back: porque; usado para dar uma causa, com verbo no final
+    example: Ich lerne Deutsch, weil ich Arbeit suche.
+    example_translation: Eu estudo alemão porque procuro trabalho.
+  - front: weil ich müde bin
+    back: porque estou cansado; cansada
+    example: Ich gehe früh ins Bett, weil ich müde bin.
+    example_translation: Eu vou cedo para a cama porque estou cansado.
+  - front: weil sie krank ist
+    back: porque ela está doente
+    example: Anna kommt nicht, weil sie krank ist.
+    example_translation: Anna não vem porque está doente.
+  - front: weil er lernen muss
+    back: porque ele precisa estudar
+    example: Er bleibt zu Hause, weil er lernen muss.
+    example_translation: Ele fica em casa porque precisa estudar.
+  - front: weil wir keine Zeit haben
+    back: porque não temos tempo
+    example: Wir gehen nicht ins Kino, weil wir keine Zeit haben.
+    example_translation: Nós não vamos ao cinema porque não temos tempo.
+  - front: weil das Auto kaputt ist
+    back: porque o carro está quebrado
+    example: Wir nehmen den Zug, weil das Auto kaputt ist.
+    example_translation: Nós pegamos o trem porque o carro está quebrado.
+  - front: weil ich Deutsch brauche
+    back: porque eu preciso de alemão
+    example: Ich übe jeden Tag, weil ich Deutsch brauche.
+    example_translation: Eu pratico todos os dias porque preciso de alemão.
+  - front: weil es regnet
+    back: porque está chovendo
+    example: Wir bleiben drinnen, weil es regnet.
+    example_translation: Nós ficamos dentro porque está chovendo.

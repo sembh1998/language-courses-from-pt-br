@@ -1,0 +1,118 @@
+topic: Revisão geral A2
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete as frases no Perfekt com o particípio correto.
+    items:
+      - question: Ich habe gestern Pizza ___.
+        answer: gegessen
+      - question: Wir haben am Wochenende einen Film ___.
+        answer: gesehen
+      - question: Sie hat eine E-Mail ___.
+        answer: geschrieben
+      - question: Er hat lange Musik ___.
+        answer: gehört
+
+  - type: multiple_choice
+    instruction: Escolha o auxiliar correto no Perfekt.
+    items:
+      - question: Ich ___ nach München gefahren.
+        options:
+          - bin
+          - habe
+          - hat
+        answer: bin
+      - question: Meine Schwester ___ im Supermarkt eingekauft.
+        options:
+          - ist
+          - hat
+          - bist
+        answer: hat
+      - question: Die Kinder ___ früh aufgestanden.
+        options:
+          - haben
+          - seid
+          - sind
+        answer: sind
+      - question: Du ___ den Schlüssel gefunden.
+        options:
+          - bist
+          - hast
+          - ist
+        answer: hast
+
+  - type: fill_blank
+    instruction: Complete com a forma correta do dativo.
+    items:
+      - question: Ich helfe ___ Vater. (mein)
+        answer: meinem
+      - question: Sie spricht mit ___ Lehrerin. (die)
+        answer: der
+      - question: Wir fahren mit ___ Freunden. (die)
+        answer: den
+      - question: Das Geschenk ist von ___ Bruder. (ihr)
+        answer: ihrem
+
+  - type: multiple_choice
+    instruction: Escolha a preposição correta para cada contexto.
+    items:
+      - question: Am Abend gehe ich ___ Kino.
+        options:
+          - ins
+          - nach
+          - bei
+        answer: ins
+      - question: Morgen fahre ich ___ Berlin.
+        options:
+          - zu
+          - nach
+          - mit
+        answer: nach
+      - question: Lisa geht heute ___ Arzt.
+        options:
+          - nach dem
+          - in dem
+          - zum
+        answer: zum
+      - question: Ich wohne seit einem Monat ___ meiner Tante.
+        options:
+          - bei
+          - aus
+          - in die
+        answer: bei
+
+  - type: sentence_transformation
+    instruction: Transforme as duas frases em uma frase com a conjunção indicada.
+    items:
+      - question: Ich bleibe zu Hause. Ich bin krank. (weil)
+        answer: Ich bleibe zu Hause, weil ich krank bin.
+      - question: Er sagt es. Er kommt morgen. (dass)
+        answer: Er sagt, dass er morgen kommt.
+      - question: Ich habe Zeit. Ich koche gern. (wenn)
+        answer: Wenn ich Zeit habe, koche ich gern.
+      - question: Sie lernt viel. Sie hat nächste Woche eine Prüfung. (weil)
+        answer: Sie lernt viel, weil sie nächste Woche eine Prüfung hat.
+
+  - type: translation
+    instruction: Traduza para o alemão usando os padrões revisados.
+    items:
+      - question: Eu fui para casa de ônibus.
+        answer: Ich bin mit dem Bus nach Hause gefahren.
+      - question: Ela ajuda a amiga dela.
+        answer: Sie hilft ihrer Freundin.
+      - question: Nós acreditamos que o curso é importante.
+        answer: Wir glauben, dass der Kurs wichtig ist.
+      - question: Quando tenho tempo, pratico alemão.
+        answer: Wenn ich Zeit habe, übe ich Deutsch.
+
+  - type: short_answer
+    instruction: Responda em alemão com uma frase curta e completa.
+    items:
+      - question: Was hast du gestern gemacht?
+        answer: Ich habe gestern gelernt.
+      - question: Wem hilfst du oft?
+        answer: Ich helfe oft meiner Familie.
+      - question: Warum lernst du Deutsch?
+        answer: Ich lerne Deutsch, weil ich in Deutschland arbeiten möchte.
+      - question: Wohin gehst du, wenn du krank bist?
+        answer: Ich gehe zum Arzt.

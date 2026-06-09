@@ -1,0 +1,87 @@
+topic: Imperativo
+level: A2
+words:
+  - german: bitte
+    translation: por favor
+    type: adverb
+    gender: null
+    plural: null
+    example: Komm bitte um neun Uhr.
+    example_translation: Venha às nove horas, por favor.
+  - german: kommen
+    translation: vir
+    type: verb
+    gender: null
+    plural: null
+    example: Kommen Sie bitte herein.
+    example_translation: Entre, por favor.
+  - german: gehen
+    translation: ir
+    type: verb
+    gender: null
+    plural: null
+    example: Geh bitte nach Hause.
+    example_translation: Vá para casa, por favor.
+  - german: machen
+    translation: fazer
+    type: verb
+    gender: null
+    plural: null
+    example: Macht bitte die Aufgabe.
+    example_translation: Façam a tarefa, por favor.
+  - german: warten
+    translation: esperar
+    type: verb
+    gender: null
+    plural: null
+    example: Warten Sie bitte hier.
+    example_translation: Espere aqui, por favor.
+  - german: hören
+    translation: ouvir
+    type: verb
+    gender: null
+    plural: null
+    example: Hört bitte zu.
+    example_translation: Escutem, por favor.
+  - german: lesen
+    translation: ler
+    type: verb
+    gender: null
+    plural: null
+    example: Lies bitte den Text.
+    example_translation: Leia o texto, por favor.
+  - german: sprechen
+    translation: falar
+    type: verb
+    gender: null
+    plural: null
+    example: Sprich bitte langsam.
+    example_translation: Fale devagar, por favor.
+  - german: helfen
+    translation: ajudar
+    type: verb
+    gender: null
+    plural: null
+    example: Helfen Sie mir bitte.
+    example_translation: Ajude-me, por favor.
+  - german: sein
+    translation: ser; estar
+    type: verb
+    gender: null
+    plural: null
+    example: Sei bitte pünktlich.
+    example_translation: Seja pontual, por favor.
+  - german: vorsichtig
+    translation: cuidadoso; com cuidado
+    type: adjective
+    gender: null
+    plural: null
+    example: Seid bitte vorsichtig.
+    example_translation: Tenham cuidado, por favor.
+  - german: ruhig
+    translation: calmo; quieto
+    type: adjective
+    gender: null
+    plural: null
+    example: Sei bitte ruhig.
+    example_translation: Fique quieto, por favor.

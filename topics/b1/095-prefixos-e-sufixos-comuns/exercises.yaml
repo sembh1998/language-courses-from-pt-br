@@ -1,0 +1,107 @@
+topic: Prefixos e sufixos comuns
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: "Complete com o sufixo correto: -ung, -heit, -keit ou -schaft."
+    items:
+      - question: "Die Einlad___ zur Feier kam gestern."
+        answer: "ung"
+      - question: "Pünktlich___ ist im Büro wichtig."
+        answer: "keit"
+      - question: "Unsere Freund___ begann vor zehn Jahren."
+        answer: "schaft"
+      - question: "Gesund___ ist wichtiger als Stress."
+        answer: "heit"
+      - question: "Die Entscheid___ braucht Zeit."
+        answer: "ung"
+  - type: multiple_choice
+    instruction: "Escolha o artigo mais provável para a palavra formada."
+    items:
+      - question: "___ Bewerbung"
+        options:
+          - "die"
+          - "der"
+          - "das"
+        answer: "die"
+      - question: "___ Möglichkeit"
+        options:
+          - "das"
+          - "die"
+          - "der"
+        answer: "die"
+      - question: "___ Freundschaft"
+        options:
+          - "der"
+          - "das"
+          - "die"
+        answer: "die"
+      - question: "___ Freiheit"
+        options:
+          - "die"
+          - "der"
+          - "das"
+        answer: "die"
+  - type: multiple_choice
+    instruction: "Escolha o significado mais adequado do adjetivo."
+    items:
+      - question: "lesbar"
+        options:
+          - "sem leitura"
+          - "legível"
+          - "cheio de leitura"
+        answer: "legível"
+      - question: "respektlos"
+        options:
+          - "respeitoso"
+          - "legível"
+          - "desrespeitoso"
+        answer: "desrespeitoso"
+      - question: "hoffnungsvoll"
+        options:
+          - "esperançoso"
+          - "sem esperança"
+          - "impossível"
+        answer: "esperançoso"
+      - question: "sichtbar"
+        options:
+          - "sem vista"
+          - "cheio de visão"
+          - "visível"
+        answer: "visível"
+  - type: fill_blank
+    instruction: "Complete com o prefixo correto: be-, ver- ou ent-."
+    items:
+      - question: "Kannst du die Frage ___antworten?"
+        answer: "be"
+      - question: "Der Kurs ___ändert meine Meinung."
+        answer: "ver"
+      - question: "Im Urlaub ___decken wir neue Orte."
+        answer: "ent"
+      - question: "Bitte ___zahlen Sie an der Kasse."
+        answer: "be"
+      - question: "Die Firma ___wickelt eine neue App."
+        answer: "ent"
+  - type: transformation
+    instruction: "Forme uma palavra alemã a partir da base indicada."
+    items:
+      - question: "einladen + -ung"
+        answer: "Einladung"
+      - question: "frei + -heit"
+        answer: "Freiheit"
+      - question: "möglich + -keit"
+        answer: "Möglichkeit"
+      - question: "Freund + -schaft"
+        answer: "Freundschaft"
+      - question: "lesen + -bar"
+        answer: "lesbar"
+  - type: translation
+    instruction: "Traduza para o alemão usando uma palavra com prefixo ou sufixo estudado."
+    items:
+      - question: "A decisão foi difícil."
+        answer: "Die Entscheidung war schwierig."
+      - question: "O texto é legível."
+        answer: "Der Text ist lesbar."
+      - question: "Ela responde à pergunta."
+        answer: "Sie beantwortet die Frage."
+      - question: "Nós descobrimos uma solução."
+        answer: "Wir entdecken eine Lösung."

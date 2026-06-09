@@ -1,0 +1,87 @@
+topic: Preposições sempre com dativo
+level: A2
+words:
+  - german: mit
+    translation: com; de meio de transporte
+    type: preposition
+    gender: null
+    plural: null
+    example: Ich fahre mit dem Bus.
+    example_translation: Eu vou de ônibus.
+  - german: nach
+    translation: para; depois de
+    type: preposition
+    gender: null
+    plural: null
+    example: Nach dem Essen gehen wir spazieren.
+    example_translation: Depois da refeição, nós vamos passear.
+  - german: bei
+    translation: na casa de; junto a; em
+    type: preposition
+    gender: null
+    plural: null
+    example: Ich bin bei meiner Tante.
+    example_translation: Eu estou na casa da minha tia.
+  - german: seit
+    translation: desde; há
+    type: preposition
+    gender: null
+    plural: null
+    example: Sie wohnt seit einem Jahr hier.
+    example_translation: Ela mora aqui há um ano.
+  - german: von
+    translation: de; vindo de; pertencente a
+    type: preposition
+    gender: null
+    plural: null
+    example: Der Brief ist von meinem Freund.
+    example_translation: A carta é do meu amigo.
+  - german: zu
+    translation: para; até; em direção a
+    type: preposition
+    gender: null
+    plural: null
+    example: Wir gehen zu den Nachbarn.
+    example_translation: Nós vamos até os vizinhos.
+  - german: aus
+    translation: de; vindo de dentro; origem
+    type: preposition
+    gender: null
+    plural: null
+    example: Maria kommt aus Brasilien.
+    example_translation: Maria vem do Brasil.
+  - german: gegenüber
+    translation: em frente a; diante de
+    type: preposition
+    gender: null
+    plural: null
+    example: Die Bank ist gegenüber dem Bahnhof.
+    example_translation: O banco fica em frente à estação.
+  - german: zum
+    translation: para o; até o
+    type: contraction
+    gender: null
+    plural: null
+    example: Ich gehe zum Arzt.
+    example_translation: Eu vou ao médico.
+  - german: zur
+    translation: para a; até a
+    type: contraction
+    gender: null
+    plural: null
+    example: Sie fährt zur Arbeit.
+    example_translation: Ela vai para o trabalho.
+  - german: beim
+    translation: no; na casa de; junto ao
+    type: contraction
+    gender: null
+    plural: null
+    example: Er ist beim Friseur.
+    example_translation: Ele está no cabeleireiro.
+  - german: vom
+    translation: do; vindo do
+    type: contraction
+    gender: null
+    plural: null
+    example: Das Paket kommt vom Nachbarn.
+    example_translation: O pacote vem do vizinho.

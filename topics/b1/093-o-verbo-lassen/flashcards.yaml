@@ -1,0 +1,51 @@
+topic: O verbo lassen
+level: B1
+cards:
+  - front: lassen
+    back: deixar, permitir, mandar fazer
+    example: Wir lassen die Kinder draußen spielen.
+    example_translation: Nós deixamos as crianças brincarem lá fora.
+  - front: ich lasse
+    back: eu deixo, eu permito, eu mando fazer
+    example: Ich lasse mein Fahrrad reparieren.
+    example_translation: Eu mando consertar minha bicicleta.
+  - front: du lässt
+    back: você deixa, você permite, você manda fazer
+    example: Du lässt mich nie ausreden.
+    example_translation: Você nunca me deixa terminar de falar.
+  - front: er lässt
+    back: ele deixa, ele permite, ele manda fazer
+    example: Er lässt seine Jacke reinigen.
+    example_translation: Ele manda limpar o casaco dele.
+  - front: Lass mich!
+    back: Me deixe! ou Me deixa!
+    example: Lass mich bitte kurz nachdenken.
+    example_translation: Me deixe pensar um pouco, por favor.
+  - front: sich lassen
+    back: dar para, poder ser feito
+    example: Der Plan lässt sich ändern.
+    example_translation: Dá para mudar o plano.
+  - front: reparieren lassen
+    back: mandar consertar
+    example: Sie lässt den Laptop reparieren.
+    example_translation: Ela manda consertar o laptop.
+  - front: schneiden lassen
+    back: mandar cortar
+    example: Ich lasse mir die Haare schneiden.
+    example_translation: Eu mando cortar meu cabelo.
+  - front: liegen lassen
+    back: deixar esquecido ou largado
+    example: Er hat den Schlüssel zu Hause liegen lassen.
+    example_translation: Ele deixou a chave esquecida em casa.
+  - front: in Ruhe lassen
+    back: deixar em paz
+    example: Bitte lass mich in Ruhe.
+    example_translation: Por favor, me deixe em paz.
+  - front: ließ
+    back: deixou, permitiu, mandou fazer
+    example: Die Mutter ließ das Kind schlafen.
+    example_translation: A mãe deixou a criança dormir.
+  - front: hat machen lassen
+    back: mandou fazer
+    example: Er hat die Küche renovieren lassen.
+    example_translation: Ele mandou reformar a cozinha.

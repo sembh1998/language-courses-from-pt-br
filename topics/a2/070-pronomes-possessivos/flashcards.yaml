@@ -1,0 +1,51 @@
+topic: Pronomes Possessivos
+level: A2
+cards:
+  - front: mein Bruder
+    back: meu irmão
+    example: Mein Bruder ist heute zu Hause.
+    example_translation: Meu irmão está em casa hoje.
+  - front: meinen Bruder
+    back: meu irmão no acusativo
+    example: Ich suche meinen Bruder.
+    example_translation: Eu procuro meu irmão.
+  - front: deine Mutter
+    back: sua mãe
+    example: Deine Mutter ist sehr nett.
+    example_translation: Sua mãe é muito gentil.
+  - front: deinen Vater
+    back: seu pai no acusativo
+    example: Rufst du deinen Vater an?
+    example_translation: Você liga para seu pai?
+  - front: sein Auto
+    back: o carro dele
+    example: Sein Auto ist alt, aber gut.
+    example_translation: O carro dele é velho, mas bom.
+  - front: seine Schwester
+    back: a irmã dele
+    example: Seine Schwester studiert in Hamburg.
+    example_translation: A irmã dele estuda em Hamburgo.
+  - front: ihr Bruder
+    back: o irmão dela
+    example: Ihr Bruder spielt Fußball.
+    example_translation: O irmão dela joga futebol.
+  - front: ihren Bruder
+    back: o irmão dela no acusativo
+    example: Anna besucht ihren Bruder.
+    example_translation: Anna visita o irmão dela.
+  - front: unser Kind
+    back: nosso filho ou nossa criança
+    example: Unser Kind liest ein Buch.
+    example_translation: Nosso filho lê um livro.
+  - front: unsere Freunde
+    back: nossos amigos
+    example: Unsere Freunde kommen morgen.
+    example_translation: Nossos amigos vêm amanhã.
+  - front: euer Lehrer
+    back: o professor de vocês
+    example: Euer Lehrer spricht langsam.
+    example_translation: O professor de vocês fala devagar.
+  - front: euren Lehrer
+    back: o professor de vocês no acusativo
+    example: Kennt ihr euren Lehrer gut?
+    example_translation: Vocês conhecem bem o professor de vocês?

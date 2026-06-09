@@ -1,0 +1,65 @@
+topic: Superlativo
+level: A2
+questions:
+  - type: multiple_choice
+    question: "Complete: Dieser Stuhl ist ___."
+    options:
+      - am bequemsten
+      - der bequemste
+      - bequemste
+    answer: am bequemsten
+  - type: multiple_choice
+    question: "Qual frase significa 'Esse é o melhor livro'?"
+    options:
+      - Dieses Buch ist am besten.
+      - Das ist das beste Buch.
+      - Das Buch ist besser als das Heft.
+    answer: Das ist das beste Buch.
+  - type: multiple_choice
+    question: "Complete: Am Sonntag schlafe ich ___."
+    options:
+      - die meisten
+      - meistest
+      - am meisten
+    answer: am meisten
+  - type: fill_blank
+    question: "Complete: Maria spricht ___. (deutlich)"
+    answer: am deutlichsten
+  - type: fill_blank
+    question: "Complete: Das ist ___ ___ Straße im Dorf. (alt)"
+    answer: die älteste
+  - type: translation
+    question: "Traduza: A estação mais próxima fica ali."
+    answer: Die nächste Station ist dort.
+  - type: translation
+    question: "Traduza: Eu gosto mais de música."
+    answer: Ich höre am liebsten Musik.
+  - type: correction
+    question: "Corrija: Der rote Pullover ist der wärmsten."
+    answer: Der rote Pullover ist am wärmsten.
+  - type: sentence_transformation
+    question: "Mude para uso atributivo: Die Tasche ist am teuersten."
+    answer: Das ist die teuerste Tasche.
+  - type: multiple_choice
+    question: "Complete: Wir kaufen ___ Brot."
+    options:
+      - am frischesten
+      - frischeste
+      - das frischeste
+    answer: das frischeste
+  - type: fill_blank
+    question: "Complete: Ben fährt ___. (schnell)"
+    answer: am schnellsten
+  - type: translation
+    question: "Traduza: Esse é o maior problema."
+    answer: Das ist das größte Problem.
+  - type: correction
+    question: "Corrija: Ich trinke am liebersten Kaffee."
+    answer: Ich trinke am liebsten Kaffee.
+  - type: multiple_choice
+    question: "Qual opção está correta para 'a pergunta mais curta'?"
+    options:
+      - die kürzeste Frage
+      - am kürzesten Frage
+      - die kürzesten Frage
+    answer: die kürzeste Frage

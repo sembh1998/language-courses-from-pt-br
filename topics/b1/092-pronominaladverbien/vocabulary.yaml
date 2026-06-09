@@ -1,0 +1,87 @@
+topic: "Pronominaladverbien"
+level: "B1"
+words:
+  - german: "darauf"
+    translation: "nisso; por isso; para isso, com verbos/preposições com auf"
+    type: "pronominal adverb"
+    gender: null
+    plural: null
+    example: "Ich warte darauf."
+    example_translation: "Estou esperando por isso."
+  - german: "worauf"
+    translation: "em quê; sobre o quê; pelo quê, com auf"
+    type: "question pronominal adverb"
+    gender: null
+    plural: null
+    example: "Worauf wartest du?"
+    example_translation: "Pelo que você está esperando?"
+  - german: "daran"
+    translation: "nisso; nisso aí, com verbos/preposições com an"
+    type: "pronominal adverb"
+    gender: null
+    plural: null
+    example: "Ich denke daran."
+    example_translation: "Eu penso nisso."
+  - german: "woran"
+    translation: "em quê; no que, com an"
+    type: "question pronominal adverb"
+    gender: null
+    plural: null
+    example: "Woran denkst du?"
+    example_translation: "Em que você está pensando?"
+  - german: "damit"
+    translation: "com isso; com ele/ela quando é coisa"
+    type: "pronominal adverb"
+    gender: null
+    plural: null
+    example: "Ich arbeite damit."
+    example_translation: "Eu trabalho com isso."
+  - german: "womit"
+    translation: "com o quê"
+    type: "question pronominal adverb"
+    gender: null
+    plural: null
+    example: "Womit bezahlst du?"
+    example_translation: "Com o que você paga?"
+  - german: "dafür"
+    translation: "por isso; para isso; a favor disso, com für"
+    type: "pronominal adverb"
+    gender: null
+    plural: null
+    example: "Ich bin dafür."
+    example_translation: "Eu sou a favor disso."
+  - german: "wofür"
+    translation: "para quê; pelo quê, com für"
+    type: "question pronominal adverb"
+    gender: null
+    plural: null
+    example: "Wofür brauchst du das?"
+    example_translation: "Para que você precisa disso?"
+  - german: "warten auf"
+    translation: "esperar por"
+    type: "verb phrase"
+    gender: null
+    plural: null
+    example: "Wir warten auf die E-Mail."
+    example_translation: "Nós esperamos pelo e-mail."
+  - german: "denken an"
+    translation: "pensar em; lembrar de considerar"
+    type: "verb phrase"
+    gender: null
+    plural: null
+    example: "Denkst du an den Termin?"
+    example_translation: "Você está pensando no compromisso?"
+  - german: "arbeiten mit"
+    translation: "trabalhar com"
+    type: "verb phrase"
+    gender: null
+    plural: null
+    example: "Wir arbeiten mit einer neuen App."
+    example_translation: "Nós trabalhamos com um aplicativo novo."
+  - german: "sich interessieren für"
+    translation: "interessar-se por"
+    type: "verb phrase"
+    gender: null
+    plural: null
+    example: "Sie interessiert sich für Musik."
+    example_translation: "Ela se interessa por música."

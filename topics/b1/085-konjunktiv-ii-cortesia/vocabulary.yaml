@@ -1,0 +1,87 @@
+topic: "Konjunktiv II: Cortesia"
+level: B1
+words:
+  - german: "Ich hätte gern ..."
+    translation: "Eu gostaria de ..."
+    type: "fixed_phrase"
+    gender: null
+    plural: null
+    example: "Ich hätte gern ein Glas Wasser."
+    example_translation: "Eu gostaria de um copo de água."
+  - german: "Könnten Sie ...?"
+    translation: "O(a) senhor(a) poderia ...?"
+    type: "fixed_phrase"
+    gender: null
+    plural: null
+    example: "Könnten Sie mir bitte helfen?"
+    example_translation: "O(a) senhor(a) poderia me ajudar, por favor?"
+  - german: "Könntest du ...?"
+    translation: "Você poderia ...?"
+    type: "fixed_phrase"
+    gender: null
+    plural: null
+    example: "Könntest du die Tür schließen?"
+    example_translation: "Você poderia fechar a porta?"
+  - german: "Würden Sie bitte ...?"
+    translation: "O(a) senhor(a) faria o favor de ...?"
+    type: "fixed_phrase"
+    gender: null
+    plural: null
+    example: "Würden Sie bitte hier unterschreiben?"
+    example_translation: "O(a) senhor(a) faria o favor de assinar aqui?"
+  - german: "ich würde gern"
+    translation: "eu gostaria de"
+    type: "verb_phrase"
+    gender: null
+    plural: null
+    example: "Ich würde gern einen Termin vereinbaren."
+    example_translation: "Eu gostaria de marcar um horário."
+  - german: "ich hätte"
+    translation: "eu teria; eu gostaria de ter"
+    type: "verb_form"
+    gender: null
+    plural: null
+    example: "Ich hätte gern eine Auskunft."
+    example_translation: "Eu gostaria de uma informação."
+  - german: "ich wäre"
+    translation: "eu seria; eu estaria"
+    type: "verb_form"
+    gender: null
+    plural: null
+    example: "Ich wäre Ihnen sehr dankbar."
+    example_translation: "Eu ficaria muito agradecido(a) ao(à) senhor(a)."
+  - german: "ich könnte"
+    translation: "eu poderia"
+    type: "verb_form"
+    gender: null
+    plural: null
+    example: "Ich könnte morgen kommen."
+    example_translation: "Eu poderia vir amanhã."
+  - german: "Das wäre sehr nett."
+    translation: "Isso seria muito gentil."
+    type: "fixed_phrase"
+    gender: null
+    plural: null
+    example: "Könnten Sie mir die Nummer geben? Das wäre sehr nett."
+    example_translation: "O(a) senhor(a) poderia me dar o número? Isso seria muito gentil."
+  - german: "Hätten Sie vielleicht ...?"
+    translation: "O(a) senhor(a) teria talvez ...?"
+    type: "fixed_phrase"
+    gender: null
+    plural: null
+    example: "Hätten Sie vielleicht eine Minute Zeit?"
+    example_translation: "O(a) senhor(a) teria talvez um minuto?"
+  - german: "vereinbaren"
+    translation: "combinar; marcar"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Ich würde gern einen Termin vereinbaren."
+    example_translation: "Eu gostaria de marcar um horário."
+  - german: "wiederholen"
+    translation: "repetir"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Könnten Sie das bitte wiederholen?"
+    example_translation: "O(a) senhor(a) poderia repetir isso, por favor?"

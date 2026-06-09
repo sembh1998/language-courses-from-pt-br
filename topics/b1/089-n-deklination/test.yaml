@@ -1,0 +1,75 @@
+topic: N-Deklination
+level: B1
+questions:
+  - type: multiple_choice
+    question: Selecione a opção com acusativo correto para `der Kunde`.
+    options:
+      - Der Praktikant begrüßt den Kunden.
+      - Der Praktikant begrüßt den Kunde.
+      - Der Praktikant begrüßt dem Kunden.
+    answer: Der Praktikant begrüßt den Kunden.
+  - type: multiple_choice
+    question: Qual opção completa corretamente? Die Chefin gibt ___ eine neue Aufgabe.
+    options:
+      - den Kollegen
+      - dem Kollegen
+      - der Kollege
+    answer: dem Kollegen
+  - type: multiple_choice
+    question: Qual frase usa corretamente `der Mensch`?
+    options:
+      - Man muss den Mensch respektieren.
+      - Man muss dem Menschen respektieren.
+      - Man muss den Menschen respektieren.
+    answer: Man muss den Menschen respektieren.
+  - type: multiple_choice
+    question: Qual frase está no nominativo singular correto?
+    options:
+      - Der Junge erzählt eine Geschichte.
+      - Den Jungen erzählt eine Geschichte.
+      - Der Jungen erzählt eine Geschichte.
+    answer: Der Junge erzählt eine Geschichte.
+  - type: multiple_choice
+    question: Qual opção completa corretamente? Der Bericht ___ ist sehr genau.
+    options:
+      - des Patient
+      - des Patienten
+      - dem Patienten
+    answer: des Patienten
+  - type: multiple_choice
+    question: Escolha a forma adequada de `der Herr` após o verbo `informieren`.
+    options:
+      - Die Rezeptionistin informiert den Herr Weber.
+      - Die Rezeptionistin informiert dem Herrn Weber.
+      - Die Rezeptionistin informiert den Herrn Weber.
+    answer: Die Rezeptionistin informiert den Herrn Weber.
+  - type: fill_blank
+    question: "Complete: Ich danke dem ___ für seine Hilfe. (Nachbar)"
+    answer: Nachbarn
+  - type: fill_blank
+    question: "Complete: Anna besucht den ___ im Wohnheim. (Student)"
+    answer: Studenten
+  - type: fill_blank
+    question: "Complete: Die Meinung des ___ ist nicht immer objektiv. (Mensch)"
+    answer: Menschen
+  - type: fill_blank
+    question: "Complete: Der Verkäufer erklärt dem ___ das Angebot. (Kunde)"
+    answer: Kunden
+  - type: correction
+    question: "Corrija a frase: Ich sehe den Junge am Bahnhof."
+    answer: Ich sehe den Jungen am Bahnhof.
+  - type: correction
+    question: "Corrija a frase: Sie schreibt dem Student eine Nachricht."
+    answer: Sie schreibt dem Studenten eine Nachricht.
+  - type: transformation
+    question: "Transforme `der Kollege` para o acusativo em: Wir suchen ___."
+    answer: den Kollegen
+  - type: transformation
+    question: "Transforme `der Patient` para o dativo em: Die Pflegerin hilft ___."
+    answer: dem Patienten
+  - type: translation
+    question: "Traduza: Eu falo com o senhor Meier."
+    answer: Ich spreche mit dem Herrn Meier.
+  - type: translation
+    question: "Traduza: O amigo do menino mora aqui."
+    answer: Der Freund des Jungen wohnt hier.

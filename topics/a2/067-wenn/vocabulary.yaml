@@ -1,0 +1,73 @@
+topic: Wenn
+level: A2
+words:
+  - german: wenn
+    translation: se; quando; sempre que
+    type: conjunction
+    gender: null
+    plural: null
+    example: Wenn ich Zeit habe, komme ich.
+    example_translation: Se eu tiver tempo, eu venho.
+  - german: Zeit haben
+    translation: ter tempo
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich lerne, wenn ich Zeit habe.
+    example_translation: Eu estudo quando tenho tempo.
+  - german: krank sein
+    translation: estar doente
+    type: phrase
+    gender: null
+    plural: null
+    example: Wenn ich krank bin, bleibe ich zu Hause.
+    example_translation: Quando estou doente, fico em casa.
+  - german: müde sein
+    translation: estar cansado/cansada
+    type: phrase
+    gender: null
+    plural: null
+    example: Wenn Lisa müde ist, trinkt sie Tee.
+    example_translation: Quando Lisa está cansada, ela toma chá.
+  - german: das Wetter
+    translation: o tempo; o clima
+    type: noun
+    gender: neuter
+    plural: null
+    example: Wenn das Wetter gut ist, gehen wir spazieren.
+    example_translation: Quando o tempo está bom, nós vamos passear.
+  - german: regnen
+    translation: chover
+    type: verb
+    gender: null
+    plural: null
+    example: Wenn es regnet, nehme ich den Bus.
+    example_translation: Quando chove, eu pego o ônibus.
+  - german: Hilfe brauchen
+    translation: precisar de ajuda
+    type: phrase
+    gender: null
+    plural: null
+    example: Ruf mich an, wenn du Hilfe brauchst.
+    example_translation: Ligue para mim se você precisar de ajuda.
+  - german: zu Hause bleiben
+    translation: ficar em casa
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich bleibe zu Hause, wenn ich viel Arbeit habe.
+    example_translation: Eu fico em casa quando tenho muito trabalho.
+  - german: fertig sein
+    translation: estar pronto/pronta; terminar
+    type: phrase
+    gender: null
+    plural: null
+    example: Wenn ich fertig bin, rufe ich dich an.
+    example_translation: Quando eu terminar, eu ligo para você.
+  - german: Lust haben
+    translation: estar com vontade
+    type: phrase
+    gender: null
+    plural: null
+    example: Wir gehen ins Kino, wenn wir Lust haben.
+    example_translation: Nós vamos ao cinema se estivermos com vontade.

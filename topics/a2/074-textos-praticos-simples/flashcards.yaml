@@ -1,0 +1,43 @@
+topic: Textos práticos simples
+level: A2
+cards:
+  - front: Liebe Anna
+    back: Querida Anna
+    example: Liebe Anna, kommst du am Samstag?
+    example_translation: Querida Anna, você vem no sábado?
+  - front: Lieber Max
+    back: Querido Max
+    example: Lieber Max, ich habe eine Frage.
+    example_translation: Querido Max, eu tenho uma pergunta.
+  - front: Ich lade dich ein.
+    back: Eu convido você.
+    example: Ich lade dich zu meiner Party ein.
+    example_translation: Eu convido você para a minha festa.
+  - front: Hast du Zeit?
+    back: Você tem tempo?
+    example: Hast du am Freitag Zeit?
+    example_translation: Você tem tempo na sexta-feira?
+  - front: Die Party beginnt um 18 Uhr.
+    back: A festa começa às 18h.
+    example: Die Party beginnt um 18 Uhr bei mir.
+    example_translation: A festa começa às 18h na minha casa.
+  - front: Kannst du mir bitte antworten?
+    back: Você pode me responder, por favor?
+    example: Kannst du mir bitte heute antworten?
+    example_translation: Você pode me responder hoje, por favor?
+  - front: Ich komme später.
+    back: Eu venho mais tarde.
+    example: Ich komme heute leider später.
+    example_translation: Infelizmente eu venho mais tarde hoje.
+  - front: Zuerst frühstücke ich.
+    back: Primeiro eu tomo café da manhã.
+    example: Zuerst frühstücke ich, dann gehe ich zur Arbeit.
+    example_translation: Primeiro eu tomo café da manhã, depois vou ao trabalho.
+  - front: Am Wochenende habe ich gekocht.
+    back: No fim de semana eu cozinhei.
+    example: Am Wochenende habe ich gekocht und Musik gehört.
+    example_translation: No fim de semana eu cozinhei e ouvi música.
+  - front: Viele Grüße
+    back: Abraços / saudações
+    example: Viele Grüße, Julia
+    example_translation: Abraços, Julia

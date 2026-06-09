@@ -1,0 +1,75 @@
+topic: Orações relativas no acusativo e dativo
+level: B1
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Der Musiker, den ich höre, ist bekannt.
+      - Der Musiker, dem ich höre, ist bekannt.
+      - Der Musiker, der ich höre, ist bekannt.
+    answer: Der Musiker, den ich höre, ist bekannt.
+  - type: fill_blank
+    question: Das ist die Ärztin, ___ ich vertraue.
+    answer: der
+  - type: multiple_choice
+    question: "Complete corretamente: Das Café, ___ wir uns treffen, ist klein."
+    options:
+      - in das
+      - in dem
+      - in den
+    answer: in dem
+  - type: fill_blank
+    question: Die Wohnung, ___ Paul sucht, ist sehr hell.
+    answer: die
+  - type: multiple_choice
+    question: Qual opção usa corretamente o dativo plural?
+    options:
+      - Die Studenten, denen der Professor antwortet, machen Notizen.
+      - Die Studenten, die der Professor antwortet, machen Notizen.
+      - Die Studenten, den der Professor antwortet, machen Notizen.
+    answer: Die Studenten, denen der Professor antwortet, machen Notizen.
+  - type: transformation
+    question: "Junte as frases: Ich kenne den Fahrer. Der Fahrer bringt die Pakete."
+    answer: Der Fahrer, den ich kenne, bringt die Pakete.
+  - type: fill_blank
+    question: Das Gerät, mit ___ wir arbeiten, ist neu.
+    answer: dem
+  - type: multiple_choice
+    question: "Complete corretamente: Die Aufgabe, ___ wir lösen müssen, ist schwer."
+    options:
+      - der
+      - denen
+      - die
+    answer: die
+  - type: correction
+    question: "Corrija a frase: Der Junge, den ich helfe, lernt Deutsch."
+    answer: Der Junge, dem ich helfe, lernt Deutsch.
+  - type: fill_blank
+    question: Der Artikel, über ___ wir diskutieren, ist lang.
+    answer: den
+  - type: multiple_choice
+    question: Qual frase NÃO repete um pronome pessoal desnecessário?
+    options:
+      - Die Frau, der ich ihr danke, ist hier.
+      - Die Frau, die ich ihr sehe, ist hier.
+      - Die Frau, der ich danke, ist hier.
+    answer: Die Frau, der ich danke, ist hier.
+  - type: translation
+    question: "Traduza: O amigo para quem eu escrevo mora na Áustria."
+    answer: Der Freund, dem ich schreibe, wohnt in Österreich.
+  - type: multiple_choice
+    question: "Complete corretamente: Die Schule, ___ meine Kinder gehen, ist modern."
+    options:
+      - auf die
+      - auf der
+      - auf denen
+    answer: auf die
+  - type: fill_blank
+    question: Die Touristen, ___ ich den Weg zeige, kommen aus Spanien.
+    answer: denen
+  - type: transformation
+    question: "Junte as frases: Wir sprechen über die Prüfung. Die Prüfung ist nächste Woche."
+    answer: Die Prüfung, über die wir sprechen, ist nächste Woche.
+  - type: correction
+    question: "Corrija a frase: Das Mädchen, der das Heft gehört, ist nicht da."
+    answer: Das Mädchen, dem das Heft gehört, ist nicht da.

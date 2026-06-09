@@ -1,0 +1,43 @@
+topic: Dass
+level: A2
+cards:
+  - front: dass
+    back: que; usado para introduzir opinião, pensamento ou fala relatada
+    example: Ich glaube, dass er kommt.
+    example_translation: Eu acho que ele vem.
+  - front: Ich glaube, dass...
+    back: Eu acho que...
+    example: Ich glaube, dass Anna zu Hause ist.
+    example_translation: Eu acho que Anna está em casa.
+  - front: Ich denke, dass...
+    back: Eu penso que...; eu acho que...
+    example: Ich denke, dass wir Zeit haben.
+    example_translation: Eu acho que nós temos tempo.
+  - front: Ich finde, dass...
+    back: Eu acho que...; eu considero que...
+    example: Ich finde, dass Deutsch interessant ist.
+    example_translation: Eu acho que alemão é interessante.
+  - front: Ich weiß, dass...
+    back: Eu sei que...
+    example: Ich weiß, dass du viel lernst.
+    example_translation: Eu sei que você estuda muito.
+  - front: Er sagt, dass...
+    back: Ele diz que...
+    example: Er sagt, dass er später kommt.
+    example_translation: Ele diz que vem mais tarde.
+  - front: Es ist wichtig, dass...
+    back: É importante que...
+    example: Es ist wichtig, dass wir pünktlich sind.
+    example_translation: É importante que sejamos pontuais.
+  - front: dass + verbo no fim
+    back: em orações com dass, o verbo conjugado fica no final
+    example: Sie sagt, dass sie müde ist.
+    example_translation: Ela diz que está cansada.
+  - front: dass er kommen kann
+    back: que ele pode vir
+    example: Ich hoffe, dass er kommen kann.
+    example_translation: Eu espero que ele possa vir.
+  - front: dass wir warten müssen
+    back: que nós temos que esperar
+    example: Sie sagt, dass wir warten müssen.
+    example_translation: Ela diz que nós temos que esperar.

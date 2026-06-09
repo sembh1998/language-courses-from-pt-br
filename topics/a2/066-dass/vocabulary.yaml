@@ -1,0 +1,87 @@
+topic: Dass
+level: A2
+words:
+  - german: dass
+    translation: que
+    type: conjunction
+    gender: null
+    plural: null
+    example: Ich glaube, dass er kommt.
+    example_translation: Eu acho que ele vem.
+  - german: ich glaube
+    translation: eu acho; eu acredito
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich glaube, dass sie zu Hause ist.
+    example_translation: Eu acho que ela está em casa.
+  - german: ich denke
+    translation: eu penso; eu acho
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich denke, dass wir Zeit haben.
+    example_translation: Eu acho que nós temos tempo.
+  - german: ich finde
+    translation: eu acho; eu considero
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich finde, dass der Kurs gut ist.
+    example_translation: Eu acho que o curso é bom.
+  - german: ich weiß
+    translation: eu sei
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich weiß, dass du Deutsch lernst.
+    example_translation: Eu sei que você aprende alemão.
+  - german: er sagt
+    translation: ele diz
+    type: phrase
+    gender: null
+    plural: null
+    example: Er sagt, dass er morgen arbeitet.
+    example_translation: Ele diz que trabalha amanhã.
+  - german: sie erzählt
+    translation: ela conta; ela relata
+    type: phrase
+    gender: null
+    plural: null
+    example: Sie erzählt, dass ihre Familie in Hamburg wohnt.
+    example_translation: Ela conta que a família dela mora em Hamburgo.
+  - german: es ist wichtig
+    translation: é importante
+    type: phrase
+    gender: null
+    plural: null
+    example: Es ist wichtig, dass wir pünktlich sind.
+    example_translation: É importante que sejamos pontuais.
+  - german: es ist gut
+    translation: é bom
+    type: phrase
+    gender: null
+    plural: null
+    example: Es ist gut, dass du hier bist.
+    example_translation: É bom que você esteja aqui.
+  - german: ich hoffe
+    translation: eu espero
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich hoffe, dass du kommen kannst.
+    example_translation: Eu espero que você possa vir.
+  - german: pünktlich
+    translation: pontual; pontualmente
+    type: adjective_adverb
+    gender: null
+    plural: null
+    example: Ich denke, dass der Zug pünktlich ist.
+    example_translation: Eu acho que o trem está pontual.
+  - german: recht haben
+    translation: ter razão
+    type: expression
+    gender: null
+    plural: null
+    example: Ich glaube, dass du recht hast.
+    example_translation: Eu acho que você tem razão.

@@ -1,0 +1,65 @@
+topic: Particípio II regular
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual frase usa corretamente o Particípio II de lernen?
+    options:
+      - Ich habe Spanisch gelernt.
+      - Ich habe Spanisch gelernen.
+      - Ich habe Spanisch lernt.
+    answer: Ich habe Spanisch gelernt.
+  - type: fill_blank
+    question: "Complete: Nina hat eine Suppe ___. (kochen)"
+    answer: gekocht
+  - type: multiple_choice
+    question: Qual é o Particípio II de sagen?
+    options:
+      - gesagen
+      - gesagt
+      - sagt
+    answer: gesagt
+  - type: transformation
+    question: Transforme reisen em Particípio II.
+    answer: gereist
+  - type: fill_blank
+    question: "Complete: Wir haben im Hotel ___. (wohnen)"
+    answer: gewohnt
+  - type: multiple_choice
+    question: "Qual opção completa corretamente: Paul hat E-Mails ___?"
+    options:
+      - schreiben
+      - geschreiben
+      - geschrieben
+    answer: geschrieben
+  - type: error_correction
+    question: "Corrija o Particípio II: Ich habe die Tür geöffnetet."
+    answer: geöffnet
+  - type: fill_blank
+    question: "Complete: Ihr habt im Kurs viel ___. (fragen)"
+    answer: gefragt
+  - type: multiple_choice
+    question: Qual Particípio II segue o padrão regular ge- + radical + -t?
+    options:
+      - gespielt
+      - gehen
+      - geschrieben
+    answer: gespielt
+  - type: sentence_completion
+    question: "Complete com haben e Particípio II: Du ___ Musik ___. (hören)"
+    answer: hast gehört
+  - type: transformation
+    question: Transforme kosten em Particípio II.
+    answer: gekostet
+  - type: fill_blank
+    question: "Complete: Die Gruppe hat im Café ___. (warten)"
+    answer: gewartet
+  - type: translation
+    question: "Traduza: Eles fizeram o dever de casa."
+    answer: Sie haben Hausaufgaben gemacht.
+  - type: multiple_choice
+    question: Qual frase coloca o Particípio II no fim?
+    options:
+      - Anna hat gekauft Gemüse.
+      - Anna gekauft hat Gemüse.
+      - Anna hat Gemüse gekauft.
+    answer: Anna hat Gemüse gekauft.

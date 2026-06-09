@@ -1,0 +1,79 @@
+topic: Preposições com genitivo
+level: B1
+questions:
+  - type: multiple_choice
+    question: Qual preposição expressa melhor a ideia de "apesar de"?
+    options:
+      - trotz
+      - wegen
+      - innerhalb
+    answer: trotz
+  - type: multiple_choice
+    question: Qual frase usa uma forma padrão de genitivo?
+    options:
+      - Während den Workshops üben wir Dialoge.
+      - Während des Workshops üben wir Dialoge.
+      - Während dem Workshop üben wir Dialoge.
+    answer: Während des Workshops üben wir Dialoge.
+  - type: multiple_choice
+    question: "Complete: ___ der Verspätung entschuldigt sich der Fahrer."
+    options:
+      - Trotz
+      - Statt
+      - Wegen
+    answer: Wegen
+  - type: fill_blank
+    question: "Complete: Innerhalb ein___ Jahres möchte Klara Deutsch verbessern."
+    answer: es
+  - type: fill_blank
+    question: "Complete: Außerhalb d___ Sprechzeiten ist die Praxis geschlossen."
+    answer: er
+  - type: multiple_choice
+    question: "Qual é o genitivo de 'das Konzert' no contexto: wegen ___?"
+    options:
+      - dem Konzert
+      - das Konzert
+      - des Konzerts
+    answer: des Konzerts
+  - type: translation
+    question: "Traduza: Em vez de um táxi, pegamos o metrô."
+    answer: Statt eines Taxis nehmen wir die U-Bahn.
+  - type: translation
+    question: "Traduza: Durante a visita, ela tira muitas fotos."
+    answer: Während des Besuchs macht sie viele Fotos.
+  - type: multiple_choice
+    question: "Qual opção completa corretamente: Trotz ___ arbeitet das Team weiter."
+    options:
+      - der Schwierigkeiten
+      - die Schwierigkeiten
+      - den Schwierigkeiten
+    answer: der Schwierigkeiten
+  - type: fill_blank
+    question: "Complete com a preposição: ___ des Dorfes gibt es einen kleinen See."
+    answer: Außerhalb
+  - type: multiple_choice
+    question: Selecione a frase com wegen + genitivo.
+    options:
+      - Wegen einem Stromausfall bleibt der Laden zu.
+      - Wegen einen Stromausfall bleibt der Laden zu.
+      - Wegen eines Stromausfalls bleibt der Laden zu.
+    answer: Wegen eines Stromausfalls bleibt der Laden zu.
+  - type: fill_blank
+    question: "Complete: Statt ein___ Diskussion möchte sie eine klare Entscheidung."
+    answer: er
+  - type: translation
+    question: "Traduza: Dentro de duas semanas, recebemos os resultados."
+    answer: Innerhalb zweier Wochen bekommen wir die Ergebnisse.
+  - type: multiple_choice
+    question: Qual opção pertence melhor ao sentido de "fora do centro"?
+    options:
+      - außerhalb des Zentrums
+      - während des Zentrums
+      - trotz des Zentrums
+    answer: außerhalb des Zentrums
+  - type: transformation
+    question: "Una as ideias com genitivo: Es ist kalt. Trotzdem warten wir draußen. Verwende: trotz"
+    answer: Trotz der Kälte warten wir draußen.
+  - type: transformation
+    question: "Una as ideias com genitivo: Der Vertrag gilt nur in diesem Zeitraum. Verwende: innerhalb"
+    answer: Innerhalb dieses Zeitraums gilt der Vertrag.

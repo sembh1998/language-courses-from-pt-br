@@ -1,0 +1,73 @@
+topic: Preposições com genitivo
+level: B1
+words:
+  - german: während
+    translation: durante
+    type: preposition
+    gender: null
+    plural: null
+    example: Während des Films spricht niemand.
+    example_translation: Durante o filme, ninguém fala.
+  - german: wegen
+    translation: por causa de
+    type: preposition
+    gender: null
+    plural: null
+    example: Wegen der Arbeit bin ich müde.
+    example_translation: Por causa do trabalho, estou cansado.
+  - german: trotz
+    translation: apesar de
+    type: preposition
+    gender: null
+    plural: null
+    example: Trotz des Stresses bleibt sie freundlich.
+    example_translation: Apesar do estresse, ela continua simpática.
+  - german: statt
+    translation: em vez de
+    type: preposition
+    gender: null
+    plural: null
+    example: Statt eines Autos nimmt er den Bus.
+    example_translation: Em vez de um carro, ele pega o ônibus.
+  - german: innerhalb
+    translation: dentro de; no prazo de
+    type: preposition
+    gender: null
+    plural: null
+    example: Innerhalb einer Woche bekomme ich eine Antwort.
+    example_translation: Dentro de uma semana, recebo uma resposta.
+  - german: außerhalb
+    translation: fora de
+    type: preposition
+    gender: null
+    plural: null
+    example: Außerhalb der Stadt ist es ruhiger.
+    example_translation: Fora da cidade é mais tranquilo.
+  - german: des Wetters
+    translation: do tempo; do clima
+    type: genitive phrase
+    gender: neuter
+    plural: null
+    example: Wegen des Wetters bleiben wir zu Hause.
+    example_translation: Por causa do clima, ficamos em casa.
+  - german: der Woche
+    translation: da semana
+    type: genitive phrase
+    gender: feminine
+    plural: null
+    example: Innerhalb der Woche erledige ich die Aufgabe.
+    example_translation: Dentro da semana, eu resolvo a tarefa.
+  - german: des Termins
+    translation: do compromisso; da data marcada
+    type: genitive phrase
+    gender: masculine
+    plural: null
+    example: Während des Termins war mein Handy aus.
+    example_translation: Durante o compromisso, meu celular estava desligado.
+  - german: der Öffnungszeiten
+    translation: dos horários de funcionamento
+    type: genitive phrase
+    gender: null
+    plural: die Öffnungszeiten
+    example: Außerhalb der Öffnungszeiten ist das Büro geschlossen.
+    example_translation: Fora dos horários de funcionamento, o escritório está fechado.

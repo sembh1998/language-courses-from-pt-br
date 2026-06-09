@@ -1,0 +1,152 @@
+topic: Verbos Separáveis
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete a frase principal no presente com o prefixo correto no fim.
+    items:
+      - question: Ich stehe jeden Tag um sechs Uhr ___.
+        answer: auf
+      - question: Wir kaufen am Freitag ___.
+        answer: ein
+      - question: Lisa ruft ihre Oma ___.
+        answer: an
+      - question: Die Kinder räumen das Wohnzimmer ___.
+        answer: auf
+      - question: Mach bitte die Tür ___.
+        answer: zu
+
+  - type: fill_blank
+    instruction: Complete o particípio no Perfekt.
+    items:
+      - question: aufstehen → Ich bin früh ___.
+        answer: aufgestanden
+      - question: einkaufen → Wir haben Brot und Milch ___.
+        answer: eingekauft
+      - question: anrufen → Paul hat seine Lehrerin ___.
+        answer: angerufen
+      - question: aufräumen → Maria hat den Tisch ___.
+        answer: aufgeräumt
+      - question: einschlafen → Das Kind ist schnell ___.
+        answer: eingeschlafen
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta no Perfekt.
+    items:
+      - question: Como dizer "Eu fiz compras ontem"?
+        options:
+          - Ich habe gestern eingekauft.
+          - Ich bin gestern eingekauft.
+          - Ich habe gestern gekauft ein.
+        answer: Ich habe gestern eingekauft.
+      - question: Como dizer "Ela se levantou cedo"?
+        options:
+          - Sie hat früh aufgestanden.
+          - Sie ist früh aufgestanden.
+          - Sie ist früh gestanden auf.
+        answer: Sie ist früh aufgestanden.
+      - question: Qual frase usa corretamente `anrufen` no Perfekt?
+        options:
+          - Er hat gerufen an.
+          - Er ist angerufen.
+          - Er hat Anna angerufen.
+        answer: Er hat Anna angerufen.
+      - question: Qual frase está correta?
+        options:
+          - Wir haben die Küche aufgeräumt.
+          - Wir sind die Küche aufgeräumt.
+          - Wir haben die Küche geräumt auf.
+        answer: Wir haben die Küche aufgeräumt.
+      - question: Como dizer "Ele adormeceu no sofá"?
+        options:
+          - Er hat auf dem Sofa eingeschlafen.
+          - Er ist auf dem Sofa geschlafen ein.
+          - Er ist auf dem Sofa eingeschlafen.
+        answer: Er ist auf dem Sofa eingeschlafen.
+      - question: Qual frase está correta para `mitkommen`?
+        options:
+          - Du bist gestern mitgekommen.
+          - Du hast gestern mitgekommen.
+          - Du bist gestern gekommen mit.
+        answer: Du bist gestern mitgekommen.
+
+  - type: transformation
+    instruction: Transforme a frase do presente para o Perfekt.
+    items:
+      - question: Ich stehe um acht Uhr auf.
+        answer: Ich bin um acht Uhr aufgestanden.
+      - question: Wir kaufen im Supermarkt ein.
+        answer: Wir haben im Supermarkt eingekauft.
+      - question: Du rufst deinen Freund an.
+        answer: Du hast deinen Freund angerufen.
+      - question: Sie räumt ihr Zimmer auf.
+        answer: Sie hat ihr Zimmer aufgeräumt.
+      - question: Ihr macht das Fenster zu.
+        answer: Ihr habt das Fenster zugemacht.
+
+  - type: fill_blank
+    instruction: Complete a subordinada no Perfekt. Coloque o auxiliar no fim.
+    items:
+      - question: Ich bin müde, weil ich früh ___ ___.
+        answer: aufgestanden bin
+      - question: Wir kochen, weil wir schon ___ ___.
+        answer: eingekauft haben
+      - question: Anna ist ruhig, weil sie ihre Mutter ___ ___.
+        answer: angerufen hat
+      - question: Ich bin zufrieden, weil ich die Wohnung ___ ___.
+        answer: aufgeräumt habe
+      - question: Das Fenster ist zu, weil ich es ___ ___.
+        answer: zugemacht habe
+
+  - type: multiple_choice
+    instruction: Escolha a subordinada correta.
+    items:
+      - question: "Complete: Ich trinke Kaffee, weil ich früh ..."
+        options:
+          - bin aufgestanden.
+          - aufgestanden bin.
+          - stehe auf.
+        answer: aufgestanden bin.
+      - question: "Complete: Sie bleibt zu Hause, weil sie die Küche ..."
+        options:
+          - aufgeräumt hat.
+          - hat aufgeräumt.
+          - auf hat geräumt.
+        answer: aufgeräumt hat.
+      - question: "Complete: Ich weiß, dass Tom heute ..."
+        options:
+          - einkauft.
+          - kauft ein.
+          - eingekauft.
+        answer: einkauft.
+      - question: "Complete: Wenn Lara ..., gehen wir los."
+        options:
+          - ruft an
+          - hat angerufen
+          - anruft
+        answer: anruft
+      - question: "Complete: Er sagt, dass er gestern ..."
+        options:
+          - ist mitgekommen.
+          - mitgekommen ist.
+          - kommt mit.
+        answer: mitgekommen ist.
+      - question: "Complete: Ich bin froh, dass du alles ..."
+        options:
+          - zugemacht hast.
+          - hast zugemacht.
+          - zu gemacht hast.
+        answer: zugemacht hast.
+
+  - type: correction
+    instruction: Corrija a frase mantendo o mesmo sentido.
+    items:
+      - question: Ich habe heute aufgestanden.
+        answer: Ich bin heute aufgestanden.
+      - question: Sie hat gestern gekauft ein.
+        answer: Sie hat gestern eingekauft.
+      - question: Weil ich stehe früh auf, bin ich müde.
+        answer: Weil ich früh aufstehe, bin ich müde.
+      - question: Er ist seine Schwester angerufen.
+        answer: Er hat seine Schwester angerufen.
+      - question: Ich bin froh, weil ich habe aufgeräumt.
+        answer: Ich bin froh, weil ich aufgeräumt habe.

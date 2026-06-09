@@ -1,0 +1,87 @@
+topic: Infinitivo com zu
+level: B1
+words:
+  - german: "versuchen"
+    translation: "tentar"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Ich versuche, jeden Tag Deutsch zu lernen."
+    example_translation: "Eu tento aprender alemão todos os dias."
+  - german: "planen"
+    translation: "planejar"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Wir planen, im Sommer nach Berlin zu fahren."
+    example_translation: "Nós planejamos viajar para Berlim no verão."
+  - german: "vergessen"
+    translation: "esquecer"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Sie vergisst nie, die Fenster zu schließen."
+    example_translation: "Ela nunca esquece de fechar as janelas."
+  - german: "aufstehen"
+    translation: "levantar-se"
+    type: "separable verb"
+    gender: null
+    plural: null
+    example: "Es ist schwer, früh aufzustehen."
+    example_translation: "É difícil levantar cedo."
+  - german: "einkaufen"
+    translation: "fazer compras"
+    type: "separable verb"
+    gender: null
+    plural: null
+    example: "Ich habe keine Zeit, heute einzukaufen."
+    example_translation: "Eu não tenho tempo para fazer compras hoje."
+  - german: "sich freuen"
+    translation: "ficar feliz, alegrar-se"
+    type: "reflexive verb"
+    gender: null
+    plural: null
+    example: "Ich freue mich, dich wiederzusehen."
+    example_translation: "Fico feliz em ver você de novo."
+  - german: "Zeit haben"
+    translation: "ter tempo"
+    type: "phrase"
+    gender: null
+    plural: null
+    example: "Hast du Zeit, mir zu helfen?"
+    example_translation: "Você tem tempo para me ajudar?"
+  - german: "Lust haben"
+    translation: "estar com vontade"
+    type: "phrase"
+    gender: null
+    plural: null
+    example: "Ich habe Lust, heute zu kochen."
+    example_translation: "Estou com vontade de cozinhar hoje."
+  - german: "vorhaben"
+    translation: "pretender, ter em mente"
+    type: "separable verb"
+    gender: null
+    plural: null
+    example: "Wir haben vor, früher nach Hause zu gehen."
+    example_translation: "Nós pretendemos ir para casa mais cedo."
+  - german: "wichtig"
+    translation: "importante"
+    type: "adjective"
+    gender: null
+    plural: null
+    example: "Es ist wichtig, genug zu schlafen."
+    example_translation: "É importante dormir o suficiente."
+  - german: "schwer"
+    translation: "difícil, pesado"
+    type: "adjective"
+    gender: null
+    plural: null
+    example: "Es ist schwer, immer ruhig zu bleiben."
+    example_translation: "É difícil ficar sempre calmo."
+  - german: "erlaubt"
+    translation: "permitido"
+    type: "adjective"
+    gender: null
+    plural: null
+    example: "Es ist nicht erlaubt, hier zu parken."
+    example_translation: "Não é permitido estacionar aqui."

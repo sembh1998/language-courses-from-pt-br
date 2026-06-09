@@ -1,0 +1,69 @@
+topic: Orações relativas no nominativo
+level: B1
+questions:
+  - type: multiple_choice
+    question: Qual frase descreve corretamente uma médica em serviço?
+    options:
+      - Die Ärztin, die heute Dienst hat, kommt später.
+      - Die Ärztin, der heute Dienst hat, kommt später.
+      - Die Ärztin, das heute Dienst hat, kommt später.
+    answer: Die Ärztin, die heute Dienst hat, kommt später.
+  - type: multiple_choice
+    question: "Qual pronome completa a frase: Der Hund, ___ laut bellt, gehört Paul."
+    options:
+      - die
+      - der
+      - das
+    answer: der
+  - type: multiple_choice
+    question: Qual frase tem a ordem correta do verbo?
+    options:
+      - Das Geschäft, die um neun schließt, ist neu.
+      - Das Geschäft, das um neun schließen, ist neu.
+      - Das Geschäft, das um neun schließt, ist neu.
+    answer: Das Geschäft, das um neun schließt, ist neu.
+  - type: multiple_choice
+    question: Qual frase descreve corretamente vários convidados?
+    options:
+      - Die Gäste, die im Wohnzimmer sitzen, trinken Tee.
+      - Die Gäste, der im Wohnzimmer sitzen, trinken Tee.
+      - Die Gäste, das im Wohnzimmer sitzen, trinken Tee.
+    answer: Die Gäste, die im Wohnzimmer sitzen, trinken Tee.
+  - type: multiple_choice
+    question: Qual frase mostra nominativo dentro da oração relativa?
+    options:
+      - Ich treffe die Sängerin, die du kennst.
+      - Ich treffe die Sängerin, die auf der Bühne singt.
+      - Ich treffe die Sängerin, der ich schreibe.
+    answer: Ich treffe die Sängerin, die auf der Bühne singt.
+  - type: multiple_choice
+    question: Qual frase usa as vírgulas corretamente?
+    options:
+      - Der Park, die am Fluss liegt, ist schön.
+      - Der Park, das am Fluss liegt, ist schön.
+      - Der Park, der am Fluss liegt, ist schön.
+    answer: Der Park, der am Fluss liegt, ist schön.
+  - type: fill_blank
+    question: "Complete: Das Paket, ___ heute ankommt, ist für Maria."
+    answer: das
+  - type: fill_blank
+    question: "Complete: Die Firma, ___ neue Mitarbeiter sucht, ist international."
+    answer: die
+  - type: fill_blank
+    question: "Complete: Der Kurs, ___ nächste Woche beginnt, ist schon voll."
+    answer: der
+  - type: fill_blank
+    question: "Complete: Die Pflanzen, ___ auf dem Balkon wachsen, brauchen Wasser."
+    answer: die
+  - type: transformation
+    question: "Una as frases: Die Nachbarin ist freundlich. Sie gießt die Blumen."
+    answer: Die Nachbarin, die die Blumen gießt, ist freundlich.
+  - type: transformation
+    question: "Una as frases: Das Museum ist berühmt. Es zeigt moderne Kunst."
+    answer: Das Museum, das moderne Kunst zeigt, ist berühmt.
+  - type: transformation
+    question: "Una as frases: Der Pilot ist erfahren. Er fliegt nach Wien."
+    answer: Der Pilot, der nach Wien fliegt, ist erfahren.
+  - type: translation
+    question: "Traduza: As pessoas que esperam na recepção estão nervosas."
+    answer: Die Leute, die an der Rezeption warten, sind nervös.

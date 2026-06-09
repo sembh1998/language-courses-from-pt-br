@@ -1,0 +1,81 @@
+topic: Resumo, opinião e relato
+level: B1
+exercises:
+  - type: multiple_choice
+    instruction: Escolha a melhor abertura para cada tipo de texto.
+    items:
+      - question: Você quer começar um resumo sobre um artigo.
+        options:
+          - In dem Artikel geht es um die Nutzung von Handys in der Schule.
+          - Ich hasse Handys in der Schule total.
+          - Letzten Sommer habe ich ein neues Handy gekauft.
+        answer: In dem Artikel geht es um die Nutzung von Handys in der Schule.
+      - question: Você quer começar uma opinião pessoal.
+        options:
+          - Der Text nennt drei Beispiele.
+          - Meiner Meinung nach sollten Kinder mehr draußen spielen.
+          - Zuerst bin ich mit dem Bus gefahren.
+        answer: Meiner Meinung nach sollten Kinder mehr draußen spielen.
+      - question: Você quer começar um relato de experiência.
+        options:
+          - Zusammenfassend ist das Thema sehr aktuell.
+          - Der Autor beschreibt die Vorteile.
+          - Vor einem Jahr habe ich an einem Sprachkurs teilgenommen.
+        answer: Vor einem Jahr habe ich an einem Sprachkurs teilgenommen.
+  - type: fill_blank
+    instruction: Complete com um conector adequado.
+    items:
+      - question: Ich finde Online-Unterricht praktisch, ___ man von zu Hause lernen kann.
+        answer: weil
+      - question: Der Kurs war anstrengend. ___ habe ich viel gelernt.
+        answer: Trotzdem
+      - question: Zuerst habe ich den Text gelesen, ___ habe ich wichtige Wörter markiert.
+        answer: danach
+      - question: Viele Menschen fahren mit dem Auto. ___ ist das Fahrrad oft gesünder.
+        answer: jedoch
+      - question: Ich hatte keine Zeit, ___ habe ich nur einen kurzen Bericht geschrieben.
+        answer: deshalb
+  - type: rewrite
+    instruction: Reescreva a ideia como frase de nível B1 usando a expressão indicada.
+    items:
+      - question: "Tema: trabalho em casa. Use: In dem Text geht es um ..."
+        answer: In dem Text geht es um Arbeit von zu Hause.
+      - question: "Opinião: transporte público é útil. Use: Meiner Meinung nach ..."
+        answer: Meiner Meinung nach ist der öffentliche Verkehr nützlich.
+      - question: "Motivo: é barato. Use: Ich finde das gut, weil ..."
+        answer: Ich finde das gut, weil es billig ist.
+      - question: "Fechamento: há vantagens e desvantagens. Use: Zusammenfassend ..."
+        answer: Zusammenfassend kann man sagen, dass es Vorteile und Nachteile gibt.
+  - type: order_sentence
+    instruction: Coloque as partes em uma ordem natural para formar um parágrafo curto.
+    items:
+      - question: "A: Dann habe ich mit einer Kollegin gesprochen. | B: Letzte Woche hatte ich ein Problem bei der Arbeit. | C: Am Ende haben wir eine gute Lösung gefunden. | D: Zuerst habe ich eine E-Mail geschrieben."
+        answer: B D A C
+      - question: "A: Außerdem spart man Geld. | B: Meiner Meinung nach sollte man öfter kochen. | C: Zum Beispiel kann man gesunde Zutaten kaufen. | D: Deshalb finde ich Kochen sehr sinnvoll."
+        answer: B C A D
+      - question: "A: Der Autor nennt auch Nachteile. | B: In dem Text geht es um soziale Medien. | C: Zusammenfassend ist das Thema komplex. | D: Zuerst beschreibt er die Vorteile."
+        answer: B D A C
+  - type: classify
+    instruction: Classifique cada frase como resumo, opinião ou relato.
+    items:
+      - question: Der Autor sagt, dass viele Jugendliche zu wenig schlafen.
+        answer: resumo
+      - question: Ich bin der Meinung, dass Sport im Alltag sehr wichtig ist.
+        answer: opinião
+      - question: Am ersten Tag war ich sehr nervös, aber die Gruppe war freundlich.
+        answer: relato
+      - question: Außerdem wird erklärt, dass kleine Pausen beim Lernen helfen.
+        answer: resumo
+      - question: Diese Erfahrung hat mir gezeigt, dass Teamarbeit wichtig ist.
+        answer: relato
+  - type: short_answer
+    instruction: Escreva respostas curtas em alemão.
+    items:
+      - question: Escreva uma frase neutra para resumir um texto sobre alimentação saudável.
+        answer: In dem Text geht es um gesundes Essen.
+      - question: Dê uma opinião sobre aprender alemão e use weil.
+        answer: Ich finde Deutschlernen wichtig, weil es neue Chancen bringt.
+      - question: Relate uma experiência curta com primeiro e depois.
+        answer: Zuerst war ich unsicher, dann habe ich viel geübt.
+      - question: Escreva uma conclusão curta para uma opinião sobre bicicletas.
+        answer: Deshalb denke ich, dass mehr Menschen Fahrrad fahren sollten.

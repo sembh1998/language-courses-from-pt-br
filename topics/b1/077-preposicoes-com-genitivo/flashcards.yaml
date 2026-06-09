@@ -1,0 +1,43 @@
+topic: Preposições com genitivo
+level: B1
+cards:
+  - front: während + Genitiv
+    back: durante + genitivo
+    example: Während des Kurses machen wir Notizen.
+    example_translation: Durante o curso, fazemos anotações.
+  - front: wegen + Genitiv
+    back: por causa de + genitivo
+    example: Wegen des Schnees fährt der Zug später.
+    example_translation: Por causa da neve, o trem sai mais tarde.
+  - front: trotz + Genitiv
+    back: apesar de + genitivo
+    example: Trotz der Angst spricht er vor der Gruppe.
+    example_translation: Apesar do medo, ele fala diante do grupo.
+  - front: statt + Genitiv
+    back: em vez de + genitivo
+    example: Statt eines Briefes schreibt sie eine E-Mail.
+    example_translation: Em vez de uma carta, ela escreve um e-mail.
+  - front: innerhalb + Genitiv
+    back: dentro de; no prazo de + genitivo
+    example: Innerhalb eines Monats finde ich eine Wohnung.
+    example_translation: Dentro de um mês, encontro um apartamento.
+  - front: außerhalb + Genitiv
+    back: fora de + genitivo
+    example: Außerhalb des Zentrums sind die Mieten niedriger.
+    example_translation: Fora do centro, os aluguéis são mais baixos.
+  - front: der Verkehr → des Verkehrs
+    back: o trânsito → do trânsito
+    example: Wegen des Verkehrs kommt Lara später.
+    example_translation: Por causa do trânsito, Lara chega mais tarde.
+  - front: das Gespräch → des Gesprächs
+    back: a conversa → da conversa
+    example: Während des Gesprächs höre ich genau zu.
+    example_translation: Durante a conversa, eu escuto com atenção.
+  - front: die Prüfung → der Prüfung
+    back: a prova → da prova
+    example: Trotz der Prüfung bleibt er ruhig.
+    example_translation: Apesar da prova, ele permanece calmo.
+  - front: die Ferien → der Ferien
+    back: as férias → das férias
+    example: Während der Ferien besucht sie ihre Familie.
+    example_translation: Durante as férias, ela visita a família.

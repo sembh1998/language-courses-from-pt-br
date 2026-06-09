@@ -1,0 +1,51 @@
+topic: Contraste Wo vs Wohin
+level: A2
+cards:
+  - front: Wo?
+    back: onde? Usado para posição; pede dativo com Wechselpräpositionen.
+    example: Wo ist dein Rucksack? Im Zimmer.
+    example_translation: Onde está sua mochila? No quarto.
+  - front: Wohin?
+    back: para onde? Usado para direção; pede acusativo com Wechselpräpositionen.
+    example: Wohin gehst du? Ins Zimmer.
+    example_translation: Para onde você vai? Para dentro do quarto.
+  - front: im Haus
+    back: na casa; dentro da casa
+    example: Ich bin im Haus.
+    example_translation: Eu estou dentro da casa.
+  - front: ins Haus
+    back: para dentro da casa
+    example: Ich gehe ins Haus.
+    example_translation: Eu vou para dentro da casa.
+  - front: auf dem Tisch
+    back: em cima da mesa; posição com dativo
+    example: Die Schlüssel liegen auf dem Tisch.
+    example_translation: As chaves estão em cima da mesa.
+  - front: auf den Tisch
+    back: para cima da mesa; direção com acusativo
+    example: Ich lege die Schlüssel auf den Tisch.
+    example_translation: Eu coloco as chaves em cima da mesa.
+  - front: an der Wand
+    back: na parede; posição com dativo
+    example: Das Foto hängt an der Wand.
+    example_translation: A foto está pendurada na parede.
+  - front: an die Wand
+    back: para a parede; direção com acusativo
+    example: Ich hänge das Foto an die Wand.
+    example_translation: Eu penduro a foto na parede.
+  - front: unter dem Stuhl
+    back: embaixo da cadeira; posição com dativo
+    example: Die Katze schläft unter dem Stuhl.
+    example_translation: A gata dorme embaixo da cadeira.
+  - front: unter den Stuhl
+    back: para baixo da cadeira; direção com acusativo
+    example: Die Katze läuft unter den Stuhl.
+    example_translation: A gata corre para baixo da cadeira.
+  - front: neben dem Bett
+    back: ao lado da cama; posição com dativo
+    example: Der Tisch steht neben dem Bett.
+    example_translation: A mesa está ao lado da cama.
+  - front: neben das Bett
+    back: para o lado da cama; direção com acusativo
+    example: Ich stelle den Tisch neben das Bett.
+    example_translation: Eu coloco a mesa ao lado da cama.

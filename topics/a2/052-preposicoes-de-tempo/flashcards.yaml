@@ -1,0 +1,51 @@
+topic: Preposições de Tempo
+level: A2
+cards:
+  - front: seit
+    back: desde; há, quando a situação continua
+    example: Ich wohne seit zwei Jahren hier.
+    example_translation: Eu moro aqui há dois anos.
+  - front: vor
+    back: há, para evento terminado no passado
+    example: Er ist vor drei Tagen gekommen.
+    example_translation: Ele veio há três dias.
+  - front: in
+    back: daqui a, para futuro
+    example: Der Bus fährt in fünf Minuten.
+    example_translation: O ônibus sai em cinco minutos.
+  - front: um
+    back: às, para hora exata
+    example: Wir essen um sieben Uhr.
+    example_translation: Nós jantamos às sete horas.
+  - front: am Montag
+    back: na segunda-feira
+    example: Am Montag habe ich Deutschkurs.
+    example_translation: Na segunda-feira eu tenho curso de alemão.
+  - front: am Abend
+    back: à noite
+    example: Am Abend sehe ich einen Film.
+    example_translation: À noite eu vejo um filme.
+  - front: im Mai
+    back: em maio
+    example: Im Mai besuchen wir Freunde.
+    example_translation: Em maio nós visitamos amigos.
+  - front: im Sommer
+    back: no verão
+    example: Im Sommer reisen viele Leute.
+    example_translation: No verão muitas pessoas viajam.
+  - front: ab Dienstag
+    back: a partir de terça-feira
+    example: Ab Dienstag ist das Büro offen.
+    example_translation: A partir de terça-feira o escritório está aberto.
+  - front: bis morgen
+    back: até amanhã
+    example: Bitte schick die E-Mail bis morgen.
+    example_translation: Por favor, envie o e-mail até amanhã.
+  - front: von acht bis vierzehn Uhr
+    back: das oito às quatorze horas
+    example: Ich arbeite von acht bis vierzehn Uhr.
+    example_translation: Eu trabalho das oito às quatorze horas.
+  - front: seit einer Woche
+    back: há uma semana; desde uma semana
+    example: Sie ist seit einer Woche krank.
+    example_translation: Ela está doente há uma semana.

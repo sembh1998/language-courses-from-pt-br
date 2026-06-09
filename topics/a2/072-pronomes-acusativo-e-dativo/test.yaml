@@ -1,0 +1,63 @@
+topic: Pronomes acusativo + dativo
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta para "Eu empresto isso a você"?
+    options:
+      - Ich leihe es dir.
+      - Ich leihe dir es.
+      - Ich dir leihe es.
+    answer: Ich leihe es dir.
+  - type: multiple_choice
+    question: Qual pronome substitui "der Mantel" no acusativo?
+    options:
+      - es
+      - ihn
+      - ihm
+    answer: ihn
+  - type: multiple_choice
+    question: Qual frase significa "Ele envia ela para nós"?
+    options:
+      - Er schickt uns sie.
+      - Er uns schickt sie.
+      - Er schickt sie uns.
+    answer: Er schickt sie uns.
+  - type: fill_blank
+    question: das Paket -> Maria bringt ___ ihm.
+    answer: es
+  - type: fill_blank
+    question: ich -> Kannst du sie ___ zeigen?
+    answer: mir
+  - type: fill_blank
+    question: die Uhr -> Ich kaufe ___ ihr.
+    answer: sie
+  - type: transformation
+    question: Tom gibt seinem Vater den Stift.
+    answer: Tom gibt ihn ihm.
+  - type: transformation
+    question: Lara zeigt ihrer Schwester das Zimmer.
+    answer: Lara zeigt es ihr.
+  - type: transformation
+    question: Wir schicken unseren Freunden die Einladung.
+    answer: Wir schicken sie ihnen.
+  - type: translation
+    question: Você dá isso a mim?
+    answer: Gibst du es mir?
+  - type: translation
+    question: Ela traz ele para vocês.
+    answer: Sie bringt ihn euch.
+  - type: translation
+    question: Eu mostro ela a ele.
+    answer: Ich zeige sie ihm.
+  - type: correction
+    question: Ben erklärt ihr es.
+    answer: Ben erklärt es ihr.
+  - type: correction
+    question: Kannst du mir ihn bringen?
+    answer: Kannst du ihn mir bringen?
+  - type: short_answer
+    question: Forme uma frase com "der Kaffee" como pronome e destinatário "mir" usando bringen.
+    answer: Er bringt ihn mir.
+  - type: short_answer
+    question: Forme uma frase com "das Formular" como pronome e destinatário "dir" usando schicken.
+    answer: Ich schicke es dir.

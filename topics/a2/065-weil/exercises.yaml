@@ -1,0 +1,96 @@
+topic: Weil
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com a palavra correta para indicar causa.
+    items:
+      - question: Ich lerne Deutsch, ___ ich in Österreich arbeiten möchte.
+        answer: weil
+      - question: Lisa bleibt im Bett, ___ sie krank ist.
+        answer: weil
+      - question: Wir kaufen Wasser, ___ wir Durst haben.
+        answer: weil
+      - question: Tom nimmt eine Jacke, ___ es kalt ist.
+        answer: weil
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta com weil.
+    items:
+      - question: Qual frase está correta?
+        options:
+          - Ich bleibe zu Hause, weil ich müde bin.
+          - Ich bleibe zu Hause, weil ich bin müde.
+          - Ich bleibe zu Hause, weil bin ich müde.
+        answer: Ich bleibe zu Hause, weil ich müde bin.
+      - question: Qual frase coloca o verbo no final depois de weil?
+        options:
+          - Wir gehen nicht, weil regnet es.
+          - Wir gehen nicht, weil es regnet.
+          - Wir gehen nicht, weil es regnet ist.
+        answer: Wir gehen nicht, weil es regnet.
+      - question: Qual frase está correta com modal?
+        options:
+          - Er kommt später, weil er muss arbeiten.
+          - Er kommt später, weil muss er arbeiten.
+          - Er kommt später, weil er arbeiten muss.
+        answer: Er kommt später, weil er arbeiten muss.
+      - question: Qual frase está correta no Perfekt?
+        options:
+          - Sie ist froh, weil sie bestanden hat.
+          - Sie ist froh, weil sie hat bestanden.
+          - Sie ist froh, weil hat sie bestanden.
+        answer: Sie ist froh, weil sie bestanden hat.
+
+  - type: transformation
+    instruction: Una as duas frases usando weil. Mantenha a frase principal primeiro.
+    items:
+      - question: Ich trinke Kaffee. Ich bin müde.
+        answer: Ich trinke Kaffee, weil ich müde bin.
+      - question: Maria geht früh nach Hause. Sie hat Kopfschmerzen.
+        answer: Maria geht früh nach Hause, weil sie Kopfschmerzen hat.
+      - question: Wir nehmen den Bus. Unser Fahrrad ist kaputt.
+        answer: Wir nehmen den Bus, weil unser Fahrrad kaputt ist.
+      - question: Paul lernt viel. Er hat morgen eine Prüfung.
+        answer: Paul lernt viel, weil er morgen eine Prüfung hat.
+      - question: Die Kinder sind leise. Das Baby schläft.
+        answer: Die Kinder sind leise, weil das Baby schläft.
+
+  - type: word_order
+    instruction: Ordene as palavras para formar uma frase correta com weil.
+    items:
+      - question: ich / zu Hause / bleibe / weil / ich / krank / bin
+        answer: Ich bleibe zu Hause, weil ich krank bin.
+      - question: wir / langsam / fahren / weil / die Straße / nass / ist
+        answer: Wir fahren langsam, weil die Straße nass ist.
+      - question: er / nicht / kommt / weil / er / keine Zeit / hat
+        answer: Er kommt nicht, weil er keine Zeit hat.
+      - question: sie / Deutsch / übt / weil / sie / in Hamburg / wohnen möchte
+        answer: Sie übt Deutsch, weil sie in Hamburg wohnen möchte.
+
+  - type: error_correction
+    instruction: Corrija a ordem da frase com weil.
+    items:
+      - question: Ich esse jetzt, weil ich habe Hunger.
+        answer: Ich esse jetzt, weil ich Hunger habe.
+      - question: Anna nimmt ein Taxi, weil sie ist spät.
+        answer: Anna nimmt ein Taxi, weil sie spät ist.
+      - question: Wir bleiben hier, weil es ist warm.
+        answer: Wir bleiben hier, weil es warm ist.
+      - question: Max ist nervös, weil er muss sprechen.
+        answer: Max ist nervös, weil er sprechen muss.
+      - question: Ich bin glücklich, weil ich habe eine Wohnung gefunden.
+        answer: Ich bin glücklich, weil ich eine Wohnung gefunden habe.
+
+  - type: short_answer
+    instruction: Traduza para o alemão usando weil.
+    items:
+      - question: Eu estudo alemão porque moro em Munique.
+        answer: Ich lerne Deutsch, weil ich in München wohne.
+      - question: Ela não vem porque está doente.
+        answer: Sie kommt nicht, weil sie krank ist.
+      - question: Nós ficamos em casa porque está chovendo.
+        answer: Wir bleiben zu Hause, weil es regnet.
+      - question: Ele está cansado porque trabalha muito.
+        answer: Er ist müde, weil er viel arbeitet.
+      - question: Eu vou dormir porque preciso levantar cedo.
+        answer: Ich gehe schlafen, weil ich früh aufstehen muss.

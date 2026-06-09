@@ -1,0 +1,73 @@
+topic: Conjunções Coordenativas
+level: A2
+words:
+  - german: und
+    translation: e
+    type: conjunction
+    gender: null
+    plural: null
+    example: Ich lerne Deutsch und ich höre Musik.
+    example_translation: Eu estudo alemão e escuto música.
+  - german: oder
+    translation: ou
+    type: conjunction
+    gender: null
+    plural: null
+    example: Möchtest du Kaffee oder Tee?
+    example_translation: Você quer café ou chá?
+  - german: aber
+    translation: mas
+    type: conjunction
+    gender: null
+    plural: null
+    example: Ich bin müde, aber ich gehe zur Schule.
+    example_translation: Estou cansado, mas vou para a escola.
+  - german: denn
+    translation: pois, porque
+    type: conjunction
+    gender: null
+    plural: null
+    example: Ich bleibe zu Hause, denn ich bin krank.
+    example_translation: Fico em casa, pois estou doente.
+  - german: sondern
+    translation: mas sim
+    type: conjunction
+    gender: null
+    plural: null
+    example: Das ist kein Hotel, sondern ein Restaurant.
+    example_translation: Isso não é um hotel, mas sim um restaurante.
+  - german: nicht
+    translation: não
+    type: adverb
+    gender: null
+    plural: null
+    example: Ich wohne nicht in München, sondern in Hamburg.
+    example_translation: Eu não moro em Munique, mas sim em Hamburgo.
+  - german: kein
+    translation: nenhum, não um
+    type: determiner
+    gender: null
+    plural: keine
+    example: Ich habe kein Auto, sondern ein Fahrrad.
+    example_translation: Eu não tenho carro, mas sim uma bicicleta.
+  - german: weil
+    translation: porque
+    type: subordinating_conjunction
+    gender: null
+    plural: null
+    example: Ich komme später, weil ich arbeite.
+    example_translation: Eu venho mais tarde porque estou trabalhando.
+  - german: die Konjunktion
+    translation: a conjunção
+    type: noun
+    gender: feminine
+    plural: die Konjunktionen
+    example: Und ist eine Konjunktion.
+    example_translation: Und é uma conjunção.
+  - german: der Satz
+    translation: a frase
+    type: noun
+    gender: masculine
+    plural: die Sätze
+    example: Der Satz ist kurz.
+    example_translation: A frase é curta.

@@ -1,0 +1,51 @@
+topic: Orações relativas no acusativo e dativo
+level: B1
+cards:
+  - front: der Mann, den ich sehe
+    back: o homem que eu vejo
+    example: Der Mann, den ich sehe, wartet am Eingang.
+    example_translation: O homem que eu vejo espera na entrada.
+  - front: der Mann, dem ich helfe
+    back: o homem a quem eu ajudo
+    example: Der Mann, dem ich helfe, spricht wenig Deutsch.
+    example_translation: O homem a quem eu ajudo fala pouco alemão.
+  - front: die Frau, die ich kenne
+    back: a mulher que eu conheço
+    example: Die Frau, die ich kenne, arbeitet im Krankenhaus.
+    example_translation: A mulher que eu conheço trabalha no hospital.
+  - front: die Frau, der ich danke
+    back: a mulher a quem eu agradeço
+    example: Die Frau, der ich danke, hat mir sehr geholfen.
+    example_translation: A mulher a quem eu agradeço me ajudou muito.
+  - front: das Kind, das ich abhole
+    back: a criança que eu busco
+    example: Das Kind, das ich abhole, ist mein Neffe.
+    example_translation: A criança que eu busco é meu sobrinho.
+  - front: das Kind, dem ich vorlese
+    back: a criança para quem eu leio em voz alta
+    example: Das Kind, dem ich vorlese, hört aufmerksam zu.
+    example_translation: A criança para quem eu leio em voz alta escuta com atenção.
+  - front: die Freunde, denen ich schreibe
+    back: os amigos para quem eu escrevo
+    example: Die Freunde, denen ich schreibe, wohnen in Hamburg.
+    example_translation: Os amigos para quem eu escrevo moram em Hamburgo.
+  - front: mit dem
+    back: com o qual; com quem, masculino ou neutro no dativo
+    example: Der Kollege, mit dem ich arbeite, ist zuverlässig.
+    example_translation: O colega com quem trabalho é confiável.
+  - front: mit der
+    back: com a qual; com quem, feminino no dativo
+    example: Die Kollegin, mit der ich telefoniere, ist neu im Team.
+    example_translation: A colega com quem falo ao telefone é nova na equipe.
+  - front: mit denen
+    back: com os quais; com quem, plural no dativo
+    example: Die Leute, mit denen ich reise, sind freundlich.
+    example_translation: As pessoas com quem viajo são simpáticas.
+  - front: für den
+    back: para o qual; para quem, masculino no acusativo
+    example: Der Chef, für den ich arbeite, ist fair.
+    example_translation: O chefe para quem trabalho é justo.
+  - front: über das
+    back: sobre o qual, neutro no acusativo
+    example: Das Problem, über das wir sprechen, ist nicht neu.
+    example_translation: O problema sobre o qual falamos não é novo.

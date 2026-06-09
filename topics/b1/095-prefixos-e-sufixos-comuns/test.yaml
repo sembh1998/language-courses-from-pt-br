@@ -1,0 +1,65 @@
+topic: Prefixos e sufixos comuns
+level: B1
+questions:
+  - type: multiple_choice
+    question: "Qual palavra provavelmente é feminina por causa do sufixo?"
+    options:
+      - "die Hoffnung"
+      - "der Leser"
+      - "das Zimmer"
+    answer: "die Hoffnung"
+  - type: multiple_choice
+    question: "O que significa verständlich?"
+    options:
+      - "sem entendimento"
+      - "compreensível"
+      - "cheio de estantes"
+    answer: "compreensível"
+  - type: multiple_choice
+    question: "Qual adjetivo significa sem cuidado?"
+    options:
+      - "sorgenvoll"
+      - "sichtbar"
+      - "sorglos"
+    answer: "sorglos"
+  - type: fill_blank
+    question: "Complete: Die Verbesser___ des Plans ist deutlich."
+    answer: "ung"
+  - type: fill_blank
+    question: "Complete: Sicher___ ist im Straßenverkehr wichtig."
+    answer: "heit"
+  - type: fill_blank
+    question: "Complete: Diese Flüssig___ ist sehr kalt."
+    answer: "keit"
+  - type: fill_blank
+    question: "Complete: Die Nachbar___ organisiert ein Fest."
+    answer: "schaft"
+  - type: multiple_choice
+    question: "Qual frase usa -bar corretamente?"
+    options:
+      - "Der Brief ist gut lesbar."
+      - "Der Brief ist gut leslos."
+      - "Der Brief ist gut lesvoll."
+    answer: "Der Brief ist gut lesbar."
+  - type: multiple_choice
+    question: "Qual opção contrasta corretamente com humorvoll?"
+    options:
+      - "humorbar"
+      - "humorlos"
+      - "humorheit"
+    answer: "humorlos"
+  - type: fill_blank
+    question: "Complete com prefixo: Ich ___suche meine Tante im Krankenhaus."
+    answer: "be"
+  - type: fill_blank
+    question: "Complete com prefixo: Er ___liert oft seine Schlüssel."
+    answer: "ver"
+  - type: fill_blank
+    question: "Complete com prefixo: Die Polizei ___fernt das alte Fahrrad."
+    answer: "ent"
+  - type: transformation
+    question: "Forme o substantivo: krank + -heit"
+    answer: "Krankheit"
+  - type: translation
+    question: "Traduza: A possibilidade é pequena."
+    answer: "Die Möglichkeit ist klein."

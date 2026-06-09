@@ -1,0 +1,51 @@
+topic: Preposições sempre com dativo
+level: A2
+cards:
+  - front: mit
+    back: com; de meio de transporte; sempre com dativo
+    example: Ich fahre mit dem Fahrrad.
+    example_translation: Eu vou de bicicleta.
+  - front: nach
+    back: para; depois de; sempre com dativo
+    example: Nach dem Kurs gehe ich nach Hause.
+    example_translation: Depois do curso, eu vou para casa.
+  - front: bei
+    back: na casa de; junto a; sempre com dativo
+    example: Anna wohnt bei ihrer Mutter.
+    example_translation: Anna mora na casa da mãe dela.
+  - front: seit
+    back: desde; há; sempre com dativo
+    example: Ich lerne seit zwei Monaten Deutsch.
+    example_translation: Eu estudo alemão há dois meses.
+  - front: von
+    back: de; vindo de; sempre com dativo
+    example: Die Nachricht ist von meinem Chef.
+    example_translation: A mensagem é do meu chefe.
+  - front: zu
+    back: para; até; sempre com dativo
+    example: Wir gehen zu unserer Lehrerin.
+    example_translation: Nós vamos até a nossa professora.
+  - front: aus
+    back: de; vindo de dentro ou de uma origem; sempre com dativo
+    example: Er kommt aus der Türkei.
+    example_translation: Ele vem da Turquia.
+  - front: gegenüber
+    back: em frente a; sempre com dativo
+    example: Das Café ist gegenüber dem Museum.
+    example_translation: O café fica em frente ao museu.
+  - front: zum
+    back: contração de zu + dem
+    example: Ich muss zum Bahnhof.
+    example_translation: Eu preciso ir para a estação.
+  - front: zur
+    back: contração de zu + der
+    example: Sie geht zur Apotheke.
+    example_translation: Ela vai à farmácia.
+  - front: beim
+    back: contração de bei + dem
+    example: Er wartet beim Arzt.
+    example_translation: Ele espera no médico.
+  - front: vom
+    back: contração de von + dem
+    example: Das Essen ist vom Restaurant.
+    example_translation: A comida é do restaurante.

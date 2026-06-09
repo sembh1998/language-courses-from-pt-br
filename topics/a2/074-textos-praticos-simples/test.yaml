@@ -1,0 +1,57 @@
+topic: Textos práticos simples
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual saudação é informal e adequada para um amigo chamado Jonas?
+    options:
+      - Lieber Jonas
+      - Sehr geehrter Jonas
+      - Mit freundlichen Grüßen
+    answer: Lieber Jonas
+  - type: multiple_choice
+    question: Qual frase informa corretamente o lugar da reunião?
+    options:
+      - Die Treffen ist zu Hause.
+      - Das Treffen ist im Café.
+      - Der Treffen ist am Café.
+    answer: Das Treffen ist im Café.
+  - type: multiple_choice
+    question: Qual frase relata uma ação do fim de semana passado?
+    options:
+      - Ich gehe jeden Tag spazieren.
+      - Ich frühstücke um 8 Uhr.
+      - Ich habe am Sonntag Fußball gespielt.
+    answer: Ich habe am Sonntag Fußball gespielt.
+  - type: fill_blank
+    question: "Complete: Hallo Sara, ich ___ dir eine kurze Nachricht."
+    answer: schreibe
+  - type: fill_blank
+    question: "Complete: Der Film beginnt ___ 20 Uhr."
+    answer: um
+  - type: fill_blank
+    question: "Complete: ___ bald!"
+    answer: Bis
+  - type: short_answer
+    question: Escreva uma pergunta em alemão para saber se alguém tem tempo amanhã.
+    answer: Hast du morgen Zeit?
+  - type: short_answer
+    question: Escreva uma frase dizendo que você vai ao curso de manhã.
+    answer: Am Morgen gehe ich zum Kurs.
+  - type: short_answer
+    question: Escreva uma frase dizendo que no sábado você cozinhou.
+    answer: Am Samstag habe ich gekocht.
+  - type: ordering
+    question: "um 16 Uhr. / beginnt / Der Deutschkurs"
+    answer: Der Deutschkurs beginnt um 16 Uhr.
+  - type: ordering
+    question: "ich / Danach / Hausaufgaben. / mache"
+    answer: Danach mache ich Hausaufgaben.
+  - type: ordering
+    question: "du / bitte / Kannst / antworten? / mir"
+    answer: Kannst du mir bitte antworten?
+  - type: writing
+    question: Escreva um convite curto para uma festa na sexta-feira às 18h.
+    answer: Hallo, ich mache am Freitag um 18 Uhr eine Party. Möchtest du kommen? Viele Grüße
+  - type: writing
+    question: Escreva três frases simples sobre sua rotina à noite.
+    answer: Am Abend esse ich zu Hause. Dann sehe ich fern. Danach gehe ich ins Bett.

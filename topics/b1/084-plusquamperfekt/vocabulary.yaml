@@ -1,0 +1,87 @@
+topic: Plusquamperfekt
+level: B1
+words:
+  - german: "hatte gemacht"
+    translation: "tinha feito"
+    type: verb_form
+    gender: null
+    plural: null
+    example: "Ich hatte die Aufgabe schon gemacht."
+    example_translation: "Eu já tinha feito a tarefa."
+  - german: "war gegangen"
+    translation: "tinha ido; tinha ido embora"
+    type: verb_form
+    gender: null
+    plural: null
+    example: "Sie war vor dem Abendessen gegangen."
+    example_translation: "Ela tinha ido embora antes do jantar."
+  - german: "nachdem"
+    translation: "depois que"
+    type: connector
+    gender: null
+    plural: null
+    example: "Nachdem wir gegessen hatten, gingen wir spazieren."
+    example_translation: "Depois que tínhamos comido, fomos caminhar."
+  - german: "als"
+    translation: "quando; no momento em que"
+    type: connector
+    gender: null
+    plural: null
+    example: "Als ich ankam, war der Kurs schon begonnen."
+    example_translation: "Quando cheguei, o curso já tinha começado."
+  - german: "schon"
+    translation: "já"
+    type: adverb
+    gender: null
+    plural: null
+    example: "Der Zug war schon abgefahren."
+    example_translation: "O trem já tinha partido."
+  - german: "bevor"
+    translation: "antes que; antes de"
+    type: connector
+    gender: null
+    plural: null
+    example: "Ich hatte bezahlt, bevor wir das Restaurant verließen."
+    example_translation: "Eu tinha pago antes de sairmos do restaurante."
+  - german: "ankommen"
+    translation: "chegar"
+    type: verb
+    gender: null
+    plural: null
+    example: "Wir waren pünktlich angekommen."
+    example_translation: "Nós tínhamos chegado pontualmente."
+  - german: "abfahren"
+    translation: "partir; sair de veículo"
+    type: verb
+    gender: null
+    plural: null
+    example: "Der Bus war schon abgefahren."
+    example_translation: "O ônibus já tinha partido."
+  - german: "verlieren"
+    translation: "perder"
+    type: verb
+    gender: null
+    plural: null
+    example: "Er hatte seinen Ausweis verloren."
+    example_translation: "Ele tinha perdido seu documento."
+  - german: "reservieren"
+    translation: "reservar"
+    type: verb
+    gender: null
+    plural: null
+    example: "Wir hatten einen Tisch reserviert."
+    example_translation: "Nós tínhamos reservado uma mesa."
+  - german: "beginnen"
+    translation: "começar"
+    type: verb
+    gender: null
+    plural: null
+    example: "Der Vortrag hatte schon begonnen."
+    example_translation: "A palestra já tinha começado."
+  - german: "vergessen"
+    translation: "esquecer"
+    type: verb
+    gender: null
+    plural: null
+    example: "Ich hatte den Termin vergessen."
+    example_translation: "Eu tinha esquecido o compromisso."

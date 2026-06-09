@@ -1,0 +1,87 @@
+topic: Particípio II regular
+level: A2
+words:
+  - german: machen
+    translation: fazer
+    type: verb
+    gender: null
+    plural: null
+    example: Ich habe das Essen gemacht.
+    example_translation: Eu fiz a comida.
+  - german: gemacht
+    translation: feito
+    type: participle
+    gender: null
+    plural: null
+    example: Wir haben Hausaufgaben gemacht.
+    example_translation: Nós fizemos dever de casa.
+  - german: lernen
+    translation: aprender, estudar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich habe Deutsch gelernt.
+    example_translation: Eu aprendi alemão.
+  - german: gelernt
+    translation: aprendido, estudado
+    type: participle
+    gender: null
+    plural: null
+    example: Du hast viel gelernt.
+    example_translation: Você estudou muito.
+  - german: spielen
+    translation: jogar, brincar, tocar instrumento
+    type: verb
+    gender: null
+    plural: null
+    example: Die Kinder haben im Park gespielt.
+    example_translation: As crianças brincaram no parque.
+  - german: gespielt
+    translation: jogado, brincado, tocado
+    type: participle
+    gender: null
+    plural: null
+    example: Sie hat Klavier gespielt.
+    example_translation: Ela tocou piano.
+  - german: kaufen
+    translation: comprar
+    type: verb
+    gender: null
+    plural: null
+    example: Er hat Brot gekauft.
+    example_translation: Ele comprou pão.
+  - german: gekauft
+    translation: comprado
+    type: participle
+    gender: null
+    plural: null
+    example: Ich habe Wasser gekauft.
+    example_translation: Eu comprei água.
+  - german: wohnen
+    translation: morar
+    type: verb
+    gender: null
+    plural: null
+    example: Früher habe ich in Köln gewohnt.
+    example_translation: Antes eu morei em Colônia.
+  - german: gearbeitet
+    translation: trabalhado
+    type: participle
+    gender: null
+    plural: null
+    example: Am Montag habe ich gearbeitet.
+    example_translation: Na segunda-feira eu trabalhei.
+  - german: gewartet
+    translation: esperado
+    type: participle
+    gender: null
+    plural: null
+    example: Wir haben zehn Minuten gewartet.
+    example_translation: Nós esperamos dez minutos.
+  - german: der Partizip II
+    translation: o Particípio II
+    type: grammar_term
+    gender: masculine
+    plural: null
+    example: Gemacht ist ein Partizip II.
+    example_translation: Gemacht é um Particípio II.

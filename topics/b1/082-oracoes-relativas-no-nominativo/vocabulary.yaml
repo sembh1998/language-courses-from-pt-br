@@ -1,0 +1,87 @@
+topic: Orações relativas no nominativo
+level: B1
+words:
+  - german: der Mann
+    translation: o homem
+    type: noun
+    gender: masculine
+    plural: die Männer
+    example: Der Mann, der dort wartet, ist mein Nachbar.
+    example_translation: O homem que espera ali é meu vizinho.
+  - german: die Frau
+    translation: a mulher
+    type: noun
+    gender: feminine
+    plural: die Frauen
+    example: Die Frau, die neben mir sitzt, kommt aus Recife.
+    example_translation: A mulher que está sentada ao meu lado vem de Recife.
+  - german: das Kind
+    translation: a criança
+    type: noun
+    gender: neuter
+    plural: die Kinder
+    example: Das Kind, das im Park spielt, ist sehr fröhlich.
+    example_translation: A criança que brinca no parque está muito alegre.
+  - german: die Leute
+    translation: as pessoas
+    type: noun
+    gender: null
+    plural: die Leute
+    example: Die Leute, die hier wohnen, kennen sich gut.
+    example_translation: As pessoas que moram aqui se conhecem bem.
+  - german: der Kollege
+    translation: o colega de trabalho
+    type: noun
+    gender: masculine
+    plural: die Kollegen
+    example: Der Kollege, der das Projekt leitet, spricht gut Portugiesisch.
+    example_translation: O colega que lidera o projeto fala bem português.
+  - german: die Freundin
+    translation: a amiga
+    type: noun
+    gender: feminine
+    plural: die Freundinnen
+    example: Die Freundin, die in München lebt, besucht mich im Juli.
+    example_translation: A amiga que mora em Munique me visita em julho.
+  - german: das Zimmer
+    translation: o quarto
+    type: noun
+    gender: neuter
+    plural: die Zimmer
+    example: Das Zimmer, das frei ist, hat einen Balkon.
+    example_translation: O quarto que está livre tem uma varanda.
+  - german: die Nachbarn
+    translation: os vizinhos
+    type: noun
+    gender: null
+    plural: die Nachbarn
+    example: Die Nachbarn, die oben wohnen, sind sehr ruhig.
+    example_translation: Os vizinhos que moram em cima são muito tranquilos.
+  - german: arbeiten
+    translation: trabalhar
+    type: verb
+    gender: null
+    plural: null
+    example: Der Mann, der hier arbeitet, heißt Tobias.
+    example_translation: O homem que trabalha aqui se chama Tobias.
+  - german: wohnen
+    translation: morar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Familie, die in diesem Haus wohnt, ist neu in der Stadt.
+    example_translation: A família que mora nesta casa é nova na cidade.
+  - german: helfen
+    translation: ajudar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Lehrerin, die uns hilft, ist sehr geduldig.
+    example_translation: A professora que nos ajuda é muito paciente.
+  - german: warten
+    translation: esperar
+    type: verb
+    gender: null
+    plural: null
+    example: Das Mädchen, das am Eingang wartet, ist meine Cousine.
+    example_translation: A menina que espera na entrada é minha prima.

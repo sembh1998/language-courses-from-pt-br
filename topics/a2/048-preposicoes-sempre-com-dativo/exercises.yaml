@@ -1,0 +1,114 @@
+topic: Preposições sempre com dativo
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com o artigo no dativo.
+    items:
+      - question: Ich fahre mit ___ Zug.
+        answer: dem
+      - question: Lina wohnt bei ___ Tante.
+        answer: der
+      - question: Wir sprechen mit ___ Kindern.
+        answer: den
+      - question: Das Geschenk ist von ___ Bruder.
+        answer: meinem
+      - question: Nach ___ Arbeit kocht Paul.
+        answer: der
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta.
+    items:
+      - question: Qual frase usa corretamente mit?
+        options:
+          - Ich fahre mit dem Auto.
+          - Ich fahre mit das Auto.
+          - Ich fahre mit den Auto.
+        answer: Ich fahre mit dem Auto.
+      - question: Qual frase usa corretamente seit?
+        options:
+          - Sie lernt seit einen Monat Deutsch.
+          - Sie lernt seit einem Monat Deutsch.
+          - Sie lernt seit ein Monat Deutsch.
+        answer: Sie lernt seit einem Monat Deutsch.
+      - question: Qual frase usa corretamente gegenüber?
+        options:
+          - Die Post ist gegenüber der Bahnhof.
+          - Die Post ist gegenüber den Bahnhof.
+          - Die Post ist gegenüber dem Bahnhof.
+        answer: Die Post ist gegenüber dem Bahnhof.
+      - question: Qual frase usa corretamente bei?
+        options:
+          - Er ist bei seinem Vater.
+          - Er ist bei sein Vater.
+          - Er ist bei seinen Vater.
+        answer: Er ist bei seinem Vater.
+      - question: Qual frase usa corretamente aus?
+        options:
+          - Wir kommen aus die Stadt.
+          - Wir kommen aus der Stadt.
+          - Wir kommen aus den Stadt.
+        answer: Wir kommen aus der Stadt.
+      - question: Qual frase usa corretamente zu?
+        options:
+          - Maria geht zu der Arzt.
+          - Maria geht zu den Arzt.
+          - Maria geht zum Arzt.
+        answer: Maria geht zum Arzt.
+
+  - type: fill_blank
+    instruction: Complete com a preposição correta do grupo estudado.
+    items:
+      - question: Ich gehe ___ Hause.
+        answer: nach
+      - question: Der Brief ist ___ meiner Schwester.
+        answer: von
+      - question: Wir fahren ___ dem Bus zur Schule.
+        answer: mit
+      - question: Pedro kommt ___ Portugal.
+        answer: aus
+      - question: Sara ist heute ___ ihrer Freundin.
+        answer: bei
+      - question: Ich lerne Deutsch ___ drei Monaten.
+        answer: seit
+
+  - type: transformation
+    instruction: Transforme a combinação em uma forma natural com contração quando possível.
+    items:
+      - question: zu + dem Supermarkt
+        answer: zum Supermarkt
+      - question: zu + der Schule
+        answer: zur Schule
+      - question: bei + dem Arzt
+        answer: beim Arzt
+      - question: von + dem Lehrer
+        answer: vom Lehrer
+      - question: zu + den Eltern
+        answer: zu den Eltern
+
+  - type: translation
+    instruction: Traduza para o alemão usando preposição com dativo.
+    items:
+      - question: Eu vou de metrô.
+        answer: Ich fahre mit der U-Bahn.
+      - question: Ela vai para a farmácia.
+        answer: Sie geht zur Apotheke.
+      - question: Nós estamos na casa dos avós.
+        answer: Wir sind bei den Großeltern.
+      - question: Ele vem da escola.
+        answer: Er kommt aus der Schule.
+      - question: O café fica em frente ao hotel.
+        answer: Das Café ist gegenüber dem Hotel.
+
+  - type: correction
+    instruction: Corrija apenas a parte com a preposição e o dativo.
+    items:
+      - question: Ich fahre mit der Bus.
+        answer: Ich fahre mit dem Bus.
+      - question: Sie wohnt seit einen Jahr in Hamburg.
+        answer: Sie wohnt seit einem Jahr in Hamburg.
+      - question: Wir gehen zu dem Schule.
+        answer: Wir gehen zur Schule.
+      - question: Das Buch ist von die Lehrerin.
+        answer: Das Buch ist von der Lehrerin.
+      - question: Der Laden ist gegenüber den Park.
+        answer: Der Laden ist gegenüber dem Park.

@@ -1,0 +1,87 @@
+topic: "Verbos Reflexivos"
+level: "A2"
+words:
+  - german: "sich waschen"
+    translation: "lavar-se"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Ich wasche mich jeden Morgen."
+    example_translation: "Eu me lavo toda manhã."
+  - german: "sich freuen"
+    translation: "alegrar-se, ficar feliz"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Wir freuen uns sehr."
+    example_translation: "Nós ficamos muito felizes."
+  - german: "sich freuen auf"
+    translation: "ficar feliz por algo futuro"
+    type: "expression"
+    gender: null
+    plural: null
+    example: "Ich freue mich auf den Urlaub."
+    example_translation: "Eu estou feliz pelas férias que virão."
+  - german: "sich freuen über"
+    translation: "ficar feliz com algo"
+    type: "expression"
+    gender: null
+    plural: null
+    example: "Sie freut sich über die Blumen."
+    example_translation: "Ela fica feliz com as flores."
+  - german: "sich interessieren für"
+    translation: "interessar-se por"
+    type: "expression"
+    gender: null
+    plural: null
+    example: "Interessierst du dich für Geschichte?"
+    example_translation: "Você se interessa por história?"
+  - german: "mich"
+    translation: "me, a mim"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Ich erinnere mich nicht."
+    example_translation: "Eu não me lembro."
+  - german: "dich"
+    translation: "te, a ti"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Du setzt dich hier."
+    example_translation: "Você se senta aqui."
+  - german: "sich"
+    translation: "se"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Er freut sich."
+    example_translation: "Ele fica feliz."
+  - german: "uns"
+    translation: "nos"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Wir treffen uns um acht."
+    example_translation: "Nós nos encontramos às oito."
+  - german: "euch"
+    translation: "vos, vocês se"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Setzt euch bitte!"
+    example_translation: "Sentem-se, por favor!"
+  - german: "das Interesse"
+    translation: "o interesse"
+    type: "noun"
+    gender: "neuter"
+    plural: "die Interessen"
+    example: "Mein Interesse für Deutsch ist groß."
+    example_translation: "Meu interesse por alemão é grande."
+  - german: "die Nachricht"
+    translation: "a notícia, a mensagem"
+    type: "noun"
+    gender: "feminine"
+    plural: "die Nachrichten"
+    example: "Ich freue mich über die Nachricht."
+    example_translation: "Eu fico feliz com a notícia."

@@ -1,0 +1,43 @@
+topic: Particípio II regular
+level: A2
+cards:
+  - front: machen → gemacht
+    back: fazer → feito
+    example: Ich habe Kaffee gemacht.
+    example_translation: Eu fiz café.
+  - front: lernen → gelernt
+    back: aprender, estudar → aprendido, estudado
+    example: Wir haben Deutsch gelernt.
+    example_translation: Nós aprendemos alemão.
+  - front: spielen → gespielt
+    back: jogar, brincar, tocar → jogado, brincado, tocado
+    example: Die Kinder haben gespielt.
+    example_translation: As crianças brincaram.
+  - front: kaufen → gekauft
+    back: comprar → comprado
+    example: Du hast Brot gekauft.
+    example_translation: Você comprou pão.
+  - front: wohnen → gewohnt
+    back: morar → morado
+    example: Sie hat in Hamburg gewohnt.
+    example_translation: Ela morou em Hamburgo.
+  - front: hören → gehört
+    back: ouvir → ouvido
+    example: Ich habe Musik gehört.
+    example_translation: Eu ouvi música.
+  - front: fragen → gefragt
+    back: perguntar → perguntado
+    example: Er hat die Lehrerin gefragt.
+    example_translation: Ele perguntou à professora.
+  - front: arbeiten → gearbeitet
+    back: trabalhar → trabalhado
+    example: Am Samstag habe ich gearbeitet.
+    example_translation: No sábado eu trabalhei.
+  - front: warten → gewartet
+    back: esperar → esperado
+    example: Wir haben lange gewartet.
+    example_translation: Nós esperamos muito.
+  - front: ge- + radical + -t
+    back: padrão do Particípio II regular
+    example: lernen wird gelernt.
+    example_translation: Lernen vira gelernt.

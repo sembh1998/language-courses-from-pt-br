@@ -1,0 +1,75 @@
+topic: Revisão geral B1
+level: B1
+questions:
+  - type: multiple_choice
+    question: Qual frase relativa está correta?
+    options:
+      - Das ist die Ärztin, die meine Schwester behandelt hat.
+      - Das ist die Ärztin, der meine Schwester behandelt hat.
+      - Das ist die Ärztin, den meine Schwester behandelt hat.
+    answer: Das ist die Ärztin, die meine Schwester behandelt hat.
+  - type: fill_blank
+    question: "Complete: Der Kollege, mit ___ ich gesprochen habe, kommt aus Hamburg."
+    answer: dem
+  - type: transformation
+    question: "Reescreva educadamente: Ich will einen Kaffee. -> Ich ___ gern einen Kaffee."
+    answer: hätte
+  - type: multiple_choice
+    question: Qual frase usa Konjunktiv II corretamente?
+    options:
+      - Wenn ich frei habe, ich würde schwimmen gehen.
+      - Wenn ich frei hätte, würde ich schwimmen gehen.
+      - Wenn ich frei hätte, ich gehe schwimmen.
+    answer: Wenn ich frei hätte, würde ich schwimmen gehen.
+  - type: transformation
+    question: "Passe para a passiva: Man repariert den Computer heute. -> Der Computer ___."
+    answer: wird heute repariert
+  - type: multiple_choice
+    question: "Escolha a continuação correta: Paula ist krank, deshalb ___"
+    options:
+      - sie bleibt im Bett.
+      - bleibt sie im Bett.
+      - weil sie im Bett bleibt.
+    answer: bleibt sie im Bett.
+  - type: fill_blank
+    question: "Complete: Obwohl der Text lang ___, habe ich ihn verstanden."
+    answer: war
+  - type: multiple_choice
+    question: Qual frase passiva está correta?
+    options:
+      - Die Tickets werden am Eingang kontrolliert.
+      - Die Tickets sind am Eingang kontrollieren.
+      - Die Tickets werden am Eingang kontrollieren.
+    answer: Die Tickets werden am Eingang kontrolliert.
+  - type: fill_blank
+    question: "Complete: Ich bin nicht sicher, ob die Bibliothek heute geöffnet ___."
+    answer: ist
+  - type: short_answer
+    question: Escreva uma frase com uma oração relativa sobre um lugar que você gosta.
+    answer: Das ist ein Ort, den ich sehr mag.
+  - type: multiple_choice
+    question: Qual conector combina melhor com contraste?
+    options:
+      - weil
+      - dass
+      - trotzdem
+    answer: trotzdem
+  - type: transformation
+    question: "Forme uma hipótese: Ich habe kein Auto. -> Wenn ich ein Auto ___, ___ ich öfter ans Meer fahren."
+    answer: hätte; würde
+  - type: fill_blank
+    question: "Complete a relativa no dativo plural: Die Leute, ___ wir geschrieben haben, antworten morgen."
+    answer: denen
+  - type: multiple_choice
+    question: Qual frase está melhor para uma apresentação oral B1?
+    options:
+      - Ich finde das Thema wichtig, weil viele Menschen davon betroffen sind.
+      - Ich finde wichtig Thema, weil viele Menschen sind betroffen davon.
+      - Ich finde das Thema wichtig, deshalb viele Menschen davon betroffen sind.
+    answer: Ich finde das Thema wichtig, weil viele Menschen davon betroffen sind.
+  - type: short_answer
+    question: Faça uma pergunta educada para perguntar quando a prova começa.
+    answer: Könnten Sie mir bitte sagen, wann die Prüfung beginnt?
+  - type: transformation
+    question: "Una as ideias com obwohl: Der Kurs ist anstrengend. Ich lerne viel. -> ___"
+    answer: Obwohl der Kurs anstrengend ist, lerne ich viel.

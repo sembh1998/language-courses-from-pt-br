@@ -1,0 +1,43 @@
+topic: Declinação após artigo indefinido
+level: B1
+cards:
+  - front: ein guter Mann
+    back: um bom homem; masculino nominativo com -er
+    example: Ein guter Mann wartet geduldig.
+    example_translation: Um bom homem espera pacientemente.
+  - front: eine gute Frau
+    back: uma boa mulher; feminino nominativo/acusativo com -e
+    example: Eine gute Frau erklärt die Regel klar.
+    example_translation: Uma boa mulher explica a regra claramente.
+  - front: ein gutes Kind
+    back: uma boa criança; neutro nominativo/acusativo com -es
+    example: Ein gutes Kind hilft zu Hause.
+    example_translation: Uma boa criança ajuda em casa.
+  - front: einen guten Mann
+    back: um bom homem; masculino acusativo com -en
+    example: Wir treffen einen guten Mann aus Hamburg.
+    example_translation: Nós encontramos um bom homem de Hamburgo.
+  - front: mit einem guten Mann
+    back: com um bom homem; dativo masculino com -en
+    example: Sie spricht mit einem guten Mann.
+    example_translation: Ela fala com um bom homem.
+  - front: mit einer guten Frau
+    back: com uma boa mulher; dativo feminino com -en
+    example: Ich arbeite mit einer guten Frau.
+    example_translation: Eu trabalho com uma boa mulher.
+  - front: mit einem guten Kind
+    back: com uma boa criança; dativo neutro com -en
+    example: Der Lehrer übt mit einem guten Kind.
+    example_translation: O professor pratica com uma boa criança.
+  - front: gute Freunde
+    back: bons amigos; plural sem artigo no nominativo/acusativo com -e
+    example: Gute Freunde bleiben ehrlich.
+    example_translation: Bons amigos permanecem honestos.
+  - front: mit guten Freunden
+    back: com bons amigos; plural dativo sem artigo com -en
+    example: Mit guten Freunden lernt man leichter.
+    example_translation: Com bons amigos, aprende-se mais facilmente.
+  - front: guter Freunde
+    back: de bons amigos; plural genitivo sem artigo com -er
+    example: Die Hilfe guter Freunde ist wichtig.
+    example_translation: A ajuda de bons amigos é importante.

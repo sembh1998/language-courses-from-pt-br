@@ -1,0 +1,51 @@
+topic: Adjetivos após possessivos e kein
+level: A2
+cards:
+  - front: mein guter Freund
+    back: meu bom amigo
+    example: Mein guter Freund kommt heute.
+    example_translation: Meu bom amigo vem hoje.
+  - front: meinen guten Freund
+    back: meu bom amigo, no acusativo
+    example: Ich treffe meinen guten Freund.
+    example_translation: Eu encontro meu bom amigo.
+  - front: meine gute Freundin
+    back: minha boa amiga
+    example: Meine gute Freundin lernt Deutsch.
+    example_translation: Minha boa amiga aprende alemão.
+  - front: mein gutes Buch
+    back: meu bom livro
+    example: Mein gutes Buch liegt auf dem Tisch.
+    example_translation: Meu bom livro está sobre a mesa.
+  - front: meine guten Freunde
+    back: meus bons amigos
+    example: Meine guten Freunde wohnen in Berlin.
+    example_translation: Meus bons amigos moram em Berlim.
+  - front: kein kleiner Hund
+    back: nenhum cachorro pequeno
+    example: Das ist kein kleiner Hund.
+    example_translation: Isso não é um cachorro pequeno.
+  - front: keinen kleinen Hund
+    back: nenhum cachorro pequeno, no acusativo
+    example: Ich sehe keinen kleinen Hund.
+    example_translation: Eu não vejo nenhum cachorro pequeno.
+  - front: kein kleines Problem
+    back: nenhum problema pequeno
+    example: Das ist kein kleines Problem.
+    example_translation: Isso não é um problema pequeno.
+  - front: keine kleine Katze
+    back: nenhuma gata pequena
+    example: Hier wohnt keine kleine Katze.
+    example_translation: Aqui não mora nenhuma gata pequena.
+  - front: keine kleinen Kinder
+    back: nenhuma criança pequena, plural
+    example: Im Büro sind keine kleinen Kinder.
+    example_translation: No escritório não há crianças pequenas.
+  - front: deine neue Jacke
+    back: sua jaqueta nova
+    example: Deine neue Jacke ist schön.
+    example_translation: Sua jaqueta nova é bonita.
+  - front: unser helles Zimmer
+    back: nosso quarto claro
+    example: Unser helles Zimmer ist ruhig.
+    example_translation: Nosso quarto claro é tranquilo.

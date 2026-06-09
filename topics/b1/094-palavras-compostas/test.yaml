@@ -1,0 +1,79 @@
+topic: Palavras compostas
+level: B1
+questions:
+  - type: multiple_choice
+    question: Qual artigo está correto?
+    options:
+      - die Fahrradlampe
+      - der Fahrradlampe
+      - das Fahrradlampe
+    answer: die Fahrradlampe
+  - type: multiple_choice
+    question: Qual é a melhor tradução para der Sommerurlaub?
+    options:
+      - as férias de verão
+      - o sol das férias
+      - o trabalho de verão
+    answer: as férias de verão
+  - type: multiple_choice
+    question: Em das Kinderzimmer, qual substantivo decide o gênero?
+    options:
+      - Kinder
+      - das
+      - Zimmer
+    answer: Zimmer
+  - type: fill_blank
+    question: "Complete com o artigo correto: ___ Sprachschule liegt im Zentrum."
+    answer: Die
+  - type: fill_blank
+    question: "Complete com o artigo correto: ___ Monatskarte kostet 49 Euro."
+    answer: Die
+  - type: fill_blank
+    question: "Complete a palavra composta: Bahn + Karte = ___"
+    answer: Bahnkarte
+  - type: transformation
+    question: "Escreva em alemão com artigo: o curso de integração."
+    answer: der Integrationskurs
+  - type: transformation
+    question: "Escreva em alemão com artigo: o quarto das crianças."
+    answer: das Kinderzimmer
+  - type: correction
+    question: "Corrija o artigo: die Sommerurlaub"
+    answer: der Sommerurlaub
+  - type: correction
+    question: "Corrija o artigo: der Sprachschule"
+    answer: die Sprachschule
+  - type: multiple_choice
+    question: Por que se diz das Hotelzimmer?
+    options:
+      - Porque Hotel é neutro.
+      - Porque Zimmer é neutro.
+      - Porque toda palavra com Hotel é neutra.
+    answer: Porque Zimmer é neutro.
+  - type: multiple_choice
+    question: Qual palavra está escrita como composto padrão?
+    options:
+      - die Reise Planung
+      - die Reise-Planung sempre obrigatoriamente
+      - die Reiseplanung
+    answer: die Reiseplanung
+  - type: fill_blank
+    question: "Complete a tradução: die Wochenendfahrt = a viagem de ___"
+    answer: fim de semana
+  - type: multiple_choice
+    question: Em die Rheinbrücke, qual é a ideia principal?
+    options:
+      - uma ponte
+      - um rio
+      - uma cidade
+    answer: uma ponte
+  - type: fill_blank
+    question: "Complete com a palavra alemã: a porta do jardim = die ___"
+    answer: Gartentür
+  - type: multiple_choice
+    question: Qual divisão ajuda melhor a entender Donaudampfschifffahrt?
+    options:
+      - Donau + Dampf + Schiff + Fahrt
+      - Do + naudampf + schiffahrt
+      - Donau + Schule + Fahrt
+    answer: Donau + Dampf + Schiff + Fahrt

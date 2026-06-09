@@ -1,0 +1,87 @@
+topic: Revisão geral B1
+level: B1
+words:
+  - german: die Prüfung
+    translation: a prova; o exame
+    type: noun
+    gender: feminine
+    plural: die Prüfungen
+    example: Die Prüfung findet am Freitag statt.
+    example_translation: A prova acontece na sexta-feira.
+  - german: die Anmeldung
+    translation: a inscrição
+    type: noun
+    gender: feminine
+    plural: die Anmeldungen
+    example: Die Anmeldung wird online gemacht.
+    example_translation: A inscrição é feita online.
+  - german: der Vorschlag
+    translation: a sugestão; a proposta
+    type: noun
+    gender: masculine
+    plural: die Vorschläge
+    example: Dein Vorschlag wäre sehr hilfreich.
+    example_translation: A sua sugestão seria muito útil.
+  - german: die Voraussetzung
+    translation: o requisito; a condição prévia
+    type: noun
+    gender: feminine
+    plural: die Voraussetzungen
+    example: Gute Deutschkenntnisse sind eine wichtige Voraussetzung.
+    example_translation: Bons conhecimentos de alemão são um requisito importante.
+  - german: der Termin
+    translation: o horário marcado; o compromisso
+    type: noun
+    gender: masculine
+    plural: die Termine
+    example: Könnten Sie den Termin bitte bestätigen?
+    example_translation: O senhor/A senhora poderia confirmar o horário, por favor?
+  - german: die Erfahrung
+    translation: a experiência
+    type: noun
+    gender: feminine
+    plural: die Erfahrungen
+    example: Das ist eine Erfahrung, die mir geholfen hat.
+    example_translation: Essa é uma experiência que me ajudou.
+  - german: deshalb
+    translation: por isso
+    type: connector
+    gender: null
+    plural: null
+    example: Ich war krank, deshalb bin ich zu Hause geblieben.
+    example_translation: Eu estava doente, por isso fiquei em casa.
+  - german: trotzdem
+    translation: mesmo assim; apesar disso
+    type: connector
+    gender: null
+    plural: null
+    example: Es war schwierig, trotzdem habe ich weitergelernt.
+    example_translation: Foi difícil, mesmo assim continuei estudando.
+  - german: obwohl
+    translation: embora; apesar de que
+    type: connector
+    gender: null
+    plural: null
+    example: Obwohl ich müde war, habe ich den Text geschrieben.
+    example_translation: Embora eu estivesse cansado, escrevi o texto.
+  - german: wenn
+    translation: se; quando
+    type: connector
+    gender: null
+    plural: null
+    example: Wenn ich Zeit hätte, würde ich mitkommen.
+    example_translation: Se eu tivesse tempo, eu iria junto.
+  - german: einen Termin vereinbaren
+    translation: marcar um horário
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich würde gern einen Termin vereinbaren.
+    example_translation: Eu gostaria de marcar um horário.
+  - german: eine Meinung begründen
+    translation: justificar uma opinião
+    type: phrase
+    gender: null
+    plural: null
+    example: Im Test muss man seine Meinung begründen.
+    example_translation: Na prova, é preciso justificar a própria opinião.

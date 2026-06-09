@@ -1,0 +1,43 @@
+topic: Declinação após artigo definido
+level: A2
+cards:
+  - front: der gute Mann
+    back: o bom homem
+    example: Der gute Mann hilft.
+    example_translation: O bom homem ajuda.
+  - front: den guten Mann
+    back: o bom homem no acusativo
+    example: Ich sehe den guten Mann.
+    example_translation: Eu vejo o bom homem.
+  - front: die gute Frau
+    back: a boa mulher
+    example: Die gute Frau kommt heute.
+    example_translation: A boa mulher vem hoje.
+  - front: das gute Kind
+    back: a boa criança
+    example: Das gute Kind spielt im Garten.
+    example_translation: A boa criança brinca no jardim.
+  - front: die guten Kinder
+    back: as boas crianças
+    example: Die guten Kinder lernen zusammen.
+    example_translation: As boas crianças aprendem juntas.
+  - front: dem guten Freund
+    back: ao bom amigo / com o bom amigo
+    example: Ich helfe dem guten Freund.
+    example_translation: Eu ajudo o bom amigo.
+  - front: der netten Lehrerin
+    back: à professora simpática / da professora simpática
+    example: Ich danke der netten Lehrerin.
+    example_translation: Eu agradeço à professora simpática.
+  - front: den alten Häusern
+    back: às casas velhas / nas casas velhas
+    example: Wir gehen zu den alten Häusern.
+    example_translation: Nós vamos até as casas velhas.
+  - front: die neuen Bücher
+    back: os livros novos
+    example: Die neuen Bücher sind interessant.
+    example_translation: Os livros novos são interessantes.
+  - front: das frische Brot
+    back: o pão fresco
+    example: Das frische Brot kostet drei Euro.
+    example_translation: O pão fresco custa três euros.

@@ -1,0 +1,87 @@
+topic: Perfekt com verbos separáveis e inseparáveis
+level: A2
+words:
+  - german: aufstehen
+    translation: levantar-se
+    type: verb
+    gender: null
+    plural: null
+    example: Ich bin früh aufgestanden.
+    example_translation: Eu levantei cedo.
+  - german: aufgestanden
+    translation: levantado; levantou-se
+    type: participle
+    gender: null
+    plural: null
+    example: Sie ist um acht Uhr aufgestanden.
+    example_translation: Ela levantou às oito horas.
+  - german: einkaufen
+    translation: fazer compras
+    type: verb
+    gender: null
+    plural: null
+    example: Wir haben am Samstag eingekauft.
+    example_translation: Nós fizemos compras no sábado.
+  - german: eingekauft
+    translation: feito compras; comprou
+    type: participle
+    gender: null
+    plural: null
+    example: Tom hat Gemüse eingekauft.
+    example_translation: Tom comprou legumes.
+  - german: besuchen
+    translation: visitar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich habe meine Tante besucht.
+    example_translation: Eu visitei minha tia.
+  - german: besucht
+    translation: visitado; visitou
+    type: participle
+    gender: null
+    plural: null
+    example: Wir haben ein Museum besucht.
+    example_translation: Nós visitamos um museu.
+  - german: bekommen
+    translation: receber; ganhar
+    type: verb
+    gender: null
+    plural: null
+    example: Du hast einen Brief bekommen.
+    example_translation: Você recebeu uma carta.
+  - german: verstanden
+    translation: entendido; entendeu
+    type: participle
+    gender: null
+    plural: null
+    example: Ich habe die Regel verstanden.
+    example_translation: Eu entendi a regra.
+  - german: anrufen
+    translation: ligar para alguém
+    type: verb
+    gender: null
+    plural: null
+    example: Er hat seine Mutter angerufen.
+    example_translation: Ele ligou para a mãe dele.
+  - german: mitbringen
+    translation: trazer junto
+    type: verb
+    gender: null
+    plural: null
+    example: Lena hat Kuchen mitgebracht.
+    example_translation: Lena trouxe bolo.
+  - german: vergessen
+    translation: esquecer
+    type: verb
+    gender: null
+    plural: null
+    example: Ich habe den Termin vergessen.
+    example_translation: Eu esqueci o compromisso.
+  - german: erzählen
+    translation: contar; narrar
+    type: verb
+    gender: null
+    plural: null
+    example: Sie hat eine Geschichte erzählt.
+    example_translation: Ela contou uma história.

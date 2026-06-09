@@ -1,0 +1,128 @@
+topic: Imperativo
+level: A2
+exercises:
+  - type: multiple_choice
+    instruction: Escolha a forma correta do imperativo para a pessoa indicada.
+    items:
+      - question: "du + kommen"
+        options:
+          - Komm!
+          - Kommt!
+          - Kommen Sie!
+        answer: Komm!
+      - question: "ihr + warten"
+        options:
+          - Warte!
+          - Warten Sie!
+          - Wartet!
+        answer: Wartet!
+      - question: "Sie + machen"
+        options:
+          - Macht!
+          - Machen Sie!
+          - Mach!
+        answer: Machen Sie!
+      - question: "ihr + gehen"
+        options:
+          - Gehen Sie!
+          - Geh!
+          - Geht!
+        answer: Geht!
+      - question: "du + hören"
+        options:
+          - Hör!
+          - Hören Sie!
+          - Hört!
+        answer: Hör!
+      - question: "Sie + sein"
+        options:
+          - Sei!
+          - Seid!
+          - Seien Sie!
+        answer: Seien Sie!
+
+  - type: fill_blank
+    instruction: Complete com a forma correta do imperativo.
+    items:
+      - question: "___ bitte leise! (du + sein)"
+        answer: Sei
+      - question: "___ bitte den Text! (du + lesen)"
+        answer: Lies
+      - question: "___ bitte langsam! (Sie + sprechen)"
+        answer: Sprechen Sie
+      - question: "___ bitte hier! (ihr + warten)"
+        answer: Wartet
+      - question: "___ bitte die Tür zu! (du + machen)"
+        answer: Mach
+      - question: "___ bitte freundlich! (ihr + sein)"
+        answer: Seid
+
+  - type: transformation
+    instruction: Transforme a frase no imperativo correto.
+    items:
+      - question: "Du kommst um zehn Uhr."
+        answer: Komm um zehn Uhr!
+      - question: "Ihr macht die Hausaufgabe."
+        answer: Macht die Hausaufgabe!
+      - question: "Sie warten einen Moment."
+        answer: Warten Sie einen Moment!
+      - question: "Du gehst nach Hause."
+        answer: Geh nach Hause!
+      - question: "Ihr seid pünktlich."
+        answer: Seid pünktlich!
+      - question: "Sie helfen mir."
+        answer: Helfen Sie mir!
+
+  - type: multiple_choice
+    instruction: Escolha a frase mais educada para a situação.
+    items:
+      - question: Você fala com uma pessoa desconhecida e pede para ela esperar.
+        options:
+          - Warten Sie bitte einen Moment!
+          - Warte einen Moment!
+          - Wartet einen Moment!
+        answer: Warten Sie bitte einen Moment!
+      - question: Você fala com dois amigos e pede para eles entrarem.
+        options:
+          - Komm bitte herein!
+          - Kommen Sie bitte herein!
+          - Kommt bitte herein!
+        answer: Kommt bitte herein!
+      - question: Você fala com sua professora e pede para ela repetir.
+        options:
+          - Wiederhol bitte!
+          - Wiederholt bitte!
+          - Wiederholen Sie bitte!
+        answer: Wiederholen Sie bitte!
+      - question: Você fala com uma amiga e dá um conselho curto.
+        options:
+          - Trink bitte Wasser!
+          - Trinken Sie bitte Wasser!
+          - Trinkt bitte Wasser!
+        answer: Trink bitte Wasser!
+
+  - type: correction
+    instruction: Corrija o erro na frase imperativa.
+    items:
+      - question: "Du komm bitte!"
+        answer: Komm bitte!
+      - question: "Kommen bitte hier!"
+        answer: Kommen Sie bitte hier!
+      - question: "Kommt Sie bitte ins Büro!"
+        answer: Kommen Sie bitte ins Büro!
+      - question: "Ihr macht bitte die Bücher auf!"
+        answer: Macht bitte die Bücher auf!
+      - question: "Sein bitte ruhig!"
+        answer: Sei bitte ruhig!
+
+  - type: short_answer
+    instruction: Escreva um pedido em alemão usando bitte.
+    items:
+      - question: "Peça a um amigo para vir amanhã. (du + kommen)"
+        answer: Komm bitte morgen!
+      - question: "Peça a colegas para ouvirem. (ihr + zuhören)"
+        answer: Hört bitte zu!
+      - question: "Peça a uma pessoa formalmente para assinar aqui. (Sie + unterschreiben)"
+        answer: Unterschreiben Sie bitte hier!
+      - question: "Dê um conselho a uma amiga: fale devagar. (du + sprechen)"
+        answer: Sprich bitte langsam!

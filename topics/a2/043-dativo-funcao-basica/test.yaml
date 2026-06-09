@@ -1,0 +1,69 @@
+topic: "Dativo: função básica"
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual frase usa corretamente o dativo?
+    options:
+      - Ich danke dem Arzt.
+      - Ich danke den Arzt.
+      - Ich danke der Arzt.
+    answer: Ich danke dem Arzt.
+  - type: fill_blank
+    question: "Complete: Nina gibt ___ Bruder den Schlüssel."
+    answer: dem
+  - type: multiple_choice
+    question: "Complete: Wir schicken ___ Tante ein Foto."
+    options:
+      - die
+      - der
+      - dem
+    answer: der
+  - type: fill_blank
+    question: "Complete: Der Verkäufer zeigt ___ Kunden die Jacke."
+    answer: dem
+  - type: multiple_choice
+    question: "Complete: Ich helfe ___ Kindern im Park."
+    options:
+      - die
+      - der
+      - den
+    answer: den
+  - type: fill_blank
+    question: "Complete com pronome: Kannst du Anna helfen? Ja, ich helfe ___."
+    answer: ihr
+  - type: transformation
+    question: "Reescreva com dativo: Lukas schenkt einen Kalender. (sein Vater)"
+    answer: Lukas schenkt seinem Vater einen Kalender.
+  - type: multiple_choice
+    question: Qual pergunta ajuda a identificar o dativo básico nesta lição?
+    options:
+      - Para quem?
+      - Onde?
+      - Quando?
+    answer: Para quem?
+  - type: fill_blank
+    question: "Complete: Ich schreibe ___ Eltern einen Brief."
+    answer: den
+  - type: multiple_choice
+    question: "Complete: Frau Keller erklärt ___ Mädchen die Aufgabe."
+    options:
+      - das
+      - die
+      - dem
+    answer: dem
+  - type: fill_blank
+    question: "Complete com pronome: Der Lehrer hilft uns. Er hilft ___."
+    answer: uns
+  - type: correction
+    question: "Corrija: Ben zeigt die Lehrerin das Bild."
+    answer: Ben zeigt der Lehrerin das Bild.
+  - type: multiple_choice
+    question: Qual forma está no dativo plural?
+    options:
+      - die Freunde
+      - der Freund
+      - den Freunden
+    answer: den Freunden
+  - type: short_answer
+    question: "Escreva em alemão: Eu dou meu endereço para você."
+    answer: Ich gebe dir meine Adresse.

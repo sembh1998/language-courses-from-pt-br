@@ -1,0 +1,35 @@
+topic: A palavra doch
+level: A2
+cards:
+  - front: Doch!
+    back: Sim, sim; resposta positiva a uma pergunta negativa
+    example: Kommst du nicht? Doch!
+    example_translation: Você não vem? Venho, sim!
+  - front: Doch, ich komme.
+    back: Venho, sim.
+    example: Kommst du nicht? Doch, ich komme.
+    example_translation: Você não vem? Venho, sim.
+  - front: Doch, ich habe Zeit.
+    back: Tenho tempo, sim.
+    example: Hast du keine Zeit? Doch, ich habe Zeit.
+    example_translation: Você não tem tempo? Tenho, sim.
+  - front: Doch, ich habe Hunger.
+    back: Estou com fome, sim.
+    example: Hast du keinen Hunger? Doch, ich habe Hunger.
+    example_translation: Você não está com fome? Estou, sim.
+  - front: Doch, sie ist da.
+    back: Ela está aí, sim.
+    example: Ist Lena nicht da? Doch, sie ist da.
+    example_translation: Lena não está aí? Está, sim.
+  - front: Doch, das stimmt.
+    back: Está certo, sim.
+    example: Stimmt das nicht? Doch, das stimmt.
+    example_translation: Isso não está certo? Está certo, sim.
+  - front: Nein, ich komme nicht.
+    back: Não, eu não venho.
+    example: Kommst du nicht? Nein, ich komme nicht.
+    example_translation: Você não vem? Não, eu não venho.
+  - front: Doch, ich mag Kaffee.
+    back: Gosto de café, sim.
+    example: Magst du keinen Kaffee? Doch, ich mag Kaffee.
+    example_translation: Você não gosta de café? Gosto, sim.

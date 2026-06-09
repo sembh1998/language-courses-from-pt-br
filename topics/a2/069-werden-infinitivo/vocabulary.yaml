@@ -1,0 +1,87 @@
+topic: Werden + infinitivo
+level: A2
+words:
+  - german: werden
+    translation: tornar-se; usado como auxiliar para futuro
+    type: verb
+    gender: null
+    plural: null
+    example: Ich werde morgen lernen.
+    example_translation: Eu vou estudar amanhã.
+  - german: lernen
+    translation: estudar; aprender
+    type: verb
+    gender: null
+    plural: null
+    example: Wir werden Deutsch lernen.
+    example_translation: Nós vamos aprender alemão.
+  - german: arbeiten
+    translation: trabalhar
+    type: verb
+    gender: null
+    plural: null
+    example: Er wird am Samstag arbeiten.
+    example_translation: Ele vai trabalhar no sábado.
+  - german: reisen
+    translation: viajar
+    type: verb
+    gender: null
+    plural: null
+    example: Sie werden im Sommer reisen.
+    example_translation: Eles vão viajar no verão.
+  - german: besuchen
+    translation: visitar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich werde meine Tante besuchen.
+    example_translation: Eu vou visitar minha tia.
+  - german: anrufen
+    translation: telefonar; ligar para alguém
+    type: verb
+    gender: null
+    plural: null
+    example: Du wirst mich später anrufen.
+    example_translation: Você vai me ligar mais tarde.
+  - german: regnen
+    translation: chover
+    type: verb
+    gender: null
+    plural: null
+    example: Es wird morgen regnen.
+    example_translation: Vai chover amanhã.
+  - german: morgen
+    translation: amanhã
+    type: adverb
+    gender: null
+    plural: null
+    example: Morgen werde ich einkaufen.
+    example_translation: Amanhã eu vou fazer compras.
+  - german: nächste Woche
+    translation: na próxima semana
+    type: time_expression
+    gender: null
+    plural: null
+    example: Nächste Woche werden wir viel üben.
+    example_translation: Na próxima semana nós vamos praticar muito.
+  - german: später
+    translation: mais tarde
+    type: adverb
+    gender: null
+    plural: null
+    example: Ich werde später kochen.
+    example_translation: Eu vou cozinhar mais tarde.
+  - german: der Plan
+    translation: o plano
+    type: noun
+    gender: masculine
+    plural: die Pläne
+    example: "Mein Plan ist klar: Ich werde jeden Tag lernen."
+    example_translation: "Meu plano é claro: eu vou estudar todos os dias."
+  - german: die Vorhersage
+    translation: a previsão
+    type: noun
+    gender: feminine
+    plural: die Vorhersagen
+    example: "Die Vorhersage sagt: Es wird kalt."
+    example_translation: "A previsão diz: vai ficar frio."

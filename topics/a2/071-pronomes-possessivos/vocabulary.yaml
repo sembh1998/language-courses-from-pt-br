@@ -1,0 +1,87 @@
+topic: Pronomes Possessivos
+level: A2
+words:
+  - german: mit meinem Bruder
+    translation: com meu irmão
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich fahre mit meinem Bruder nach Berlin.
+    example_translation: Eu vou com meu irmão para Berlim.
+  - german: bei meiner Freundin
+    translation: na casa da minha amiga, com minha amiga
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich bin heute bei meiner Freundin.
+    example_translation: Hoje eu estou na casa da minha amiga.
+  - german: zu unserem Haus
+    translation: para a nossa casa
+    type: phrase
+    gender: null
+    plural: null
+    example: Wir gehen zu unserem Haus.
+    example_translation: Nós vamos para a nossa casa.
+  - german: mit deinem Vater
+    translation: com seu pai
+    type: phrase
+    gender: null
+    plural: null
+    example: Sprichst du mit deinem Vater?
+    example_translation: Você fala com seu pai?
+  - german: bei seiner Mutter
+    translation: na casa da mãe dele, com a mãe dele
+    type: phrase
+    gender: null
+    plural: null
+    example: Paul wohnt bei seiner Mutter.
+    example_translation: Paul mora com a mãe dele.
+  - german: mit ihren Eltern
+    translation: com os pais dela ou deles/delas
+    type: phrase
+    gender: null
+    plural: null
+    example: Lara reist mit ihren Eltern.
+    example_translation: Lara viaja com os pais dela.
+  - german: zu eurem Kurs
+    translation: para o curso de vocês
+    type: phrase
+    gender: null
+    plural: null
+    example: Geht ihr zu eurem Kurs?
+    example_translation: Vocês vão para o curso de vocês?
+  - german: bei Ihrer Chefin
+    translation: com a sua chefe, formal
+    type: phrase
+    gender: null
+    plural: null
+    example: Sind Sie bei Ihrer Chefin?
+    example_translation: A senhora está com sua chefe?
+  - german: von meinem Arzt
+    translation: do meu médico
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich komme gerade von meinem Arzt.
+    example_translation: Eu estou vindo agora do meu médico.
+  - german: nach unserem Termin
+    translation: depois do nosso compromisso
+    type: phrase
+    gender: null
+    plural: null
+    example: Nach unserem Termin trinke ich Kaffee.
+    example_translation: Depois do nosso compromisso, eu tomo café.
+  - german: mit seinen Kindern
+    translation: com os filhos dele
+    type: phrase
+    gender: null
+    plural: null
+    example: Herr Klein spielt mit seinen Kindern.
+    example_translation: O senhor Klein brinca com os filhos dele.
+  - german: bei unserer Lehrerin
+    translation: na casa da nossa professora, com nossa professora
+    type: phrase
+    gender: null
+    plural: null
+    example: Wir lernen bei unserer Lehrerin.
+    example_translation: Nós estudamos com nossa professora.

@@ -1,0 +1,75 @@
+topic: Particípio II irregular
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual é o particípio II correto de fahren?
+    options:
+      - gefahren
+      - gefahrt
+      - gefährt
+    answer: gefahren
+  - type: fill_blank
+    question: Maria hat einen Kaffee ___.
+    answer: getrunken
+  - type: multiple_choice
+    question: Escolha a frase correta sobre uma Postkarte.
+    options:
+      - Ich bin eine Postkarte geschrieben.
+      - Ich habe eine Postkarte geschrieben.
+      - Ich habe eine Postkarte geschreibt.
+    answer: Ich habe eine Postkarte geschrieben.
+  - type: fill_blank
+    question: Wir ___ am Samstag nach Leipzig gefahren.
+    answer: sind
+  - type: multiple_choice
+    question: "Complete mentalmente: essen no Perfekt usa qual forma?"
+    options:
+      - geesst
+      - geessen
+      - gegessen
+    answer: gegessen
+  - type: fill_blank
+    question: Hast du meine Tasche ___?
+    answer: gesehen
+  - type: transformation
+    question: "Transforme para o Perfekt: Er schreibt eine Liste."
+    answer: Er hat eine Liste geschrieben.
+  - type: multiple_choice
+    question: Qual auxiliar combina melhor com deslocamento em fahren?
+    options:
+      - sein
+      - haben
+      - werden
+    answer: sein
+  - type: fill_blank
+    question: Die Kinder haben Saft ___.
+    answer: getrunken
+  - type: multiple_choice
+    question: Escolha a frase correta sobre Paul no café.
+    options:
+      - Paul hat im Café gegessen.
+      - Paul ist im Café gegessen.
+      - Paul hat im Café geessen.
+    answer: Paul hat im Café gegessen.
+  - type: transformation
+    question: "Transforme para o Perfekt: Ich fahre mit dem Taxi."
+    answer: Ich bin mit dem Taxi gefahren.
+  - type: fill_blank
+    question: Ihr habt den neuen Kollegen ___.
+    answer: gesehen
+  - type: multiple_choice
+    question: Qual é a forma correta?
+    options:
+      - getrinkt
+      - getrunken
+      - getrinken
+    answer: getrunken
+  - type: short_answer
+    question: "Escreva em alemão: Eu comi uma salada."
+    answer: Ich habe einen Salat gegessen.
+  - type: fill_blank
+    question: Nina ___ nach Hause gefahren.
+    answer: ist
+  - type: short_answer
+    question: "Escreva em alemão: Nós vimos o museu."
+    answer: Wir haben das Museum gesehen.

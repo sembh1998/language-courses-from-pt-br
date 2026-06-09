@@ -1,0 +1,75 @@
+topic: "Wechselpräpositionen: Localização com dativo"
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual frase responde corretamente a wo ist der Laptop?
+    options:
+      - Der Laptop liegt auf dem Schreibtisch.
+      - Der Laptop liegt auf den Schreibtisch.
+      - Der Laptop liegt auf der Schreibtisch.
+    answer: Der Laptop liegt auf dem Schreibtisch.
+  - type: multiple_choice
+    question: Qual opção completa corretamente? Lara sitzt ___ Fenster.
+    options:
+      - an den
+      - am
+      - in die
+    answer: am
+  - type: multiple_choice
+    question: Qual frase está correta para localização?
+    options:
+      - Der Ball ist unter das Sofa.
+      - Der Ball ist unter der Sofa.
+      - Der Ball ist unter dem Sofa.
+    answer: Der Ball ist unter dem Sofa.
+  - type: fill_blank
+    question: "Complete: Die Jacke hängt an ___ Tür."
+    answer: der
+  - type: fill_blank
+    question: "Complete: Der Kaffee steht auf ___ kleinen Tisch."
+    answer: dem
+  - type: fill_blank
+    question: "Complete: Die Kinder sind in ___ Park."
+    answer: dem
+  - type: fill_blank
+    question: "Complete: Der Stift liegt zwischen ___ Heften."
+    answer: den
+  - type: multiple_choice
+    question: Qual tradução corresponde a in der Bibliothek?
+    options:
+      - para a biblioteca
+      - na biblioteca
+      - atrás da biblioteca
+    answer: na biblioteca
+  - type: multiple_choice
+    question: Qual opção usa corretamente o dativo plural?
+    options:
+      - zwischen den Taschen
+      - zwischen die Taschen
+      - zwischen dem Taschen
+    answer: zwischen den Taschen
+  - type: multiple_choice
+    question: Qual pergunta combina com a resposta im Wohnzimmer?
+    options:
+      - Wohin gehst du?
+      - Was kaufst du?
+      - Wo bist du?
+    answer: Wo bist du?
+  - type: translation
+    question: "Traduza: O gato está atrás da porta."
+    answer: Die Katze ist hinter der Tür.
+  - type: translation
+    question: "Traduza: O relógio está na parede."
+    answer: Die Uhr hängt an der Wand.
+  - type: translation
+    question: "Traduza: A bolsa está ao lado da cadeira."
+    answer: Die Tasche steht neben dem Stuhl.
+  - type: short_answer
+    question: "Responda em alemão: Wo ist das Brot? Indique que está na cozinha."
+    answer: Es ist in der Küche.
+  - type: short_answer
+    question: "Responda em alemão: Wo ist der Teppich? Indique que está embaixo da mesa."
+    answer: Er liegt unter dem Tisch.
+  - type: short_answer
+    question: "Responda em alemão: Wo steht die Pflanze? Indique que está junto à janela."
+    answer: Sie steht am Fenster.

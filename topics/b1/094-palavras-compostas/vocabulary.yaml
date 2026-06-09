@@ -1,0 +1,94 @@
+topic: Palavras compostas
+level: B1
+words:
+  - german: das Kompositum
+    translation: a palavra composta
+    type: noun
+    gender: neuter
+    plural: die Komposita
+    example: Ein Kompositum besteht aus mehreren Teilen.
+    example_translation: Uma palavra composta consiste em várias partes.
+  - german: die Kaffeemaschine
+    translation: a máquina de café
+    type: noun
+    gender: feminine
+    plural: die Kaffeemaschinen
+    example: Die Kaffeemaschine steht in der Küche.
+    example_translation: A máquina de café fica na cozinha.
+  - german: der Arbeitsplatz
+    translation: o local de trabalho; o posto de trabalho
+    type: noun
+    gender: masculine
+    plural: die Arbeitsplätze
+    example: Mein Arbeitsplatz ist sehr ruhig.
+    example_translation: Meu local de trabalho é muito silencioso.
+  - german: das Wörterbuch
+    translation: o dicionário
+    type: noun
+    gender: neuter
+    plural: die Wörterbücher
+    example: Ich suche das Wort im Wörterbuch.
+    example_translation: Eu procuro a palavra no dicionário.
+  - german: die Zugfahrt
+    translation: a viagem de trem
+    type: noun
+    gender: feminine
+    plural: die Zugfahrten
+    example: Die Zugfahrt dauert zwei Stunden.
+    example_translation: A viagem de trem dura duas horas.
+  - german: der Deutschkurs
+    translation: o curso de alemão
+    type: noun
+    gender: masculine
+    plural: die Deutschkurse
+    example: Der Deutschkurs beginnt um neun Uhr.
+    example_translation: O curso de alemão começa às nove horas.
+  - german: das Arbeitszimmer
+    translation: o escritório; o quarto de trabalho
+    type: noun
+    gender: neuter
+    plural: die Arbeitszimmer
+    example: Das Arbeitszimmer ist klein, aber hell.
+    example_translation: O escritório é pequeno, mas claro.
+  - german: die Haustür
+    translation: a porta da casa; a porta de entrada
+    type: noun
+    gender: feminine
+    plural: die Haustüren
+    example: Bitte schließ die Haustür ab.
+    example_translation: Por favor, tranque a porta de entrada.
+  - german: der Geburtstagskuchen
+    translation: o bolo de aniversário
+    type: noun
+    gender: masculine
+    plural: die Geburtstagskuchen
+    example: Der Geburtstagskuchen schmeckt sehr gut.
+    example_translation: O bolo de aniversário está muito gostoso.
+  - german: die Bushaltestelle
+    translation: o ponto de ônibus
+    type: noun
+    gender: feminine
+    plural: die Bushaltestellen
+    example: Die Bushaltestelle ist vor der Schule.
+    example_translation: O ponto de ônibus fica em frente à escola.
+  - german: der Lebenslauf
+    translation: o currículo
+    type: noun
+    gender: masculine
+    plural: die Lebensläufe
+    example: Ich schicke meinen Lebenslauf per E-Mail.
+    example_translation: Eu envio meu currículo por e-mail.
+  - german: die Prüfungsfrage
+    translation: a questão da prova
+    type: noun
+    gender: feminine
+    plural: die Prüfungsfragen
+    example: Diese Prüfungsfrage ist nicht schwer.
+    example_translation: Esta questão da prova não é difícil.
+  - german: die Donaudampfschifffahrt
+    translation: a navegação a vapor no Danúbio
+    type: noun
+    gender: feminine
+    plural: null
+    example: Donaudampfschifffahrt ist ein berühmtes langes Wort.
+    example_translation: Donaudampfschifffahrt é uma palavra longa famosa.

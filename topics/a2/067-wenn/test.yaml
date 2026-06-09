@@ -1,0 +1,57 @@
+topic: Wenn
+level: A2
+questions:
+  - type: multiple_choice
+    question: Escolha a frase correta sobre sentir sede.
+    options:
+      - Wenn ich Durst habe, trinke ich Wasser.
+      - Wenn ich habe Durst, trinke ich Wasser.
+      - Wenn ich Durst habe, ich trinke Wasser.
+    answer: Wenn ich Durst habe, trinke ich Wasser.
+  - type: multiple_choice
+    question: Escolha a frase correta sobre Lina doente.
+    options:
+      - Lina bleibt zu Hause, wenn krank sie ist.
+      - Lina bleibt zu Hause, wenn sie krank ist.
+      - Lina bleibt zu Hause, wenn sie ist krank.
+    answer: Lina bleibt zu Hause, wenn sie krank ist.
+  - type: multiple_choice
+    question: Escolha a frase correta sobre Tom e o bolo.
+    options:
+      - Wenn Tom morgen kommt, er bringt Kuchen mit.
+      - Wenn kommt Tom morgen, bringt er Kuchen mit.
+      - Wenn Tom morgen kommt, bringt er Kuchen mit.
+    answer: Wenn Tom morgen kommt, bringt er Kuchen mit.
+  - type: fill_blank
+    question: Wenn der Supermarkt offen ___, kaufen wir Milch.
+    answer: ist
+  - type: fill_blank
+    question: Ich lese ein Buch, wenn ich nicht schlafen ___.
+    answer: kann
+  - type: fill_blank
+    question: Wenn meine Schwester anruft, ___ ich ans Telefon.
+    answer: gehe
+  - type: transformation
+    question: Ich nehme eine Jacke, wenn es kalt ist.
+    answer: Wenn es kalt ist, nehme ich eine Jacke.
+  - type: transformation
+    question: Jonas kocht Nudeln, wenn er wenig Zeit hat.
+    answer: Wenn Jonas wenig Zeit hat, kocht er Nudeln.
+  - type: translation
+    question: Se você vier hoje, fazemos pizza.
+    answer: Wenn du heute kommst, machen wir Pizza.
+  - type: translation
+    question: Quando eu estou nervoso, bebo chá.
+    answer: Wenn ich nervös bin, trinke ich Tee.
+  - type: translation
+    question: Eu escrevo para ela quando tenho uma pergunta.
+    answer: Ich schreibe ihr, wenn ich eine Frage habe.
+  - type: classification
+    question: Wenn Nina viel Arbeit hat, macht sie eine Liste.
+    answer: repetição temporal
+  - type: classification
+    question: Wenn der Zug pünktlich ist, sind wir um acht Uhr da.
+    answer: condição
+  - type: correction
+    question: Wenn ich bin im Büro, telefoniere ich viel.
+    answer: Wenn ich im Büro bin, telefoniere ich viel.

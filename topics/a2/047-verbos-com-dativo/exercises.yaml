@@ -1,0 +1,124 @@
+topic: Verbos com Dativo
+level: A2
+exercises:
+  - type: multiple_choice
+    instruction: Escolha a forma no dativo que completa a frase.
+    items:
+      - question: Kannst du ___ bitte helfen?
+        options:
+          - mir
+          - mich
+          - mein
+        answer: mir
+      - question: Der blaue Mantel gefällt ___. (die Frau)
+        options:
+          - die Frau
+          - der Frau
+          - den Frau
+        answer: der Frau
+      - question: Wir danken ___ für die Einladung. (unsere Freunde)
+        options:
+          - unsere Freunde
+          - unseren Freunde
+          - unseren Freunden
+        answer: unseren Freunden
+      - question: Das Fahrrad gehört ___. (mein Vater)
+        options:
+          - meinen Vater
+          - mein Vater
+          - meinem Vater
+        answer: meinem Vater
+      - question: Ich antworte ___ heute Abend. (du)
+        options:
+          - dir
+          - dich
+          - du
+        answer: dir
+      - question: Die Schuhe passen ___ gut. (mein Kind)
+        options:
+          - mein Kind
+          - meinem Kind
+          - meinen Kind
+        answer: meinem Kind
+
+  - type: fill_blank
+    instruction: "Complete com o verbo correto: helfen, danken, gefallen, gehören, passen, fehlen ou antworten."
+    items:
+      - question: Ich ___ meiner Nachbarin mit den Taschen.
+        answer: helfe
+      - question: Der neue Film ___ meinem Bruder sehr.
+        answer: gefällt
+      - question: Dieses Auto ___ nicht mir, sondern meiner Schwester.
+        answer: gehört
+      - question: Die Jacke ist zu klein. Sie ___ mir nicht.
+        answer: passt
+      - question: Meine Eltern sind weit weg. Sie ___ mir.
+        answer: fehlen
+      - question: Warum ___ du dem Lehrer nicht?
+        answer: antwortest
+      - question: Nach dem Essen ___ wir der Köchin.
+        answer: danken
+
+  - type: transformation
+    instruction: Reescreva substituindo a expressão entre parênteses por um pronome no dativo.
+    items:
+      - question: Ich helfe meiner Schwester. (sie)
+        answer: Ich helfe ihr.
+      - question: Das Zimmer gefällt meinen Eltern. (sie, plural)
+        answer: Das Zimmer gefällt ihnen.
+      - question: Die Tasche gehört dem Studenten. (er)
+        answer: Die Tasche gehört ihm.
+      - question: Der Pullover passt meiner Freundin. (sie)
+        answer: Der Pullover passt ihr.
+      - question: Der Lehrer antwortet den Kindern. (sie, plural)
+        answer: Der Lehrer antwortet ihnen.
+      - question: Das Geld fehlt meinem Vater. (er)
+        answer: Das Geld fehlt ihm.
+
+  - type: correction
+    instruction: Corrija a frase usando dativo depois do verbo destacado.
+    items:
+      - question: Ich helfe dich am Samstag.
+        answer: Ich helfe dir am Samstag.
+      - question: Sie dankt den Arzt.
+        answer: Sie dankt dem Arzt.
+      - question: Das Kleid gefällt meine Mutter.
+        answer: Das Kleid gefällt meiner Mutter.
+      - question: Der Schlüssel gehört ich.
+        answer: Der Schlüssel gehört mir.
+      - question: Die Hose passt meinen Bruder nicht.
+        answer: Die Hose passt meinem Bruder nicht.
+      - question: Bitte antworte deine Chefin sofort.
+        answer: Bitte antworte deiner Chefin sofort.
+
+  - type: translation
+    instruction: Traduza para o alemão usando o verbo indicado e dativo.
+    items:
+      - question: Eu ajudo o meu amigo. (helfen)
+        answer: Ich helfe meinem Freund.
+      - question: Nós agradecemos à professora. (danken)
+        answer: Wir danken der Lehrerin.
+      - question: Ela gosta deste vestido. (gefallen)
+        answer: Dieses Kleid gefällt ihr.
+      - question: O celular pertence ao meu irmão. (gehören)
+        answer: Das Handy gehört meinem Bruder.
+      - question: A camisa serve em você? (passen)
+        answer: Passt dir das Hemd?
+      - question: Minha avó faz falta para mim. (fehlen)
+        answer: Meine Oma fehlt mir.
+
+  - type: short_answer
+    instruction: Responda em alemão com uma frase curta. Use dativo.
+    items:
+      - question: Wem hilfst du? (dein Nachbar)
+        answer: Ich helfe meinem Nachbarn.
+      - question: Wem dankt Anna? (der Verkäufer)
+        answer: Anna dankt dem Verkäufer.
+      - question: Wem gehört der Laptop? (meine Tante)
+        answer: Der Laptop gehört meiner Tante.
+      - question: Wem passt die Brille? (das Kind)
+        answer: Die Brille passt dem Kind.
+      - question: Wem fehlt der Pass? (der Tourist)
+        answer: Der Pass fehlt dem Touristen.
+      - question: Wem antwortest du? (meine Kollegin)
+        answer: Ich antworte meiner Kollegin.

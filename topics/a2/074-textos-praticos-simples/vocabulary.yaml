@@ -1,0 +1,101 @@
+topic: Textos práticos simples
+level: A2
+words:
+  - german: Liebe Anna
+    translation: Querida Anna
+    type: phrase
+    gender: null
+    plural: null
+    example: Liebe Anna, wie geht es dir?
+    example_translation: Querida Anna, como você está?
+  - german: Lieber Paul
+    translation: Querido Paul
+    type: phrase
+    gender: null
+    plural: null
+    example: Lieber Paul, ich schreibe dir heute.
+    example_translation: Querido Paul, eu escrevo para você hoje.
+  - german: die Einladung
+    translation: o convite
+    type: noun
+    gender: feminine
+    plural: die Einladungen
+    example: Danke für die Einladung.
+    example_translation: Obrigado pelo convite.
+  - german: einladen
+    translation: convidar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich lade dich zu meiner Party ein.
+    example_translation: Eu convido você para a minha festa.
+  - german: die Nachricht
+    translation: a mensagem
+    type: noun
+    gender: feminine
+    plural: die Nachrichten
+    example: Ich schreibe eine kurze Nachricht.
+    example_translation: Eu escrevo uma mensagem curta.
+  - german: die Routine
+    translation: a rotina
+    type: noun
+    gender: feminine
+    plural: die Routinen
+    example: Meine Routine ist einfach.
+    example_translation: Minha rotina é simples.
+  - german: der Alltag
+    translation: o dia a dia
+    type: noun
+    gender: masculine
+    plural: null
+    example: In meinem Alltag trinke ich viel Kaffee.
+    example_translation: No meu dia a dia, eu tomo muito café.
+  - german: am Wochenende
+    translation: no fim de semana
+    type: phrase
+    gender: null
+    plural: null
+    example: Am Wochenende habe ich Freunde getroffen.
+    example_translation: No fim de semana, eu encontrei amigos.
+  - german: zuerst
+    translation: primeiro
+    type: adverb
+    gender: null
+    plural: null
+    example: Zuerst frühstücke ich.
+    example_translation: Primeiro eu tomo café da manhã.
+  - german: dann
+    translation: então / depois
+    type: adverb
+    gender: null
+    plural: null
+    example: Dann fahre ich zur Arbeit.
+    example_translation: Depois eu vou ao trabalho.
+  - german: danach
+    translation: depois disso
+    type: adverb
+    gender: null
+    plural: null
+    example: Danach gehe ich einkaufen.
+    example_translation: Depois disso eu vou fazer compras.
+  - german: antworten
+    translation: responder
+    type: verb
+    gender: null
+    plural: null
+    example: Kannst du mir bitte antworten?
+    example_translation: Você pode me responder, por favor?
+  - german: Viele Grüße
+    translation: abraços / saudações
+    type: phrase
+    gender: null
+    plural: null
+    example: Viele Grüße, Laura
+    example_translation: Abraços, Laura
+  - german: bis bald
+    translation: até breve
+    type: phrase
+    gender: null
+    plural: null
+    example: Bis bald!
+    example_translation: Até breve!

@@ -1,0 +1,101 @@
+topic: Declinação sem artigo
+level: B1
+words:
+  - german: guter Wein
+    translation: bom vinho
+    type: phrase
+    gender: masculine
+    plural: null
+    example: Guter Wein passt gut zu diesem Essen.
+    example_translation: Bom vinho combina bem com esta comida.
+  - german: kaltes Wasser
+    translation: água fria
+    type: phrase
+    gender: neuter
+    plural: null
+    example: Kaltes Wasser steht auf dem Tisch.
+    example_translation: Água fria está sobre a mesa.
+  - german: deutsche Musik
+    translation: música alemã
+    type: phrase
+    gender: feminine
+    plural: null
+    example: Deutsche Musik läuft im Café.
+    example_translation: Música alemã toca no café.
+  - german: schwarzer Kaffee
+    translation: café preto
+    type: phrase
+    gender: masculine
+    plural: null
+    example: Schwarzer Kaffee macht mich wach.
+    example_translation: Café preto me deixa acordado.
+  - german: frisches Brot
+    translation: pão fresco
+    type: phrase
+    gender: neuter
+    plural: null
+    example: Wir kaufen frisches Brot auf dem Markt.
+    example_translation: Compramos pão fresco na feira.
+  - german: gute Arbeit
+    translation: bom trabalho
+    type: phrase
+    gender: feminine
+    plural: null
+    example: Gute Arbeit braucht Zeit.
+    example_translation: Bom trabalho precisa de tempo.
+  - german: gutes Wetter
+    translation: tempo bom
+    type: phrase
+    gender: neuter
+    plural: null
+    example: Gutes Wetter macht den Ausflug leichter.
+    example_translation: Tempo bom torna o passeio mais fácil.
+  - german: junge Leute
+    translation: jovens
+    type: phrase
+    gender: null
+    plural: die Leute
+    example: Junge Leute lernen oft schnell neue Apps.
+    example_translation: Jovens frequentemente aprendem aplicativos novos rapidamente.
+  - german: wichtige Informationen
+    translation: informações importantes
+    type: phrase
+    gender: null
+    plural: die Informationen
+    example: Wichtige Informationen stehen auf der Webseite.
+    example_translation: Informações importantes estão no site.
+  - german: mit gutem Essen
+    translation: com boa comida
+    type: phrase
+    gender: neuter
+    plural: null
+    example: Mit gutem Essen wird der Abend schön.
+    example_translation: Com boa comida, a noite fica bonita.
+  - german: mit guter Planung
+    translation: com bom planejamento
+    type: phrase
+    gender: feminine
+    plural: null
+    example: Mit guter Planung schaffen wir das Projekt.
+    example_translation: Com bom planejamento, conseguimos fazer o projeto.
+  - german: mit guten Freunden
+    translation: com bons amigos
+    type: phrase
+    gender: null
+    plural: die Freunde
+    example: Mit guten Freunden reist man gern.
+    example_translation: Com bons amigos, viaja-se com prazer.
+  - german: wegen schlechten Wetters
+    translation: por causa do mau tempo
+    type: phrase
+    gender: neuter
+    plural: null
+    example: Wegen schlechten Wetters bleiben wir zu Hause.
+    example_translation: Por causa do mau tempo, ficamos em casa.
+  - german: aus gutem Grund
+    translation: por um bom motivo
+    type: phrase
+    gender: masculine
+    plural: null
+    example: Er sagt aus gutem Grund ab.
+    example_translation: Ele cancela por um bom motivo.

@@ -1,0 +1,75 @@
+topic: Declinação após artigo indefinido
+level: B1
+questions:
+  - type: multiple_choice
+    question: "Qual frase está correta?"
+    options:
+      - Ein interessantes Buch liegt auf dem Tisch.
+      - Ein interessante Buch liegt auf dem Tisch.
+      - Eine interessantes Buch liegt auf dem Tisch.
+    answer: Ein interessantes Buch liegt auf dem Tisch.
+  - type: fill_blank
+    question: "Complete: Ich trinke einen heiß___ Kaffee."
+    answer: en
+  - type: multiple_choice
+    question: "Qual opção completa corretamente: Sie trägt ___ Tasche."
+    options:
+      - einen roten
+      - eine rote
+      - ein rotes
+    answer: eine rote
+  - type: fill_blank
+    question: "Complete: Gesund___ Lebensmittel sind oft teuer."
+    answer: e
+  - type: multiple_choice
+    question: "Qual frase usa dativo corretamente?"
+    options:
+      - Er spricht mit einem klugen Kind.
+      - Er spricht mit ein kluges Kind.
+      - Er spricht mit einen klugen Kind.
+    answer: Er spricht mit einem klugen Kind.
+  - type: correction
+    question: "Corrija: Das ist ein wichtige Nachricht."
+    answer: Das ist eine wichtige Nachricht.
+  - type: fill_blank
+    question: "Complete: Wir mieten ein modern___ Auto."
+    answer: es
+  - type: multiple_choice
+    question: "Qual opção completa corretamente: Ohne ___ komme ich nicht weiter."
+    options:
+      - klare Informationen
+      - klaren Informationen
+      - klarer Informationen
+    answer: klare Informationen
+  - type: translation
+    question: "Traduza: Um aluno atento faz anotações."
+    answer: Ein aufmerksamer Schüler macht Notizen.
+  - type: fill_blank
+    question: "Complete: Sie wohnt bei einer hilfsbereit___ Familie."
+    answer: en
+  - type: multiple_choice
+    question: "Qual frase está correta no acusativo masculino?"
+    options:
+      - Ich reserviere ein freier Tisch.
+      - Ich reserviere einem freien Tisch.
+      - Ich reserviere einen freien Tisch.
+    answer: Ich reserviere einen freien Tisch.
+  - type: correction
+    question: "Corrija: Mit nette Kolleginnen macht die Arbeit Spaß."
+    answer: Mit netten Kolleginnen macht die Arbeit Spaß.
+  - type: fill_blank
+    question: "Complete: Wegen stark___ Regens kommt der Bus später."
+    answer: en
+  - type: translation
+    question: "Traduza: Bons exemplos ajudam muito."
+    answer: Gute Beispiele helfen sehr.
+  - type: multiple_choice
+    question: "Qual frase usa plural genitivo sem artigo?"
+    options:
+      - Die Meinung kluger Experten ist wichtig.
+      - Die Meinung kluge Experten ist wichtig.
+      - Die Meinung klugen Experten ist wichtig.
+    answer: Die Meinung kluger Experten ist wichtig.
+  - type: fill_blank
+    question: "Complete: Er sucht eine billig___ Lösung."
+    answer: e

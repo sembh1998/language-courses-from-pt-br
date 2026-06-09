@@ -1,0 +1,87 @@
+topic: Direção com acusativo
+level: A2
+words:
+  - german: wohin
+    translation: para onde
+    type: question_word
+    gender: null
+    plural: null
+    example: Wohin gehst du?
+    example_translation: Para onde você vai?
+  - german: in die Schule
+    translation: para a escola
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich gehe in die Schule.
+    example_translation: Eu vou para a escola.
+  - german: in den Park
+    translation: para o parque
+    type: phrase
+    gender: null
+    plural: null
+    example: Wir gehen in den Park.
+    example_translation: Nós vamos para o parque.
+  - german: auf den Tisch
+    translation: sobre a mesa, para cima da mesa
+    type: phrase
+    gender: null
+    plural: null
+    example: Leg das Buch auf den Tisch.
+    example_translation: Coloque o livro sobre a mesa.
+  - german: an die Wand
+    translation: na parede, para a parede
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich hänge das Bild an die Wand.
+    example_translation: Eu penduro o quadro na parede.
+  - german: unter das Bett
+    translation: para debaixo da cama
+    type: phrase
+    gender: null
+    plural: null
+    example: Der Hund läuft unter das Bett.
+    example_translation: O cachorro corre para debaixo da cama.
+  - german: neben das Sofa
+    translation: ao lado do sofá, para o lado do sofá
+    type: phrase
+    gender: null
+    plural: null
+    example: Stell den Tisch neben das Sofa.
+    example_translation: Coloque a mesa ao lado do sofá.
+  - german: zwischen die Stühle
+    translation: entre as cadeiras
+    type: phrase
+    gender: null
+    plural: null
+    example: Setz dich zwischen die Stühle.
+    example_translation: Sente-se entre as cadeiras.
+  - german: legen
+    translation: colocar deitado, pôr
+    type: verb
+    gender: null
+    plural: null
+    example: Ich lege den Schlüssel auf den Tisch.
+    example_translation: Eu coloco a chave sobre a mesa.
+  - german: stellen
+    translation: colocar em pé
+    type: verb
+    gender: null
+    plural: null
+    example: Stell die Tasche neben den Stuhl.
+    example_translation: Coloque a bolsa ao lado da cadeira.
+  - german: hängen
+    translation: pendurar
+    type: verb
+    gender: null
+    plural: null
+    example: Wir hängen die Lampe über den Tisch.
+    example_translation: Nós penduramos a luminária acima da mesa.
+  - german: sich setzen
+    translation: sentar-se
+    type: verb
+    gender: null
+    plural: null
+    example: Ich setze mich an den Tisch.
+    example_translation: Eu me sento à mesa.

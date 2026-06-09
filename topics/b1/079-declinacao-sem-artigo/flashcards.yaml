@@ -1,0 +1,51 @@
+topic: Declinação sem artigo
+level: B1
+cards:
+  - front: guter Wein
+    back: bom vinho; masculino nominativo sem artigo
+    example: Guter Wein ist nicht immer teuer.
+    example_translation: Bom vinho nem sempre é caro.
+  - front: guten Wein
+    back: bom vinho; masculino acusativo sem artigo
+    example: Ich kaufe guten Wein für das Abendessen.
+    example_translation: Eu compro bom vinho para o jantar.
+  - front: kaltes Wasser
+    back: água fria; neutro nominativo ou acusativo sem artigo
+    example: Nach dem Sport trinke ich kaltes Wasser.
+    example_translation: Depois do esporte, eu bebo água fria.
+  - front: deutsche Musik
+    back: música alemã; feminino nominativo ou acusativo sem artigo
+    example: Im Radio läuft deutsche Musik.
+    example_translation: No rádio toca música alemã.
+  - front: mit gutem Kaffee
+    back: com bom café; masculino dativo sem artigo
+    example: Mit gutem Kaffee beginnt der Tag besser.
+    example_translation: Com bom café, o dia começa melhor.
+  - front: mit guter Planung
+    back: com bom planejamento; feminino dativo sem artigo
+    example: Mit guter Planung haben wir weniger Stress.
+    example_translation: Com bom planejamento, temos menos estresse.
+  - front: mit kaltem Wasser
+    back: com água fria; neutro dativo sem artigo
+    example: Ich wasche das Glas mit kaltem Wasser.
+    example_translation: Eu lavo o copo com água fria.
+  - front: gute Freunde
+    back: bons amigos; plural nominativo ou acusativo sem artigo
+    example: Gute Freunde helfen in schwierigen Zeiten.
+    example_translation: Bons amigos ajudam em tempos difíceis.
+  - front: mit guten Freunden
+    back: com bons amigos; plural dativo sem artigo
+    example: Mit guten Freunden macht die Reise mehr Spaß.
+    example_translation: Com bons amigos, a viagem fica mais divertida.
+  - front: guter Freunde
+    back: de bons amigos; plural genitivo sem artigo
+    example: Die Hilfe guter Freunde ist wichtig.
+    example_translation: A ajuda de bons amigos é importante.
+  - front: wegen schlechten Wetters
+    back: por causa do mau tempo; genitivo neutro sem artigo
+    example: Wegen schlechten Wetters fällt das Konzert aus.
+    example_translation: Por causa do mau tempo, o concerto é cancelado.
+  - front: aus gutem Grund
+    back: por um bom motivo; dativo masculino sem artigo
+    example: Sie bleibt aus gutem Grund zu Hause.
+    example_translation: Ela fica em casa por um bom motivo.

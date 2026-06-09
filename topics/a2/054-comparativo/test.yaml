@@ -1,0 +1,65 @@
+topic: Comparativo
+level: A2
+questions:
+  - type: multiple_choice
+    question: "Qual frase está correta?"
+    options:
+      - Mein Laptop ist leichter als dein Laptop.
+      - Mein Laptop ist mehr leicht als dein Laptop.
+      - Mein Laptop ist leicht als dein Laptop.
+    answer: Mein Laptop ist leichter als dein Laptop.
+  - type: multiple_choice
+    question: "Complete: Dieser Apfel ist ___ als die Banane."
+    options:
+      - gut
+      - besser
+      - mehr gut
+    answer: besser
+  - type: multiple_choice
+    question: "Complete: Wir trinken ___ Wasser als im Winter."
+    options:
+      - viel
+      - viele
+      - mehr
+    answer: mehr
+  - type: fill_blank
+    question: "Complete: Der Balkon ist ___ als das Wohnzimmer. (klein)"
+    answer: kleiner
+  - type: fill_blank
+    question: "Complete com a palavra para 'do que': Paul ist jünger ___ sein Bruder."
+    answer: als
+  - type: translation
+    question: "Traduza: A escola é maior do que a biblioteca."
+    answer: Die Schule ist größer als die Bibliothek.
+  - type: translation
+    question: "Traduza: Eu quero mais chá do que café."
+    answer: Ich möchte mehr Tee als Kaffee.
+  - type: correction
+    question: "Corrija: Das neue Handy ist guter als das alte Handy."
+    answer: Das neue Handy ist besser als das alte Handy.
+  - type: sentence_transformation
+    question: "Forme uma comparação: Der Fluss ist lang. Der Kanal ist nicht so lang."
+    answer: Der Fluss ist länger als der Kanal.
+  - type: multiple_choice
+    question: "Qual opção usa als corretamente?"
+    options:
+      - Die Suppe ist heißer wie der Tee.
+      - Die Suppe ist heiß als der Tee.
+      - Die Suppe ist heißer als der Tee.
+    answer: Die Suppe ist heißer als der Tee.
+  - type: fill_blank
+    question: "Complete: Das rote Kleid ist ___ als das schwarze Kleid. (teuer)"
+    answer: teurer
+  - type: translation
+    question: "Traduza: Meu trabalho é melhor do que antes."
+    answer: Meine Arbeit ist besser als früher.
+  - type: fill_blank
+    question: "Complete: Im Sommer haben wir ___ Sonne als im Herbst."
+    answer: mehr
+  - type: multiple_choice
+    question: "Complete: Dieses Dorf ist ___ als die Stadt."
+    options:
+      - kleiner
+      - klein
+      - mehr klein
+    answer: kleiner

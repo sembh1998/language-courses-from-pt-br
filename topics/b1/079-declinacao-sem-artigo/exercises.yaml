@@ -1,0 +1,130 @@
+topic: Declinação sem artigo
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: Complete com a terminação correta do adjetivo no nominativo.
+    items:
+      - question: "Gut___ Wein passt zu Käse."
+        answer: er
+      - question: "Kalt___ Wasser steht im Kühlschrank."
+        answer: es
+      - question: "Deutsch___ Musik gefällt meiner Schwester."
+        answer: e
+      - question: "Jung___ Leute nutzen oft soziale Medien."
+        answer: e
+      - question: "Frisch___ Brot riecht wunderbar."
+        answer: es
+
+  - type: fill_blank
+    instruction: Complete com a terminação correta do adjetivo no acusativo.
+    items:
+      - question: "Ich bestelle schwarz___ Kaffee."
+        answer: en
+      - question: "Wir kaufen frisch___ Gemüse."
+        answer: es
+      - question: "Sie hört modern___ Musik."
+        answer: e
+      - question: "Der Kurs bietet wichtig___ Informationen."
+        answer: e
+      - question: "Er sucht ruhig___ Rat."
+        answer: en
+
+  - type: multiple_choice
+    instruction: Escolha a opção correta.
+    items:
+      - question: "Qual opção completa corretamente: ___ Kaffee macht mich wach."
+        options:
+          - Schwarzer
+          - Schwarzen
+          - Schwarzem
+        answer: Schwarzer
+      - question: "Qual opção completa corretamente: Ich trinke ___."
+        options:
+          - schwarzer Kaffee
+          - schwarzen Kaffee
+          - schwarzem Kaffee
+        answer: schwarzen Kaffee
+      - question: "Qual opção completa corretamente: Wir kochen mit ___."
+        options:
+          - frisches Gemüse
+          - frischen Gemüse
+          - frischem Gemüse
+        answer: frischem Gemüse
+      - question: "Qual frase está correta para feminino dativo?"
+        options:
+          - Mit deutsche Musik arbeitet er gern.
+          - Mit deutscher Musik arbeitet er gern.
+          - Mit deutschem Musik arbeitet er gern.
+        answer: Mit deutscher Musik arbeitet er gern.
+      - question: "Qual frase está correta para plural dativo?"
+        options:
+          - Mit guten Ideen lösen wir das Problem.
+          - Mit gute Ideen lösen wir das Problem.
+          - Mit guter Ideen lösen wir das Problem.
+        answer: Mit guten Ideen lösen wir das Problem.
+      - question: "Qual opção completa corretamente: Wegen ___ bleiben wir drinnen."
+        options:
+          - schlechtes Wetter
+          - schlechtem Wetter
+          - schlechten Wetters
+        answer: schlechten Wetters
+
+  - type: transformation
+    instruction: Reescreva sem artigo, mantendo o sentido geral e ajustando o adjetivo.
+    items:
+      - question: "Der gute Wein ist teuer."
+        answer: Guter Wein ist teuer.
+      - question: "Ich trinke den schwarzen Kaffee."
+        answer: Ich trinke schwarzen Kaffee.
+      - question: "Das kalte Wasser steht dort."
+        answer: Kaltes Wasser steht dort.
+      - question: "Wir hören die deutsche Musik."
+        answer: Wir hören deutsche Musik.
+      - question: "Sie reist mit den guten Freunden."
+        answer: Sie reist mit guten Freunden.
+
+  - type: correction
+    instruction: Corrija a declinação do adjetivo sem artigo.
+    items:
+      - question: "Gut Wein schmeckt mir."
+        answer: Guter Wein schmeckt mir.
+      - question: "Ich brauche guter Rat."
+        answer: Ich brauche guten Rat.
+      - question: "Kalte Wasser ist im Glas."
+        answer: Kaltes Wasser ist im Glas.
+      - question: "Mit deutsche Musik lerne ich besser."
+        answer: Mit deutscher Musik lerne ich besser.
+      - question: "Wir sprechen mit gute Freunden."
+        answer: Wir sprechen mit guten Freunden.
+      - question: "Wegen schlechtes Wetters kommt er später."
+        answer: Wegen schlechten Wetters kommt er später.
+
+  - type: translation
+    instruction: Traduza para o alemão usando adjetivo sem artigo.
+    items:
+      - question: "Bom vinho combina com queijo."
+        answer: Guter Wein passt zu Käse.
+      - question: "Eu bebo café preto."
+        answer: Ich trinke schwarzen Kaffee.
+      - question: "Água fria ajuda no verão."
+        answer: Kaltes Wasser hilft im Sommer.
+      - question: "Ela gosta de música alemã."
+        answer: Sie mag deutsche Musik.
+      - question: "Com bons amigos, a viagem fica melhor."
+        answer: Mit guten Freunden wird die Reise besser.
+      - question: "Por causa do mau tempo, ficamos em casa."
+        answer: Wegen schlechten Wetters bleiben wir zu Hause.
+
+  - type: fill_blank
+    instruction: Complete com a forma completa do grupo nominal sem artigo.
+    items:
+      - question: "mit ___ (gut / Planung) schaffen wir mehr"
+        answer: guter Planung
+      - question: "aus ___ (kalt / Wasser) macht sie Tee"
+        answer: kaltem Wasser
+      - question: "wegen ___ (stark / Regen) fährt der Zug langsamer"
+        answer: starken Regens
+      - question: "die Hilfe ___ (gut / Freunde) ist wichtig"
+        answer: guter Freunde
+      - question: "für ___ (frisch / Brot) gehe ich zum Bäcker"
+        answer: frisches Brot

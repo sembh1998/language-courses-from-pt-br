@@ -1,0 +1,75 @@
+topic: "Konjunktiv II: Cortesia"
+level: B1
+questions:
+  - type: multiple_choice
+    question: "Qual frase é a mais educada para pedir uma sopa?"
+    options:
+      - "Ich hätte gern eine Suppe."
+      - "Ich will eine Suppe sofort."
+      - "Du gibst mir eine Suppe."
+    answer: "Ich hätte gern eine Suppe."
+  - type: fill_blank
+    question: "Complete: ___ Sie mir bitte die Rechnung bringen?"
+    answer: "Könnten"
+  - type: multiple_choice
+    question: "Qual frase está correta em contexto formal?"
+    options:
+      - "Könntest Sie bitte langsamer sprechen?"
+      - "Könnten Sie bitte langsamer sprechen?"
+      - "Könnten du bitte langsamer sprechen?"
+    answer: "Könnten Sie bitte langsamer sprechen?"
+  - type: fill_blank
+    question: "Complete: Das ___ wirklich hilfreich."
+    answer: "wäre"
+  - type: translation
+    question: "Traduza: Eu gostaria de comprar um bilhete."
+    answer: "Ich würde gern eine Fahrkarte kaufen."
+  - type: multiple_choice
+    question: "Qual opção combina com uma conversa informal com um colega próximo?"
+    options:
+      - "Würden Sie bitte dein Buch geben?"
+      - "Könnten du mir dein Buch geben?"
+      - "Könntest du mir dein Buch geben?"
+    answer: "Könntest du mir dein Buch geben?"
+  - type: correction
+    question: "Corrija: Ich wäre gern ein Glas Saft."
+    answer: "Ich hätte gern ein Glas Saft."
+  - type: fill_blank
+    question: "Complete: Ich ___ gern mit der Ärztin sprechen."
+    answer: "würde"
+  - type: multiple_choice
+    question: "Qual frase usa corretamente würde + infinitivo?"
+    options:
+      - "Ich würde gern die Wohnung besichtigen."
+      - "Ich würde gern besichtige die Wohnung."
+      - "Ich würde die Wohnung gern besichtigt."
+    answer: "Ich würde gern die Wohnung besichtigen."
+  - type: translation
+    question: "Traduza: O(a) senhor(a) teria talvez um momento?"
+    answer: "Hätten Sie vielleicht einen Moment Zeit?"
+  - type: multiple_choice
+    question: "Qual frase suaviza uma instrução em atendimento?"
+    options:
+      - "Sie warten hier!"
+      - "Du musst hier warten, Sie."
+      - "Es wäre gut, wenn Sie hier warten würden."
+    answer: "Es wäre gut, wenn Sie hier warten würden."
+  - type: correction
+    question: "Corrija: Würden Sie bitte mir helfen Sie?"
+    answer: "Würden Sie mir bitte helfen?"
+  - type: fill_blank
+    question: "Complete: Ich ___ Ihnen für eine schnelle Antwort dankbar."
+    answer: "wäre"
+  - type: translation
+    question: "Traduza: Você poderia abrir a janela?"
+    answer: "Könntest du bitte das Fenster öffnen?"
+  - type: multiple_choice
+    question: "Qual frase é correta para pedir uma informação formalmente?"
+    options:
+      - "Könnten Sie mir eine Auskunft geben?"
+      - "Könntest Sie mir eine Auskunft geben?"
+      - "Ich hätte geben eine Auskunft."
+    answer: "Könnten Sie mir eine Auskunft geben?"
+  - type: short_answer
+    question: "Escreva uma frase educada em alemão para pedir para remarcar um horário. Use: Wäre es möglich, ..."
+    answer: "Wäre es möglich, den Termin zu verschieben?"

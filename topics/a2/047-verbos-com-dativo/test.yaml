@@ -1,0 +1,63 @@
+topic: Verbos com Dativo
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Ich helfe meinem Onkel.
+      - Ich helfe meinen Onkel.
+      - Ich helfe mein Onkel.
+    answer: Ich helfe meinem Onkel.
+  - type: multiple_choice
+    question: Escolha a opção correta. Die neue Musik gefällt ___. (wir)
+    options:
+      - wir
+      - uns
+      - unser
+    answer: uns
+  - type: multiple_choice
+    question: Escolha a opção correta. Der Ball gehört ___. (das Mädchen)
+    options:
+      - das Mädchen
+      - den Mädchen
+      - dem Mädchen
+    answer: dem Mädchen
+  - type: fill_blank
+    question: Complete com o verbo correto. Ich ___ dir für deine Hilfe.
+    answer: danke
+  - type: fill_blank
+    question: Complete com dativo. Der Rock passt ___ sehr gut. (meine Schwester)
+    answer: meiner Schwester
+  - type: fill_blank
+    question: Complete com dativo. Der Trainer antwortet ___ morgen. (die Spieler)
+    answer: den Spielern
+  - type: correction
+    question: Corrija a frase. Das Sofa gehört meine Eltern.
+    answer: Das Sofa gehört meinen Eltern.
+  - type: correction
+    question: Corrija a frase. Dieser Kaffee gefällt mich nicht.
+    answer: Dieser Kaffee gefällt mir nicht.
+  - type: correction
+    question: Corrija a frase. Wir antworten die Kundin freundlich.
+    answer: Wir antworten der Kundin freundlich.
+  - type: transformation
+    question: Troque o nome pelo pronome. Die Bluse passt Maria.
+    answer: Die Bluse passt ihr.
+  - type: transformation
+    question: Troque o nome pelo pronome. Der Hund fehlt den Kindern.
+    answer: Der Hund fehlt ihnen.
+  - type: translation
+    question: Traduza. O livro pertence ao estudante.
+    answer: Das Buch gehört dem Studenten.
+  - type: translation
+    question: Traduza. Você pode ajudar a senhora Schmidt?
+    answer: Kannst du Frau Schmidt helfen?
+  - type: translation
+    question: Traduza. Essa cidade faz falta para nós.
+    answer: Diese Stadt fehlt uns.
+  - type: short_answer
+    question: Responda em alemão. Wem dankst du? (meine Mutter)
+    answer: Ich danke meiner Mutter.
+  - type: short_answer
+    question: Responda em alemão. Wem gefällt der Garten? (Herr Weber)
+    answer: Der Garten gefällt Herrn Weber.

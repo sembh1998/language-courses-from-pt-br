@@ -1,0 +1,51 @@
+topic: Vorgangspassiv em outros tempos
+level: B1
+cards:
+  - front: wurde gebaut
+    back: foi construído; foi construída
+    example: Die Schule wurde 1980 gebaut.
+    example_translation: A escola foi construída em 1980.
+  - front: ist gebaut worden
+    back: foi construído; foi construída no Perfekt passivo
+    example: Das neue Haus ist schnell gebaut worden.
+    example_translation: A casa nova foi construída rapidamente.
+  - front: wird gebaut werden
+    back: será construído; será construída
+    example: Die Brücke wird nächstes Jahr gebaut werden.
+    example_translation: A ponte será construída no próximo ano.
+  - front: wurde repariert
+    back: foi consertado; foi reparado
+    example: Der Aufzug wurde gestern repariert.
+    example_translation: O elevador foi consertado ontem.
+  - front: ist repariert worden
+    back: foi consertado no Perfekt passivo
+    example: Das Fahrrad ist schon repariert worden.
+    example_translation: A bicicleta já foi consertada.
+  - front: wird repariert werden
+    back: será consertado; será reparado
+    example: Der Kopierer wird am Montag repariert werden.
+    example_translation: A copiadora será consertada na segunda-feira.
+  - front: wurde geöffnet
+    back: foi aberto; foi aberta
+    example: Die Tür wurde um neun Uhr geöffnet.
+    example_translation: A porta foi aberta às nove horas.
+  - front: ist verschoben worden
+    back: foi adiado; foi adiada
+    example: Die Sitzung ist auf Freitag verschoben worden.
+    example_translation: A reunião foi adiada para sexta-feira.
+  - front: wurden informiert
+    back: foram informados; foram informadas
+    example: Die Mitarbeiter wurden rechtzeitig informiert.
+    example_translation: Os funcionários foram informados a tempo.
+  - front: von + Dativ
+    back: por; pela; pelo, para indicar agente no passivo
+    example: Der Text wurde von der Lehrerin korrigiert.
+    example_translation: O texto foi corrigido pela professora.
+  - front: durch + Akkusativ
+    back: por; através de, para causa ou meio no passivo
+    example: Das Fenster ist durch den Sturm beschädigt worden.
+    example_translation: A janela foi danificada pela tempestade.
+  - front: worden
+    back: marca do Perfekt no Vorgangspassiv
+    example: Die Regeln sind erklärt worden.
+    example_translation: As regras foram explicadas.

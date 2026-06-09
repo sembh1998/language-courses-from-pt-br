@@ -1,0 +1,117 @@
+topic: Artigos no dativo
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com o artigo definido correto no dativo.
+    items:
+      - question: Ich fahre mit ___ Bus.
+        answer: dem
+      - question: Maria ist bei ___ Ärztin.
+        answer: der
+      - question: Das Geschenk liegt auf ___ Tisch.
+        answer: dem
+      - question: Wir sprechen mit ___ Nachbarn.
+        answer: den
+      - question: Er kommt aus ___ Büro.
+        answer: dem
+      - question: Sie lernt mit ___ Kolleginnen.
+        answer: den
+  - type: multiple_choice
+    instruction: Escolha a forma correta para completar a frase.
+    items:
+      - question: Ich helfe ___ Vater.
+        options:
+          - dem
+          - den
+          - der
+        answer: dem
+      - question: Lina fährt mit ___ Fahrrad.
+        options:
+          - der
+          - dem
+          - den
+        answer: dem
+      - question: Wir wohnen bei ___ Freunden.
+        options:
+          - der
+          - dem
+          - den
+        answer: den
+      - question: Tom spricht mit ___ Lehrerin.
+        options:
+          - dem
+          - der
+          - den
+        answer: der
+      - question: Das Kind spielt mit ___ Hund.
+        options:
+          - dem
+          - der
+          - den
+        answer: dem
+      - question: Ich komme von ___ Arbeit.
+        options:
+          - dem
+          - den
+          - der
+        answer: der
+  - type: fill_blank
+    instruction: Complete com o artigo indefinido correto no dativo.
+    items:
+      - question: Ich spreche mit ___ Freund.
+        answer: einem
+      - question: Sie wohnt bei ___ Tante.
+        answer: einer
+      - question: Wir fahren zu ___ Museum.
+        answer: einem
+      - question: Er hilft ___ Nachbarin.
+        answer: einer
+      - question: Anna schreibt ___ Lehrer.
+        answer: einem
+      - question: Ich gehe mit ___ Kind in den Park.
+        answer: einem
+  - type: transformation
+    instruction: Reescreva a expressão no dativo com artigo definido.
+    items:
+      - question: mit + der Bruder
+        answer: mit dem Bruder
+      - question: bei + die Oma
+        answer: bei der Oma
+      - question: zu + das Hotel
+        answer: zu dem Hotel
+      - question: aus + die Schule
+        answer: aus der Schule
+      - question: von + die Eltern
+        answer: von den Eltern
+      - question: mit + die Kinder
+        answer: mit den Kindern
+  - type: fill_blank
+    instruction: Complete com a forma negativa correta no dativo.
+    items:
+      - question: Ich helfe ___ Mann.
+        answer: keinem
+      - question: Sie dankt ___ Frau.
+        answer: keiner
+      - question: Das Buch gehört ___ Kind.
+        answer: keinem
+      - question: Wir schreiben ___ Freunden.
+        answer: keinen
+      - question: Er fährt mit ___ Auto.
+        answer: keinem
+      - question: Heute telefoniere ich mit ___ Kollegin.
+        answer: keiner
+  - type: correction
+    instruction: Corrija o artigo ou a forma plural no dativo.
+    items:
+      - question: Ich fahre mit der Zug.
+        answer: Ich fahre mit dem Zug.
+      - question: Sie ist bei die Mutter.
+        answer: Sie ist bei der Mutter.
+      - question: Wir spielen mit den Kind.
+        answer: Wir spielen mit dem Kind.
+      - question: Er spricht mit den Freunde.
+        answer: Er spricht mit den Freunden.
+      - question: Das Paket ist für dem Lehrer.
+        answer: Das Paket ist für den Lehrer.
+      - question: Ich komme aus der Haus.
+        answer: Ich komme aus dem Haus.

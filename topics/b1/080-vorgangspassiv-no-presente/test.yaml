@@ -1,0 +1,75 @@
+topic: Vorgangspassiv no presente
+level: B1
+questions:
+  - type: multiple_choice
+    question: Marque a opção que descreve o café sendo servido.
+    options:
+      - Der Kaffee wird serviert.
+      - Der Kaffee ist servieren.
+      - Den Kaffee wird serviert.
+    answer: Der Kaffee wird serviert.
+  - type: fill_blank
+    question: Die neuen Regeln ___ erklärt.
+    answer: werden
+  - type: fill_blank
+    question: Der Kurs wird von Herrn Weber ___.
+    answer: geleitet
+  - type: multiple_choice
+    question: Qual frase corresponde a "Os quartos estão sendo limpos"?
+    options:
+      - Die Zimmer wird geputzt.
+      - Die Zimmer werden geputzt.
+      - Die Zimmer sind putzen.
+    answer: Die Zimmer werden geputzt.
+  - type: transformation
+    question: "Transforme em passiva: Die Mitarbeiter planen das Fest."
+    answer: Das Fest wird von den Mitarbeitern geplant.
+  - type: multiple_choice
+    question: "Complete corretamente: Das Formular wird ___ der Studentin ausgefüllt."
+    options:
+      - durch
+      - mit
+      - von
+    answer: von
+  - type: fill_blank
+    question: Wird die Wohnung heute ___? Responda com o Partizip II de renovieren.
+    answer: renoviert
+  - type: translation
+    question: "Traduza para o alemão: A mensagem é enviada por meio de um sistema."
+    answer: Die Nachricht wird durch ein System gesendet.
+  - type: multiple_choice
+    question: Qual opção usa durch de forma adequada?
+    options:
+      - Das Tor wird durch eine Fernbedienung geöffnet.
+      - Das Tor wird von eine Fernbedienung geöffnet.
+      - Das Tor werden durch eine Fernbedienung geöffnet.
+    answer: Das Tor wird durch eine Fernbedienung geöffnet.
+  - type: correction
+    question: "Corrija: Die Aufgabe wird lösen."
+    answer: Die Aufgabe wird gelöst.
+  - type: multiple_choice
+    question: Qual frase transforma corretamente "Man verkauft hier Tickets"?
+    options:
+      - Tickets wird hier verkauft.
+      - Hier werden Tickets verkauft.
+      - Hier sind Tickets verkaufen.
+    answer: Hier werden Tickets verkauft.
+  - type: fill_blank
+    question: Ich ___ über den Termin informiert.
+    answer: werde
+  - type: multiple_choice
+    question: Qual frase está errada para uma ação em processo?
+    options:
+      - Die Bestellung wird vorbereitet.
+      - Die Bestellung werden vorbereitet.
+      - Die Bestellung wird vom Team vorbereitet.
+    answer: Die Bestellung werden vorbereitet.
+  - type: translation
+    question: "Traduza para o alemão: O relatório é lido pela diretora."
+    answer: Der Bericht wird von der Direktorin gelesen.
+  - type: transformation
+    question: "Transforme em passiva: Ein Programm korrigiert die Fehler."
+    answer: Die Fehler werden durch ein Programm korrigiert.
+  - type: fill_blank
+    question: Die Türen ___ um 22 Uhr geschlossen.
+    answer: werden

@@ -1,0 +1,108 @@
+topic: "Acusativo e dativo juntos"
+level: "A2"
+words:
+  - german: "geben"
+    translation: "dar"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Ich gebe dir das Buch."
+    example_translation: "Eu te dou o livro."
+  - german: "zeigen"
+    translation: "mostrar"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Sie zeigt mir die Fotos."
+    example_translation: "Ela me mostra as fotos."
+  - german: "schicken"
+    translation: "enviar"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Wir schicken dem Lehrer eine E-Mail."
+    example_translation: "Nós enviamos um e-mail ao professor."
+  - german: "bringen"
+    translation: "trazer; levar"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Er bringt seiner Schwester den Tee."
+    example_translation: "Ele leva o chá para a irmã dele."
+  - german: "kaufen"
+    translation: "comprar"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Ich kaufe meinem Vater ein Geschenk."
+    example_translation: "Eu compro um presente para meu pai."
+  - german: "erklären"
+    translation: "explicar"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Die Lehrerin erklärt uns die Regel."
+    example_translation: "A professora nos explica a regra."
+  - german: "der Schlüssel"
+    translation: "a chave"
+    type: "noun"
+    gender: "masculine"
+    plural: "die Schlüssel"
+    example: "Ich gebe dem Mann den Schlüssel."
+    example_translation: "Eu dou a chave ao homem."
+  - german: "die Nachricht"
+    translation: "a mensagem"
+    type: "noun"
+    gender: "feminine"
+    plural: "die Nachrichten"
+    example: "Sie schickt ihm eine Nachricht."
+    example_translation: "Ela envia uma mensagem a ele."
+  - german: "das Geschenk"
+    translation: "o presente"
+    type: "noun"
+    gender: "neuter"
+    plural: "die Geschenke"
+    example: "Wir geben dem Kind das Geschenk."
+    example_translation: "Nós damos o presente à criança."
+  - german: "der Weg"
+    translation: "o caminho"
+    type: "noun"
+    gender: "masculine"
+    plural: "die Wege"
+    example: "Kannst du mir den Weg erklären?"
+    example_translation: "Você pode me explicar o caminho?"
+  - german: "mir"
+    translation: "para mim; me em dativo"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Bitte gib mir den Stift."
+    example_translation: "Por favor, me dê a caneta."
+  - german: "dir"
+    translation: "para você; te em dativo informal"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Ich zeige dir das Zimmer."
+    example_translation: "Eu te mostro o quarto."
+  - german: "ihm"
+    translation: "para ele; para isso em dativo"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Maria bringt ihm die Tasche."
+    example_translation: "Maria leva a bolsa para ele."
+  - german: "ihr"
+    translation: "para ela; para vocês em dativo"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Ich kaufe ihr einen Kaffee."
+    example_translation: "Eu compro um café para ela."
+  - german: "es"
+    translation: "isso; o/a para substantivo neutro no acusativo"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Ich gebe es dir."
+    example_translation: "Eu dou isso a você."

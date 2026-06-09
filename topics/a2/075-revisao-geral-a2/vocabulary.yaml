@@ -1,0 +1,87 @@
+topic: Revisão geral A2
+level: A2
+words:
+  - german: die Wiederholung
+    translation: a revisão
+    type: noun
+    gender: feminine
+    plural: die Wiederholungen
+    example: Die Wiederholung hilft mir vor dem Test.
+    example_translation: A revisão me ajuda antes do teste.
+  - german: die Prüfung
+    translation: a prova
+    type: noun
+    gender: feminine
+    plural: die Prüfungen
+    example: Morgen habe ich eine Prüfung.
+    example_translation: Amanhã tenho uma prova.
+  - german: lernen
+    translation: estudar; aprender
+    type: verb
+    gender: null
+    plural: null
+    example: Ich habe gestern gelernt.
+    example_translation: Eu estudei ontem.
+  - german: fahren
+    translation: ir; dirigir; viajar de transporte
+    type: verb
+    gender: null
+    plural: null
+    example: Wir sind mit dem Zug gefahren.
+    example_translation: Nós fomos de trem.
+  - german: helfen
+    translation: ajudar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich helfe meiner Freundin.
+    example_translation: Eu ajudo minha amiga.
+  - german: mit dem Bus
+    translation: de ônibus
+    type: phrase
+    gender: null
+    plural: null
+    example: Er fährt mit dem Bus zur Arbeit.
+    example_translation: Ele vai de ônibus para o trabalho.
+  - german: nach Hause
+    translation: para casa
+    type: phrase
+    gender: null
+    plural: null
+    example: Nach dem Kurs gehe ich nach Hause.
+    example_translation: Depois do curso, eu vou para casa.
+  - german: zum Arzt
+    translation: ao médico
+    type: phrase
+    gender: null
+    plural: null
+    example: Sie geht heute zum Arzt.
+    example_translation: Ela vai ao médico hoje.
+  - german: bei der Familie
+    translation: com a família; na casa da família
+    type: phrase
+    gender: null
+    plural: null
+    example: Am Wochenende war ich bei der Familie.
+    example_translation: No fim de semana, eu estava com a família.
+  - german: weil
+    translation: porque
+    type: conjunction
+    gender: null
+    plural: null
+    example: Ich lerne, weil ich die Prüfung bestehen möchte.
+    example_translation: Eu estudo porque quero passar na prova.
+  - german: dass
+    translation: que
+    type: conjunction
+    gender: null
+    plural: null
+    example: Ich denke, dass Deutsch wichtig ist.
+    example_translation: Eu acho que alemão é importante.
+  - german: wenn
+    translation: quando; se
+    type: conjunction
+    gender: null
+    plural: null
+    example: Wenn ich Zeit habe, übe ich Deutsch.
+    example_translation: Quando tenho tempo, pratico alemão.

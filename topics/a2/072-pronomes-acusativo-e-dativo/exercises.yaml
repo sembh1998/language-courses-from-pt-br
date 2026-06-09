@@ -1,0 +1,96 @@
+topic: Pronomes acusativo + dativo
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com o pronome acusativo correto para o objeto indicado.
+    items:
+      - question: der Ball -> Ich gebe ___ dir.
+        answer: ihn
+      - question: die Tasche -> Sie bringt ___ mir.
+        answer: sie
+      - question: das Buch -> Wir zeigen ___ ihm.
+        answer: es
+      - question: der Schlüssel -> Kannst du ___ ihr geben?
+        answer: ihn
+
+  - type: fill_blank
+    instruction: Complete com o pronome dativo correto para a pessoa indicada.
+    items:
+      - question: ich -> Anna schickt es ___.
+        answer: mir
+      - question: du -> Ich kaufe ihn ___.
+        answer: dir
+      - question: er -> Wir geben sie ___.
+        answer: ihm
+      - question: sie -> Paul zeigt es ___.
+        answer: ihr
+      - question: sie plural -> Ich bringe es ___.
+        answer: ihnen
+
+  - type: multiple_choice
+    instruction: Escolha a frase com a ordem natural correta.
+    items:
+      - question: Eu dou isso a você.
+        options:
+          - Ich gebe es dir.
+          - Ich gebe dir es.
+          - Ich dir gebe es.
+        answer: Ich gebe es dir.
+      - question: Ela mostra ele para mim.
+        options:
+          - Sie zeigt mir ihn.
+          - Sie zeigt ihn mir.
+          - Sie mir zeigt ihn.
+        answer: Sie zeigt ihn mir.
+      - question: Nós enviamos isso a eles.
+        options:
+          - Wir schicken ihnen es.
+          - Wir es schicken ihnen.
+          - Wir schicken es ihnen.
+        answer: Wir schicken es ihnen.
+
+  - type: transformation
+    instruction: Substitua os objetos por pronomes e mantenha a ordem correta.
+    items:
+      - question: Ich gebe dir das Heft.
+        answer: Ich gebe es dir.
+      - question: Sie zeigt mir den Brief.
+        answer: Sie zeigt ihn mir.
+      - question: Wir kaufen Anna die Blumen.
+        answer: Wir kaufen sie ihr.
+      - question: Er schickt den Kindern das Bild.
+        answer: Er schickt es ihnen.
+
+  - type: translation
+    instruction: Traduza para o alemão usando dois pronomes objeto.
+    items:
+      - question: Eu dou ele a você.
+        answer: Ich gebe ihn dir.
+      - question: Ela compra isso para ele.
+        answer: Sie kauft es ihm.
+      - question: Nós mostramos ela a vocês.
+        answer: Wir zeigen sie euch.
+      - question: Você envia isso para mim?
+        answer: Schickst du es mir?
+
+  - type: correction
+    instruction: Corrija a ordem dos pronomes na frase.
+    items:
+      - question: Ich gebe dir es.
+        answer: Ich gebe es dir.
+      - question: Anna zeigt mir ihn.
+        answer: Anna zeigt ihn mir.
+      - question: Wir schicken euch sie.
+        answer: Wir schicken sie euch.
+      - question: Paul bringt ihr ihn.
+        answer: Paul bringt ihn ihr.
+
+  - type: short_answer
+    instruction: Responda em alemão usando o pronome indicado no lugar do objeto.
+    items:
+      - question: Wem gibst du das Handy? Antwort an mich, Objekt es.
+        answer: Ich gebe es dir.
+      - question: Wem zeigt Lisa den Plan? Antwort an mich, Objekt ihn.
+        answer: Sie zeigt ihn dir.
+      - question: Wem kaufst du die Jacke? Antwort für Anna, Objekt sie.
+        answer: Ich kaufe sie ihr.

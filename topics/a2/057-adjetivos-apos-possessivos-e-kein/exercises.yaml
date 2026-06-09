@@ -1,0 +1,114 @@
+topic: Adjetivos após possessivos e kein
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com a terminação correta do adjetivo no nominativo.
+    items:
+      - question: "Mein gut___ Freund ist heute krank."
+        answer: er
+      - question: "Meine neu___ Kollegin arbeitet in Berlin."
+        answer: e
+      - question: "Mein klein___ Auto steht draußen."
+        answer: es
+      - question: "Meine alt___ Schuhe sind bequem."
+        answer: en
+      - question: "Kein groß___ Problem ist hier sichtbar."
+        answer: es
+
+  - type: fill_blank
+    instruction: Complete com a forma correta do possessivo ou de kein no acusativo.
+    items:
+      - question: "Ich besuche ___ netten Onkel."
+        answer: meinen
+      - question: "Wir kaufen ___ teuren Tisch."
+        answer: keinen
+      - question: "Anna nimmt ___ rote Tasche."
+        answer: ihre
+      - question: "Tom liest ___ interessantes Buch."
+        answer: sein
+      - question: "Ich sehe ___ kleinen Kinder im Garten."
+        answer: keine
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta.
+    items:
+      - question: "Qual frase usa corretamente masculino nominativo?"
+        options:
+          - Mein guter Freund wohnt hier.
+          - Mein gute Freund wohnt hier.
+          - Meinen guten Freund wohnt hier.
+        answer: Mein guter Freund wohnt hier.
+      - question: "Qual frase usa corretamente feminino?"
+        options:
+          - Ich sehe meine neuen Tasche.
+          - Ich sehe meine neue Tasche.
+          - Ich sehe mein neue Tasche.
+        answer: Ich sehe meine neue Tasche.
+      - question: "Qual frase usa corretamente plural?"
+        options:
+          - Keine kleine Kinder spielen hier.
+          - Kein kleinen Kinder spielen hier.
+          - Keine kleinen Kinder spielen hier.
+        answer: Keine kleinen Kinder spielen hier.
+      - question: "Qual frase usa corretamente neutro?"
+        options:
+          - Das ist kein kleines Problem.
+          - Das ist keine kleines Problem.
+          - Das ist kein kleine Problem.
+        answer: Das ist kein kleines Problem.
+      - question: "Qual frase usa corretamente masculino acusativo?"
+        options:
+          - Ich treffe mein guter Lehrer.
+          - Ich treffe meinen guten Lehrer.
+          - Ich treffe meine gute Lehrer.
+        answer: Ich treffe meinen guten Lehrer.
+      - question: "Qual frase usa corretamente plural acusativo?"
+        options:
+          - Wir haben keine alten Stühle.
+          - Wir haben kein alte Stühle.
+          - Wir haben keinen alten Stühle.
+        answer: Wir haben keine alten Stühle.
+
+  - type: transformation
+    instruction: Reescreva com kein, mantendo o gênero, número e caso.
+    items:
+      - question: "Das ist ein kleiner Hund."
+        answer: Das ist kein kleiner Hund.
+      - question: "Sie hat eine neue Wohnung."
+        answer: Sie hat keine neue Wohnung.
+      - question: "Ich kaufe einen teuren Mantel."
+        answer: Ich kaufe keinen teuren Mantel.
+      - question: "Wir brauchen ein großes Zimmer."
+        answer: Wir brauchen kein großes Zimmer.
+      - question: "Dort stehen alte Fahrräder."
+        answer: Dort stehen keine alten Fahrräder.
+
+  - type: correction
+    instruction: Corrija a declinação do adjetivo ou do possessivo.
+    items:
+      - question: "Mein gute Freundin kommt morgen."
+        answer: Meine gute Freundin kommt morgen.
+      - question: "Ich sehe mein netter Nachbar."
+        answer: Ich sehe meinen netten Nachbarn.
+      - question: "Das ist keine kleines Problem."
+        answer: Das ist kein kleines Problem.
+      - question: "Unsere neue Bücher sind interessant."
+        answer: Unsere neuen Bücher sind interessant.
+      - question: "Er trägt sein alte Jacke."
+        answer: Er trägt seine alte Jacke.
+
+  - type: translation
+    instruction: Traduza para o alemão usando possessivos ou kein com adjetivo.
+    items:
+      - question: "Meu bom amigo mora em Munique."
+        answer: Mein guter Freund wohnt in München.
+      - question: "Eu não compro nenhum casaco caro."
+        answer: Ich kaufe keinen teuren Mantel.
+      - question: "A irmã pequena dela está em casa."
+        answer: Ihre kleine Schwester ist zu Hause.
+      - question: "Nós temos um quarto claro."
+        answer: Wir haben ein helles Zimmer.
+      - question: "Nossos vizinhos simpáticos ajudam muito."
+        answer: Unsere netten Nachbarn helfen viel.
+      - question: "Isso não é nenhum problema pequeno."
+        answer: Das ist kein kleines Problem.

@@ -1,0 +1,63 @@
+topic: Adjetivos após possessivos e kein
+level: A2
+questions:
+  - type: multiple_choice
+    question: "Qual frase está correta?"
+    options:
+      - Mein neuer Chef ist freundlich.
+      - Meine neuer Chef ist freundlich.
+      - Mein neue Chef ist freundlich.
+    answer: Mein neuer Chef ist freundlich.
+  - type: multiple_choice
+    question: "Complete: Ich rufe ___ alten Vater an."
+    options:
+      - mein alte
+      - meinen alten
+      - meine alten
+    answer: meinen alten
+  - type: multiple_choice
+    question: "Qual opção completa corretamente: Sie findet ___ schön___ Kleid."
+    options:
+      - keine schöne
+      - keinen schönen
+      - kein schönes
+    answer: kein schönes
+  - type: fill_blank
+    question: "Complete a terminação: Dein klein___ Bruder spielt Fußball."
+    answer: er
+  - type: fill_blank
+    question: "Complete a terminação: Ich nehme meine warm___ Jacke."
+    answer: e
+  - type: fill_blank
+    question: "Complete a terminação: Wir haben keine frei___ Plätze."
+    answer: en
+  - type: fill_blank
+    question: "Complete o possessivo: Maria besucht ___ kranke Mutter."
+    answer: ihre
+  - type: fill_blank
+    question: "Complete com kein no acusativo masculino: Ich brauche ___ neuen Computer."
+    answer: keinen
+  - type: translation
+    question: "Traduza: Minha nova professora é muito paciente."
+    answer: Meine neue Lehrerin ist sehr geduldig.
+  - type: translation
+    question: "Traduza: Ele não tem nenhum carro velho."
+    answer: Er hat kein altes Auto.
+  - type: translation
+    question: "Traduza: Eu vejo meus bons amigos."
+    answer: Ich sehe meine guten Freunde.
+  - type: correction
+    question: "Corrija: Kein kleine Katze schläft hier."
+    answer: Keine kleine Katze schläft hier.
+  - type: correction
+    question: "Corrija: Ich lese meinen gutes Buch."
+    answer: Ich lese mein gutes Buch.
+  - type: correction
+    question: "Corrija: Seine schnellen Auto ist rot."
+    answer: Sein schnelles Auto ist rot.
+  - type: sentence_transformation
+    question: "Transforme para negativo com kein: Das ist ein billiger Tisch."
+    answer: Das ist kein billiger Tisch.
+  - type: sentence_transformation
+    question: "Transforme para negativo com kein: Lisa kauft eine blaue Lampe."
+    answer: Lisa kauft keine blaue Lampe.

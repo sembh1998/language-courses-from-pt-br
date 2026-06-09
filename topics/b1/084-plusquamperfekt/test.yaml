@@ -1,0 +1,81 @@
+topic: Plusquamperfekt
+level: B1
+questions:
+  - type: multiple_choice
+    question: "Qual frase usa corretamente o Plusquamperfekt com haben?"
+    options:
+      - "Ich hatte die Nachricht gelesen."
+      - "Ich war die Nachricht gelesen."
+      - "Ich hatte die Nachricht lesen."
+    answer: "Ich hatte die Nachricht gelesen."
+  - type: fill_blank
+    question: "Complete: Wir ___ den Film schon gesehen."
+    answer: "hatten"
+  - type: multiple_choice
+    question: "Qual frase usa corretamente o Plusquamperfekt com sein?"
+    options:
+      - "Mara hatte früh angekommen."
+      - "Mara war früh angekommen."
+      - "Mara war früh ankommen."
+    answer: "Mara war früh angekommen."
+  - type: fill_blank
+    question: "Complete: Nachdem Tom den Kaffee getrunken ___, ging er zur Arbeit."
+    answer: "hatte"
+  - type: multiple_choice
+    question: "Escolha a frase correta com nachdem."
+    options:
+      - "Nachdem der Unterricht hatte geendet, gingen alle nach Hause."
+      - "Nachdem der Unterricht geendet hat, gingen alle nach Hause."
+      - "Nachdem der Unterricht geendet hatte, gingen alle nach Hause."
+    answer: "Nachdem der Unterricht geendet hatte, gingen alle nach Hause."
+  - type: correction
+    question: "Corrija: Wir waren den Termin abgesagt."
+    answer: "Wir hatten den Termin abgesagt."
+  - type: translation
+    question: "Traduza: Eu tinha perdido meu celular."
+    answer: "Ich hatte mein Handy verloren."
+  - type: multiple_choice
+    question: "Qual frase mostra que a partida aconteceu antes da ligação?"
+    options:
+      - "Der Vater war schon losgefahren, als ich anrief."
+      - "Der Vater hatte schon losgefahren, als ich anrief."
+      - "Der Vater ist schon losfahren, als ich anrief."
+    answer: "Der Vater war schon losgefahren, als ich anrief."
+  - type: fill_blank
+    question: "Complete: Ihr ___ die Adresse vergessen."
+    answer: "hattet"
+  - type: transformation
+    question: "Una com nachdem: Sie packt den Koffer. Danach fährt sie zum Flughafen."
+    answer: "Nachdem sie den Koffer gepackt hatte, fuhr sie zum Flughafen."
+  - type: multiple_choice
+    question: "Qual auxiliar combina com einschlafen no Plusquamperfekt?"
+    options:
+      - "hatte eingeschlafen"
+      - "hatte einschlafen"
+      - "war eingeschlafen"
+    answer: "war eingeschlafen"
+  - type: fill_blank
+    question: "Complete: Als ich nach Hause kam, ___ meine Mitbewohner schon gekocht."
+    answer: "hatten"
+  - type: correction
+    question: "Corrija: Nachdem ich die Tür geschlossen hatte, ich ging zur Haltestelle."
+    answer: "Nachdem ich die Tür geschlossen hatte, ging ich zur Haltestelle."
+  - type: translation
+    question: "Traduza: Ela já tinha ido embora quando nós chegamos."
+    answer: "Sie war schon gegangen, als wir ankamen."
+  - type: ordering
+    question: "Na frase 'Nachdem Ben bezahlt hatte, verließ er das Geschäft', qual ação aconteceu primeiro?"
+    answer: "Ben bezahlte primeiro."
+  - type: short_answer
+    question: "Responda em alemão: Warum konntest du nicht einsteigen? Use: den Bus verpassen."
+    answer: "Ich hatte den Bus verpasst."
+  - type: multiple_choice
+    question: "Qual frase evita confundir Perfekt e Plusquamperfekt?"
+    options:
+      - "Wir haben gegessen, bevor wir sind gegangen."
+      - "Wir waren gegessen, bevor wir gingen."
+      - "Wir hatten gegessen, bevor wir gingen."
+    answer: "Wir hatten gegessen, bevor wir gingen."
+  - type: fill_blank
+    question: "Complete: Der Kurs ___ schon begonnen, als Lea den Raum betrat."
+    answer: "hatte"

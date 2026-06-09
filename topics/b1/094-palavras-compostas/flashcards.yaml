@@ -1,0 +1,51 @@
+topic: Palavras compostas
+level: B1
+cards:
+  - front: die Kaffeemaschine
+    back: a máquina de café
+    example: Die Kaffeemaschine ist kaputt.
+    example_translation: A máquina de café está quebrada.
+  - front: der Arbeitsplatz
+    back: o local de trabalho
+    example: Der Arbeitsplatz ist gut organisiert.
+    example_translation: O local de trabalho está bem organizado.
+  - front: das Wörterbuch
+    back: o dicionário
+    example: Ich benutze ein digitales Wörterbuch.
+    example_translation: Eu uso um dicionário digital.
+  - front: die Zugfahrt
+    back: a viagem de trem
+    example: Die Zugfahrt war angenehm.
+    example_translation: A viagem de trem foi agradável.
+  - front: der Deutschkurs
+    back: o curso de alemão
+    example: Der Deutschkurs hilft mir sehr.
+    example_translation: O curso de alemão me ajuda muito.
+  - front: das Arbeitszimmer
+    back: o escritório; o quarto de trabalho
+    example: Das Arbeitszimmer hat ein großes Fenster.
+    example_translation: O escritório tem uma janela grande.
+  - front: die Haustür
+    back: a porta de entrada
+    example: Die Haustür ist offen.
+    example_translation: A porta de entrada está aberta.
+  - front: der Geburtstagskuchen
+    back: o bolo de aniversário
+    example: Der Geburtstagskuchen steht auf dem Tisch.
+    example_translation: O bolo de aniversário está sobre a mesa.
+  - front: die Bushaltestelle
+    back: o ponto de ônibus
+    example: Wir warten an der Bushaltestelle.
+    example_translation: Nós esperamos no ponto de ônibus.
+  - front: der Lebenslauf
+    back: o currículo
+    example: Mein Lebenslauf ist auf Deutsch.
+    example_translation: Meu currículo está em alemão.
+  - front: die Prüfungsfrage
+    back: a questão da prova
+    example: Die Prüfungsfrage hat zwei Teile.
+    example_translation: A questão da prova tem duas partes.
+  - front: die Donaudampfschifffahrt
+    back: a navegação a vapor no Danúbio
+    example: Das Wort endet mit Fahrt, also heißt es die Donaudampfschifffahrt.
+    example_translation: A palavra termina com Fahrt, então é die Donaudampfschifffahrt.

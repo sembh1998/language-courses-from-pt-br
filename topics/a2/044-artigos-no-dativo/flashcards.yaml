@@ -1,0 +1,43 @@
+topic: Artigos no dativo
+level: A2
+cards:
+  - front: dem Mann
+    back: ao homem; para o homem; com o homem
+    example: Ich helfe dem Mann.
+    example_translation: Eu ajudo o homem.
+  - front: der Frau
+    back: à mulher; para a mulher; com a mulher
+    example: Ich danke der Frau.
+    example_translation: Eu agradeço à mulher.
+  - front: dem Kind
+    back: à criança; para a criança; com a criança
+    example: Sie gibt dem Kind Wasser.
+    example_translation: Ela dá água à criança.
+  - front: den Freunden
+    back: aos amigos; para os amigos; com os amigos
+    example: Wir schreiben den Freunden.
+    example_translation: Nós escrevemos aos amigos.
+  - front: einem Bruder
+    back: a um irmão; para um irmão; com um irmão
+    example: Er hilft einem Bruder.
+    example_translation: Ele ajuda um irmão.
+  - front: einer Schwester
+    back: a uma irmã; para uma irmã; com uma irmã
+    example: Ich telefoniere mit einer Schwester.
+    example_translation: Eu falo ao telefone com uma irmã.
+  - front: einem Mädchen
+    back: a uma menina; para uma menina; com uma menina
+    example: Die Lehrerin antwortet einem Mädchen.
+    example_translation: A professora responde a uma menina.
+  - front: keinem Vater
+    back: a nenhum pai; para nenhum pai; com nenhum pai
+    example: Der Brief gehört keinem Vater.
+    example_translation: A carta não pertence a nenhum pai.
+  - front: keiner Mutter
+    back: a nenhuma mãe; para nenhuma mãe; com nenhuma mãe
+    example: Das Fahrrad gehört keiner Mutter.
+    example_translation: A bicicleta não pertence a nenhuma mãe.
+  - front: keinen Kindern
+    back: a nenhuma criança; para nenhuma criança; com nenhuma criança
+    example: Wir geben keinen Kindern Kaffee.
+    example_translation: Nós não damos café a nenhuma criança.

@@ -1,0 +1,73 @@
+topic: A palavra doch
+level: A2
+words:
+  - german: doch
+    translation: sim, sim sim, ao contrário; usado para corrigir uma negação
+    type: particle
+    gender: null
+    plural: null
+    example: Doch, ich komme.
+    example_translation: Venho, sim.
+  - german: nicht
+    translation: não
+    type: adverb
+    gender: null
+    plural: null
+    example: Kommst du nicht?
+    example_translation: Você não vem?
+  - german: kein
+    translation: nenhum; não ter
+    type: determiner
+    gender: null
+    plural: null
+    example: Hast du keine Zeit?
+    example_translation: Você não tem tempo?
+  - german: die Zeit
+    translation: o tempo; a disponibilidade
+    type: noun
+    gender: feminine
+    plural: null
+    example: Doch, ich habe Zeit.
+    example_translation: Tenho tempo, sim.
+  - german: der Hunger
+    translation: a fome
+    type: noun
+    gender: masculine
+    plural: null
+    example: Hast du keinen Hunger?
+    example_translation: Você não está com fome?
+  - german: da sein
+    translation: estar presente; estar aí
+    type: phrase
+    gender: null
+    plural: null
+    example: Doch, sie ist da.
+    example_translation: Ela está aí, sim.
+  - german: zu Hause sein
+    translation: estar em casa
+    type: phrase
+    gender: null
+    plural: null
+    example: Ist er nicht zu Hause?
+    example_translation: Ele não está em casa?
+  - german: mögen
+    translation: gostar de
+    type: verb
+    gender: null
+    plural: null
+    example: Doch, ich mag Tee.
+    example_translation: Gosto de chá, sim.
+  - german: kommen
+    translation: vir
+    type: verb
+    gender: null
+    plural: null
+    example: Doch, wir kommen.
+    example_translation: Nós vamos, sim.
+  - german: trinken
+    translation: beber
+    type: verb
+    gender: null
+    plural: null
+    example: Trinkst du keinen Kaffee?
+    example_translation: Você não bebe café?

@@ -1,0 +1,87 @@
+topic: Pronomes no dativo
+level: A2
+words:
+  - german: mir
+    translation: para mim, a mim, me
+    type: pronoun
+    gender: null
+    plural: null
+    example: Kannst du mir helfen?
+    example_translation: Você pode me ajudar?
+  - german: dir
+    translation: para você, a você, te
+    type: pronoun
+    gender: null
+    plural: null
+    example: Ich schreibe dir morgen.
+    example_translation: Eu escrevo para você amanhã.
+  - german: ihm
+    translation: para ele, a ele
+    type: pronoun
+    gender: null
+    plural: null
+    example: Das Fahrrad gehört ihm.
+    example_translation: A bicicleta pertence a ele.
+  - german: ihr
+    translation: para ela, a ela
+    type: pronoun
+    gender: null
+    plural: null
+    example: Wir danken ihr.
+    example_translation: Nós agradecemos a ela.
+  - german: uns
+    translation: para nós, a nós, nos
+    type: pronoun
+    gender: null
+    plural: null
+    example: Der Lehrer erklärt uns die Aufgabe.
+    example_translation: O professor explica a tarefa para nós.
+  - german: euch
+    translation: para vocês, a vocês
+    type: pronoun
+    gender: null
+    plural: null
+    example: Ich helfe euch am Samstag.
+    example_translation: Eu ajudo vocês no sábado.
+  - german: ihnen
+    translation: para eles ou elas, a eles ou elas
+    type: pronoun
+    gender: null
+    plural: null
+    example: Die Suppe schmeckt ihnen.
+    example_translation: A sopa agrada a eles ou elas.
+  - german: Ihnen
+    translation: para o senhor, para a senhora, para vocês formal
+    type: pronoun
+    gender: null
+    plural: null
+    example: Kann ich Ihnen helfen?
+    example_translation: Posso ajudar o senhor ou a senhora?
+  - german: helfen
+    translation: ajudar
+    type: verb
+    gender: null
+    plural: null
+    example: Er hilft mir oft.
+    example_translation: Ele me ajuda com frequência.
+  - german: danken
+    translation: agradecer
+    type: verb
+    gender: null
+    plural: null
+    example: Ich danke dir.
+    example_translation: Eu agradeço a você.
+  - german: gefallen
+    translation: agradar, ser agradável para alguém
+    type: verb
+    gender: null
+    plural: null
+    example: Die Musik gefällt ihr.
+    example_translation: A música agrada a ela.
+  - german: gehören
+    translation: pertencer
+    type: verb
+    gender: null
+    plural: null
+    example: Der Schlüssel gehört uns.
+    example_translation: A chave pertence a nós.

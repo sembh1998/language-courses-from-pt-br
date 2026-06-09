@@ -1,0 +1,81 @@
+topic: Declinação sem artigo
+level: B1
+questions:
+  - type: multiple_choice
+    question: "Qual opção completa corretamente: ___ Tee beruhigt mich."
+    options:
+      - Guter Tee beruhigt mich.
+      - Guten Tee beruhigt mich.
+      - Gutem Tee beruhigt mich.
+    answer: Guter Tee beruhigt mich.
+  - type: fill_blank
+    question: "Complete: Ich kaufe frisch___ Fisch."
+    answer: en
+  - type: multiple_choice
+    question: "Qual opção completa corretamente: ___ Luft ist wichtig."
+    options:
+      - Frisches
+      - Frische
+      - Frischer
+    answer: Frische
+  - type: fill_blank
+    question: "Complete: Wir trinken kalt___ Bier."
+    answer: es
+  - type: multiple_choice
+    question: "Qual frase usa dativo neutro corretamente?"
+    options:
+      - Mit warmes Wasser spült sie die Tasse.
+      - Mit warmen Wasser spült sie die Tasse.
+      - Mit warmem Wasser spült sie die Tasse.
+    answer: Mit warmem Wasser spült sie die Tasse.
+  - type: correction
+    question: "Corrija: Ich esse frischer Fisch."
+    answer: Ich esse frischen Fisch.
+  - type: fill_blank
+    question: "Complete: Neu___ Ideen helfen dem Team."
+    answer: e
+  - type: multiple_choice
+    question: "Qual opção completa corretamente: Er arbeitet gern mit ___."
+    options:
+      - netten Kollegen
+      - nette Kollegen
+      - netter Kollegen
+    answer: netten Kollegen
+  - type: translation
+    question: "Traduza: Boa comunicação evita problemas."
+    answer: Gute Kommunikation vermeidet Probleme.
+  - type: fill_blank
+    question: "Complete: Wegen dicht___ Verkehrs kommt Lina später."
+    answer: en
+  - type: multiple_choice
+    question: "Qual frase está correta no acusativo feminino?"
+    options:
+      - Wir brauchen klare Antwort.
+      - Wir brauchen klarer Antwort.
+      - Wir brauchen klarem Antwort.
+    answer: Wir brauchen klare Antwort.
+  - type: correction
+    question: "Corrija: Aus gut Grund sagt er nein."
+    answer: Aus gutem Grund sagt er nein.
+  - type: fill_blank
+    question: "Complete: Sie spricht mit freundlich___ Nachbarn."
+    answer: en
+  - type: translation
+    question: "Traduza: Música tranquila ajuda no trabalho."
+    answer: Ruhige Musik hilft bei der Arbeit.
+  - type: multiple_choice
+    question: "Qual frase usa genitivo plural sem artigo?"
+    options:
+      - Die Meinung erfahrener Ärztinnen zählt.
+      - Die Meinung erfahrene Ärztinnen zählt.
+      - Die Meinung erfahrenen Ärztinnen zählt.
+    answer: Die Meinung erfahrener Ärztinnen zählt.
+  - type: fill_blank
+    question: "Complete: Klar___ Regeln machen die Arbeit einfacher."
+    answer: e
+  - type: correction
+    question: "Corrija: Bei schlechtes Wetter jogge ich nicht."
+    answer: Bei schlechtem Wetter jogge ich nicht.
+  - type: translation
+    question: "Traduza: Com boa preparação, passamos no teste."
+    answer: Mit guter Vorbereitung bestehen wir den Test.

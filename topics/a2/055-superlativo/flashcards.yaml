@@ -1,0 +1,51 @@
+topic: Superlativo
+level: A2
+cards:
+  - front: am besten
+    back: o melhor; da melhor forma
+    example: Diese Route ist am besten.
+    example_translation: Esta rota é a melhor.
+  - front: der beste
+    back: o melhor
+    example: Das ist der beste Kaffee.
+    example_translation: Esse é o melhor café.
+  - front: die beste
+    back: a melhor
+    example: Sie hat die beste Idee.
+    example_translation: Ela tem a melhor ideia.
+  - front: das beste
+    back: o melhor; a melhor coisa
+    example: Das beste Hotel ist hier.
+    example_translation: O melhor hotel fica aqui.
+  - front: am liebsten
+    back: o que mais gosta; de preferência
+    example: Ich lese am liebsten abends.
+    example_translation: Eu gosto mais de ler à noite.
+  - front: am meisten
+    back: o mais; em maior quantidade
+    example: Am Wochenende schlafe ich am meisten.
+    example_translation: No fim de semana eu durmo mais.
+  - front: am schnellsten
+    back: o mais rápido; mais rapidamente
+    example: Leo schwimmt am schnellsten.
+    example_translation: Leo nada mais rápido.
+  - front: am größten
+    back: o maior
+    example: Dieses Haus ist am größten.
+    example_translation: Esta casa é a maior.
+  - front: am nächsten
+    back: o mais próximo; na próxima vez
+    example: Der Markt ist am nächsten.
+    example_translation: O mercado é o mais próximo.
+  - front: die nächste Haltestelle
+    back: a próxima parada
+    example: Die nächste Haltestelle ist am Bahnhof.
+    example_translation: A próxima parada é na estação.
+  - front: der schönste Park
+    back: o parque mais bonito
+    example: Das ist der schönste Park der Stadt.
+    example_translation: Esse é o parque mais bonito da cidade.
+  - front: das kleinste Zimmer
+    back: o menor quarto
+    example: Das kleinste Zimmer ist ruhig.
+    example_translation: O menor quarto é silencioso.

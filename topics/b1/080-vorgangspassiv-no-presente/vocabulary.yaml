@@ -1,0 +1,87 @@
+topic: Vorgangspassiv no presente
+level: B1
+words:
+  - german: bauen
+    translation: construir
+    type: verb
+    gender: null
+    plural: null
+    example: Das Haus wird gebaut.
+    example_translation: A casa está sendo construída.
+  - german: reparieren
+    translation: consertar
+    type: verb
+    gender: null
+    plural: null
+    example: Der Computer wird repariert.
+    example_translation: O computador está sendo consertado.
+  - german: öffnen
+    translation: abrir
+    type: verb
+    gender: null
+    plural: null
+    example: Die Tür wird geöffnet.
+    example_translation: A porta está sendo aberta.
+  - german: schließen
+    translation: fechar
+    type: verb
+    gender: null
+    plural: null
+    example: Das Geschäft wird um acht Uhr geschlossen.
+    example_translation: A loja é fechada às oito horas.
+  - german: lesen
+    translation: ler
+    type: verb
+    gender: null
+    plural: null
+    example: Der Bericht wird von der Chefin gelesen.
+    example_translation: O relatório é lido pela chefe.
+  - german: schreiben
+    translation: escrever
+    type: verb
+    gender: null
+    plural: null
+    example: Die Nachricht wird sofort geschrieben.
+    example_translation: A mensagem é escrita imediatamente.
+  - german: prüfen
+    translation: verificar; examinar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Dokumente werden geprüft.
+    example_translation: Os documentos são verificados.
+  - german: entscheiden
+    translation: decidir
+    type: verb
+    gender: null
+    plural: null
+    example: Die Frage wird morgen entschieden.
+    example_translation: A questão será decidida amanhã.
+  - german: von
+    translation: por; de
+    type: preposition
+    gender: null
+    plural: null
+    example: Der Patient wird von der Ärztin untersucht.
+    example_translation: O paciente é examinado pela médica.
+  - german: durch
+    translation: por meio de; através de
+    type: preposition
+    gender: null
+    plural: null
+    example: Die Tür wird durch eine Karte geöffnet.
+    example_translation: A porta é aberta por meio de um cartão.
+  - german: der Bericht
+    translation: o relatório
+    type: noun
+    gender: masculine
+    plural: die Berichte
+    example: Der Bericht wird heute geschrieben.
+    example_translation: O relatório é escrito hoje.
+  - german: die Entscheidung
+    translation: a decisão
+    type: noun
+    gender: feminine
+    plural: die Entscheidungen
+    example: Die Entscheidung wird von der Leitung getroffen.
+    example_translation: A decisão é tomada pela direção.

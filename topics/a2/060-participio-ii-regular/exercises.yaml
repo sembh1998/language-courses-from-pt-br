@@ -1,0 +1,114 @@
+topic: Particípio II regular
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com o Particípio II regular correto.
+    items:
+      - question: Ich habe Deutsch ___. (lernen)
+        answer: gelernt
+      - question: Wir haben Pizza ___. (machen)
+        answer: gemacht
+      - question: Die Kinder haben im Garten ___. (spielen)
+        answer: gespielt
+      - question: Du hast Milch ___. (kaufen)
+        answer: gekauft
+      - question: Sie hat in Leipzig ___. (wohnen)
+        answer: gewohnt
+
+  - type: multiple_choice
+    instruction: Escolha o Particípio II correto.
+    items:
+      - question: Qual é o Particípio II de machen?
+        options:
+          - gemacht
+          - gemachen
+          - macht
+        answer: gemacht
+      - question: Qual é o Particípio II de spielen?
+        options:
+          - spielen
+          - gespielt
+          - gespielen
+        answer: gespielt
+      - question: Qual é o Particípio II de kaufen?
+        options:
+          - kaufen
+          - gekaufen
+          - gekauft
+        answer: gekauft
+      - question: Qual é o Particípio II de hören?
+        options:
+          - gehört
+          - gehöret
+          - hören
+        answer: gehört
+      - question: Qual é o Particípio II de fragen?
+        options:
+          - gefragen
+          - gefragt
+          - fragt
+        answer: gefragt
+      - question: Qual é o Particípio II de wohnen?
+        options:
+          - wohnen
+          - gewohnen
+          - gewohnt
+        answer: gewohnt
+
+  - type: transformation
+    instruction: Transforme o infinitivo em Particípio II regular.
+    items:
+      - question: kochen
+        answer: gekocht
+      - question: suchen
+        answer: gesucht
+      - question: sagen
+        answer: gesagt
+      - question: tanzen
+        answer: getanzt
+      - question: reisen
+        answer: gereist
+      - question: lieben
+        answer: geliebt
+
+  - type: sentence_completion
+    instruction: Complete a frase no Perfekt com haben e o Particípio II regular.
+    items:
+      - question: Ich ___ heute viel ___. (arbeiten)
+        answer: habe gearbeitet
+      - question: Wir ___ auf den Bus ___. (warten)
+        answer: haben gewartet
+      - question: Lisa ___ Musik ___. (hören)
+        answer: hat gehört
+      - question: Ihr ___ Fußball ___. (spielen)
+        answer: habt gespielt
+      - question: Tom und Mia ___ Wasser ___. (kaufen)
+        answer: haben gekauft
+
+  - type: error_correction
+    instruction: Corrija apenas o Particípio II errado.
+    items:
+      - question: Ich habe viel gelernen.
+        answer: gelernt
+      - question: Sie hat Tee machen.
+        answer: gemacht
+      - question: Wir haben Karten gespielen.
+        answer: gespielt
+      - question: Er hat lange gewarten.
+        answer: gewartet
+      - question: Du hast die Frage gefragen.
+        answer: gefragt
+
+  - type: translation
+    instruction: Traduza para o alemão usando Perfekt com Particípio II regular.
+    items:
+      - question: Eu comprei pão.
+        answer: Ich habe Brot gekauft.
+      - question: Nós estudamos alemão.
+        answer: Wir haben Deutsch gelernt.
+      - question: Ela fez café.
+        answer: Sie hat Kaffee gemacht.
+      - question: Vocês jogaram tênis.
+        answer: Ihr habt Tennis gespielt.
+      - question: Ele trabalhou ontem.
+        answer: Er hat gestern gearbeitet.

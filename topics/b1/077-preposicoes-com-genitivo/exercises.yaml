@@ -1,0 +1,125 @@
+topic: Preposições com genitivo
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: "Complete com a preposição correta: während, wegen, trotz, statt, innerhalb ou außerhalb."
+    items:
+      - question: ___ des Seminars dürfen die Teilnehmenden Fragen stellen.
+        answer: Während
+      - question: ___ der Baustelle ist die Straße heute gesperrt.
+        answer: Wegen
+      - question: ___ eines Hotels übernachten wir bei Freunden.
+        answer: Statt
+      - question: ___ der Stadt gibt es viele ruhige Dörfer.
+        answer: Außerhalb
+      - question: ___ der Kopfschmerzen geht Paul zur Arbeit.
+        answer: Trotz
+      - question: ___ einer Stunde muss das Formular fertig sein.
+        answer: Innerhalb
+  - type: multiple_choice
+    instruction: Escolha a forma de genitivo correta.
+    items:
+      - question: Wegen ___ bleibt das Team im Büro.
+        options:
+          - des Gewitters
+          - dem Gewitter
+          - das Gewitter
+        answer: des Gewitters
+      - question: Während ___ spricht die Lehrerin langsam.
+        options:
+          - die Erklärung
+          - der Erklärung
+          - dem Erklärung
+        answer: der Erklärung
+      - question: Trotz ___ fährt Max mit dem Fahrrad.
+        options:
+          - den Wind
+          - dem Wind
+          - des Windes
+        answer: des Windes
+      - question: Statt ___ bestellt sie Wasser.
+        options:
+          - einem Saft
+          - einen Saft
+          - eines Saftes
+        answer: eines Saftes
+      - question: Innerhalb ___ sollen wir antworten.
+        options:
+          - zwei Tagen
+          - zweier Tage
+          - zwei Tage
+        answer: zweier Tage
+      - question: Außerhalb ___ darf man hier nicht parken.
+        options:
+          - der Parkzone
+          - die Parkzone
+          - dem Parkzone
+        answer: der Parkzone
+  - type: transformation
+    instruction: Reescreva a ideia usando a preposição indicada e genitivo.
+    items:
+      - question: "Der Kurs läuft. In dieser Zeit benutzen wir keine Handys. Verwende: während"
+        answer: Während des Kurses benutzen wir keine Handys.
+      - question: "Es gibt Nebel. Deshalb fährt der Bus langsamer. Verwende: wegen"
+        answer: Wegen des Nebels fährt der Bus langsamer.
+      - question: "Wir haben wenig Zeit. Trotzdem besuchen wir das Museum. Verwende: trotz"
+        answer: Trotz der wenigen Zeit besuchen wir das Museum.
+      - question: "Wir kaufen kein neues Sofa, sondern einen Tisch. Verwende: statt"
+        answer: Statt eines neuen Sofas kaufen wir einen Tisch.
+      - question: "Die Antwort kommt in drei Tagen. Verwende: innerhalb"
+        answer: Innerhalb dreier Tage kommt die Antwort.
+  - type: fill_blank
+    instruction: Complete o artigo ou a terminação que falta no genitivo.
+    items:
+      - question: Wegen d___ Fehlers muss ich die Datei neu senden.
+        answer: es
+      - question: Trotz d___ Hitze trinken wir Kaffee.
+        answer: er
+      - question: Während d___ Interviews macht Jana Notizen.
+        answer: es
+      - question: Statt ein___ langen Pause machen wir zwei kurze Pausen.
+        answer: er
+      - question: Außerhalb d___ Arbeitszeiten liest er keine E-Mails.
+        answer: er
+      - question: Innerhalb ein___ Monats lernen wir viel.
+        answer: es
+  - type: multiple_choice
+    instruction: Escolha a frase mais adequada no alemão padrão escrito.
+    items:
+      - question: Qual frase usa genitivo corretamente?
+        options:
+          - Trotz den Problemen bleibt Mia positiv.
+          - Trotz der Probleme bleibt Mia positiv.
+          - Trotz die Probleme bleibt Mia positiv.
+        answer: Trotz der Probleme bleibt Mia positiv.
+      - question: Qual frase está correta?
+        options:
+          - Statt eines Geschenks bringt er Blumen.
+          - Statt einem Geschenk bringt er Blumen.
+          - Statt ein Geschenk bringt er Blumen.
+        answer: Statt eines Geschenks bringt er Blumen.
+      - question: Qual frase está correta?
+        options:
+          - Außerhalb dem Gebäude ist Rauchen erlaubt.
+          - Außerhalb das Gebäude ist Rauchen erlaubt.
+          - Außerhalb des Gebäudes ist Rauchen erlaubt.
+        answer: Außerhalb des Gebäudes ist Rauchen erlaubt.
+      - question: Qual frase está correta?
+        options:
+          - Wegen der Nachricht ist Tom nervös.
+          - Wegen die Nachricht ist Tom nervös.
+          - Wegen den Nachricht ist Tom nervös.
+        answer: Wegen der Nachricht ist Tom nervös.
+  - type: translation
+    instruction: Traduza para o alemão usando uma preposição com genitivo.
+    items:
+      - question: Durante a reunião, nós discutimos o plano.
+        answer: Während der Besprechung diskutieren wir den Plan.
+      - question: Por causa do barulho, eu fecho a janela.
+        answer: Wegen des Lärms schließe ich das Fenster.
+      - question: Apesar da chuva, ela corre no parque.
+        answer: Trotz des Regens läuft sie im Park.
+      - question: Em vez de uma resposta longa, ele escreve uma frase curta.
+        answer: Statt einer langen Antwort schreibt er einen kurzen Satz.
+      - question: Fora da universidade, ele trabalha em uma loja.
+        answer: Außerhalb der Universität arbeitet er in einem Geschäft.

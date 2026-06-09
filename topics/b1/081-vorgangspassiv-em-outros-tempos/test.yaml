@@ -1,0 +1,81 @@
+topic: Vorgangspassiv em outros tempos
+level: B1
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta no Präteritum passivo?
+    options:
+      - Der Park wurde letzte Woche eröffnet.
+      - Der Park ist letzte Woche eröffnet geworden.
+      - Der Park wird letzte Woche eröffnet werden.
+    answer: Der Park wurde letzte Woche eröffnet.
+  - type: fill_blank
+    question: "Complete: Die Einladung ___ gestern verschickt."
+    answer: wurde
+  - type: multiple_choice
+    question: Em um aviso administrativo, escolha a alternativa no Perfekt passivo.
+    options:
+      - Der Antrag wurde genehmigt worden.
+      - Der Antrag ist genehmigt worden.
+      - Der Antrag wird genehmigt worden.
+    answer: Der Antrag ist genehmigt worden.
+  - type: fill_blank
+    question: "Complete: Die Autos ___ in der Werkstatt geprüft worden."
+    answer: sind
+  - type: multiple_choice
+    question: Para falar de uma atualização futura, escolha a construção passiva adequada.
+    options:
+      - Die Software wurde im Juli aktualisiert.
+      - Die Software ist im Juli aktualisiert worden.
+      - Die Software wird im Juli aktualisiert werden.
+    answer: Die Software wird im Juli aktualisiert werden.
+  - type: transformation
+    question: "Transforme em passivo no Präteritum: Die Polizei sperrt die Straße."
+    answer: Die Straße wurde gesperrt.
+  - type: multiple_choice
+    question: Qual opção usa corretamente worde/worden/geworden?
+    options:
+      - Die Frage ist beantwortet worden.
+      - Die Frage ist beantwortet geworden.
+      - Die Frage wurde beantwortet worden.
+    answer: Die Frage ist beantwortet worden.
+  - type: fill_blank
+    question: "Complete: Der Plan wird nächste Woche vorgestellt ___."
+    answer: werden
+  - type: multiple_choice
+    question: Escolha a alternativa em que o sujeito plural está combinado corretamente com werden.
+    options:
+      - Die Zimmer wurde gereinigt.
+      - Die Zimmer ist gereinigt worden.
+      - Die Zimmer wurden gereinigt.
+    answer: Die Zimmer wurden gereinigt.
+  - type: correction
+    question: "Corrija: Das Fenster wurde durch den Regen beschädigt worden."
+    answer: Das Fenster wurde durch den Regen beschädigt.
+  - type: translation
+    question: "Traduza: O regulamento foi explicado pela professora."
+    answer: Die Regelung wurde von der Lehrerin erklärt.
+  - type: fill_blank
+    question: "Complete: Die Nachricht ist gerade veröffentlicht ___."
+    answer: worden
+  - type: transformation
+    question: "Transforme em passivo no Perfekt: Das Team organisiert den Workshop."
+    answer: Der Workshop ist organisiert worden.
+  - type: multiple_choice
+    question: Qual frase combina melhor com nächstes Jahr?
+    options:
+      - Das Stadion wurde nächstes Jahr erweitert.
+      - Das Stadion wird nächstes Jahr erweitert werden.
+      - Das Stadion ist nächstes Jahr erweitert worden.
+    answer: Das Stadion wird nächstes Jahr erweitert werden.
+  - type: translation
+    question: "Traduza: As reservas foram canceladas."
+    answer: Die Reservierungen sind storniert worden.
+  - type: fill_blank
+    question: "Complete: Ihr ___ über die neuen Preise informiert."
+    answer: wurdet
+  - type: correction
+    question: "Corrija: Die Tickets wird morgen kontrolliert werden."
+    answer: Die Tickets werden morgen kontrolliert werden.
+  - type: transformation
+    question: "Transforme em passivo no Futur I: Die Firma liefert die Möbel."
+    answer: Die Möbel werden geliefert werden.

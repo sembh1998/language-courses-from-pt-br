@@ -1,0 +1,57 @@
+topic: Resumo, opinião e relato
+level: B1
+questions:
+  - type: multiple_choice
+    question: Qual frase é mais adequada para iniciar um resumo?
+    options:
+      - In dem Beitrag geht es um die Vorteile von Bibliotheken.
+      - Bibliotheken sind langweilig und altmodisch.
+      - Vor drei Wochen war ich in einer Bibliothek.
+    answer: In dem Beitrag geht es um die Vorteile von Bibliotheken.
+  - type: multiple_choice
+    question: Qual frase expressa uma opinião pessoal com clareza?
+    options:
+      - Der Bericht hat vier Abschnitte.
+      - Ich bin der Meinung, dass Pausen beim Lernen nötig sind.
+      - Am Freitag habe ich eine Pause gemacht.
+    answer: Ich bin der Meinung, dass Pausen beim Lernen nötig sind.
+  - type: multiple_choice
+    question: Qual frase é típica de um relato de experiência?
+    options:
+      - Zusammenfassend beschreibt der Text ein Problem.
+      - Die Autorin erklärt die Situation.
+      - Während meines Praktikums habe ich viele Aufgaben übernommen.
+    answer: Während meines Praktikums habe ich viele Aufgaben übernommen.
+  - type: fill_blank
+    question: "Complete: Ich stimme dem Vorschlag zu, ___ er realistisch ist."
+    answer: weil
+  - type: fill_blank
+    question: "Complete: Der Plan ist teuer. ___ kann er langfristig helfen."
+    answer: Trotzdem
+  - type: fill_blank
+    question: "Complete: Ich habe viele Fehler gemacht, ___ habe ich den Text noch einmal korrigiert."
+    answer: deshalb
+  - type: fill_blank
+    question: "Complete: ___ kann man sagen, dass beide Lösungen möglich sind."
+    answer: Zusammenfassend
+  - type: rewrite
+    question: "Reescreva como resumo: O podcast fala sobre estudar no exterior. Use: In dem Podcast geht es um ..."
+    answer: In dem Podcast geht es um ein Studium im Ausland.
+  - type: rewrite
+    question: "Reescreva como opinião: Eu acho cursos online úteis porque são flexíveis."
+    answer: Ich finde Online-Kurse nützlich, weil sie flexibel sind.
+  - type: rewrite
+    question: "Reescreva como relato com sequência: primeiro cheguei tarde, depois falei com a professora."
+    answer: Zuerst bin ich zu spät gekommen, dann habe ich mit der Lehrerin gesprochen.
+  - type: classify
+    question: "Classifique: Die Autorin zeigt, dass viele Menschen weniger Plastik benutzen möchten."
+    answer: resumo
+  - type: classify
+    question: "Classifique: Meiner Meinung nach sollte jede Stadt mehr Parks haben."
+    answer: opinião
+  - type: classify
+    question: "Classifique: Nach dem Gespräch fühlte ich mich viel sicherer."
+    answer: relato
+  - type: short_answer
+    question: Escreva uma conclusão curta em alemão para uma opinião sobre esportes.
+    answer: Deshalb denke ich, dass Sport im Alltag wichtig ist.

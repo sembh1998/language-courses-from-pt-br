@@ -1,0 +1,113 @@
+topic: Pronomes Possessivos
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com o possessivo correto no nominativo.
+    items:
+      - question: ___ Bruder arbeitet in München. (eu)
+        answer: Mein
+      - question: ___ Schwester lernt Deutsch. (você, informal)
+        answer: Deine
+      - question: ___ Auto ist rot. (ele)
+        answer: Sein
+      - question: ___ Mutter kommt heute. (ela)
+        answer: Ihre
+      - question: ___ Freunde sind im Café. (nós)
+        answer: Unsere
+      - question: ___ Vater ist Arzt. (vocês, informal plural)
+        answer: Euer
+  - type: fill_blank
+    instruction: Complete com o possessivo correto no acusativo.
+    items:
+      - question: Ich sehe ___ Bruder. (eu)
+        answer: meinen
+      - question: Wir besuchen ___ Oma. (você, informal)
+        answer: deine
+      - question: Maria sucht ___ Handy. (ele)
+        answer: sein
+      - question: Paul kennt ___ Schwester. (ela)
+        answer: ihre
+      - question: Der Lehrer begrüßt ___ Kinder. (nós)
+        answer: unsere
+      - question: Ich finde ___ Hund sehr süß. (vocês, informal plural)
+        answer: euren
+  - type: multiple_choice
+    instruction: Escolha a forma correta para completar a frase.
+    items:
+      - question: Ich treffe ___ Vater im Supermarkt.
+        options:
+          - meinen
+          - mein
+          - meine
+        answer: meinen
+      - question: ___ Tasche liegt auf dem Tisch.
+        options:
+          - Dein
+          - Deine
+          - Deinen
+        answer: Deine
+      - question: Wir suchen ___ Schlüssel.
+        options:
+          - euer
+          - eure
+          - euren
+        answer: euren
+      - question: ___ Kind spielt im Garten.
+        options:
+          - Unseren
+          - Unsere
+          - Unser
+        answer: Unser
+      - question: Sie besucht ___ Tante in Bonn.
+        options:
+          - ihre
+          - ihr
+          - ihren
+        answer: ihre
+      - question: Lukas findet ___ Fahrrad nicht.
+        options:
+          - seinen
+          - sein
+          - seine
+        answer: sein
+  - type: transformation
+    instruction: Reescreva a expressão no acusativo, mantendo o mesmo possuidor.
+    items:
+      - question: mein Bruder
+        answer: meinen Bruder
+      - question: dein Vater
+        answer: deinen Vater
+      - question: sein Hund
+        answer: seinen Hund
+      - question: ihr Lehrer
+        answer: ihren Lehrer
+      - question: unser Sohn
+        answer: unseren Sohn
+      - question: euer Freund
+        answer: euren Freund
+  - type: translation
+    instruction: Traduza para o alemão usando possessivos.
+    items:
+      - question: Meu irmão mora aqui.
+        answer: Mein Bruder wohnt hier.
+      - question: Eu vejo meu irmão.
+        answer: Ich sehe meinen Bruder.
+      - question: A irmã dela trabalha hoje.
+        answer: Ihre Schwester arbeitet heute.
+      - question: Nós visitamos nossos amigos.
+        answer: Wir besuchen unsere Freunde.
+      - question: Vocês conhecem o professor de vocês?
+        answer: Kennt ihr euren Lehrer?
+  - type: error_correction
+    instruction: Corrija o erro no possessivo.
+    items:
+      - question: Ich sehe mein Vater.
+        answer: Ich sehe meinen Vater.
+      - question: Deine Bruder ist nett.
+        answer: Dein Bruder ist nett.
+      - question: Wir besuchen unseren Oma.
+        answer: Wir besuchen unsere Oma.
+      - question: Euer Mutter kommt morgen.
+        answer: Eure Mutter kommt morgen.
+      - question: Anna ruft ihr Bruder an.
+        answer: Anna ruft ihren Bruder an.

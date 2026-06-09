@@ -1,0 +1,130 @@
+topic: N-Deklination
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: Complete com a forma correta do substantivo entre parênteses.
+    items:
+      - question: Ich sehe den ___ vor dem Seminarraum. (Student)
+        answer: Studenten
+      - question: Die Ärztin hilft dem ___ sofort. (Patient)
+        answer: Patienten
+      - question: Maria ruft den ___ wegen des Meetings an. (Kollege)
+        answer: Kollegen
+      - question: Der Lehrer erklärt dem ___ die Aufgabe. (Junge)
+        answer: Jungen
+      - question: Wir sprechen mit dem ___ aus der Nachbarschaft. (Mensch)
+        answer: Menschen
+      - question: Die Verkäuferin berät den ___ sehr freundlich. (Kunde)
+        answer: Kunden
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta.
+    items:
+      - question: Qual frase usa corretamente a N-Deklination no acusativo?
+        options:
+          - Ich treffe den Studenten im Park.
+          - Ich treffe den Student im Park.
+          - Ich treffe der Student im Park.
+        answer: Ich treffe den Studenten im Park.
+      - question: Qual frase está correta no dativo?
+        options:
+          - Wir helfen dem Kollege.
+          - Wir helfen dem Kollegen.
+          - Wir helfen den Kollegen.
+        answer: Wir helfen dem Kollegen.
+      - question: Qual frase está correta com `der Junge`?
+        options:
+          - Die Mutter sucht der Junge.
+          - Die Mutter sucht dem Jungen.
+          - Die Mutter sucht den Jungen.
+        answer: Die Mutter sucht den Jungen.
+      - question: Qual frase está correta no nominativo singular?
+        options:
+          - Der Mensch braucht Zeit.
+          - Den Menschen braucht Zeit.
+          - Der Menschen braucht Zeit.
+        answer: Der Mensch braucht Zeit.
+      - question: Qual frase usa corretamente o genitivo?
+        options:
+          - Das Handy des Kollegen ist neu.
+          - Das Handy des Kollege ist neu.
+          - Das Handy der Kollege ist neu.
+        answer: Das Handy des Kollegen ist neu.
+      - question: Qual frase está correta com `der Herr`?
+        options:
+          - Ich begrüße den Herr Schneider.
+          - Ich begrüße dem Herrn Schneider.
+          - Ich begrüße den Herrn Schneider.
+        answer: Ich begrüße den Herrn Schneider.
+
+  - type: transformation
+    instruction: Reescreva a frase trocando o nominativo indicado pela forma pedida.
+    items:
+      - question: "der Student → acusativo: Ich frage ___."
+        answer: den Studenten
+      - question: "der Kollege → dativo: Ich antworte ___."
+        answer: dem Kollegen
+      - question: "der Mensch → genitivo: Die Meinung ___ ist wichtig."
+        answer: des Menschen
+      - question: "der Junge → acusativo: Der Trainer lobt ___."
+        answer: den Jungen
+      - question: "der Kunde → dativo: Die Firma schreibt ___."
+        answer: dem Kunden
+      - question: "der Nachbar → dativo: Wir danken ___."
+        answer: dem Nachbarn
+
+  - type: correction
+    instruction: Corrija apenas a forma errada da N-Deklination.
+    items:
+      - question: Ich kenne den Mensch aus dem Büro.
+        answer: Ich kenne den Menschen aus dem Büro.
+      - question: Die Lehrerin hilft dem Student.
+        answer: Die Lehrerin hilft dem Studenten.
+      - question: Er spricht mit dem Kollege aus Berlin.
+        answer: Er spricht mit dem Kollegen aus Berlin.
+      - question: Das Fahrrad des Junge ist rot.
+        answer: Das Fahrrad des Jungen ist rot.
+      - question: Die Sekretärin ruft den Herr Müller an.
+        answer: Die Sekretärin ruft den Herrn Müller an.
+
+  - type: classification
+    instruction: Indique se a frase está no nominativo, acusativo, dativo ou genitivo.
+    items:
+      - question: Der Student liest einen Artikel.
+        answer: nominativo
+      - question: Ich besuche den Patienten im Krankenhaus.
+        answer: acusativo
+      - question: Wir geben dem Kunden eine Antwort.
+        answer: dativo
+      - question: Die Tasche des Kollegen liegt hier.
+        answer: genitivo
+      - question: Der Junge wartet an der Haltestelle.
+        answer: nominativo
+      - question: Sie hört dem Menschen aufmerksam zu.
+        answer: dativo
+
+  - type: translation
+    instruction: Traduza para o alemão usando a N-Deklination corretamente.
+    items:
+      - question: Eu ajudo o estudante.
+        answer: Ich helfe dem Studenten.
+      - question: Ela encontra o colega.
+        answer: Sie trifft den Kollegen.
+      - question: Nós perguntamos ao cliente.
+        answer: Wir fragen den Kunden.
+      - question: O e-mail do senhor é curto.
+        answer: Die E-Mail des Herrn ist kurz.
+      - question: O professor explica a regra ao menino.
+        answer: Der Lehrer erklärt dem Jungen die Regel.
+
+  - type: short_answer
+    instruction: Escreva uma frase curta em alemão com a forma indicada.
+    items:
+      - question: Use `den Studenten` em uma frase.
+        answer: Ich sehe den Studenten.
+      - question: Use `dem Kollegen` em uma frase.
+        answer: Ich helfe dem Kollegen.
+      - question: Use `des Menschen` em uma frase.
+        answer: Die Würde des Menschen ist wichtig.
+      - question: Use `den Jungen` em uma frase.
+        answer: Die Mutter ruft den Jungen.

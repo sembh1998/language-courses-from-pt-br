@@ -1,0 +1,87 @@
+topic: N-Deklination
+level: B1
+words:
+  - german: der Student
+    translation: o estudante universitário
+    type: noun
+    gender: masculine
+    plural: die Studenten
+    example: Ich sehe den Studenten in der Bibliothek.
+    example_translation: Eu vejo o estudante na biblioteca.
+  - german: der Mensch
+    translation: a pessoa; o ser humano
+    type: noun
+    gender: masculine
+    plural: die Menschen
+    example: Jeder Mensch braucht Respekt.
+    example_translation: Toda pessoa precisa de respeito.
+  - german: der Kollege
+    translation: o colega de trabalho
+    type: noun
+    gender: masculine
+    plural: die Kollegen
+    example: Ich spreche mit dem Kollegen aus Hamburg.
+    example_translation: Eu falo com o colega de Hamburgo.
+  - german: der Junge
+    translation: o menino; o garoto
+    type: noun
+    gender: masculine
+    plural: die Jungen
+    example: Die Nachbarin grüßt den Jungen.
+    example_translation: A vizinha cumprimenta o menino.
+  - german: der Kunde
+    translation: o cliente
+    type: noun
+    gender: masculine
+    plural: die Kunden
+    example: Der Verkäufer hilft dem Kunden.
+    example_translation: O vendedor ajuda o cliente.
+  - german: der Nachbar
+    translation: o vizinho
+    type: noun
+    gender: masculine
+    plural: die Nachbarn
+    example: Ich bringe dem Nachbarn ein Paket.
+    example_translation: Eu levo um pacote ao vizinho.
+  - german: der Herr
+    translation: o senhor
+    type: noun
+    gender: masculine
+    plural: die Herren
+    example: Die Assistentin ruft den Herrn Schmidt an.
+    example_translation: A assistente liga para o senhor Schmidt.
+  - german: der Patient
+    translation: o paciente
+    type: noun
+    gender: masculine
+    plural: die Patienten
+    example: Die Ärztin untersucht den Patienten.
+    example_translation: A médica examina o paciente.
+  - german: fragen
+    translation: perguntar a; consultar
+    type: verb
+    gender: null
+    plural: null
+    example: Wir fragen den Kollegen nach der Adresse.
+    example_translation: Nós perguntamos o endereço ao colega.
+  - german: helfen
+    translation: ajudar
+    type: verb
+    gender: null
+    plural: null
+    example: Der Lehrer hilft dem Jungen.
+    example_translation: O professor ajuda o menino.
+  - german: treffen
+    translation: encontrar
+    type: verb
+    gender: null
+    plural: null
+    example: Morgen treffe ich den Studenten im Café.
+    example_translation: Amanhã encontro o estudante no café.
+  - german: sprechen mit
+    translation: falar com
+    type: phrase
+    gender: null
+    plural: null
+    example: Lena spricht mit dem Menschen sehr freundlich.
+    example_translation: Lena fala com a pessoa de forma muito amigável.

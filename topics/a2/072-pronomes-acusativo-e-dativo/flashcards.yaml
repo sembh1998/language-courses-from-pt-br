@@ -1,0 +1,43 @@
+topic: Pronomes acusativo + dativo
+level: A2
+cards:
+  - front: Ich gebe es dir.
+    back: Eu dou isso a você.
+    example: Das Buch ist hier. Ich gebe es dir.
+    example_translation: O livro está aqui. Eu dou isso a você.
+  - front: Ich kaufe ihn ihr.
+    back: Eu compro ele para ela.
+    example: Der Schal ist schön. Ich kaufe ihn ihr.
+    example_translation: O cachecol é bonito. Eu compro ele para ela.
+  - front: Sie zeigt ihn mir.
+    back: Ela mostra ele para mim.
+    example: Der Plan ist wichtig. Sie zeigt ihn mir.
+    example_translation: O plano é importante. Ela mostra ele para mim.
+  - front: Wir schicken es euch.
+    back: Nós enviamos isso a vocês.
+    example: Das Foto ist fertig. Wir schicken es euch.
+    example_translation: A foto está pronta. Nós enviamos isso a vocês.
+  - front: der Ball -> ihn
+    back: objeto masculino no acusativo vira ihn
+    example: Ich gebe ihn ihm.
+    example_translation: Eu dou ele a ele.
+  - front: die Jacke -> sie
+    back: objeto feminino no acusativo vira sie
+    example: Sie bringt sie mir.
+    example_translation: Ela traz ela para mim.
+  - front: das Handy -> es
+    back: objeto neutro no acusativo vira es
+    example: Kannst du es mir geben?
+    example_translation: Você pode me dar isso?
+  - front: mir / dir / ihm / ihr
+    back: a mim / a você / a ele / a ela
+    example: Ich erkläre es dir.
+    example_translation: Eu explico isso a você.
+  - front: acusativo + dativo
+    back: ordem natural com dois pronomes objeto
+    example: Ich gebe es dir, nicht dir es.
+    example_translation: Eu dou isso a você, não dir es.
+  - front: Kannst du ihn mir geben?
+    back: Você pode me dar ele?
+    example: Der Stift liegt dort. Kannst du ihn mir geben?
+    example_translation: A caneta está ali. Você pode me dar ela?

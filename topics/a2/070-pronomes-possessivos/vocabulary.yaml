@@ -1,0 +1,73 @@
+topic: Pronomes Possessivos
+level: A2
+words:
+  - german: mein Bruder
+    translation: meu irmão
+    type: phrase
+    gender: masculine
+    plural: meine Brüder
+    example: Mein Bruder wohnt in Köln.
+    example_translation: Meu irmão mora em Colônia.
+  - german: meinen Bruder
+    translation: meu irmão no acusativo
+    type: phrase
+    gender: masculine
+    plural: meine Brüder
+    example: Ich besuche meinen Bruder am Samstag.
+    example_translation: Eu visito meu irmão no sábado.
+  - german: deine Schwester
+    translation: sua irmã
+    type: phrase
+    gender: feminine
+    plural: deine Schwestern
+    example: Deine Schwester ist sehr freundlich.
+    example_translation: Sua irmã é muito simpática.
+  - german: sein Vater
+    translation: o pai dele
+    type: phrase
+    gender: masculine
+    plural: seine Väter
+    example: Sein Vater arbeitet im Büro.
+    example_translation: O pai dele trabalha no escritório.
+  - german: ihren Vater
+    translation: o pai dela no acusativo
+    type: phrase
+    gender: masculine
+    plural: ihre Väter
+    example: Sie ruft ihren Vater an.
+    example_translation: Ela liga para o pai dela.
+  - german: unser Kind
+    translation: nosso filho ou nossa criança
+    type: phrase
+    gender: neuter
+    plural: unsere Kinder
+    example: Unser Kind lernt Deutsch.
+    example_translation: Nosso filho aprende alemão.
+  - german: unsere Freunde
+    translation: nossos amigos
+    type: phrase
+    gender: plural
+    plural: null
+    example: Wir treffen unsere Freunde im Park.
+    example_translation: Nós encontramos nossos amigos no parque.
+  - german: euer Hund
+    translation: o cachorro de vocês
+    type: phrase
+    gender: masculine
+    plural: eure Hunde
+    example: Euer Hund schläft im Garten.
+    example_translation: O cachorro de vocês dorme no jardim.
+  - german: euren Hund
+    translation: o cachorro de vocês no acusativo
+    type: phrase
+    gender: masculine
+    plural: eure Hunde
+    example: Ich sehe euren Hund vor dem Haus.
+    example_translation: Eu vejo o cachorro de vocês na frente da casa.
+  - german: ihre Tasche
+    translation: a bolsa dela
+    type: phrase
+    gender: feminine
+    plural: ihre Taschen
+    example: Ihre Tasche liegt auf dem Stuhl.
+    example_translation: A bolsa dela está na cadeira.

@@ -1,0 +1,71 @@
+topic: Präteritum de sein, haben e modais
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta no Präteritum?
+    options:
+      - Ich war gestern im Kurs.
+      - Ich bin gestern im Kurs war.
+      - Ich gewesen gestern im Kurs.
+    answer: Ich war gestern im Kurs.
+  - type: fill_blank
+    question: Meine Eltern ___ früher in Berlin.
+    answer: waren
+  - type: multiple_choice
+    question: Escolha a forma correta de haben no Präteritum.
+    options:
+      - Wir hat eine Pause.
+      - Wir hatten eine Pause.
+      - Wir haben eine Pause gehabt.
+    answer: Wir hatten eine Pause.
+  - type: fill_blank
+    question: Ich ___ am Freitag keine Lust.
+    answer: hatte
+  - type: multiple_choice
+    question: Qual opção expressa capacidade ou possibilidade no passado?
+    options:
+      - Sie wollte den Computer benutzen.
+      - Sie musste den Computer benutzen.
+      - Sie konnte den Computer benutzen.
+    answer: Sie konnte den Computer benutzen.
+  - type: fill_blank
+    question: Tom ___ den Bus nehmen, denn sein Fahrrad war kaputt.
+    answer: musste
+  - type: transformation
+    question: "Transforme para o Präteritum: Ich will nach Hause gehen."
+    answer: Ich wollte nach Hause gehen.
+  - type: multiple_choice
+    question: Qual frase mostra permissão no passado?
+    options:
+      - Die Schüler durften Musik hören.
+      - Die Schüler konnten Musik hören.
+      - Die Schüler mussten Musik hören.
+    answer: Die Schüler durften Musik hören.
+  - type: error_correction
+    question: "Corrija a frase: Maria hatte krank."
+    answer: Maria war krank.
+  - type: fill_blank
+    question: Ihr ___ gestern sehr freundlich.
+    answer: wart
+  - type: transformation
+    question: "Transforme para o Präteritum: Du sollst mehr Wasser trinken."
+    answer: Du solltest mehr Wasser trinken.
+  - type: multiple_choice
+    question: Qual frase mantém o verbo principal no infinitivo?
+    options:
+      - Ich musste gekauft Milch.
+      - Ich musste Milch kaufen.
+      - Ich musste Milch gekauft.
+    answer: Ich musste Milch kaufen.
+  - type: short_answer
+    question: "Escreva em alemão: Eu não pude ligar."
+    answer: Ich konnte nicht anrufen.
+  - type: short_answer
+    question: "Escreva em alemão: Nós tínhamos um problema."
+    answer: Wir hatten ein Problem.
+  - type: fill_blank
+    question: Die Kinder ___ nicht allein ins Kino gehen.
+    answer: durften
+  - type: error_correction
+    question: "Corrija a frase: Er müsste gestern lernen."
+    answer: Er musste gestern lernen.

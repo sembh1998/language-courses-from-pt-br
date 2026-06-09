@@ -1,0 +1,43 @@
+topic: Werden + infinitivo
+level: A2
+cards:
+  - front: ich werde
+    back: eu vou; eu irei
+    example: Ich werde heute lernen.
+    example_translation: Eu vou estudar hoje.
+  - front: du wirst
+    back: você vai; tu vais
+    example: Du wirst morgen arbeiten.
+    example_translation: Você vai trabalhar amanhã.
+  - front: er wird
+    back: ele vai; ele irá
+    example: Er wird später kommen.
+    example_translation: Ele vai chegar mais tarde.
+  - front: wir werden
+    back: nós vamos; nós iremos
+    example: Wir werden am Samstag reisen.
+    example_translation: Nós vamos viajar no sábado.
+  - front: ihr werdet
+    back: vocês vão; vós ireis
+    example: Ihr werdet viel üben.
+    example_translation: Vocês vão praticar muito.
+  - front: sie werden
+    back: eles/elas vão; eles/elas irão
+    example: Sie werden morgen einkaufen.
+    example_translation: Eles vão fazer compras amanhã.
+  - front: Es wird regnen.
+    back: Vai chover.
+    example: Es wird am Abend regnen.
+    example_translation: Vai chover à noite.
+  - front: Ich werde dir helfen.
+    back: Eu vou te ajudar.
+    example: Keine Sorge, ich werde dir helfen.
+    example_translation: Não se preocupe, eu vou te ajudar.
+  - front: Der Infinitiv steht am Ende.
+    back: O infinitivo fica no final.
+    example: Ich werde morgen kochen.
+    example_translation: Eu vou cozinhar amanhã.
+  - front: Morgen gehe ich zum Kurs.
+    back: Amanhã eu vou ao curso.
+    example: Morgen gehe ich zum Deutschkurs.
+    example_translation: Amanhã eu vou ao curso de alemão.

@@ -1,0 +1,102 @@
+topic: Werden + infinitivo
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com a forma correta de werden.
+    items:
+      - question: Ich ___ morgen früh lernen.
+        answer: werde
+      - question: Du ___ am Freitag arbeiten.
+        answer: wirst
+      - question: Lena ___ später anrufen.
+        answer: wird
+      - question: Wir ___ nächste Woche reisen.
+        answer: werden
+      - question: Ihr ___ heute viel üben.
+        answer: werdet
+      - question: Meine Eltern ___ im Sommer kommen.
+        answer: werden
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta com werden + infinitivo.
+    items:
+      - question: Como dizer "Eu vou cozinhar hoje"?
+        options:
+          - Ich werde heute kochen.
+          - Ich werde heute koche.
+          - Ich koche werde heute.
+        answer: Ich werde heute kochen.
+      - question: Qual frase tem o infinitivo na posição correta?
+        options:
+          - Wir werden fahren morgen nach Hamburg.
+          - Wir fahren werden morgen nach Hamburg.
+          - Wir werden morgen nach Hamburg fahren.
+        answer: Wir werden morgen nach Hamburg fahren.
+      - question: Qual frase combina com "Você vai estudar alemão"?
+        options:
+          - Du wirst Deutsch lernen.
+          - Du werdet Deutsch lernen.
+          - Du wird Deutsch lernen.
+        answer: Du wirst Deutsch lernen.
+      - question: Qual frase é uma previsão correta?
+        options:
+          - Es regnen wird morgen.
+          - Es wird morgen regnen.
+          - Es werde morgen regnen.
+        answer: Es wird morgen regnen.
+
+  - type: transformation
+    instruction: Reescreva as frases usando werden + infinitivo.
+    items:
+      - question: Ich lerne morgen.
+        answer: Ich werde morgen lernen.
+      - question: Tim kauft später Brot.
+        answer: Tim wird später Brot kaufen.
+      - question: Wir treffen Anna am Sonntag.
+        answer: Wir werden Anna am Sonntag treffen.
+      - question: Ihr macht nächste Woche einen Test.
+        answer: Ihr werdet nächste Woche einen Test machen.
+      - question: Sie besucht ihre Großmutter am Abend.
+        answer: Sie wird ihre Großmutter am Abend besuchen.
+
+  - type: translation
+    instruction: Traduza para o alemão usando werden + infinitivo.
+    items:
+      - question: Eu vou ligar para você amanhã.
+        answer: Ich werde dich morgen anrufen.
+      - question: Nós vamos praticar no sábado.
+        answer: Wir werden am Samstag üben.
+      - question: Vai ficar frio hoje à noite.
+        answer: Es wird heute Abend kalt.
+      - question: Ela vai comprar um presente.
+        answer: Sie wird ein Geschenk kaufen.
+      - question: Vocês vão viajar no verão.
+        answer: Ihr werdet im Sommer reisen.
+
+  - type: classification
+    instruction: Classifique cada frase como futuro com werden ou presente usado como futuro.
+    items:
+      - question: Ich werde morgen zum Arzt gehen.
+        answer: futuro com werden
+      - question: Am Montag beginnt der Kurs.
+        answer: presente usado como futuro
+      - question: Wir werden nächste Woche viel lernen.
+        answer: futuro com werden
+      - question: Heute Abend sehe ich meine Freundin.
+        answer: presente usado como futuro
+      - question: Es wird morgen schneien.
+        answer: futuro com werden
+
+  - type: sentence_building
+    instruction: Monte uma frase correta em alemão com as palavras dadas.
+    items:
+      - question: ich / werde / morgen / lesen
+        answer: Ich werde morgen lesen.
+      - question: du / wirst / später / essen
+        answer: Du wirst später essen.
+      - question: wir / werden / am Freitag / tanzen
+        answer: Wir werden am Freitag tanzen.
+      - question: es / wird / heute / regnen
+        answer: Es wird heute regnen.
+      - question: Max / wird / nächste Woche / umziehen
+        answer: Max wird nächste Woche umziehen.

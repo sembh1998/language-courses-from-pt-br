@@ -1,0 +1,89 @@
+topic: Conjunções Coordenativas
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: "Complete com a conjunção correta: und, oder, aber, denn ou sondern."
+    items:
+      - question: Ich habe Hunger, ___ ich koche Suppe.
+        answer: und
+      - question: Willst du Reis ___ Kartoffeln?
+        answer: oder
+      - question: Sie ist müde, ___ sie macht die Hausaufgaben.
+        answer: aber
+      - question: Wir nehmen den Bus, ___ das Auto ist kaputt.
+        answer: denn
+      - question: Das ist kein Apfel, ___ eine Birne.
+        answer: sondern
+  - type: multiple_choice
+    instruction: Escolha a frase correta.
+    items:
+      - question: Qual frase usa denn com a posição correta do verbo?
+        options:
+          - Ich esse jetzt, denn ich Hunger habe.
+          - Ich esse jetzt, denn ich habe Hunger.
+          - Ich esse jetzt, denn habe ich Hunger.
+        answer: Ich esse jetzt, denn ich habe Hunger.
+      - question: Qual frase usa sondern corretamente?
+        options:
+          - Sie trinkt keinen Saft, sondern Wasser.
+          - Sie trinkt Saft, sondern Wasser.
+          - Sie trinkt keinen Saft, aber Wasser nicht.
+        answer: Sie trinkt keinen Saft, sondern Wasser.
+      - question: Qual frase dá uma alternativa simples?
+        options:
+          - Wir gehen ins Kino, denn wir haben Karten.
+          - Wir gehen ins Kino, aber wir sind spät.
+          - Wir gehen ins Kino oder ins Café.
+        answer: Wir gehen ins Kino oder ins Café.
+      - question: Qual frase mostra contraste com aber?
+        options:
+          - Er ist krank, und er hat Fieber.
+          - Er ist krank, aber er geht zur Arbeit.
+          - Er ist krank, denn er hat Fieber.
+        answer: Er ist krank, aber er geht zur Arbeit.
+  - type: transform
+    instruction: Una as duas frases com a conjunção indicada. Mantenha a ordem correta do verbo.
+    items:
+      - question: "Ich gehe einkaufen. Ich brauche Milch. Use denn."
+        answer: Ich gehe einkaufen, denn ich brauche Milch.
+      - question: "Maria arbeitet viel. Maria hat wenig Zeit. Use aber."
+        answer: Maria arbeitet viel, aber sie hat wenig Zeit.
+      - question: "Wir besuchen Oma. Wir besuchen Opa. Use und."
+        answer: Wir besuchen Oma und Opa.
+      - question: "Ich fahre nicht nach Berlin. Ich fahre nach Leipzig. Use sondern."
+        answer: Ich fahre nicht nach Berlin, sondern nach Leipzig.
+  - type: classify
+    instruction: "Indique a função da conjunção: soma, alternativa, contraste, motivo ou correção."
+    items:
+      - question: und
+        answer: soma
+      - question: oder
+        answer: alternativa
+      - question: aber
+        answer: contraste
+      - question: denn
+        answer: motivo
+      - question: sondern
+        answer: correção
+  - type: fill_blank
+    instruction: Complete com denn ou weil e observe a posição do verbo.
+    items:
+      - question: Ich bleibe im Bett, ___ ich krank bin.
+        answer: weil
+      - question: Ich bleibe im Bett, ___ ich bin krank.
+        answer: denn
+      - question: Er kommt später, ___ er muss noch arbeiten.
+        answer: denn
+      - question: Er kommt später, ___ er noch arbeiten muss.
+        answer: weil
+  - type: correction
+    instruction: Corrija a frase em alemão.
+    items:
+      - question: "Ich trinke keinen Kaffee, aber Tee."
+        answer: Ich trinke keinen Kaffee, sondern Tee.
+      - question: "Wir bleiben hier, denn wir müde sind."
+        answer: Wir bleiben hier, denn wir sind müde.
+      - question: Sie kauft Brot oder sie kauft Käse.
+        answer: Sie kauft Brot oder Käse.
+      - question: "Tom hat Zeit, sondern er kommt nicht."
+        answer: Tom hat Zeit, aber er kommt nicht.

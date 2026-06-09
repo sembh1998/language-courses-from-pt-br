@@ -1,0 +1,108 @@
+topic: Contraste Wo vs Wohin
+level: A2
+words:
+  - german: wo
+    translation: onde
+    type: question word
+    gender: null
+    plural: null
+    example: Wo bist du?
+    example_translation: Onde você está?
+  - german: wohin
+    translation: para onde
+    type: question word
+    gender: null
+    plural: null
+    example: Wohin gehst du?
+    example_translation: Para onde você vai?
+  - german: in
+    translation: em; para dentro de
+    type: preposition
+    gender: null
+    plural: null
+    example: Ich gehe ins Haus.
+    example_translation: Eu vou para dentro da casa.
+  - german: auf
+    translation: sobre; em cima de
+    type: preposition
+    gender: null
+    plural: null
+    example: Das Handy liegt auf dem Tisch.
+    example_translation: O celular está em cima da mesa.
+  - german: an
+    translation: em; junto a; na superfície lateral
+    type: preposition
+    gender: null
+    plural: null
+    example: Das Bild hängt an der Wand.
+    example_translation: O quadro está pendurado na parede.
+  - german: unter
+    translation: embaixo de
+    type: preposition
+    gender: null
+    plural: null
+    example: Die Tasche steht unter dem Stuhl.
+    example_translation: A bolsa está embaixo da cadeira.
+  - german: über
+    translation: acima de; sobre
+    type: preposition
+    gender: null
+    plural: null
+    example: Die Lampe hängt über dem Tisch.
+    example_translation: A luminária está acima da mesa.
+  - german: vor
+    translation: na frente de
+    type: preposition
+    gender: null
+    plural: null
+    example: Wir warten vor dem Kino.
+    example_translation: Nós esperamos na frente do cinema.
+  - german: hinter
+    translation: atrás de
+    type: preposition
+    gender: null
+    plural: null
+    example: Der Garten ist hinter dem Haus.
+    example_translation: O jardim fica atrás da casa.
+  - german: neben
+    translation: ao lado de
+    type: preposition
+    gender: null
+    plural: null
+    example: Der Stuhl steht neben dem Bett.
+    example_translation: A cadeira está ao lado da cama.
+  - german: zwischen
+    translation: entre
+    type: preposition
+    gender: null
+    plural: null
+    example: Das Café ist zwischen der Bank und dem Hotel.
+    example_translation: O café fica entre o banco e o hotel.
+  - german: liegen
+    translation: estar deitado; estar localizado
+    type: verb
+    gender: null
+    plural: null
+    example: Das Buch liegt auf dem Sofa.
+    example_translation: O livro está no sofá.
+  - german: legen
+    translation: colocar deitado; pôr
+    type: verb
+    gender: null
+    plural: null
+    example: Ich lege das Buch auf das Sofa.
+    example_translation: Eu coloco o livro no sofá.
+  - german: stehen
+    translation: estar em pé; estar parado
+    type: verb
+    gender: null
+    plural: null
+    example: Die Flasche steht auf dem Boden.
+    example_translation: A garrafa está no chão.
+  - german: stellen
+    translation: colocar em pé
+    type: verb
+    gender: null
+    plural: null
+    example: Ich stelle die Flasche auf den Boden.
+    example_translation: Eu coloco a garrafa no chão.

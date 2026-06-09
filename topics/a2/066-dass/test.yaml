@@ -1,0 +1,71 @@
+topic: Dass
+level: A2
+questions:
+  - type: multiple_choice
+    question: Escolha a versão em que Nina aparece com o verbo no final.
+    options:
+      - Ich denke, dass Nina heute frei hat.
+      - Ich denke, dass Nina hat heute frei.
+      - Ich denke, Nina dass heute frei hat.
+    answer: Ich denke, dass Nina heute frei hat.
+  - type: fill_blank
+    question: Felix sagt, ___ er später anruft.
+    answer: dass
+  - type: multiple_choice
+    question: Qual frase significa "Ela acha que o hotel é caro"?
+    options:
+      - Sie findet, dass ist das Hotel teuer.
+      - Sie findet, dass das Hotel teuer ist.
+      - Sie findet, das Hotel dass teuer ist.
+    answer: Sie findet, dass das Hotel teuer ist.
+  - type: transformation
+    question: "Una com dass: Ich weiß. Der Supermarkt öffnet um sieben."
+    answer: Ich weiß, dass der Supermarkt um sieben öffnet.
+  - type: multiple_choice
+    question: Qual opção usa corretamente o verbo modal?
+    options:
+      - Wir hoffen, dass ihr bleiben könnt.
+      - Wir hoffen, dass ihr könnt bleiben.
+      - Wir hoffen, dass könnt ihr bleiben.
+    answer: Wir hoffen, dass ihr bleiben könnt.
+  - type: error_correction
+    question: "Corrija: Er erzählt, dass seine Schwester wohnt in Köln."
+    answer: Er erzählt, dass seine Schwester in Köln wohnt.
+  - type: short_answer
+    question: "Escreva em alemão: Eu acho que o trem está atrasado."
+    answer: Ich glaube, dass der Zug spät ist.
+  - type: fill_blank
+    question: Es ist schön, ___ du uns besuchst.
+    answer: dass
+  - type: multiple_choice
+    question: Escolha a opção adequada depois de wir wissen.
+    options:
+      - Wir wissen, dass die Prüfung schwer ist.
+      - Wir wissen, dass ist die Prüfung schwer.
+      - Wir wissen, die Prüfung dass schwer ist.
+    answer: Wir wissen, dass die Prüfung schwer ist.
+  - type: transformation
+    question: "Una com dass: Laura meint. Das Buch ist langweilig."
+    answer: Laura meint, dass das Buch langweilig ist.
+  - type: error_correction
+    question: "Corrija: Ich hoffe, dass du kommst morgen."
+    answer: Ich hoffe, dass du morgen kommst.
+  - type: multiple_choice
+    question: Qual frase mostra corretamente "é importante que"?
+    options:
+      - Es ist wichtig, dass wir trinken genug Wasser.
+      - Es ist wichtig, dass trinken wir genug Wasser.
+      - Es ist wichtig, dass wir genug Wasser trinken.
+    answer: Es ist wichtig, dass wir genug Wasser trinken.
+  - type: short_answer
+    question: "Escreva em alemão: Ela diz que não tem dinheiro."
+    answer: Sie sagt, dass sie kein Geld hat.
+  - type: fill_blank
+    question: Ich finde, ___ die Aufgabe einfach ist.
+    answer: dass
+  - type: transformation
+    question: "Una com dass: Ben glaubt. Wir müssen jetzt gehen."
+    answer: Ben glaubt, dass wir jetzt gehen müssen.
+  - type: error_correction
+    question: "Corrija: Sie meint, dass der Kaffee schmeckt gut."
+    answer: Sie meint, dass der Kaffee gut schmeckt.

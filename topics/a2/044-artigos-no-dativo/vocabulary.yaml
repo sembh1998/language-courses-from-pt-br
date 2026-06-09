@@ -1,0 +1,73 @@
+topic: Artigos no dativo
+level: A2
+words:
+  - german: mit dem Lehrer
+    translation: com o professor
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich spreche mit dem Lehrer.
+    example_translation: Eu falo com o professor.
+  - german: bei der Freundin
+    translation: na casa da amiga
+    type: phrase
+    gender: null
+    plural: null
+    example: Lena ist bei der Freundin.
+    example_translation: Lena está na casa da amiga.
+  - german: zu dem Arzt
+    translation: ao médico
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich gehe zu dem Arzt.
+    example_translation: Eu vou ao médico.
+  - german: aus dem Haus
+    translation: de dentro da casa
+    type: phrase
+    gender: null
+    plural: null
+    example: Er kommt aus dem Haus.
+    example_translation: Ele vem de dentro da casa.
+  - german: von der Arbeit
+    translation: do trabalho
+    type: phrase
+    gender: null
+    plural: null
+    example: Sie kommt von der Arbeit.
+    example_translation: Ela vem do trabalho.
+  - german: nach dem Kurs
+    translation: depois do curso
+    type: phrase
+    gender: null
+    plural: null
+    example: Wir trinken Kaffee nach dem Kurs.
+    example_translation: Nós tomamos café depois do curso.
+  - german: mit den Kindern
+    translation: com as crianças
+    type: phrase
+    gender: null
+    plural: null
+    example: Er spielt mit den Kindern.
+    example_translation: Ele brinca com as crianças.
+  - german: einem Freund helfen
+    translation: ajudar um amigo
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich helfe einem Freund.
+    example_translation: Eu ajudo um amigo.
+  - german: einer Nachbarin danken
+    translation: agradecer a uma vizinha
+    type: phrase
+    gender: null
+    plural: null
+    example: Wir danken einer Nachbarin.
+    example_translation: Nós agradecemos a uma vizinha.
+  - german: keinen Freunden schreiben
+    translation: não escrever a nenhum amigo
+    type: phrase
+    gender: null
+    plural: null
+    example: Heute schreibe ich keinen Freunden.
+    example_translation: Hoje eu não escrevo a nenhum amigo.

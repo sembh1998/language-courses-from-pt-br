@@ -1,0 +1,95 @@
+topic: Verbos Separáveis
+level: A2
+questions:
+  - type: multiple_choice
+    question: Escolha a opção com ordem correta no presente.
+    options:
+      - Max macht das Licht aus.
+      - Max ausmacht das Licht.
+      - Max macht aus das Licht.
+    answer: Max macht das Licht aus.
+    points: 1
+  - type: fill_blank
+    question: "Complete no Perfekt: Ich ___ spät ___ (aufstehen)."
+    answer: bin spät aufgestanden
+    points: 1
+  - type: multiple_choice
+    question: Como dizer "Nós telefonamos para o médico"?
+    options:
+      - Wir sind den Arzt angerufen.
+      - Wir haben den Arzt angerufen.
+      - Wir haben angerufen den Arzt.
+    answer: Wir haben den Arzt angerufen.
+    points: 1
+  - type: fill_blank
+    question: "Complete: Der Kurs beginnt, wenn alle Teilnehmer ___ (mitkommen, presente)."
+    answer: mitkommen
+    points: 1
+  - type: multiple_choice
+    question: Qual particípio é correto para `zumachen`?
+    options:
+      - gemachzu
+      - gemacht zu
+      - zugemacht
+    answer: zugemacht
+    points: 1
+  - type: transformation
+    question: "Transforme para o Perfekt: Nina räumt den Balkon auf."
+    answer: Nina hat den Balkon aufgeräumt.
+    points: 2
+  - type: fill_blank
+    question: "Complete a subordinada: Ich esse jetzt, weil ich vorher ___ ___ (einkaufen)."
+    answer: eingekauft habe
+    points: 1
+  - type: multiple_choice
+    question: Qual frase subordinada está correta?
+    options:
+      - weil Tim die Lampe angemacht hat
+      - weil Tim hat die Lampe angemacht
+      - weil Tim macht die Lampe an hat
+    answer: weil Tim die Lampe angemacht hat
+    points: 1
+  - type: correction
+    question: "Corrija: Sara hat im Zug eingeschlafen."
+    answer: Sara ist im Zug eingeschlafen.
+    points: 1
+  - type: multiple_choice
+    question: "Complete: Ich glaube, dass Eva heute früh ..."
+    options:
+      - aufsteht.
+      - steht auf.
+      - aufgestanden.
+    answer: aufsteht.
+    points: 1
+  - type: fill_blank
+    question: "Complete: Meine Eltern ___ gestern Abend ___ (ankommen)."
+    answer: sind gestern Abend angekommen
+    points: 1
+  - type: multiple_choice
+    question: Escolha o Perfekt correto para `fernsehen`.
+    options:
+      - Wir haben gestern gesehen fern.
+      - Wir sind gestern ferngesehen.
+      - Wir haben gestern ferngesehen.
+    answer: Wir haben gestern ferngesehen.
+    points: 1
+  - type: transformation
+    question: "Reescreva com `weil`: Ich bin wach. Ich bin um fünf Uhr aufgewacht."
+    answer: Ich bin wach, weil ich um fünf Uhr aufgewacht bin.
+    points: 2
+  - type: fill_blank
+    question: "Complete no presente: Holst du die Kinder heute ___?"
+    answer: ab
+    points: 1
+  - type: multiple_choice
+    question: Qual frase usa corretamente o Perfekt de `ausmachen`?
+    options:
+      - Leo hat das Radio ausgemacht.
+      - Leo ist das Radio ausgemacht.
+      - Leo hat das Radio gemacht aus.
+    answer: Leo hat das Radio ausgemacht.
+    points: 1
+  - type: correction
+    question: "Corrija: Ich weiß, dass Maria kommt mit."
+    answer: Ich weiß, dass Maria mitkommt.
+    points: 1

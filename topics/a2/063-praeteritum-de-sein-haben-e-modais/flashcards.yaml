@@ -1,0 +1,51 @@
+topic: Präteritum de sein, haben e modais
+level: A2
+cards:
+  - front: ich war
+    back: eu estava; eu era
+    example: Ich war am Montag krank.
+    example_translation: Eu estava doente na segunda-feira.
+  - front: du warst
+    back: você estava; você era
+    example: Du warst sehr ruhig.
+    example_translation: Você estava muito quieto.
+  - front: wir waren
+    back: nós estávamos; nós éramos
+    example: Wir waren im Park.
+    example_translation: Nós estávamos no parque.
+  - front: ich hatte
+    back: eu tinha
+    example: Ich hatte wenig Zeit.
+    example_translation: Eu tinha pouco tempo.
+  - front: sie hatten
+    back: eles/elas tinham
+    example: Sie hatten eine Frage.
+    example_translation: Eles tinham uma pergunta.
+  - front: ich konnte
+    back: eu pude; eu conseguia
+    example: Ich konnte das Fenster öffnen.
+    example_translation: Eu consegui abrir a janela.
+  - front: ich musste
+    back: eu tive que; eu precisava
+    example: Ich musste lange warten.
+    example_translation: Eu tive que esperar muito.
+  - front: ich wollte
+    back: eu queria
+    example: Ich wollte Tee trinken.
+    example_translation: Eu queria tomar chá.
+  - front: ich sollte
+    back: eu devia; eu deveria
+    example: Ich sollte mehr schlafen.
+    example_translation: Eu devia dormir mais.
+  - front: ich durfte
+    back: eu pude; eu tinha permissão para
+    example: Ich durfte früher gehen.
+    example_translation: Eu pude sair mais cedo.
+  - front: er konnte nicht kommen
+    back: ele não pôde vir
+    example: Er konnte nicht kommen, denn er war krank.
+    example_translation: Ele não pôde vir, pois estava doente.
+  - front: wir mussten lernen
+    back: nós tivemos que estudar
+    example: Wir mussten für den Test lernen.
+    example_translation: Nós tivemos que estudar para o teste.

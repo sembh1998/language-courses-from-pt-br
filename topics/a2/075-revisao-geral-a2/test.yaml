@@ -1,0 +1,71 @@
+topic: Revisão geral A2
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta no Perfekt?
+    options:
+      - Ich habe Kaffee getrunken.
+      - Ich bin Kaffee getrunken.
+      - Ich habe Kaffee trinken.
+    answer: Ich habe Kaffee getrunken.
+  - type: multiple_choice
+    question: "Complete: Maria ___ nach Leipzig gefahren."
+    options:
+      - hat
+      - ist
+      - habe
+    answer: ist
+  - type: multiple_choice
+    question: "Complete: Wir haben die Wohnung ___."
+    options:
+      - putzen
+      - geputzt haben
+      - geputzt
+    answer: geputzt
+  - type: fill_blank
+    question: "Complete com dativo: Ich fahre mit ___ Fahrrad. (das)"
+    answer: dem
+  - type: fill_blank
+    question: "Complete com dativo: Anna telefoniert mit ___ Chef. (ihr)"
+    answer: ihrem
+  - type: multiple_choice
+    question: "Qual opção completa corretamente: Ich komme ___ Schweiz."
+    options:
+      - in der
+      - aus der
+      - zu der
+    answer: aus der
+  - type: multiple_choice
+    question: "Qual opção completa corretamente: Paul geht ___ Bäckerei."
+    options:
+      - in die
+      - nach
+      - bei
+    answer: in die
+  - type: fill_blank
+    question: "Complete: Ich warte ___ dem Bahnhof. (an)"
+    answer: an
+  - type: sentence_transformation
+    question: "Una com weil: Ich nehme eine Jacke. Es ist kalt."
+    answer: Ich nehme eine Jacke, weil es kalt ist.
+  - type: sentence_transformation
+    question: "Una com dass: Tom weiß es. Der Bus kommt um acht."
+    answer: Tom weiß, dass der Bus um acht kommt.
+  - type: sentence_transformation
+    question: "Comece com Wenn: Ich habe Urlaub. Ich fahre ans Meer."
+    answer: Wenn ich Urlaub habe, fahre ich ans Meer.
+  - type: translation
+    question: "Traduza: Ele ajudou a mãe dele."
+    answer: Er hat seiner Mutter geholfen.
+  - type: translation
+    question: "Traduza: Eu moro há dois anos na Alemanha."
+    answer: Ich wohne seit zwei Jahren in Deutschland.
+  - type: translation
+    question: "Traduza: Ela diz que está cansada."
+    answer: Sie sagt, dass sie müde ist.
+  - type: short_answer
+    question: "Responda em alemão: Wohin bist du letzte Woche gefahren?"
+    answer: Ich bin letzte Woche nach Berlin gefahren.
+  - type: short_answer
+    question: "Responda em alemão: Warum lernst du heute?"
+    answer: Ich lerne heute, weil ich morgen einen Test habe.

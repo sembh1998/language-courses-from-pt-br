@@ -1,0 +1,69 @@
+topic: Imperativo
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual é o imperativo correto para du + bleiben?
+    options:
+      - Bleib!
+      - Bleibt!
+      - Bleiben Sie!
+    answer: Bleib!
+  - type: multiple_choice
+    question: Qual frase está correta para falar com várias pessoas informalmente?
+    options:
+      - Öffne bitte das Fenster!
+      - Öffnet bitte das Fenster!
+      - Öffnen Sie bitte das Fenster!
+    answer: Öffnet bitte das Fenster!
+  - type: multiple_choice
+    question: Você fala com o médico. Qual pedido é formal?
+    options:
+      - Gib mir bitte das Rezept!
+      - Gebt mir bitte das Rezept!
+      - Geben Sie mir bitte das Rezept!
+    answer: Geben Sie mir bitte das Rezept!
+  - type: fill_blank
+    question: "Complete: ___ bitte nicht so schnell! (du + fahren)"
+    answer: Fahr
+  - type: fill_blank
+    question: "Complete: ___ bitte die E-Mail! (Sie + schreiben)"
+    answer: Schreiben Sie
+  - type: correction
+    question: "Corrija: Du geh bitte zum Arzt!"
+    answer: Geh bitte zum Arzt!
+  - type: multiple_choice
+    question: Qual opção é o imperativo de sein com ihr?
+    options:
+      - Sei bitte ruhig!
+      - Seid bitte ruhig!
+      - Seien Sie bitte ruhig!
+    answer: Seid bitte ruhig!
+  - type: short_answer
+    question: Escreva um pedido formal para alguém ligar amanhã. Use Sie + anrufen.
+    answer: Rufen Sie bitte morgen an!
+  - type: fill_blank
+    question: "Complete: ___ bitte eure Namen! (ihr + sagen)"
+    answer: Sagt
+  - type: multiple_choice
+    question: Qual frase soa mais educada para uma pessoa desconhecida?
+    options:
+      - Zeig mir den Weg!
+      - Zeigt mir den Weg!
+      - Zeigen Sie mir bitte den Weg!
+    answer: Zeigen Sie mir bitte den Weg!
+  - type: correction
+    question: "Corrija: Schlafen bitte gut! (Sie)"
+    answer: Schlafen Sie bitte gut!
+  - type: short_answer
+    question: Escreva uma ordem informal singular para fechar o livro. Use du + zumachen.
+    answer: Mach das Buch zu!
+  - type: multiple_choice
+    question: Qual forma combina com du + essen?
+    options:
+      - Esst bitte!
+      - Essen Sie bitte!
+      - Iss bitte!
+    answer: Iss bitte!
+  - type: fill_blank
+    question: "Complete: ___ bitte vorsichtig! (Sie + sein)"
+    answer: Seien Sie

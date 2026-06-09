@@ -1,0 +1,117 @@
+topic: Preposições de Tempo
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com a preposição de tempo correta.
+    items:
+      - question: Ich lerne ___ Januar Deutsch.
+        answer: seit
+      - question: Der Film beginnt ___ 19 Uhr.
+        answer: um
+      - question: Wir treffen uns ___ Samstag.
+        answer: am
+      - question: ___ Winter trinke ich viel Tee.
+        answer: Im
+      - question: Der Supermarkt ist ___ Montag wieder offen.
+        answer: ab
+      - question: Bleibst du ___ morgen?
+        answer: bis
+  - type: multiple_choice
+    instruction: Escolha a opção que combina melhor com o sentido em português.
+    items:
+      - question: "desde três meses, e ainda continua"
+        options:
+          - seit drei Monaten
+          - vor drei Monaten
+          - in drei Monaten
+        answer: seit drei Monaten
+      - question: "há três meses, evento terminado"
+        options:
+          - in drei Monaten
+          - vor drei Monaten
+          - seit drei Monaten
+        answer: vor drei Monaten
+      - question: "daqui a três meses"
+        options:
+          - vor drei Monaten
+          - seit drei Monaten
+          - in drei Monaten
+        answer: in drei Monaten
+      - question: "às nove horas"
+        options:
+          - um neun Uhr
+          - im neun Uhr
+          - am neun Uhr
+        answer: um neun Uhr
+      - question: "em abril"
+        options:
+          - am April
+          - im April
+          - um April
+        answer: im April
+      - question: "até domingo"
+        options:
+          - ab Sonntag
+          - von Sonntag
+          - bis Sonntag
+        answer: bis Sonntag
+  - type: transform
+    instruction: Transforme a ideia em uma frase curta em alemão.
+    items:
+      - question: Eu trabalho das oito às doze horas.
+        answer: Ich arbeite von acht bis zwölf Uhr.
+      - question: O curso começa na segunda-feira.
+        answer: Der Kurs beginnt am Montag.
+      - question: Ela vem em dez minutos.
+        answer: Sie kommt in zehn Minuten.
+      - question: Nós ficamos até sexta-feira.
+        answer: Wir bleiben bis Freitag.
+  - type: fill_blank
+    instruction: Complete com a forma correta da expressão de tempo.
+    items:
+      - question: Ich wohne seit ___ Jahr in München.
+        answer: einem
+      - question: Sie arbeitet seit ___ Woche hier.
+        answer: einer
+      - question: Wir fahren in ___ Stunde los.
+        answer: einer
+      - question: Er war vor ___ Monat in Berlin.
+        answer: einem
+  - type: multiple_choice
+    instruction: Escolha a frase correta.
+    items:
+      - question: Qual frase diz que a aula começa daqui a uma hora?
+        options:
+          - Der Unterricht beginnt in einer Stunde.
+          - Der Unterricht beginnt seit einer Stunde.
+          - Der Unterricht beginnt vor einer Stunde.
+        answer: Der Unterricht beginnt in einer Stunde.
+      - question: Qual frase usa corretamente um dia da semana?
+        options:
+          - Wir treffen uns im Dienstag.
+          - Wir treffen uns am Dienstag.
+          - Wir treffen uns um Dienstag.
+        answer: Wir treffen uns am Dienstag.
+      - question: Qual frase usa corretamente um mês?
+        options:
+          - Sie hat im Oktober Geburtstag.
+          - Sie hat am Oktober Geburtstag.
+          - Sie hat um Oktober Geburtstag.
+        answer: Sie hat im Oktober Geburtstag.
+      - question: Qual frase mostra um intervalo de tempo?
+        options:
+          - Ich arbeite bis acht von vier.
+          - Ich arbeite um acht bis vier.
+          - Ich arbeite von acht bis vier.
+        answer: Ich arbeite von acht bis vier.
+  - type: short_answer
+    instruction: Responda em alemão com uma expressão de tempo adequada.
+    items:
+      - question: Quando você aprende alemão? Use seit.
+        answer: Ich lerne seit einem Jahr Deutsch.
+      - question: Quando você se encontra com amigos? Use am.
+        answer: Ich treffe Freunde am Wochenende.
+      - question: Quando você acorda? Use um.
+        answer: Ich stehe um sieben Uhr auf.
+      - question: Até quando você fica em casa? Use bis.
+        answer: Ich bleibe bis morgen zu Hause.

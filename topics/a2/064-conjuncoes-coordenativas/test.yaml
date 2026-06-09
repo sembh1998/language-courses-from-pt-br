@@ -1,0 +1,65 @@
+topic: Conjunções Coordenativas
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual conjunção significa e?
+    options:
+      - aber
+      - und
+      - denn
+    answer: und
+  - type: multiple_choice
+    question: Qual frase está correta com denn?
+    options:
+      - Lea bleibt zu Hause, denn sie ist krank.
+      - Lea bleibt zu Hause, denn sie krank ist.
+      - Lea bleibt zu Hause, denn ist sie krank.
+    answer: Lea bleibt zu Hause, denn sie ist krank.
+  - type: multiple_choice
+    question: Em qual opção a correção depois de nicht está correta?
+    options:
+      - Niklas fährt nach Köln, sondern nach Bonn.
+      - Niklas fährt nicht nach Köln, aber nach Bonn.
+      - Niklas fährt nicht nach Köln, sondern nach Bonn.
+    answer: Niklas fährt nicht nach Köln, sondern nach Bonn.
+  - type: fill_blank
+    question: "Complete: Nimmst du den Zug ___ den Bus?"
+    answer: oder
+  - type: fill_blank
+    question: "Complete: Ich gehe schlafen, ___ ich bin sehr müde."
+    answer: denn
+  - type: fill_blank
+    question: "Complete: Er spielt nicht Tennis, ___ Fußball."
+    answer: sondern
+  - type: multiple_choice
+    question: Qual conjunção normalmente aparece depois de uma negação para corrigir a informação?
+    options:
+      - denn
+      - aber
+      - sondern
+    answer: sondern
+  - type: multiple_choice
+    question: Qual frase tem o verbo no fim porque usa weil?
+    options:
+      - Ich lerne viel, weil ich morgen einen Test schreibe.
+      - Ich lerne viel, denn ich schreibe morgen einen Test.
+      - Ich lerne viel, aber ich schreibe morgen einen Test.
+    answer: Ich lerne viel, weil ich morgen einen Test schreibe.
+  - type: transform
+    question: "Una com aber: Der Film ist lang. Der Film ist interessant."
+    answer: Der Film ist lang, aber interessant.
+  - type: transform
+    question: "Una com und: Max räumt das Zimmer auf. Max wäscht die Kleidung."
+    answer: Max räumt das Zimmer auf und wäscht die Kleidung.
+  - type: correction
+    question: "Corrija: Ich esse keine Pizza, aber Salat."
+    answer: Ich esse keine Pizza, sondern Salat.
+  - type: correction
+    question: "Corrija: Wir fahren morgen, denn wir Urlaub haben."
+    answer: Wir fahren morgen, denn wir haben Urlaub.
+  - type: classify
+    question: Em Ich komme nicht am Montag, sondern am Dienstag, qual é a função de sondern?
+    answer: correção
+  - type: classify
+    question: Em Es ist spät, aber ich lese noch, qual é a função de aber?
+    answer: contraste

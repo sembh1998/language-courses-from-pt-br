@@ -1,0 +1,43 @@
+topic: Haben ou sein no Perfekt
+level: A2
+cards:
+  - front: ich bin gegangen
+    back: eu fui a pé
+    example: Ich bin gestern zur Schule gegangen.
+    example_translation: Eu fui para a escola ontem.
+  - front: ich habe gelernt
+    back: eu estudei; eu aprendi
+    example: Ich habe am Abend Deutsch gelernt.
+    example_translation: Eu estudei alemão à noite.
+  - front: ich bin gefahren
+    back: eu fui de veículo
+    example: Ich bin mit dem Zug gefahren.
+    example_translation: Eu fui de trem.
+  - front: ich habe gekauft
+    back: eu comprei
+    example: Ich habe Wasser gekauft.
+    example_translation: Eu comprei água.
+  - front: ich bin gekommen
+    back: eu vim
+    example: Ich bin um neun gekommen.
+    example_translation: Eu vim às nove.
+  - front: ich bin aufgestanden
+    back: eu me levantei
+    example: Ich bin heute früh aufgestanden.
+    example_translation: Eu me levantei cedo hoje.
+  - front: ich bin eingeschlafen
+    back: eu adormeci
+    example: Ich bin im Zug eingeschlafen.
+    example_translation: Eu adormeci no trem.
+  - front: ich habe gesehen
+    back: eu vi
+    example: Ich habe Anna im Café gesehen.
+    example_translation: Eu vi Anna no café.
+  - front: ich bin geblieben
+    back: eu fiquei; eu permaneci
+    example: Ich bin am Wochenende zu Hause geblieben.
+    example_translation: Eu fiquei em casa no fim de semana.
+  - front: ich habe gelesen
+    back: eu li
+    example: Ich habe den Text gelesen.
+    example_translation: Eu li o texto.

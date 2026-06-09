@@ -1,0 +1,118 @@
+topic: Particípio II irregular
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com o particípio II correto.
+    items:
+      - question: Ich habe gestern einen Film ___.
+        answer: gesehen
+      - question: Lisa hat eine E-Mail ___.
+        answer: geschrieben
+      - question: Wir haben Brot und Käse ___.
+        answer: gegessen
+      - question: Du hast zu wenig Wasser ___.
+        answer: getrunken
+      - question: Tom ist nach Wien ___.
+        answer: gefahren
+
+  - type: multiple_choice
+    instruction: Escolha a forma correta do particípio II.
+    items:
+      - question: Particípio II de sehen.
+        options:
+          - gesehen
+          - geseht
+          - gesehn
+        answer: gesehen
+      - question: Particípio II de essen.
+        options:
+          - geesst
+          - gegessen
+          - geessen
+        answer: gegessen
+      - question: Particípio II de trinken.
+        options:
+          - getrinkt
+          - getranken
+          - getrunken
+        answer: getrunken
+      - question: Particípio II de schreiben.
+        options:
+          - geschrieben
+          - geschreibt
+          - geschriben
+        answer: geschrieben
+      - question: Particípio II de fahren.
+        options:
+          - gefahrt
+          - gefahren
+          - gefährt
+        answer: gefahren
+
+  - type: fill_blank
+    instruction: Complete com haben ou sein na forma correta.
+    items:
+      - question: Ich ___ eine Pizza gegessen.
+        answer: habe
+      - question: Wir ___ mit dem Zug gefahren.
+        answer: sind
+      - question: Er ___ eine SMS geschrieben.
+        answer: hat
+      - question: Ihr ___ Kaffee getrunken.
+        answer: habt
+      - question: Anna ___ nach Köln gefahren.
+        answer: ist
+
+  - type: transformation
+    instruction: Transforme a frase do presente para o Perfekt.
+    items:
+      - question: Ich sehe den Bus.
+        answer: Ich habe den Bus gesehen.
+      - question: Du schreibst einen Brief.
+        answer: Du hast einen Brief geschrieben.
+      - question: Wir essen Suppe.
+        answer: Wir haben Suppe gegessen.
+      - question: Ihr trinkt Tee.
+        answer: Ihr habt Tee getrunken.
+      - question: Sie fährt nach Frankfurt.
+        answer: Sie ist nach Frankfurt gefahren.
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta em Perfekt.
+    items:
+      - question: Qual frase está correta?
+        options:
+          - Wir haben im Park gegessen.
+          - Wir sind im Park gegessen.
+          - Wir haben im Park geessen.
+        answer: Wir haben im Park gegessen.
+      - question: Qual frase está correta?
+        options:
+          - Ich habe nach Hause gefahren.
+          - Ich bin nach Hause gefahren.
+          - Ich bin nach Hause gefahrt.
+        answer: Ich bin nach Hause gefahren.
+      - question: Qual frase está correta?
+        options:
+          - Er hat ein Buch geschreibt.
+          - Er ist ein Buch geschrieben.
+          - Er hat ein Buch geschrieben.
+        answer: Er hat ein Buch geschrieben.
+      - question: Qual frase está correta?
+        options:
+          - Hast du den Lehrer gesehen?
+          - Bist du den Lehrer gesehen?
+          - Hast du den Lehrer geseht?
+        answer: Hast du den Lehrer gesehen?
+
+  - type: short_answer
+    instruction: Responda em alemão usando o Perfekt e o particípio indicado.
+    items:
+      - question: "Was hast du gestern gegessen? Use: Reis."
+        answer: Ich habe Reis gegessen.
+      - question: "Was hast du heute getrunken? Use: Wasser."
+        answer: Ich habe Wasser getrunken.
+      - question: "Wohin bist du am Wochenende gefahren? Use: nach Hamburg."
+        answer: Ich bin nach Hamburg gefahren.
+      - question: "Was hast du geschrieben? Use: eine Nachricht."
+        answer: Ich habe eine Nachricht geschrieben.

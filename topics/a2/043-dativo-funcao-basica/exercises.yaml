@@ -1,0 +1,112 @@
+topic: "Dativo: função básica"
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com o artigo no dativo.
+    items:
+      - question: Ich gebe ___ Mann das Handy.
+        answer: dem
+      - question: Anna schreibt ___ Frau eine E-Mail.
+        answer: der
+      - question: Wir schenken ___ Kind einen Ball.
+        answer: dem
+      - question: Der Lehrer hilft ___ Schülern.
+        answer: den
+      - question: Lisa zeigt ___ Freundin die Fotos.
+        answer: der
+
+  - type: multiple_choice
+    instruction: Escolha a opção correta para completar a frase.
+    items:
+      - question: Ich erkläre ___ Bruder die Aufgabe.
+        options:
+          - dem
+          - den
+          - der
+        answer: dem
+      - question: Wir helfen ___ Nachbarin.
+        options:
+          - die
+          - der
+          - den
+        answer: der
+      - question: Er gibt ___ Kindern Schokolade.
+        options:
+          - die
+          - der
+          - den
+        answer: den
+      - question: Sie schreibt ___ Vater eine Nachricht.
+        options:
+          - dem
+          - den
+          - der
+        answer: dem
+      - question: Ich zeige ___ Kollegen das Büro.
+        options:
+          - die
+          - der
+          - den
+        answer: den
+      - question: Paul schenkt ___ Schwester ein Buch.
+        options:
+          - dem
+          - die
+          - der
+        answer: der
+
+  - type: fill_blank
+    instruction: Complete com o pronome no dativo.
+    items:
+      - question: Kannst du ___ helfen? Ich verstehe das nicht.
+        answer: mir
+      - question: Ich gebe ___ meine Telefonnummer. Du kannst mich anrufen.
+        answer: dir
+      - question: Lena kauft Tom ein Brot. Sie kauft ___ ein Brot.
+        answer: ihm
+      - question: Max schreibt Eva. Er schreibt ___ heute Abend.
+        answer: ihr
+      - question: Der Kursleiter erklärt ___ die Regel. Wir hören zu.
+        answer: uns
+      - question: Ich zeige ___ den Bahnhof. Ihr seid neu hier.
+        answer: euch
+
+  - type: transformation
+    instruction: Reescreva a frase usando o nome entre parênteses no dativo.
+    items:
+      - question: Ich gebe das Ticket. (der Tourist)
+        answer: Ich gebe dem Touristen das Ticket.
+      - question: Sie erklärt die Übung. (die Klasse)
+        answer: Sie erklärt der Klasse die Übung.
+      - question: Wir schenken Blumen. (die Großmutter)
+        answer: Wir schenken der Großmutter Blumen.
+      - question: Er zeigt den Plan. (das Team)
+        answer: Er zeigt dem Team den Plan.
+      - question: Maria schreibt eine Karte. (die Eltern)
+        answer: Maria schreibt den Eltern eine Karte.
+
+  - type: short_answer
+    instruction: Responda em alemão com uma frase curta usando dativo.
+    items:
+      - question: Wem gibst du ein Geschenk? Antwort mit "meine Mutter".
+        answer: Ich gebe meiner Mutter ein Geschenk.
+      - question: Wem hilfst du am Samstag? Antwort mit "mein Freund".
+        answer: Ich helfe meinem Freund am Samstag.
+      - question: Wem schreibst du eine Nachricht? Antwort mit "meine Lehrerin".
+        answer: Ich schreibe meiner Lehrerin eine Nachricht.
+      - question: Wem zeigst du die Stadt? Antwort mit "meine Freunde".
+        answer: Ich zeige meinen Freunden die Stadt.
+
+  - type: correction
+    instruction: Corrija a parte errada da frase.
+    items:
+      - question: Ich helfe den Frau.
+        answer: Ich helfe der Frau.
+      - question: Er gibt der Kind den Saft.
+        answer: Er gibt dem Kind den Saft.
+      - question: Wir erklären die Studenten die Regel.
+        answer: Wir erklären den Studenten die Regel.
+      - question: Sie schreibt dem Freundin eine E-Mail.
+        answer: Sie schreibt der Freundin eine E-Mail.
+      - question: Kannst du ich helfen?
+        answer: Kannst du mir helfen?

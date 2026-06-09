@@ -1,0 +1,43 @@
+topic: Pronomes Possessivos
+level: A2
+cards:
+  - front: mit meinem Bruder
+    back: com meu irmão
+    example: Ich spreche mit meinem Bruder.
+    example_translation: Eu falo com meu irmão.
+  - front: bei meiner Freundin
+    back: na casa da minha amiga, com minha amiga
+    example: Ich schlafe bei meiner Freundin.
+    example_translation: Eu durmo na casa da minha amiga.
+  - front: zu unserem Haus
+    back: para a nossa casa
+    example: Wir laufen zu unserem Haus.
+    example_translation: Nós caminhamos para a nossa casa.
+  - front: mit deinen Eltern
+    back: com seus pais
+    example: Kommst du mit deinen Eltern?
+    example_translation: Você vem com seus pais?
+  - front: bei seiner Familie
+    back: com a família dele, na casa da família dele
+    example: Er ist bei seiner Familie.
+    example_translation: Ele está com a família dele.
+  - front: mit ihrer Schwester
+    back: com a irmã dela
+    example: Anna telefoniert mit ihrer Schwester.
+    example_translation: Anna telefona com a irmã dela.
+  - front: zu eurem Lehrer
+    back: para o professor de vocês
+    example: Geht bitte zu eurem Lehrer.
+    example_translation: Por favor, vão até o professor de vocês.
+  - front: mit unseren Nachbarn
+    back: com nossos vizinhos
+    example: Wir grillen mit unseren Nachbarn.
+    example_translation: Nós fazemos churrasco com nossos vizinhos.
+  - front: bei Ihrer Ärztin
+    back: com sua médica, formal
+    example: Sind Sie morgen bei Ihrer Ärztin?
+    example_translation: A senhora estará com sua médica amanhã?
+  - front: nach meinem Kurs
+    back: depois do meu curso
+    example: Nach meinem Kurs gehe ich nach Hause.
+    example_translation: Depois do meu curso, vou para casa.

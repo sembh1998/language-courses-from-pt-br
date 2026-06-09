@@ -1,0 +1,87 @@
+topic: Präteritum de sein, haben e modais
+level: A2
+words:
+  - german: war
+    translation: estava; era; fui; foi
+    type: verb_form
+    gender: null
+    plural: null
+    example: Ich war gestern zu Hause.
+    example_translation: Eu estava em casa ontem.
+  - german: warst
+    translation: você estava; você era
+    type: verb_form
+    gender: null
+    plural: null
+    example: Warst du müde?
+    example_translation: Você estava cansado?
+  - german: waren
+    translation: estávamos; estavam; éramos; eram
+    type: verb_form
+    gender: null
+    plural: null
+    example: Wir waren im Kino.
+    example_translation: Nós estávamos no cinema.
+  - german: hatte
+    translation: tinha; tive
+    type: verb_form
+    gender: null
+    plural: null
+    example: Ich hatte keine Zeit.
+    example_translation: Eu não tinha tempo.
+  - german: hatten
+    translation: tínhamos; tinham
+    type: verb_form
+    gender: null
+    plural: null
+    example: Sie hatten viel Arbeit.
+    example_translation: Eles tinham muito trabalho.
+  - german: konnte
+    translation: pude; podia; conseguia
+    type: verb_form
+    gender: null
+    plural: null
+    example: Anna konnte nicht kommen.
+    example_translation: Anna não pôde vir.
+  - german: musste
+    translation: tive que; precisava
+    type: verb_form
+    gender: null
+    plural: null
+    example: Ich musste früh aufstehen.
+    example_translation: Eu tive que levantar cedo.
+  - german: wollte
+    translation: queria
+    type: verb_form
+    gender: null
+    plural: null
+    example: Er wollte nach Hause gehen.
+    example_translation: Ele queria ir para casa.
+  - german: sollte
+    translation: devia; deveria
+    type: verb_form
+    gender: null
+    plural: null
+    example: Du solltest den Lehrer fragen.
+    example_translation: Você devia perguntar ao professor.
+  - german: durfte
+    translation: pude; tinha permissão para
+    type: verb_form
+    gender: null
+    plural: null
+    example: Das Kind durfte draußen spielen.
+    example_translation: A criança pôde brincar lá fora.
+  - german: früher
+    translation: antes; antigamente
+    type: adverb
+    gender: null
+    plural: null
+    example: Früher hatte ich mehr Zeit.
+    example_translation: Antes eu tinha mais tempo.
+  - german: gestern
+    translation: ontem
+    type: adverb
+    gender: null
+    plural: null
+    example: Gestern war ich krank.
+    example_translation: Ontem eu estava doente.

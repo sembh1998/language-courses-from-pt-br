@@ -1,0 +1,43 @@
+topic: Perfekt com verbos separáveis e inseparáveis
+level: A2
+cards:
+  - front: aufstehen → aufgestanden
+    back: levantar-se → levantou-se
+    example: Ich bin um sechs Uhr aufgestanden.
+    example_translation: Eu levantei às seis horas.
+  - front: einkaufen → eingekauft
+    back: fazer compras → fez compras
+    example: Wir haben im Markt eingekauft.
+    example_translation: Nós fizemos compras no mercado.
+  - front: besuchen → besucht
+    back: visitar → visitou
+    example: Anna hat ihren Bruder besucht.
+    example_translation: Anna visitou o irmão dela.
+  - front: bekommen → bekommen
+    back: receber → recebeu
+    example: Ich habe eine Nachricht bekommen.
+    example_translation: Eu recebi uma mensagem.
+  - front: verstehen → verstanden
+    back: entender → entendeu
+    example: Hast du den Text verstanden?
+    example_translation: Você entendeu o texto?
+  - front: anrufen → angerufen
+    back: ligar para alguém → ligou
+    example: Max hat die Ärztin angerufen.
+    example_translation: Max ligou para a médica.
+  - front: mitbringen → mitgebracht
+    back: trazer junto → trouxe
+    example: Sie hat Getränke mitgebracht.
+    example_translation: Ela trouxe bebidas.
+  - front: be- sem ge-
+    back: prefixo inseparável; não recebe ge- no Particípio II
+    example: Wir haben Freunde besucht.
+    example_translation: Nós visitamos amigos.
+  - front: ver- sem ge-
+    back: prefixo inseparável; não recebe ge- no Particípio II
+    example: Ich habe die Frage verstanden.
+    example_translation: Eu entendi a pergunta.
+  - front: prefixo separável + ge- + verbo
+    back: padrão de verbos separáveis no Particípio II
+    example: Er hat die Tür aufgemacht.
+    example_translation: Ele abriu a porta.

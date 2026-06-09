@@ -1,0 +1,51 @@
+topic: Argumentação simples
+level: B1
+cards:
+  - front: Ich bin der Meinung, dass ...
+    back: Eu sou da opinião de que ...
+    example: Ich bin der Meinung, dass Deutsch im Beruf hilft.
+    example_translation: Eu sou da opinião de que alemão ajuda no trabalho.
+  - front: Meiner Meinung nach ...
+    back: Na minha opinião ...
+    example: Meiner Meinung nach ist das eine gute Lösung.
+    example_translation: Na minha opinião, isso é uma boa solução.
+  - front: Ich finde, dass ...
+    back: Eu acho que ...
+    example: Ich finde, dass die Idee sinnvoll ist.
+    example_translation: Eu acho que a ideia faz sentido.
+  - front: Ein Vorteil ist, dass ...
+    back: Uma vantagem é que ...
+    example: Ein Vorteil ist, dass man flexibler arbeiten kann.
+    example_translation: Uma vantagem é que se pode trabalhar com mais flexibilidade.
+  - front: Ein Nachteil ist, dass ...
+    back: Uma desvantagem é que ...
+    example: Ein Nachteil ist, dass man weniger Kontakt hat.
+    example_translation: Uma desvantagem é que se tem menos contato.
+  - front: Einerseits ..., andererseits ...
+    back: Por um lado ..., por outro lado ...
+    example: Einerseits ist das billig, andererseits dauert es lange.
+    example_translation: Por um lado, isso é barato; por outro, demora muito.
+  - front: Ich bin dafür.
+    back: Sou a favor.
+    example: Ich bin dafür, weil der Plan fair ist.
+    example_translation: Sou a favor porque o plano é justo.
+  - front: Ich bin dagegen.
+    back: Sou contra.
+    example: Ich bin dagegen, weil es zu teuer ist.
+    example_translation: Sou contra porque é caro demais.
+  - front: Das spricht dafür.
+    back: Isso fala a favor disso.
+    example: Der niedrige Preis spricht dafür.
+    example_translation: O preço baixo fala a favor disso.
+  - front: Das spricht dagegen.
+    back: Isso fala contra isso.
+    example: Die lange Wartezeit spricht dagegen.
+    example_translation: O longo tempo de espera fala contra isso.
+  - front: Ich stimme dir zu.
+    back: Eu concordo com você.
+    example: Ich stimme dir zu, aber ich sehe auch ein Problem.
+    example_translation: Eu concordo com você, mas também vejo um problema.
+  - front: Deshalb denke ich, dass ...
+    back: Por isso penso que ...
+    example: Deshalb denke ich, dass wir den Vorschlag testen sollten.
+    example_translation: Por isso penso que deveríamos testar a proposta.

@@ -1,0 +1,43 @@
+topic: Vorgangspassiv no presente
+level: B1
+cards:
+  - front: wird gebaut
+    back: é construído; está sendo construído
+    example: Das neue Haus wird gebaut.
+    example_translation: A casa nova está sendo construída.
+  - front: werden geprüft
+    back: são verificados; estão sendo verificados
+    example: Die Unterlagen werden geprüft.
+    example_translation: Os documentos estão sendo verificados.
+  - front: wird geöffnet
+    back: é aberto; está sendo aberto
+    example: Das Fenster wird geöffnet.
+    example_translation: A janela está sendo aberta.
+  - front: wird geschlossen
+    back: é fechado; está sendo fechado
+    example: Das Büro wird um 18 Uhr geschlossen.
+    example_translation: O escritório é fechado às 18 horas.
+  - front: von der Ärztin
+    back: pela médica
+    example: Der Patient wird von der Ärztin untersucht.
+    example_translation: O paciente é examinado pela médica.
+  - front: durch ein Programm
+    back: por meio de um programa
+    example: Der Text wird durch ein Programm übersetzt.
+    example_translation: O texto é traduzido por meio de um programa.
+  - front: wird repariert
+    back: é consertado; está sendo consertado
+    example: Das Fahrrad wird repariert.
+    example_translation: A bicicleta está sendo consertada.
+  - front: wird entschieden
+    back: é decidido; está sendo decidido
+    example: Die Frage wird heute entschieden.
+    example_translation: A questão será decidida hoje.
+  - front: wird gelesen
+    back: é lido; está sendo lido
+    example: Der Artikel wird oft gelesen.
+    example_translation: O artigo é lido frequentemente.
+  - front: wird bezahlt
+    back: é pago; está sendo pago
+    example: Die Rechnung wird online bezahlt.
+    example_translation: A conta é paga online.

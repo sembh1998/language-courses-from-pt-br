@@ -1,0 +1,35 @@
+topic: Conjunções Coordenativas
+level: A2
+cards:
+  - front: und
+    back: e
+    example: Anna liest und Paul schreibt.
+    example_translation: Anna lê e Paul escreve.
+  - front: oder
+    back: ou
+    example: Kommst du heute oder morgen?
+    example_translation: Você vem hoje ou amanhã?
+  - front: aber
+    back: mas
+    example: Es ist kalt, aber die Sonne scheint.
+    example_translation: Está frio, mas o sol está brilhando.
+  - front: denn
+    back: pois, porque com ordem normal do verbo
+    example: Ich gehe früh ins Bett, denn ich bin müde.
+    example_translation: Vou cedo para a cama, pois estou cansado.
+  - front: sondern
+    back: mas sim, depois de negação
+    example: Ich kaufe keinen Kuchen, sondern Brot.
+    example_translation: Eu não compro bolo, mas sim pão.
+  - front: denn ich bin krank
+    back: pois eu estou doente
+    example: Ich bleibe zu Hause, denn ich bin krank.
+    example_translation: Fico em casa, pois estou doente.
+  - front: weil ich krank bin
+    back: porque eu estou doente, com verbo no fim
+    example: Ich bleibe zu Hause, weil ich krank bin.
+    example_translation: Fico em casa porque estou doente.
+  - front: nicht ... sondern
+    back: não ... mas sim
+    example: Er fährt nicht nach Wien, sondern nach Graz.
+    example_translation: Ele não vai para Viena, mas sim para Graz.

@@ -1,0 +1,115 @@
+topic: Prefixos e sufixos comuns
+level: B1
+words:
+  - german: "die Einladung"
+    translation: "o convite"
+    type: noun
+    gender: feminine
+    plural: "die Einladungen"
+    example: "Vielen Dank für die Einladung."
+    example_translation: "Muito obrigado pelo convite."
+  - german: "die Entscheidung"
+    translation: "a decisão"
+    type: noun
+    gender: feminine
+    plural: "die Entscheidungen"
+    example: "Diese Entscheidung war nicht einfach."
+    example_translation: "Esta decisão não foi fácil."
+  - german: "die Bewerbung"
+    translation: "a candidatura"
+    type: noun
+    gender: feminine
+    plural: "die Bewerbungen"
+    example: "Ich schicke meine Bewerbung morgen ab."
+    example_translation: "Eu envio minha candidatura amanhã."
+  - german: "die Freiheit"
+    translation: "a liberdade"
+    type: noun
+    gender: feminine
+    plural: "die Freiheiten"
+    example: "Freiheit ist für ihn sehr wichtig."
+    example_translation: "Liberdade é muito importante para ele."
+  - german: "die Gesundheit"
+    translation: "a saúde"
+    type: noun
+    gender: feminine
+    plural: null
+    example: "Gesundheit ist wichtiger als Geld."
+    example_translation: "Saúde é mais importante do que dinheiro."
+  - german: "die Möglichkeit"
+    translation: "a possibilidade"
+    type: noun
+    gender: feminine
+    plural: "die Möglichkeiten"
+    example: "Wir haben mehrere Möglichkeiten."
+    example_translation: "Nós temos várias possibilidades."
+  - german: "die Pünktlichkeit"
+    translation: "a pontualidade"
+    type: noun
+    gender: feminine
+    plural: null
+    example: "Pünktlichkeit ist im Beruf wichtig."
+    example_translation: "Pontualidade é importante no trabalho."
+  - german: "die Freundschaft"
+    translation: "a amizade"
+    type: noun
+    gender: feminine
+    plural: "die Freundschaften"
+    example: "Unsere Freundschaft begann in der Schule."
+    example_translation: "Nossa amizade começou na escola."
+  - german: "lesbar"
+    translation: "legível"
+    type: adjective
+    gender: null
+    plural: null
+    example: "Deine Schrift ist gut lesbar."
+    example_translation: "Sua letra é bem legível."
+  - german: "sichtbar"
+    translation: "visível"
+    type: adjective
+    gender: null
+    plural: null
+    example: "Der Fehler ist sofort sichtbar."
+    example_translation: "O erro é imediatamente visível."
+  - german: "arbeitslos"
+    translation: "desempregado"
+    type: adjective
+    gender: null
+    plural: null
+    example: "Nach der Krise war er arbeitslos."
+    example_translation: "Depois da crise, ele estava desempregado."
+  - german: "respektlos"
+    translation: "desrespeitoso"
+    type: adjective
+    gender: null
+    plural: null
+    example: "Diese Antwort klingt respektlos."
+    example_translation: "Esta resposta soa desrespeitosa."
+  - german: "hoffnungsvoll"
+    translation: "esperançoso"
+    type: adjective
+    gender: null
+    plural: null
+    example: "Sie sieht hoffnungsvoll in die Zukunft."
+    example_translation: "Ela olha para o futuro com esperança."
+  - german: "beantworten"
+    translation: "responder"
+    type: verb
+    gender: null
+    plural: null
+    example: "Kannst du die Frage beantworten?"
+    example_translation: "Você pode responder à pergunta?"
+  - german: "verändern"
+    translation: "mudar, alterar"
+    type: verb
+    gender: null
+    plural: null
+    example: "Der Umzug verändert unser Leben."
+    example_translation: "A mudança de casa altera nossa vida."
+  - german: "entdecken"
+    translation: "descobrir"
+    type: verb
+    gender: null
+    plural: null
+    example: "Wir entdecken ein kleines Café."
+    example_translation: "Nós descobrimos um pequeno café."

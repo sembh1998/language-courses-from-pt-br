@@ -1,0 +1,87 @@
+topic: "Verbos com preposições fixas"
+level: "B1"
+words:
+  - german: "warten auf"
+    translation: "esperar por"
+    type: "verb_with_preposition"
+    gender: null
+    plural: null
+    example: "Ich warte auf den Bus."
+    example_translation: "Eu espero pelo ônibus."
+  - german: "träumen von"
+    translation: "sonhar com"
+    type: "verb_with_preposition"
+    gender: null
+    plural: null
+    example: "Sie träumt von einer langen Reise."
+    example_translation: "Ela sonha com uma longa viagem."
+  - german: "denken an"
+    translation: "pensar em"
+    type: "verb_with_preposition"
+    gender: null
+    plural: null
+    example: "Ich denke oft an meine Familie."
+    example_translation: "Eu penso muito na minha família."
+  - german: "sprechen über"
+    translation: "falar sobre"
+    type: "verb_with_preposition"
+    gender: null
+    plural: null
+    example: "Wir sprechen über den Plan."
+    example_translation: "Nós falamos sobre o plano."
+  - german: "sich freuen auf"
+    translation: "ficar animado por algo futuro"
+    type: "reflexive_verb_with_preposition"
+    gender: null
+    plural: null
+    example: "Ich freue mich auf das Konzert."
+    example_translation: "Estou animado pelo show."
+  - german: "sich freuen über"
+    translation: "ficar feliz com algo presente ou passado"
+    type: "reflexive_verb_with_preposition"
+    gender: null
+    plural: null
+    example: "Sie freut sich über die Nachricht."
+    example_translation: "Ela fica feliz com a mensagem."
+  - german: "Worauf?"
+    translation: "pelo quê?; sobre o quê? com auf"
+    type: "question_word"
+    gender: null
+    plural: null
+    example: "Worauf wartest du?"
+    example_translation: "Pelo que você está esperando?"
+  - german: "Wovon?"
+    translation: "com o quê?; de quê?"
+    type: "question_word"
+    gender: null
+    plural: null
+    example: "Wovon träumst du?"
+    example_translation: "Com o que você sonha?"
+  - german: "Woran?"
+    translation: "em quê?"
+    type: "question_word"
+    gender: null
+    plural: null
+    example: "Woran denkst du?"
+    example_translation: "Em que você está pensando?"
+  - german: "Worüber?"
+    translation: "sobre o quê?"
+    type: "question_word"
+    gender: null
+    plural: null
+    example: "Worüber sprecht ihr?"
+    example_translation: "Sobre o que vocês estão falando?"
+  - german: "der Termin"
+    translation: "o compromisso; o horário marcado"
+    type: "noun"
+    gender: "masculine"
+    plural: "die Termine"
+    example: "Ich denke an den Termin."
+    example_translation: "Eu penso no compromisso."
+  - german: "die Nachricht"
+    translation: "a mensagem; a notícia"
+    type: "noun"
+    gender: "feminine"
+    plural: "die Nachrichten"
+    example: "Ich freue mich über deine Nachricht."
+    example_translation: "Eu fico feliz com a sua mensagem."

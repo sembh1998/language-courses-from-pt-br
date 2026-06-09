@@ -1,0 +1,90 @@
+topic: Textos práticos simples
+level: A2
+exercises:
+  - type: multiple_choice
+    instruction: Escolha a melhor frase para cada situação.
+    items:
+      - question: Você quer começar um e-mail informal para uma amiga chamada Lisa.
+        options:
+          - Sehr geehrte Frau Lisa
+          - Liebe Lisa
+          - Mit freundlichen Grüßen
+        answer: Liebe Lisa
+      - question: Você quer perguntar se seu amigo tem tempo no sábado.
+        options:
+          - Hast du am Samstag Zeit?
+          - Ich hatte am Samstag Zeit.
+          - Der Samstag hat Zeit.
+        answer: Hast du am Samstag Zeit?
+      - question: Você quer terminar uma mensagem informal.
+        options:
+          - Um 17 Uhr
+          - Ich lade dich ein
+          - Viele Grüße
+        answer: Viele Grüße
+      - question: Você quer dizer que a festa começa às 19h.
+        options:
+          - Die Party beginnt um 19 Uhr.
+          - Die Party beginnt in 19 Uhr.
+          - Die Party beginnen um 19 Uhr.
+        answer: Die Party beginnt um 19 Uhr.
+
+  - type: fill_blank
+    instruction: Complete as lacunas com uma palavra ou expressão adequada.
+    items:
+      - question: Liebe Maria, ich ___ dich zu meinem Geburtstag ein.
+        answer: lade
+      - question: Die Party ist ___ Samstag.
+        answer: am
+      - question: Kannst du mir bitte ___?
+        answer: antworten
+      - question: ___ Grüße, Nina
+        answer: Viele
+      - question: ___ habe ich gefrühstückt, dann bin ich zur Schule gefahren.
+        answer: Zuerst
+
+  - type: transformation
+    instruction: Transforme as informações em uma frase simples em alemão.
+    items:
+      - question: "Convite: você convida Ben para o cinema."
+        answer: Ich lade dich ins Kino ein.
+      - question: "Horário: o curso começa às 8h."
+        answer: Der Kurs beginnt um 8 Uhr.
+      - question: "Mensagem curta: você chega hoje mais tarde."
+        answer: Ich komme heute später.
+      - question: "Pedido: você pede uma resposta."
+        answer: Bitte antworte mir.
+
+  - type: ordering
+    instruction: Coloque as partes na ordem correta para formar uma mensagem curta.
+    items:
+      - question: "bei mir. / Die Party / um 18 Uhr / ist"
+        answer: Die Party ist um 18 Uhr bei mir.
+      - question: "ich / Am Sonntag / meine Oma / besucht. / habe"
+        answer: Am Sonntag habe ich meine Oma besucht.
+      - question: "dann / ich / zur Arbeit. / fahre"
+        answer: Dann fahre ich zur Arbeit.
+      - question: "du / Kannst / kommen? / am Freitag"
+        answer: Kannst du am Freitag kommen?
+
+  - type: short_answer
+    instruction: Responda em alemão com uma frase curta e adequada.
+    items:
+      - question: Escreva uma saudação informal para um amigo chamado Tom.
+        answer: Lieber Tom,
+      - question: Diga que você estuda alemão todos os dias.
+        answer: Ich lerne jeden Tag Deutsch.
+      - question: Diga que no fim de semana você encontrou amigos.
+        answer: Am Wochenende habe ich Freunde getroffen.
+      - question: Pergunte se a pessoa quer ir junto.
+        answer: Möchtest du mitkommen?
+
+  - type: writing
+    instruction: Escreva textos curtos em alemão. Use frases simples.
+    items:
+      - question: Escreva uma mensagem convidando um amigo para tomar café no domingo às 15h.
+        answer: Hallo, möchtest du am Sonntag um 15 Uhr Kaffee trinken? Bitte antworte mir. Viele Grüße
+      - question: Escreva três frases sobre sua rotina pela manhã.
+        answer: Ich stehe um 7 Uhr auf. Dann frühstücke ich. Danach fahre ich zur Arbeit.
+      - question: Escreva três frases sobre seu último fim de semana.
+        answer: Am Samstag habe ich lange geschlafen. Dann habe ich eingekauft. Am Sonntag habe ich meine Familie besucht.

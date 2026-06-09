@@ -1,0 +1,114 @@
+topic: Direção com acusativo
+level: A2
+exercises:
+  - type: multiple_choice
+    instruction: Escolha a forma correta para indicar direção com acusativo.
+    items:
+      - question: Ich gehe ___ Schule.
+        options:
+          - in die
+          - in der
+          - in den
+        answer: in die
+      - question: Leg das Buch ___ Tisch.
+        options:
+          - auf der
+          - auf den
+          - auf dem
+        answer: auf den
+      - question: Wir hängen das Bild ___ Wand.
+        options:
+          - an der
+          - an den
+          - an die
+        answer: an die
+      - question: Der Ball rollt ___ Bett.
+        options:
+          - unter das
+          - unter dem
+          - unter den
+        answer: unter das
+      - question: Stell die Lampe ___ Sofa.
+        options:
+          - neben dem
+          - neben das
+          - neben den
+        answer: neben das
+      - question: Ich setze mich ___ Kinder.
+        options:
+          - zwischen den
+          - zwischen dem
+          - zwischen die
+        answer: zwischen die
+
+  - type: fill_blank
+    instruction: Complete com o artigo acusativo correto.
+    items:
+      - question: Ich fahre in ___ Park. (der Park)
+        answer: den
+      - question: Sie geht in ___ Küche. (die Küche)
+        answer: die
+      - question: Wir stellen den Stuhl vor ___ Fenster. (das Fenster)
+        answer: das
+      - question: Häng die Jacke an ___ Tür. (die Tür)
+        answer: die
+      - question: Leg das Handy auf ___ Schreibtisch. (der Schreibtisch)
+        answer: den
+      - question: Die Maus läuft hinter ___ Schrank. (der Schrank)
+        answer: den
+
+  - type: transformation
+    instruction: Reescreva a expressão usando a preposição dada e o acusativo.
+    items:
+      - question: die Schule, in
+        answer: in die Schule
+      - question: der Tisch, auf
+        answer: auf den Tisch
+      - question: die Wand, an
+        answer: an die Wand
+      - question: das Regal, neben
+        answer: neben das Regal
+      - question: die Stühle, zwischen
+        answer: zwischen die Stühle
+
+  - type: classification
+    instruction: Responda se a pergunta combina com direção. Use sim ou não.
+    items:
+      - question: Wohin legt Anna das Buch?
+        answer: sim
+      - question: Wo ist das Buch?
+        answer: não
+      - question: Wohin fahren die Kinder?
+        answer: sim
+      - question: Wo sitzt dein Bruder?
+        answer: não
+      - question: Wohin hängst du das Foto?
+        answer: sim
+
+  - type: translation
+    instruction: Traduza para o alemão usando direção com acusativo.
+    items:
+      - question: Eu vou para a escola.
+        answer: Ich gehe in die Schule.
+      - question: Coloque a xícara sobre a mesa.
+        answer: Stell die Tasse auf den Tisch.
+      - question: Ela pendura o espelho na parede.
+        answer: Sie hängt den Spiegel an die Wand.
+      - question: Nós vamos para a cidade.
+        answer: Wir fahren in die Stadt.
+      - question: Sente-se entre as cadeiras.
+        answer: Setz dich zwischen die Stühle.
+
+  - type: fill_blank
+    instruction: Complete a frase com a expressão correta.
+    items:
+      - question: Der Hund läuft ___. (para debaixo da mesa)
+        answer: unter den Tisch
+      - question: Maria legt die Tasche ___. (ao lado da porta)
+        answer: neben die Tür
+      - question: Papa stellt den Sessel ___. (em frente à janela)
+        answer: vor das Fenster
+      - question: Wir gehen ___. (para o cinema)
+        answer: ins Kino
+      - question: Ich hänge den Kalender ___. (na parede)
+        answer: an die Wand

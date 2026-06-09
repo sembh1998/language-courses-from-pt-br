@@ -1,0 +1,87 @@
+topic: Um...zu
+level: B1
+words:
+  - german: die Absicht
+    translation: a intenção
+    type: noun
+    gender: feminine
+    plural: die Absichten
+    example: Meine Absicht ist klar.
+    example_translation: Minha intenção é clara.
+  - german: das Ziel
+    translation: o objetivo
+    type: noun
+    gender: neuter
+    plural: die Ziele
+    example: Ich habe ein wichtiges Ziel.
+    example_translation: Eu tenho um objetivo importante.
+  - german: die Prüfung bestehen
+    translation: passar na prova
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich lerne viel, um die Prüfung zu bestehen.
+    example_translation: Eu estudo muito para passar na prova.
+  - german: Deutsch lernen
+    translation: aprender alemão
+    type: phrase
+    gender: null
+    plural: null
+    example: Ana besucht einen Kurs, um Deutsch zu lernen.
+    example_translation: Ana frequenta um curso para aprender alemão.
+  - german: Geld sparen
+    translation: economizar dinheiro
+    type: phrase
+    gender: null
+    plural: null
+    example: Wir sparen Geld, um eine Reise zu machen.
+    example_translation: Nós economizamos dinheiro para fazer uma viagem.
+  - german: pünktlich sein
+    translation: ser pontual
+    type: phrase
+    gender: null
+    plural: null
+    example: Er nimmt den Bus früher, um pünktlich zu sein.
+    example_translation: Ele pega o ônibus mais cedo para ser pontual.
+  - german: sich bewerben
+    translation: candidatar-se
+    type: verb
+    gender: null
+    plural: null
+    example: Sie schreibt einen Lebenslauf, um sich zu bewerben.
+    example_translation: Ela escreve um currículo para se candidatar.
+  - german: anrufen
+    translation: ligar para alguém
+    type: verb
+    gender: null
+    plural: null
+    example: Ich nehme mein Handy, um dich anzurufen.
+    example_translation: Eu pego meu celular para ligar para você.
+  - german: einkaufen
+    translation: fazer compras
+    type: verb
+    gender: null
+    plural: null
+    example: Lisa geht in den Supermarkt, um einzukaufen.
+    example_translation: Lisa vai ao supermercado para fazer compras.
+  - german: aufstehen
+    translation: levantar-se
+    type: verb
+    gender: null
+    plural: null
+    example: Ich stelle den Wecker, um früh aufzustehen.
+    example_translation: Eu ajusto o despertador para levantar cedo.
+  - german: einen Termin bestätigen
+    translation: confirmar um horário ou compromisso
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich schreibe eine E-Mail, um den Termin zu bestätigen.
+    example_translation: Eu escrevo um e-mail para confirmar o horário.
+  - german: besser verstehen
+    translation: entender melhor
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich frage nach, um die Aufgabe besser zu verstehen.
+    example_translation: Eu pergunto para entender melhor a tarefa.

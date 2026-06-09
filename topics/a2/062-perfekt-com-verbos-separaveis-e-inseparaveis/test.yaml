@@ -1,0 +1,71 @@
+topic: Perfekt com verbos separáveis e inseparáveis
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Ich habe im Laden eingekauft.
+      - Ich habe im Laden geeinkauft.
+      - Ich habe im Laden einkauft.
+    answer: Ich habe im Laden eingekauft.
+  - type: fill_blank
+    question: "Complete: Mia ist um halb acht ___. (aufstehen)"
+    answer: aufgestanden
+  - type: multiple_choice
+    question: Qual é o Particípio II de erklären?
+    options:
+      - geerklärt
+      - erklärt
+      - erklärten
+    answer: erklärt
+  - type: transformation
+    question: Transforme mitmachen em Particípio II.
+    answer: mitgemacht
+  - type: fill_blank
+    question: "Complete: Wir haben neue Nachbarn ___. (kennenlernen)"
+    answer: kennengelernt
+  - type: multiple_choice
+    question: "Qual forma completa corretamente: Hast du alles ___?"
+    options:
+      - geverstanden
+      - versteht
+      - verstanden
+    answer: verstanden
+  - type: classification
+    question: O verbo bezahlen é separável ou inseparável?
+    answer: inseparável
+  - type: error_correction
+    question: "Corrija o Particípio II: Nina hat den Schlüssel gebekommen."
+    answer: bekommen
+  - type: multiple_choice
+    question: Qual frase usa corretamente o Particípio II de zumachen?
+    options:
+      - Er hat das Fenster zugemacht.
+      - Er hat das Fenster gezumacht.
+      - Er hat das Fenster zumachen.
+    answer: Er hat das Fenster zugemacht.
+  - type: sentence_completion
+    question: "Complete com auxiliar e Particípio II: Ihr ___ eure Tante ___. (besuchen)"
+    answer: habt besucht
+  - type: transformation
+    question: Transforme vorbereiten em Particípio II.
+    answer: vorbereitet
+  - type: fill_blank
+    question: "Complete: Paul hat eine Nachricht ___. (bekommen)"
+    answer: bekommen
+  - type: translation
+    question: "Traduza: Ela trouxe água."
+    answer: Sie hat Wasser mitgebracht.
+  - type: multiple_choice
+    question: Qual regra está correta para prefixos be- e ver- no Particípio II?
+    options:
+      - Eles sempre ficam no fim da frase.
+      - Eles recebem ge- antes do prefixo.
+      - Eles normalmente não recebem ge-.
+    answer: Eles normalmente não recebem ge-.
+  - type: error_correction
+    question: "Corrija o Particípio II: Wir haben den Raum geaufgeräumt."
+    answer: aufgeräumt
+  - type: translation
+    question: "Traduza: Eu visitei um museu ontem."
+    answer: Ich habe gestern ein Museum besucht.

@@ -1,0 +1,116 @@
+topic: "Konjunktiv II: Cortesia"
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: "Complete com würde, hätte, wäre, könnte, könnten, könntest ou hätten."
+    items:
+      - question: "Ich ___ gern einen Tee."
+        answer: "hätte"
+      - question: "___ Sie mir bitte den Weg erklären?"
+        answer: "Könnten"
+      - question: "Das ___ sehr nett."
+        answer: "wäre"
+      - question: "Ich ___ gern einen Termin vereinbaren."
+        answer: "würde"
+      - question: "___ du mir kurz helfen?"
+        answer: "Könntest"
+      - question: "___ Sie vielleicht eine Minute Zeit?"
+        answer: "Hätten"
+
+  - type: multiple_choice
+    instruction: "Escolha a frase mais educada para cada situação."
+    items:
+      - question: "No restaurante, você quer pedir água."
+        options:
+          - "Ich hätte gern ein Wasser."
+          - "Ich will ein Wasser."
+          - "Gib mir ein Wasser."
+        answer: "Ich hätte gern ein Wasser."
+      - question: "Você fala formalmente com uma atendente e precisa de ajuda."
+        options:
+          - "Hilf mir jetzt."
+          - "Könnten Sie mir bitte helfen?"
+          - "Du könntest mir helfen?"
+        answer: "Könnten Sie mir bitte helfen?"
+      - question: "Você pede a um amigo para fechar a janela."
+        options:
+          - "Schließen Sie bitte das Fenster, du."
+          - "Ich hätte gern das Fenster."
+          - "Könntest du bitte das Fenster schließen?"
+        answer: "Könntest du bitte das Fenster schließen?"
+      - question: "Você quer marcar uma consulta por telefone."
+        options:
+          - "Ich würde gern einen Termin vereinbaren."
+          - "Ich bin einen Termin."
+          - "Ich hätte gern vereinbaren einen Termin."
+        answer: "Ich würde gern einen Termin vereinbaren."
+      - question: "Você quer pedir repetição de modo formal."
+        options:
+          - "Wiederholen!"
+          - "Könnten Sie das bitte wiederholen?"
+          - "Könntest Sie das bitte wiederholen?"
+        answer: "Könnten Sie das bitte wiederholen?"
+      - question: "Você quer agradecer de modo cortês pela ajuda."
+        options:
+          - "Das ist vielleicht müssen."
+          - "Ich will das nett."
+          - "Das wäre sehr freundlich."
+        answer: "Das wäre sehr freundlich."
+
+  - type: transformation
+    instruction: "Reescreva a frase direta de forma mais educada usando Konjunktiv II."
+    items:
+      - question: "Ich will einen Kaffee."
+        answer: "Ich hätte gern einen Kaffee."
+      - question: "Helfen Sie mir!"
+        answer: "Könnten Sie mir bitte helfen?"
+      - question: "Gib mir deine Telefonnummer."
+        answer: "Könntest du mir deine Telefonnummer geben?"
+      - question: "Ich brauche einen Termin."
+        answer: "Ich würde gern einen Termin vereinbaren."
+      - question: "Unterschreiben Sie hier!"
+        answer: "Würden Sie bitte hier unterschreiben?"
+      - question: "Sagen Sie das noch einmal!"
+        answer: "Könnten Sie das bitte noch einmal sagen?"
+
+  - type: correction
+    instruction: "Corrija o erro na frase em alemão."
+    items:
+      - question: "Ich hätte gern bestellen einen Salat."
+        answer: "Ich würde gern einen Salat bestellen."
+      - question: "Könntest Sie mir helfen?"
+        answer: "Könnten Sie mir helfen?"
+      - question: "Das würde sehr nett."
+        answer: "Das wäre sehr nett."
+      - question: "Ich würde gern ein Kaffee."
+        answer: "Ich hätte gern einen Kaffee."
+      - question: "Würden Sie bitte die Tür öffnen Sie?"
+        answer: "Würden Sie bitte die Tür öffnen?"
+
+  - type: translation
+    instruction: "Traduza para o alemão usando uma forma educada do Konjunktiv II."
+    items:
+      - question: "Eu gostaria de uma informação."
+        answer: "Ich hätte gern eine Auskunft."
+      - question: "O(a) senhor(a) poderia repetir isso?"
+        answer: "Könnten Sie das bitte wiederholen?"
+      - question: "Você poderia me ligar amanhã?"
+        answer: "Könntest du mich morgen anrufen?"
+      - question: "Eu gostaria de reservar uma mesa."
+        answer: "Ich würde gern einen Tisch reservieren."
+      - question: "Isso seria muito gentil."
+        answer: "Das wäre sehr nett."
+
+  - type: short_answer
+    instruction: "Responda em alemão com uma frase educada adequada à situação."
+    items:
+      - question: "Você está em uma padaria e quer dois pães. Use: Ich hätte gern ..."
+        answer: "Ich hätte gern zwei Brötchen."
+      - question: "Você está em uma recepção e quer marcar um horário. Use: würde gern."
+        answer: "Ich würde gern einen Termin vereinbaren."
+      - question: "Você fala com um professor formalmente e quer fazer uma pergunta. Use: Könnten Sie ...?"
+        answer: "Könnten Sie meine Frage beantworten?"
+      - question: "Você pede a uma amiga para esperar um momento. Use: Könntest du ...?"
+        answer: "Könntest du bitte einen Moment warten?"
+      - question: "Você quer dizer que ficaria agradecido por uma resposta. Use: wäre."
+        answer: "Ich wäre Ihnen für eine Antwort dankbar."

@@ -1,0 +1,126 @@
+topic: "Wechselpräpositionen: Localização com dativo"
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com o artigo no dativo para indicar localização.
+    items:
+      - question: Das Buch liegt auf ___ Tisch.
+        answer: dem
+      - question: Anna ist in ___ Schule.
+        answer: der
+      - question: Das Bild hängt an ___ Wand.
+        answer: der
+      - question: Die Tasche steht neben ___ Bett.
+        answer: dem
+      - question: Der Hund liegt unter ___ Stuhl.
+        answer: dem
+      - question: Der Schlüssel ist zwischen ___ Büchern.
+        answer: den
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta para responder à pergunta wo?.
+    items:
+      - question: Wo ist das Heft?
+        options:
+          - Das Heft liegt auf dem Tisch.
+          - Das Heft liegt auf den Tisch.
+          - Das Heft liegt auf der Tisch.
+        answer: Das Heft liegt auf dem Tisch.
+      - question: Wo ist Maria?
+        options:
+          - Maria ist in die Küche.
+          - Maria ist in der Küche.
+          - Maria ist in den Küche.
+        answer: Maria ist in der Küche.
+      - question: Wo hängt die Uhr?
+        options:
+          - Die Uhr hängt an die Wand.
+          - Die Uhr hängt an dem Wand.
+          - Die Uhr hängt an der Wand.
+        answer: Die Uhr hängt an der Wand.
+      - question: Wo steht der Rucksack?
+        options:
+          - Der Rucksack steht neben dem Sofa.
+          - Der Rucksack steht neben das Sofa.
+          - Der Rucksack steht neben der Sofa.
+        answer: Der Rucksack steht neben dem Sofa.
+      - question: Wo sind die Schuhe?
+        options:
+          - Die Schuhe sind unter dem Bett.
+          - Die Schuhe sind unter das Bett.
+          - Die Schuhe sind unter den Bett.
+        answer: Die Schuhe sind unter dem Bett.
+      - question: Wo wartet Paul?
+        options:
+          - Paul wartet vor die Tür.
+          - Paul wartet vor dem Tür.
+          - Paul wartet vor der Tür.
+        answer: Paul wartet vor der Tür.
+
+  - type: transformation
+    instruction: Reescreva a expressão com a forma contraída quando ela for comum.
+    items:
+      - question: in dem Zimmer
+        answer: im Zimmer
+      - question: an dem Fenster
+        answer: am Fenster
+      - question: in dem Büro
+        answer: im Büro
+      - question: an dem Tisch
+        answer: am Tisch
+
+  - type: matching
+    instruction: Combine a expressão alemã com a tradução correta.
+    items:
+      - question: in der Schule
+        answer: na escola
+      - question: auf dem Tisch
+        answer: sobre a mesa
+      - question: an der Wand
+        answer: na parede
+      - question: hinter dem Haus
+        answer: atrás da casa
+      - question: zwischen den Stühlen
+        answer: entre as cadeiras
+
+  - type: fill_blank
+    instruction: "Complete com uma preposição adequada de localização: in, auf, an, neben, unter, vor, hinter ou zwischen."
+    items:
+      - question: Das Bild hängt ___ der Wand.
+        answer: an
+      - question: Die Flasche steht ___ dem Tisch.
+        answer: auf
+      - question: Die Katze schläft ___ dem Bett.
+        answer: unter
+      - question: Der Garten ist ___ dem Haus.
+        answer: hinter
+      - question: Der Stuhl steht ___ dem Tisch und dem Fenster.
+        answer: zwischen
+      - question: Tom steht ___ der Tür und wartet.
+        answer: vor
+
+  - type: translation
+    instruction: Traduza para o alemão usando localização com dativo.
+    items:
+      - question: O celular está sobre a mesa.
+        answer: Das Handy liegt auf dem Tisch.
+      - question: Ela está na escola.
+        answer: Sie ist in der Schule.
+      - question: A mochila está ao lado da cama.
+        answer: Der Rucksack steht neben dem Bett.
+      - question: O quadro está na parede.
+        answer: Das Bild hängt an der Wand.
+      - question: A chave está entre os livros.
+        answer: Der Schlüssel liegt zwischen den Büchern.
+
+  - type: short_answer
+    instruction: Responda em alemão com uma expressão de localização no dativo.
+    items:
+      - question: "Wo ist dein Buch? Responda: sobre a mesa."
+        answer: Es ist auf dem Tisch.
+      - question: "Wo ist deine Tasche? Responda: embaixo da cadeira."
+        answer: Sie ist unter dem Stuhl.
+      - question: "Wo ist der Kalender? Responda: na parede."
+        answer: Er hängt an der Wand.
+      - question: "Wo ist dein Vater? Responda: no escritório."
+        answer: Er ist im Büro.

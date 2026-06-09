@@ -1,0 +1,73 @@
+topic: Superlativo
+level: A2
+words:
+  - german: am besten
+    translation: o melhor; da melhor forma
+    type: expression
+    gender: null
+    plural: null
+    example: Diese Idee ist am besten.
+    example_translation: Esta ideia é a melhor.
+  - german: der beste Plan
+    translation: o melhor plano
+    type: adjective_phrase
+    gender: masculine
+    plural: die besten Pläne
+    example: Das ist der beste Plan für heute.
+    example_translation: Esse é o melhor plano para hoje.
+  - german: die schönste Wohnung
+    translation: o apartamento mais bonito
+    type: adjective_phrase
+    gender: feminine
+    plural: die schönsten Wohnungen
+    example: Das ist die schönste Wohnung im Haus.
+    example_translation: Esse é o apartamento mais bonito da casa.
+  - german: das kleinste Zimmer
+    translation: o menor quarto
+    type: adjective_phrase
+    gender: neuter
+    plural: die kleinsten Zimmer
+    example: Das Kind schläft im kleinsten Zimmer.
+    example_translation: A criança dorme no menor quarto.
+  - german: am schnellsten
+    translation: o mais rápido; mais rapidamente
+    type: expression
+    gender: null
+    plural: null
+    example: Der Zug fährt am schnellsten.
+    example_translation: O trem vai mais rápido.
+  - german: am liebsten
+    translation: de preferência; o que mais gosta
+    type: expression
+    gender: null
+    plural: null
+    example: Ich esse am liebsten Reis mit Bohnen.
+    example_translation: Eu gosto mais de comer arroz com feijão.
+  - german: am meisten
+    translation: o mais; a maior quantidade
+    type: expression
+    gender: null
+    plural: null
+    example: Im Sommer trinken wir am meisten Wasser.
+    example_translation: No verão, nós bebemos mais água.
+  - german: die nächste Haltestelle
+    translation: a próxima parada
+    type: adjective_phrase
+    gender: feminine
+    plural: die nächsten Haltestellen
+    example: Wir steigen an der nächsten Haltestelle aus.
+    example_translation: Nós descemos na próxima parada.
+  - german: das größte Problem
+    translation: o maior problema
+    type: adjective_phrase
+    gender: neuter
+    plural: die größten Probleme
+    example: Zeit ist heute das größte Problem.
+    example_translation: Tempo é hoje o maior problema.
+  - german: der billigste Laden
+    translation: a loja mais barata
+    type: adjective_phrase
+    gender: masculine
+    plural: die billigsten Läden
+    example: Das ist der billigste Laden in der Straße.
+    example_translation: Essa é a loja mais barata da rua.

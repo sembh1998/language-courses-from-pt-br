@@ -1,0 +1,61 @@
+topic: Werden + infinitivo
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta para "Eu vou beber água"?
+    options:
+      - Ich werde Wasser trinke.
+      - Ich werde Wasser trinken.
+      - Ich trinken werde Wasser.
+    answer: Ich werde Wasser trinken.
+  - type: fill_blank
+    question: "Complete: Du ___ morgen früh joggen."
+    answer: wirst
+  - type: fill_blank
+    question: "Complete: Sarah ___ heute Abend kochen."
+    answer: wird
+  - type: multiple_choice
+    question: Qual opção coloca o infinitivo no final?
+    options:
+      - Wir werden am Dienstag schwimmen.
+      - Wir schwimmen werden am Dienstag.
+      - Wir werden schwimmen am Dienstag.
+    answer: Wir werden am Dienstag schwimmen.
+  - type: transformation
+    question: "Reescreva usando werden + infinitivo: Ich schreibe morgen eine E-Mail."
+    answer: Ich werde morgen eine E-Mail schreiben.
+  - type: translation
+    question: "Traduza usando werden + infinitivo: Eles vão visitar Berlim."
+    answer: Sie werden Berlin besuchen.
+  - type: multiple_choice
+    question: Qual frase é uma previsão do tempo correta?
+    options:
+      - Es morgen wird windig.
+      - Es werde morgen windig.
+      - Es wird morgen windig.
+    answer: Es wird morgen windig.
+  - type: fill_blank
+    question: "Complete: Ihr ___ am Wochenende viel schlafen."
+    answer: werdet
+  - type: classification
+    question: "Classifique: Nächsten Monat ziehe ich nach Köln."
+    answer: presente usado como futuro
+  - type: classification
+    question: "Classifique: Die Kinder werden später spielen."
+    answer: futuro com werden
+  - type: translation
+    question: "Traduza usando werden + infinitivo: Nós vamos ajudar a professora."
+    answer: Wir werden der Lehrerin helfen.
+  - type: multiple_choice
+    question: Qual forma combina com "ihr"?
+    options:
+      - werdet
+      - wirst
+      - wird
+    answer: werdet
+  - type: sentence_building
+    question: "Monte a frase: ich / werde / am Sonntag / wandern"
+    answer: Ich werde am Sonntag wandern.
+  - type: transformation
+    question: "Reescreva usando werden + infinitivo: Der Film beginnt um neun Uhr."
+    answer: Der Film wird um neun Uhr beginnen.

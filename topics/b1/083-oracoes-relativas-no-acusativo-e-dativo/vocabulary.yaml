@@ -1,0 +1,87 @@
+topic: Orações relativas no acusativo e dativo
+level: B1
+words:
+  - german: der Kollege
+    translation: o colega de trabalho
+    type: noun
+    gender: masculine
+    plural: die Kollegen
+    example: Das ist der Kollege, den ich gestern getroffen habe.
+    example_translation: Esse é o colega de trabalho que eu encontrei ontem.
+  - german: die Nachbarin
+    translation: a vizinha
+    type: noun
+    gender: feminine
+    plural: die Nachbarinnen
+    example: Die Nachbarin, der ich helfe, wohnt allein.
+    example_translation: A vizinha a quem eu ajudo mora sozinha.
+  - german: das Formular
+    translation: o formulário
+    type: noun
+    gender: neuter
+    plural: die Formulare
+    example: Das Formular, das ich ausfülle, ist wichtig.
+    example_translation: O formulário que eu preencho é importante.
+  - german: die Leute
+    translation: as pessoas
+    type: noun
+    gender: plural
+    plural: die Leute
+    example: Die Leute, denen wir helfen, sind dankbar.
+    example_translation: As pessoas a quem ajudamos são gratas.
+  - german: helfen
+    translation: ajudar
+    type: verb
+    gender: null
+    plural: null
+    example: Das ist der Student, dem ich helfe.
+    example_translation: Esse é o estudante a quem eu ajudo.
+  - german: danken
+    translation: agradecer
+    type: verb
+    gender: null
+    plural: null
+    example: Die Ärztin, der wir danken, arbeitet heute.
+    example_translation: A médica a quem agradecemos trabalha hoje.
+  - german: sehen
+    translation: ver
+    type: verb
+    gender: null
+    plural: null
+    example: Der Hund, den ich sehe, gehört meinem Nachbarn.
+    example_translation: O cachorro que eu vejo pertence ao meu vizinho.
+  - german: treffen
+    translation: encontrar
+    type: verb
+    gender: null
+    plural: null
+    example: Die Freundin, die ich treffe, kommt aus Köln.
+    example_translation: A amiga que eu encontro vem de Colônia.
+  - german: sprechen über
+    translation: falar sobre
+    type: expression
+    gender: null
+    plural: null
+    example: Das Thema, über das wir sprechen, ist kompliziert.
+    example_translation: O tema sobre o qual falamos é complicado.
+  - german: warten auf
+    translation: esperar por
+    type: expression
+    gender: null
+    plural: null
+    example: Der Bus, auf den ich warte, ist verspätet.
+    example_translation: O ônibus pelo qual espero está atrasado.
+  - german: arbeiten mit
+    translation: trabalhar com
+    type: expression
+    gender: null
+    plural: null
+    example: Die Kollegin, mit der ich arbeite, ist sehr genau.
+    example_translation: A colega com quem trabalho é muito cuidadosa.
+  - german: wohnen in
+    translation: morar em
+    type: expression
+    gender: null
+    plural: null
+    example: Das Haus, in dem ich wohne, ist ruhig.
+    example_translation: A casa em que moro é tranquila.

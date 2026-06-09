@@ -1,0 +1,69 @@
+topic: Artigos no dativo
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual opção completa corretamente? Eva fährt mit ___ Straßenbahn.
+    options:
+      - der
+      - die
+      - dem
+    answer: der
+  - type: fill_blank
+    question: "Complete: Ich wohne bei ___ Onkel."
+    answer: dem
+  - type: multiple_choice
+    question: Qual frase usa corretamente o plural no dativo?
+    options:
+      - Wir essen mit den Gästen.
+      - Wir essen mit die Gäste.
+      - Wir essen mit dem Gästen.
+    answer: Wir essen mit den Gästen.
+  - type: fill_blank
+    question: "Complete: Das Handy gehört ___ Mädchen."
+    answer: dem
+  - type: multiple_choice
+    question: "Escolha a opção correta: Nils kommt aus ___ Stadt."
+    options:
+      - dem
+      - der
+      - den
+    answer: der
+  - type: transformation
+    question: "Transforme para o dativo: zu + die Bibliothek"
+    answer: zu der Bibliothek
+  - type: fill_blank
+    question: "Complete com artigo indefinido: Sara telefoniert mit ___ Cousine."
+    answer: einer
+  - type: multiple_choice
+    question: Qual opção completa corretamente? Wir gehen nach ___ Unterricht nach Hause.
+    options:
+      - dem
+      - den
+      - der
+    answer: dem
+  - type: correction
+    question: "Corrija: Er spricht mit den Lehrerinnen."
+    answer: Er spricht mit den Lehrerinnen.
+  - type: fill_blank
+    question: "Complete com a forma negativa: Ich schreibe ___ Chefin."
+    answer: keiner
+  - type: multiple_choice
+    question: Qual expressão está correta?
+    options:
+      - mit der Auto
+      - mit den Auto
+      - mit dem Auto
+    answer: mit dem Auto
+  - type: transformation
+    question: "Transforme para o dativo: von + die Schüler"
+    answer: von den Schülern
+  - type: fill_blank
+    question: "Complete com a forma negativa plural: Die Lehrerin antwortet ___ Eltern."
+    answer: keinen
+  - type: multiple_choice
+    question: Qual opção completa corretamente? Das Brot liegt neben ___ Teller.
+    options:
+      - dem
+      - der
+      - den
+    answer: dem

@@ -1,0 +1,101 @@
+topic: Pronomes acusativo + dativo
+level: A2
+words:
+  - german: geben
+    translation: dar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich gebe es dir.
+    example_translation: Eu dou isso a você.
+  - german: zeigen
+    translation: mostrar
+    type: verb
+    gender: null
+    plural: null
+    example: Sie zeigt ihn mir.
+    example_translation: Ela mostra ele para mim.
+  - german: kaufen
+    translation: comprar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich kaufe sie ihr.
+    example_translation: Eu compro ela para ela.
+  - german: schicken
+    translation: enviar
+    type: verb
+    gender: null
+    plural: null
+    example: Wir schicken es euch.
+    example_translation: Nós enviamos isso a vocês.
+  - german: bringen
+    translation: trazer; levar
+    type: verb
+    gender: null
+    plural: null
+    example: Er bringt ihn mir.
+    example_translation: Ele traz ele para mim.
+  - german: leihen
+    translation: emprestar
+    type: verb
+    gender: null
+    plural: null
+    example: Kannst du es mir leihen?
+    example_translation: Você pode me emprestar isso?
+  - german: mir
+    translation: a mim; para mim
+    type: pronoun
+    gender: null
+    plural: null
+    example: Anna gibt es mir.
+    example_translation: Anna dá isso a mim.
+  - german: dir
+    translation: a você; para você
+    type: pronoun
+    gender: null
+    plural: null
+    example: Ich schicke sie dir.
+    example_translation: Eu envio ela para você.
+  - german: ihm
+    translation: a ele; para ele
+    type: pronoun
+    gender: null
+    plural: null
+    example: Wir zeigen es ihm.
+    example_translation: Nós mostramos isso a ele.
+  - german: ihr
+    translation: a ela; para ela
+    type: pronoun
+    gender: null
+    plural: null
+    example: Paul kauft ihn ihr.
+    example_translation: Paul compra ele para ela.
+  - german: ihnen
+    translation: a eles; para eles
+    type: pronoun
+    gender: null
+    plural: null
+    example: Ich bringe es ihnen.
+    example_translation: Eu levo isso para eles.
+  - german: der Schlüssel
+    translation: a chave
+    type: noun
+    gender: masculine
+    plural: die Schlüssel
+    example: Ich gebe ihn dir.
+    example_translation: Eu dou ele a você.
+  - german: die Tasche
+    translation: a bolsa
+    type: noun
+    gender: feminine
+    plural: die Taschen
+    example: Er kauft sie ihr.
+    example_translation: Ele compra ela para ela.
+  - german: das Geschenk
+    translation: o presente
+    type: noun
+    gender: neuter
+    plural: die Geschenke
+    example: Wir geben es ihm.
+    example_translation: Nós damos isso a ele.

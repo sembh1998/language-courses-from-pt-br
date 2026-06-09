@@ -1,0 +1,98 @@
+topic: Um...zu
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: Complete as frases com um, zu ou a forma correta com zu.
+    items:
+      - question: Ich lerne Deutsch, ___ in Österreich ___ studieren.
+        answer: um, zu
+      - question: Lea kauft einen Kalender, ___ ihre Termine ___ planen.
+        answer: um, zu
+      - question: Wir nehmen den Zug früher, ___ pünktlich ___ sein.
+        answer: um, zu
+      - question: Tom nimmt sein Handy, um seine Mutter ___.
+        answer: anzurufen
+      - question: Ich stelle den Wecker, um um sechs Uhr ___.
+        answer: aufzustehen
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta.
+    items:
+      - question: Qual frase expressa corretamente a finalidade?
+        options:
+          - Ich spare Geld, um ein Fahrrad zu kaufen.
+          - Ich spare Geld, um ein Fahrrad kaufen.
+          - Ich spare Geld, zu um ein Fahrrad kaufen.
+        answer: Ich spare Geld, um ein Fahrrad zu kaufen.
+      - question: Qual frase usa corretamente um verbo separável?
+        options:
+          - Maria geht in die Küche, um Kaffee zu machen an.
+          - Maria geht in die Küche, um Kaffee anzumachen.
+          - Maria geht in die Küche, um Kaffee machen zu an.
+        answer: Maria geht in die Küche, um Kaffee anzumachen.
+      - question: Qual frase está correta com sein?
+        options:
+          - Paul schläft früh, um morgen fit sein.
+          - Paul schläft früh, zu morgen fit um sein.
+          - Paul schläft früh, um morgen fit zu sein.
+        answer: Paul schläft früh, um morgen fit zu sein.
+
+  - type: transform
+    instruction: Una as duas frases usando um ... zu. Mantenha o sentido de finalidade.
+    items:
+      - question: Ich besuche einen Sprachkurs. Ich will besser sprechen.
+        answer: Ich besuche einen Sprachkurs, um besser zu sprechen.
+      - question: Sie liest die Anzeige. Sie will die Informationen finden.
+        answer: Sie liest die Anzeige, um die Informationen zu finden.
+      - question: Wir gehen ins Reisebüro. Wir wollen eine Reise buchen.
+        answer: Wir gehen ins Reisebüro, um eine Reise zu buchen.
+      - question: Ben macht Notizen. Er will nichts vergessen.
+        answer: Ben macht Notizen, um nichts zu vergessen.
+      - question: Ich öffne die App. Ich will ein Ticket kaufen.
+        answer: Ich öffne die App, um ein Ticket zu kaufen.
+
+  - type: correction
+    instruction: Corrija as frases. Foque na posição de um, zu e do infinitivo.
+    items:
+      - question: Ich trainiere, um gesund bleiben.
+        answer: Ich trainiere, um gesund zu bleiben.
+      - question: Anna fährt nach Köln, um zu besuchen ihre Tante.
+        answer: Anna fährt nach Köln, um ihre Tante zu besuchen.
+      - question: Wir gehen früh los, um nicht zu spät kommen.
+        answer: Wir gehen früh los, um nicht zu spät zu kommen.
+      - question: Er nimmt das Telefon, um zu anrufen den Arzt.
+        answer: Er nimmt das Telefon, um den Arzt anzurufen.
+
+  - type: multiple_choice
+    instruction: Escolha entre um ... zu e damit.
+    items:
+      - question: "Mesmo sujeito: Ich mache Sport, ___ fit zu bleiben."
+        options:
+          - damit
+          - um
+          - weil
+        answer: um
+      - question: "Sujeitos diferentes: Ich erkläre es langsam, ___ du alles verstehst."
+        options:
+          - um
+          - zu
+          - damit
+        answer: damit
+      - question: "Mesmo sujeito: Jana schreibt eine Liste, ___ nichts zu vergessen."
+        options:
+          - um
+          - damit
+          - dass
+        answer: um
+
+  - type: translation
+    instruction: Traduza para o alemão usando um ... zu quando possível.
+    items:
+      - question: Eu estudo alemão para trabalhar na Alemanha.
+        answer: Ich lerne Deutsch, um in Deutschland zu arbeiten.
+      - question: Nós economizamos dinheiro para viajar no verão.
+        answer: Wir sparen Geld, um im Sommer zu reisen.
+      - question: Ela escreve um e-mail para confirmar o compromisso.
+        answer: Sie schreibt eine E-Mail, um den Termin zu bestätigen.
+      - question: Eu faço perguntas para entender melhor a tarefa.
+        answer: Ich stelle Fragen, um die Aufgabe besser zu verstehen.

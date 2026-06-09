@@ -1,0 +1,108 @@
+topic: Präteritum de sein, haben e modais
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com a forma correta de sein ou haben no Präteritum.
+    items:
+      - question: Ich ___ gestern sehr müde.
+        answer: war
+      - question: Wir ___ am Samstag im Museum.
+        answer: waren
+      - question: Lisa ___ keine Zeit.
+        answer: hatte
+      - question: Ihr ___ viele Fragen.
+        answer: hattet
+      - question: Du ___ heute Morgen zu Hause.
+        answer: warst
+
+  - type: multiple_choice
+    instruction: Escolha a forma correta do modal no Präteritum.
+    items:
+      - question: Ich ___ gestern lange arbeiten.
+        options:
+          - musste
+          - muss
+          - gemusst
+        answer: musste
+      - question: Die Kinder ___ im Garten spielen.
+        options:
+          - dürfen
+          - durften
+          - gedurft
+        answer: durften
+      - question: Er ___ den Text nicht lesen.
+        options:
+          - kannte
+          - gekonnt
+          - konnte
+        answer: konnte
+      - question: Wir ___ einen Film sehen.
+        options:
+          - wollten
+          - gewollt
+          - wollen
+        answer: wollten
+      - question: Du ___ den Chef anrufen.
+        options:
+          - sollst
+          - solltest
+          - gesollt
+        answer: solltest
+
+  - type: transformation
+    instruction: Transforme as frases do presente para o Präteritum.
+    items:
+      - question: Ich bin krank.
+        answer: Ich war krank.
+      - question: Wir haben viel Arbeit.
+        answer: Wir hatten viel Arbeit.
+      - question: Sie kann heute nicht kommen.
+        answer: Sie konnte heute nicht kommen.
+      - question: Paul muss früh aufstehen.
+        answer: Paul musste früh aufstehen.
+      - question: Die Kinder dürfen fernsehen.
+        answer: Die Kinder durften fernsehen.
+
+  - type: error_correction
+    instruction: Corrija a frase em alemão.
+    items:
+      - question: Ich warte gestern müde.
+        answer: Ich war gestern müde.
+      - question: Wir hatte keine Tickets.
+        answer: Wir hatten keine Tickets.
+      - question: Sie musste gelernt.
+        answer: Sie musste lernen.
+      - question: Er könnte gestern nicht kommen.
+        answer: Er konnte gestern nicht kommen.
+      - question: Ihr wartet im Büro.
+        answer: Ihr wart im Büro.
+
+  - type: matching
+    instruction: Relacione a forma alemã com a melhor tradução.
+    items:
+      - question: war
+        answer: estava; era
+      - question: hatte
+        answer: tinha
+      - question: konnte
+        answer: pude; podia; conseguia
+      - question: musste
+        answer: tive que; precisava
+      - question: durfte
+        answer: pude; tinha permissão para
+      - question: sollte
+        answer: devia; deveria
+
+  - type: short_answer
+    instruction: Traduza para o alemão usando Präteritum. Use frases curtas.
+    items:
+      - question: Eu estava em casa.
+        answer: Ich war zu Hause.
+      - question: Nós tínhamos tempo.
+        answer: Wir hatten Zeit.
+      - question: Ela queria dormir.
+        answer: Sie wollte schlafen.
+      - question: Eu tive que estudar.
+        answer: Ich musste lernen.
+      - question: Eles puderam jogar. Use permissão.
+        answer: Sie durften spielen.

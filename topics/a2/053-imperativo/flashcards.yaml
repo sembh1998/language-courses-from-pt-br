@@ -1,0 +1,51 @@
+topic: Imperativo
+level: A2
+cards:
+  - front: Komm!
+    back: Venha! forma informal singular de kommen
+    example: Komm bitte um acht Uhr.
+    example_translation: Venha às oito horas, por favor.
+  - front: Kommt!
+    back: Venham! forma informal plural de kommen
+    example: Kommt bitte ins Café.
+    example_translation: Venham ao café, por favor.
+  - front: Kommen Sie!
+    back: Venha/Venham! forma formal de kommen
+    example: Kommen Sie bitte herein.
+    example_translation: Entre, por favor.
+  - front: Geh!
+    back: Vá! forma informal singular de gehen
+    example: Geh bitte zur Schule.
+    example_translation: Vá para a escola, por favor.
+  - front: Geht!
+    back: Vão! forma informal plural de gehen
+    example: Geht bitte nach Hause.
+    example_translation: Vão para casa, por favor.
+  - front: Gehen Sie!
+    back: Vá/Vão! forma formal de gehen
+    example: Gehen Sie bitte nach links.
+    example_translation: Vá à esquerda, por favor.
+  - front: Mach!
+    back: Faça! forma informal singular de machen
+    example: Mach bitte die Tür zu.
+    example_translation: Feche a porta, por favor.
+  - front: Macht!
+    back: Façam! forma informal plural de machen
+    example: Macht bitte die Übung.
+    example_translation: Façam o exercício, por favor.
+  - front: Machen Sie!
+    back: Faça/Façam! forma formal de machen
+    example: Machen Sie bitte eine Pause.
+    example_translation: Faça uma pausa, por favor.
+  - front: Sei!
+    back: Seja/Fique! imperativo de sein com du
+    example: Sei bitte freundlich.
+    example_translation: Seja gentil, por favor.
+  - front: Seid!
+    back: Sejam/Fiquem! imperativo de sein com ihr
+    example: Seid bitte pünktlich.
+    example_translation: Sejam pontuais, por favor.
+  - front: Seien Sie!
+    back: Seja/Sejam! imperativo formal de sein
+    example: Seien Sie bitte vorsichtig.
+    example_translation: Tenha cuidado, por favor.

@@ -1,0 +1,90 @@
+topic: Wenn
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete as frases com o verbo correto no final da oração com wenn.
+    items:
+      - question: Wenn ich Zeit ___, koche ich gern.
+        answer: habe
+      - question: Wir gehen ins Café, wenn Paul fertig ___.
+        answer: ist
+      - question: Wenn es morgen ___, nehmen wir den Bus.
+        answer: regnet
+      - question: Ich helfe dir, wenn du Fragen ___.
+        answer: hast
+
+  - type: multiple_choice
+    instruction: Escolha a frase com a ordem correta.
+    items:
+      - question: Qual frase está correta?
+        options:
+          - Wenn ich Hunger habe, esse ich eine Suppe.
+          - Wenn ich habe Hunger, esse ich eine Suppe.
+          - Wenn ich Hunger habe, ich esse eine Suppe.
+        answer: Wenn ich Hunger habe, esse ich eine Suppe.
+      - question: Qual frase está correta?
+        options:
+          - Ich gehe nach Hause, wenn bin ich müde.
+          - Ich gehe nach Hause, wenn ich müde bin.
+          - Ich gehe nach Hause, wenn ich bin müde.
+        answer: Ich gehe nach Hause, wenn ich müde bin.
+      - question: Qual frase está correta?
+        options:
+          - Wenn du Zeit hast, du rufst mich an.
+          - Wenn hast du Zeit, rufst du mich an.
+          - Wenn du Zeit hast, rufst du mich an.
+        answer: Wenn du Zeit hast, rufst du mich an.
+      - question: Qual frase está correta?
+        options:
+          - Wir bleiben zu Hause, wenn das Wetter schlecht ist.
+          - Wir bleiben zu Hause, wenn ist das Wetter schlecht.
+          - Wir bleiben zu Hause, wenn das Wetter ist schlecht.
+        answer: Wir bleiben zu Hause, wenn das Wetter schlecht ist.
+
+  - type: transformation
+    instruction: Reescreva começando com wenn. Mantenha o mesmo sentido.
+    items:
+      - question: Ich lerne Deutsch, wenn ich abends Zeit habe.
+        answer: Wenn ich abends Zeit habe, lerne ich Deutsch.
+      - question: Maria trinkt Tee, wenn sie krank ist.
+        answer: Wenn Maria krank ist, trinkt sie Tee.
+      - question: Wir fahren mit dem Zug, wenn das Auto kaputt ist.
+        answer: Wenn das Auto kaputt ist, fahren wir mit dem Zug.
+      - question: Ben hört Musik, wenn er allein ist.
+        answer: Wenn Ben allein ist, hört er Musik.
+
+  - type: translation
+    instruction: Traduza para o alemão usando wenn.
+    items:
+      - question: Se eu tiver dinheiro, compro o livro.
+        answer: Wenn ich Geld habe, kaufe ich das Buch.
+      - question: Quando ela está cansada, ela dorme cedo.
+        answer: Wenn sie müde ist, schläft sie früh.
+      - question: Nós ligamos para você se precisarmos de ajuda.
+        answer: Wir rufen dich an, wenn wir Hilfe brauchen.
+      - question: Quando chove, eu não vou ao parque.
+        answer: Wenn es regnet, gehe ich nicht in den Park.
+
+  - type: classification
+    instruction: Decida se wenn indica condição ou repetição temporal.
+    items:
+      - question: Wenn ich morgen frei habe, besuche ich dich.
+        answer: condição
+      - question: Wenn Lisa Kopfschmerzen hat, nimmt sie eine Tablette.
+        answer: repetição temporal
+      - question: Ich kaufe Brot, wenn der Laden offen ist.
+        answer: condição
+      - question: Wenn Max Sport macht, trinkt er viel Wasser.
+        answer: repetição temporal
+
+  - type: correction
+    instruction: Corrija a ordem das palavras nas frases.
+    items:
+      - question: Wenn ich habe frei, besuche ich meine Oma.
+        answer: Wenn ich frei habe, besuche ich meine Oma.
+      - question: Ich bleibe im Bett, wenn ich bin krank.
+        answer: Ich bleibe im Bett, wenn ich krank bin.
+      - question: Wenn der Film beginnt, wir machen das Handy aus.
+        answer: Wenn der Film beginnt, machen wir das Handy aus.
+      - question: Schreib mir, wenn du brauchst Hilfe.
+        answer: Schreib mir, wenn du Hilfe brauchst.

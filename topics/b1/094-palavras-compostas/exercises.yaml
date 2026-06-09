@@ -1,0 +1,120 @@
+topic: Palavras compostas
+level: B1
+exercises:
+  - type: multiple_choice
+    instruction: Escolha o artigo correto para a palavra composta. Pense no último substantivo.
+    items:
+      - question: ___ Kaffeemaschine
+        options:
+          - die
+          - der
+          - das
+        answer: die
+      - question: ___ Arbeitsplatz
+        options:
+          - die
+          - der
+          - das
+        answer: der
+      - question: ___ Wörterbuch
+        options:
+          - der
+          - die
+          - das
+        answer: das
+      - question: ___ Bushaltestelle
+        options:
+          - der
+          - das
+          - die
+        answer: die
+      - question: ___ Geburtstagskuchen
+        options:
+          - das
+          - der
+          - die
+        answer: der
+
+  - type: fill_blank
+    instruction: Complete a tradução em português, identificando primeiro o núcleo da palavra composta.
+    items:
+      - question: die Zugfahrt = a viagem de ___
+        answer: trem
+      - question: das Arbeitszimmer = o quarto de ___
+        answer: trabalho
+      - question: der Deutschkurs = o curso de ___
+        answer: alemão
+      - question: die Haustür = a porta da ___
+        answer: casa
+      - question: die Prüfungsfrage = a questão da ___
+        answer: prova
+
+  - type: fill_blank
+    instruction: Forme uma palavra composta alemã com as partes dadas. Use uma só palavra.
+    items:
+      - question: Kaffee + Maschine = ___
+        answer: Kaffeemaschine
+      - question: Deutsch + Kurs = ___
+        answer: Deutschkurs
+      - question: Zug + Fahrt = ___
+        answer: Zugfahrt
+      - question: Arbeit + Zimmer = ___
+        answer: Arbeitszimmer
+      - question: Geburtstag + Kuchen = ___
+        answer: Geburtstagskuchen
+
+  - type: multiple_choice
+    instruction: Escolha a análise correta da palavra composta.
+    items:
+      - question: Em die Studentenwohnung, qual palavra decide o gênero?
+        options:
+          - Studenten
+          - Wohnung
+          - die frase inteira
+        answer: Wohnung
+      - question: Por que é der Wochenendplan?
+        options:
+          - Porque Woche é feminino.
+          - Porque Ende é neutro.
+          - Porque Plan é masculino.
+        answer: Porque Plan é masculino.
+      - question: O que significa das Stadtzentrum?
+        options:
+          - o centro da cidade
+          - a cidade central
+          - o bairro da cidade
+        answer: o centro da cidade
+      - question: Em die Donaudampfschifffahrt, o artigo é die porque a palavra termina com qual núcleo?
+        options:
+          - Donau
+          - Schiff
+          - Fahrt
+        answer: Fahrt
+
+  - type: transformation
+    instruction: Reescreva a expressão portuguesa como um composto alemão com artigo.
+    items:
+      - question: a estação de trem
+        answer: der Bahnhof
+      - question: o ponto de ônibus
+        answer: die Bushaltestelle
+      - question: o currículo
+        answer: der Lebenslauf
+      - question: o livro escolar
+        answer: das Schulbuch
+      - question: a pergunta da prova
+        answer: die Prüfungsfrage
+
+  - type: correction
+    instruction: Corrija o artigo da palavra composta quando estiver errado.
+    items:
+      - question: der Kaffeemaschine
+        answer: die Kaffeemaschine
+      - question: die Arbeitsplatz
+        answer: der Arbeitsplatz
+      - question: der Wörterbuch
+        answer: das Wörterbuch
+      - question: das Haustür
+        answer: die Haustür
+      - question: das Lebenslauf
+        answer: der Lebenslauf

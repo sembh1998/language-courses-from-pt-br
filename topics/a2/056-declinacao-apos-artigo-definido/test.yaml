@@ -1,0 +1,69 @@
+topic: Declinação após artigo definido
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual forma completa corretamente? ___ Mann arbeitet im Garten.
+    options:
+      - Den alte
+      - Der alte
+      - Die alten
+    answer: Der alte
+  - type: fill_blank
+    question: "Complete: Ich lese ___ interessant__ Artikel."
+    answer: den interessanten Artikel
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Die jungen Leute tanzen.
+      - Die junge Leute tanzen.
+      - Der jungen Leute tanzen.
+    answer: Die jungen Leute tanzen.
+  - type: fill_blank
+    question: "Complete: Das sauber__ Zimmer ist frei."
+    answer: saubere
+  - type: multiple_choice
+    question: "Escolha a forma correta para o dativo: Ich fahre mit ___ Bus."
+    options:
+      - den schnellen
+      - der schnelle
+      - dem schnellen
+    answer: dem schnellen
+  - type: correction
+    question: "Corrija: Das roten Fahrrad ist neu."
+    answer: Das rote Fahrrad ist neu.
+  - type: fill_blank
+    question: "Complete: Die freundlich__ Verkäuferin lächelt."
+    answer: freundliche
+  - type: multiple_choice
+    question: Qual opção traduz "as janelas grandes"?
+    options:
+      - die großen Fenster
+      - das große Fenster
+      - den großen Fenster
+    answer: die großen Fenster
+  - type: transformation
+    question: "Coloque no acusativo: der schöne Park -> Wir besuchen ___."
+    answer: den schönen Park
+  - type: fill_blank
+    question: "Complete: Ich danke ___ hilfsbereit__ Nachbarin."
+    answer: der hilfsbereiten Nachbarin
+  - type: multiple_choice
+    question: Qual forma completa? Er nimmt ___ Jacke.
+    options:
+      - der blaue
+      - die blaue
+      - das blaue
+    answer: die blaue
+  - type: short_answer
+    question: "Traduza: o pão quente."
+    answer: das warme Brot
+  - type: correction
+    question: "Corrija: Wir sehen die teuer Autos."
+    answer: Wir sehen die teuren Autos.
+  - type: multiple_choice
+    question: Qual frase usa corretamente o plural após artigo definido?
+    options:
+      - Die roten Äpfel liegen im Korb.
+      - Die rote Äpfel liegen im Korb.
+      - Der roten Äpfel liegen im Korb.
+    answer: Die roten Äpfel liegen im Korb.

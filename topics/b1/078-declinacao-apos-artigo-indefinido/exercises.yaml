@@ -1,0 +1,130 @@
+topic: Declinação após artigo indefinido
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: Complete com a terminação correta do adjetivo no nominativo.
+    items:
+      - question: "Ein freundlich___ Nachbar bringt das Paket."
+        answer: er
+      - question: "Eine erfahren___ Ärztin arbeitet heute Nacht."
+        answer: e
+      - question: "Ein klein___ Café öffnet um acht Uhr."
+        answer: es
+      - question: "Jung___ Leute diskutieren im Park."
+        answer: e
+      - question: "Ein alt___ Computer steht im Büro."
+        answer: er
+
+  - type: fill_blank
+    instruction: Complete com a forma correta no acusativo.
+    items:
+      - question: "Ich suche einen ruhig___ Platz zum Lernen."
+        answer: en
+      - question: "Mara kauft eine warm___ Jacke."
+        answer: e
+      - question: "Wir brauchen ein neu___ Regal."
+        answer: es
+      - question: "Der Kurs hat interessant___ Themen."
+        answer: e
+      - question: "Sie fotografiert einen schön___ Garten."
+        answer: en
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta.
+    items:
+      - question: "Qual frase usa corretamente o masculino nominativo?"
+        options:
+          - Ein guter Lehrer erklärt die Aufgabe.
+          - Ein gute Lehrer erklärt die Aufgabe.
+          - Einen guten Lehrer erklärt die Aufgabe.
+        answer: Ein guter Lehrer erklärt die Aufgabe.
+      - question: "Qual frase usa corretamente o neutro acusativo?"
+        options:
+          - Wir kaufen ein neu Tisch.
+          - Wir kaufen ein neues Sofa.
+          - Wir kaufen einen neues Sofa.
+        answer: Wir kaufen ein neues Sofa.
+      - question: "Qual frase usa corretamente o plural sem artigo no dativo?"
+        options:
+          - Mit gute Ideen schaffen wir das.
+          - Mit guter Ideen schaffen wir das.
+          - Mit guten Ideen schaffen wir das.
+        answer: Mit guten Ideen schaffen wir das.
+      - question: "Qual frase usa corretamente o feminino acusativo?"
+        options:
+          - Ich lese eine kurze E-Mail.
+          - Ich lese ein kurzer E-Mail.
+          - Ich lese einen kurzen E-Mail.
+        answer: Ich lese eine kurze E-Mail.
+      - question: "Qual frase usa corretamente o masculino acusativo?"
+        options:
+          - Er braucht ein zuverlässiger Handwerker.
+          - Er braucht einen zuverlässigen Handwerker.
+          - Er braucht einem zuverlässigen Handwerker.
+        answer: Er braucht einen zuverlässigen Handwerker.
+      - question: "Qual frase usa corretamente o plural sem artigo no nominativo?"
+        options:
+          - Alte Häuser kosten viel Geld.
+          - Alten Häuser kosten viel Geld.
+          - Alter Häuser kosten viel Geld.
+        answer: Alte Häuser kosten viel Geld.
+
+  - type: transformation
+    instruction: Reescreva a frase no plural sem artigo e ajuste o adjetivo.
+    items:
+      - question: "Ein netter Kollege hilft mir."
+        answer: Nette Kollegen helfen mir.
+      - question: "Ich sehe einen neuen Film."
+        answer: Ich sehe neue Filme.
+      - question: "Eine wichtige Frage bleibt offen."
+        answer: Wichtige Fragen bleiben offen.
+      - question: "Wir haben ein kleines Problem."
+        answer: Wir haben kleine Probleme.
+      - question: "Sie spricht mit einem erfahrenen Experten."
+        answer: Sie spricht mit erfahrenen Experten.
+
+  - type: correction
+    instruction: Corrija a declinação do adjetivo ou do artigo indefinido.
+    items:
+      - question: "Ein gute Freund kommt heute Abend."
+        answer: Ein guter Freund kommt heute Abend.
+      - question: "Ich brauche ein guten Rat."
+        answer: Ich brauche einen guten Rat.
+      - question: "Das ist eine interessantes Angebot."
+        answer: Das ist ein interessantes Angebot.
+      - question: "Mit gute Freunden reist man gern."
+        answer: Mit guten Freunden reist man gern.
+      - question: "Sie wohnt in einem ruhig Wohnung."
+        answer: Sie wohnt in einer ruhigen Wohnung.
+      - question: "Wir lesen interessante Artikel in einer alt Zeitung."
+        answer: Wir lesen interessante Artikel in einer alten Zeitung.
+
+  - type: translation
+    instruction: Traduza para o alemão usando artigo indefinido ou plural sem artigo com adjetivo.
+    items:
+      - question: "Um colega simpático trabalha comigo."
+        answer: Ein netter Kollege arbeitet mit mir.
+      - question: "Eu procuro um quarto claro."
+        answer: Ich suche ein helles Zimmer.
+      - question: "Nós visitamos uma cidade antiga."
+        answer: Wir besuchen eine alte Stadt.
+      - question: "Com bons planos, tudo fica mais fácil."
+        answer: Mit guten Plänen wird alles leichter.
+      - question: "Ela encontra um professor paciente."
+        answer: Sie trifft einen geduldigen Lehrer.
+      - question: "Boas perguntas ajudam no curso."
+        answer: Gute Fragen helfen im Kurs.
+
+  - type: fill_blank
+    instruction: Complete com a forma completa do grupo nominal.
+    items:
+      - question: "wegen ___ (schlecht / Wetter) bleiben viele zu Hause"
+        answer: schlechten Wetters
+      - question: "mit ___ (ein / freundlich / Team) arbeitet er gern"
+        answer: einem freundlichen Team
+      - question: "für ___ (ein / wichtig / Termin) braucht sie Zeit"
+        answer: einen wichtigen Termin
+      - question: "trotz ___ (gut / Argumente) entscheidet der Chef anders"
+        answer: guter Argumente
+      - question: "aus ___ (ein / einfach / Grund) sagt er ab"
+        answer: einem einfachen Grund

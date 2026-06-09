@@ -1,0 +1,124 @@
+topic: Vorgangspassiv no presente
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: Complete com a forma correta de werden no presente.
+    items:
+      - question: Das Haus ___ gebaut.
+        answer: wird
+      - question: Die E-Mails ___ jeden Morgen gelesen.
+        answer: werden
+      - question: Ich ___ über die Änderung informiert.
+        answer: werde
+      - question: Der Vertrag ___ heute geprüft.
+        answer: wird
+      - question: Die Kinder ___ von der Lehrerin abgeholt.
+        answer: werden
+
+  - type: fill_blank
+    instruction: Complete com o Partizip II adequado.
+    items:
+      - question: Die Tür wird um 9 Uhr ___.
+        answer: geöffnet
+      - question: Der Brief wird von Paul ___.
+        answer: geschrieben
+      - question: Die Fahrräder werden im Keller ___.
+        answer: repariert
+      - question: Die Suppe wird in der Küche ___.
+        answer: gekocht
+      - question: Die Straße wird nachts ___.
+        answer: kontrolliert
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta no Vorgangspassiv.
+    items:
+      - question: Qual frase expressa corretamente "O computador está sendo consertado"?
+        options:
+          - Der Computer wird repariert.
+          - Der Computer ist reparieren.
+          - Den Computer wird repariert.
+        answer: Der Computer wird repariert.
+      - question: Qual frase está correta?
+        options:
+          - Die Rechnung werden bezahlt.
+          - Die Rechnung wird bezahlt.
+          - Die Rechnung wird bezahlen.
+        answer: Die Rechnung wird bezahlt.
+      - question: Qual frase está correta para o plural?
+        options:
+          - Die Briefe wird geschrieben.
+          - Die Briefe sind schreiben.
+          - Die Briefe werden geschrieben.
+        answer: Die Briefe werden geschrieben.
+      - question: Qual pergunta está correta?
+        options:
+          - Wird das Paket heute geliefert?
+          - Das Paket wird heute geliefert?
+          - Wird geliefert das Paket heute?
+        answer: Wird das Paket heute geliefert?
+
+  - type: transformation
+    instruction: Transforme as frases ativas em Vorgangspassiv no presente. Omita o agente quando não for necessário.
+    items:
+      - question: Die Firma baut eine Brücke.
+        answer: Eine Brücke wird gebaut.
+      - question: Jemand öffnet das Fenster.
+        answer: Das Fenster wird geöffnet.
+      - question: Die Sekretärin schreibt die Einladungen.
+        answer: Die Einladungen werden von der Sekretärin geschrieben.
+      - question: Man bezahlt die Rechnung online.
+        answer: Die Rechnung wird online bezahlt.
+      - question: Der Mechaniker repariert das Auto.
+        answer: Das Auto wird vom Mechaniker repariert.
+
+  - type: multiple_choice
+    instruction: Escolha von ou durch conforme o sentido.
+    items:
+      - question: Der Text wird ___ eine App übersetzt.
+        options:
+          - von
+          - durch
+          - vom
+        answer: durch
+      - question: Der Patient wird ___ dem Arzt untersucht.
+        options:
+          - von
+          - durch
+          - bei
+        answer: von
+      - question: Die Tür wird ___ einen Code geöffnet.
+        options:
+          - von
+          - mit von
+          - durch
+        answer: durch
+      - question: Die Entscheidung wird ___ der Direktorin getroffen.
+        options:
+          - durch
+          - von
+          - aus
+        answer: von
+
+  - type: correction
+    instruction: Corrija a frase em alemão.
+    items:
+      - question: Das Haus ist gebaut.
+        answer: Das Haus wird gebaut.
+      - question: Die Dokumente wird geprüft.
+        answer: Die Dokumente werden geprüft.
+      - question: Der Brief wird schreiben.
+        answer: Der Brief wird geschrieben.
+      - question: Den Artikel wird gelesen.
+        answer: Der Artikel wird gelesen.
+
+  - type: translation
+    instruction: Traduza para o alemão usando o Vorgangspassiv no presente.
+    items:
+      - question: A janela está sendo limpa.
+        answer: Das Fenster wird geputzt.
+      - question: Os documentos estão sendo verificados.
+        answer: Die Dokumente werden geprüft.
+      - question: A decisão é tomada pela gerente.
+        answer: Die Entscheidung wird von der Managerin getroffen.
+      - question: O texto é enviado por meio de um aplicativo.
+        answer: Der Text wird durch eine App gesendet.

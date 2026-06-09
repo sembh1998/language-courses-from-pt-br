@@ -1,0 +1,94 @@
+topic: O verbo lassen
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: Complete com a forma correta de lassen no presente.
+    items:
+      - question: Ich ___ den Mechaniker das Auto prüfen.
+        answer: lasse
+      - question: Du ___ deine Schwester nicht schlafen.
+        answer: lässt
+      - question: Frau Klein ___ die Wohnung renovieren.
+        answer: lässt
+      - question: Wir ___ die Kinder heute länger fernsehen.
+        answer: lassen
+      - question: Ihr ___ mich nie ausreden.
+        answer: lasst
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta.
+    items:
+      - question: Qual frase expressa corretamente “Eu mando consertar meu computador”?
+        options:
+          - Ich lasse meinen Computer reparieren.
+          - Ich lasse reparieren meinen Computer.
+          - Ich lässt meinen Computer reparieren.
+        answer: Ich lasse meinen Computer reparieren.
+      - question: Qual frase usa corretamente sich lassen?
+        options:
+          - Die Tür lässt öffnen sich nicht.
+          - Die Tür lässt sich nicht öffnen.
+          - Die Tür sich lässt nicht öffnen.
+        answer: Die Tür lässt sich nicht öffnen.
+      - question: Qual frase usa o imperativo de forma correta?
+        options:
+          - Lässt mich bitte erklären.
+          - Lassen mich bitte erklären.
+          - Lass mich bitte erklären.
+        answer: Lass mich bitte erklären.
+      - question: Qual frase mostra permissão?
+        options:
+          - Der Chef lässt uns früher gehen.
+          - Der Chef lässt sich früher gehen.
+          - Der Chef gelassen uns früher gehen.
+        answer: Der Chef lässt uns früher gehen.
+
+  - type: transformation
+    instruction: Reescreva em alemão usando lassen para indicar que outra pessoa faz o serviço.
+    items:
+      - question: Ich repariere das Fahrrad nicht selbst. Ein Mechaniker macht das.
+        answer: Ich lasse das Fahrrad reparieren.
+      - question: Maria schneidet ihre Haare nicht selbst. Eine Friseurin macht das.
+        answer: Maria lässt sich die Haare schneiden.
+      - question: Wir streichen die Küche nicht selbst. Ein Maler macht das.
+        answer: Wir lassen die Küche streichen.
+      - question: Paul wäscht den Anzug nicht selbst. Eine Reinigung macht das.
+        answer: Paul lässt den Anzug reinigen.
+
+  - type: fill_blank
+    instruction: Complete com sich, mich, dich, uns ou euch.
+    items:
+      - question: Das Problem lässt ___ schnell lösen.
+        answer: sich
+      - question: Lass ___ bitte in Ruhe. Ich bin müde.
+        answer: mich
+      - question: Warum lässt du ___ so stressen?
+        answer: dich
+      - question: Diese Frage lässt ___ nicht einfach beantworten.
+        answer: sich
+      - question: Der Lehrer lässt ___ noch zehn Minuten üben.
+        answer: uns
+
+  - type: translation
+    instruction: Traduza para o alemão usando lassen.
+    items:
+      - question: Eu mando lavar o carro amanhã.
+        answer: Ich lasse morgen das Auto waschen.
+      - question: Dá para ler bem esse texto.
+        answer: Dieser Text lässt sich gut lesen.
+      - question: Deixe-me terminar de falar, por favor.
+        answer: Lass mich bitte ausreden.
+      - question: Eles mandaram consertar a máquina de lavar.
+        answer: Sie haben die Waschmaschine reparieren lassen.
+
+  - type: correction
+    instruction: Corrija a frase em alemão.
+    items:
+      - question: Ich lasse reparieren mein Handy.
+        answer: Ich lasse mein Handy reparieren.
+      - question: Das lässt gut erklären.
+        answer: Das lässt sich gut erklären.
+      - question: Sie hat ihre Tasche im Zug liegen gelassen lassen.
+        answer: Sie hat ihre Tasche im Zug liegen lassen.
+      - question: Lasst mich bitte zu schlafen.
+        answer: Lasst mich bitte schlafen.

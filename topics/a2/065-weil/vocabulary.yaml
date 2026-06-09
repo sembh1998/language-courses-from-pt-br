@@ -1,0 +1,73 @@
+topic: Weil
+level: A2
+words:
+  - german: weil
+    translation: porque
+    type: conjunction
+    gender: null
+    plural: null
+    example: Ich lerne Deutsch, weil ich in Deutschland arbeite.
+    example_translation: Eu estudo alemão porque trabalho na Alemanha.
+  - german: der Grund
+    translation: o motivo; a razão
+    type: noun
+    gender: masculine
+    plural: die Gründe
+    example: Der Grund ist einfach.
+    example_translation: O motivo é simples.
+  - german: krank
+    translation: doente
+    type: adjective
+    gender: null
+    plural: null
+    example: Sie bleibt zu Hause, weil sie krank ist.
+    example_translation: Ela fica em casa porque está doente.
+  - german: müde
+    translation: cansado; cansada
+    type: adjective
+    gender: null
+    plural: null
+    example: Ich trinke Kaffee, weil ich müde bin.
+    example_translation: Eu tomo café porque estou cansado.
+  - german: spät
+    translation: tarde
+    type: adverb
+    gender: null
+    plural: null
+    example: Wir beeilen uns, weil es schon spät ist.
+    example_translation: Nós nos apressamos porque já é tarde.
+  - german: kaputt
+    translation: quebrado
+    type: adjective
+    gender: null
+    plural: null
+    example: Ich nehme den Bus, weil mein Fahrrad kaputt ist.
+    example_translation: Eu pego o ônibus porque minha bicicleta está quebrada.
+  - german: lernen
+    translation: estudar; aprender
+    type: verb
+    gender: null
+    plural: null
+    example: Ich bleibe zu Hause, weil ich lernen muss.
+    example_translation: Eu fico em casa porque preciso estudar.
+  - german: arbeiten
+    translation: trabalhar
+    type: verb
+    gender: null
+    plural: null
+    example: Er ist oft müde, weil er viel arbeitet.
+    example_translation: Ele fica frequentemente cansado porque trabalha muito.
+  - german: brauchen
+    translation: precisar de
+    type: verb
+    gender: null
+    plural: null
+    example: Ich kaufe Brot, weil wir Brot brauchen.
+    example_translation: Eu compro pão porque precisamos de pão.
+  - german: zu Hause bleiben
+    translation: ficar em casa
+    type: phrase
+    gender: null
+    plural: null
+    example: Max bleibt zu Hause, weil er krank ist.
+    example_translation: Max fica em casa porque está doente.

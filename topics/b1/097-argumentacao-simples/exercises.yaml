@@ -1,0 +1,90 @@
+topic: Argumentação simples
+level: B1
+exercises:
+  - type: fill_blank
+    instruction: Complete as expressões de opinião com a palavra correta.
+    items:
+      - question: Ich bin der ___, dass mehr Pausen beim Lernen helfen.
+        answer: Meinung
+      - question: Meiner Meinung ___ ist Fahrradfahren in der Stadt praktisch.
+        answer: nach
+      - question: Ich ___, dass Gruppenarbeit motivierend ist.
+        answer: finde
+      - question: Deshalb ___ ich, dass wir früher anfangen sollten.
+        answer: denke
+
+  - type: multiple_choice
+    instruction: Escolha a frase com ordem correta das palavras.
+    items:
+      - question: Qual frase está correta?
+        options:
+          - Ich bin der Meinung, dass ein Sprachkurs nützlich ist.
+          - Ich bin der Meinung, dass ist ein Sprachkurs nützlich.
+          - Ich bin der Meinung, dass ein Sprachkurs ist nützlich.
+        answer: Ich bin der Meinung, dass ein Sprachkurs nützlich ist.
+      - question: Qual frase está correta?
+        options:
+          - Meiner Meinung nach die App ist hilfreich.
+          - Meiner Meinung nach ist die App hilfreich.
+          - Meiner Meinung nach hilfreich ist die App.
+        answer: Meiner Meinung nach ist die App hilfreich.
+      - question: Qual frase está correta?
+        options:
+          - Ein Nachteil ist, dass man hat wenig Zeit.
+          - Ein Nachteil ist, dass wenig Zeit man hat.
+          - Ein Nachteil ist, dass man wenig Zeit hat.
+        answer: Ein Nachteil ist, dass man wenig Zeit hat.
+      - question: Qual frase está correta?
+        options:
+          - Einerseits ist das Projekt interessant, andererseits ist es stressig.
+          - Einerseits das Projekt ist interessant, andererseits es ist stressig.
+          - Einerseits interessant ist das Projekt, andererseits stressig es ist.
+        answer: Einerseits ist das Projekt interessant, andererseits ist es stressig.
+
+  - type: transformation
+    instruction: Reescreva usando a expressão indicada. Mantenha o sentido.
+    items:
+      - question: "Online-Unterricht ist flexibel. Use: Ich finde, dass ..."
+        answer: Ich finde, dass Online-Unterricht flexibel ist.
+      - question: "Sport ist wichtig für die Gesundheit. Use: Ich bin der Meinung, dass ..."
+        answer: Ich bin der Meinung, dass Sport wichtig für die Gesundheit ist.
+      - question: "Die Stadt braucht mehr Radwege. Use: Meiner Meinung nach ..."
+        answer: Meiner Meinung nach braucht die Stadt mehr Radwege.
+      - question: "Wir sollten weniger Plastik benutzen. Use: Deshalb denke ich, dass ..."
+        answer: Deshalb denke ich, dass wir weniger Plastik benutzen sollten.
+
+  - type: fill_blank
+    instruction: Complete com uma expressão adequada de vantagem ou desvantagem.
+    items:
+      - question: Ein ___ ist, dass man mit dem Zug entspannter reisen kann.
+        answer: Vorteil
+      - question: Ein ___ ist, dass die Tickets manchmal teuer sind.
+        answer: Nachteil
+      - question: ___ ist Homeoffice bequem, andererseits fehlt der direkte Kontakt.
+        answer: Einerseits
+      - question: Einerseits spart man Geld, ___ braucht man mehr Zeit.
+        answer: andererseits
+
+  - type: short_answer
+    instruction: Escreva uma resposta curta em alemão usando a expressão pedida.
+    items:
+      - question: "Dê sua opinião sobre aprender alemão todos os dias. Use: Meiner Meinung nach ..."
+        answer: Meiner Meinung nach sollte man jeden Tag ein bisschen Deutsch lernen.
+      - question: "Cite uma vantagem de trabalhar em casa. Use: Ein Vorteil ist, dass ..."
+        answer: Ein Vorteil ist, dass man keinen langen Arbeitsweg hat.
+      - question: "Cite uma desvantagem de comprar tudo online. Use: Ein Nachteil ist, dass ..."
+        answer: Ein Nachteil ist, dass man die Produkte nicht direkt sehen kann.
+      - question: "Mostre dois lados sobre morar no centro. Use: Einerseits ..., andererseits ..."
+        answer: Einerseits ist das Leben im Zentrum praktisch, andererseits ist es oft laut.
+
+  - type: matching
+    instruction: Relacione a função comunicativa com a expressão alemã.
+    items:
+      - question: Dar opinião formal
+        answer: Ich bin der Meinung, dass ...
+      - question: Introduzir vantagem
+        answer: Ein Vorteil ist, dass ...
+      - question: Introduzir desvantagem
+        answer: Ein Nachteil ist, dass ...
+      - question: Apresentar contraste equilibrado
+        answer: Einerseits ..., andererseits ...

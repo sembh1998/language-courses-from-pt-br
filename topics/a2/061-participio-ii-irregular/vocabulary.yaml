@@ -1,0 +1,87 @@
+topic: Particípio II irregular
+level: A2
+words:
+  - german: sehen
+    translation: ver
+    type: verb
+    gender: null
+    plural: null
+    example: Ich habe den Film gesehen.
+    example_translation: Eu vi o filme.
+  - german: gesehen
+    translation: visto
+    type: participle
+    gender: null
+    plural: null
+    example: Hast du Anna gesehen?
+    example_translation: Você viu a Anna?
+  - german: schreiben
+    translation: escrever
+    type: verb
+    gender: null
+    plural: null
+    example: Er hat eine E-Mail geschrieben.
+    example_translation: Ele escreveu um e-mail.
+  - german: geschrieben
+    translation: escrito
+    type: participle
+    gender: null
+    plural: null
+    example: Ich habe eine Nachricht geschrieben.
+    example_translation: Eu escrevi uma mensagem.
+  - german: essen
+    translation: comer
+    type: verb
+    gender: null
+    plural: null
+    example: Wir haben Reis gegessen.
+    example_translation: Nós comemos arroz.
+  - german: gegessen
+    translation: comido
+    type: participle
+    gender: null
+    plural: null
+    example: Was hast du gegessen?
+    example_translation: O que você comeu?
+  - german: trinken
+    translation: beber; tomar
+    type: verb
+    gender: null
+    plural: null
+    example: Sie hat Tee getrunken.
+    example_translation: Ela tomou chá.
+  - german: getrunken
+    translation: bebido; tomado
+    type: participle
+    gender: null
+    plural: null
+    example: Ich habe viel Wasser getrunken.
+    example_translation: Eu bebi muita água.
+  - german: fahren
+    translation: ir de veículo; dirigir; viajar
+    type: verb
+    gender: null
+    plural: null
+    example: Wir sind nach Bremen gefahren.
+    example_translation: Nós fomos para Bremen.
+  - german: gefahren
+    translation: ido de veículo; viajado; dirigido
+    type: participle
+    gender: null
+    plural: null
+    example: Bist du mit dem Bus gefahren?
+    example_translation: Você foi de ônibus?
+  - german: mit dem Zug
+    translation: de trem
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich bin mit dem Zug gefahren.
+    example_translation: Eu fui de trem.
+  - german: gestern
+    translation: ontem
+    type: adverb
+    gender: null
+    plural: null
+    example: Gestern habe ich Suppe gegessen.
+    example_translation: Ontem eu comi sopa.

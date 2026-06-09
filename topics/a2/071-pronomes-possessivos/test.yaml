@@ -1,0 +1,67 @@
+topic: Pronomes Possessivos
+level: A2
+questions:
+  - type: multiple_choice
+    question: Qual opção completa corretamente? Ich esse heute bei ___ Großmutter.
+    options:
+      - meiner
+      - meinem
+      - meinen
+    answer: meiner
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Wir fahren mit unsere Freunde.
+      - Wir fahren mit unseren Freunden.
+      - Wir fahren mit unserem Freunde.
+    answer: Wir fahren mit unseren Freunden.
+  - type: multiple_choice
+    question: Complete corretamente. Gehst du zu ___ Arzt?
+    options:
+      - deiner
+      - deinen
+      - deinem
+    answer: deinem
+  - type: multiple_choice
+    question: Qual opção usa o dativo plural corretamente?
+    options:
+      - mit ihren Kollegen
+      - mit ihrer Kollegen
+      - mit ihrem Kollegen
+    answer: mit ihren Kollegen
+  - type: fill_blank
+    question: Complete. Lisa kommt von ___ Kurs. (ihr)
+    answer: ihrem
+  - type: fill_blank
+    question: Complete. Wir bleiben bei ___ Freunden. (unser)
+    answer: unseren
+  - type: fill_blank
+    question: Complete. Fahr bitte zu ___ Büro. (dein)
+    answer: deinem
+  - type: fill_blank
+    question: Complete. Herr Bauer telefoniert mit ___ Tochter. (sein)
+    answer: seiner
+  - type: transformation
+    question: Transforme para uma expressão com dativo. mein Onkel -> bei
+    answer: bei meinem Onkel
+  - type: transformation
+    question: Transforme para uma expressão com dativo. euer Zimmer -> zu
+    answer: zu eurem Zimmer
+  - type: transformation
+    question: Transforme para uma expressão com dativo. ihre Katze -> mit
+    answer: mit ihrer Katze
+  - type: correction
+    question: Corrija a frase. Ich bin bei meinem Schwester.
+    answer: Ich bin bei meiner Schwester.
+  - type: correction
+    question: Corrija a frase. Wir gehen zu unser Garten.
+    answer: Wir gehen zu unserem Garten.
+  - type: translation
+    question: Traduza. Ela está com os amigos dela.
+    answer: Sie ist bei ihren Freunden.
+  - type: translation
+    question: Traduza. Eu volto do meu trabalho.
+    answer: Ich komme von meiner Arbeit.
+  - type: short_answer
+    question: Responda em alemão. Mit wem kochst du? (meine Familie)
+    answer: Ich koche mit meiner Familie.

@@ -1,0 +1,75 @@
+topic: O verbo lassen
+level: B1
+questions:
+  - type: multiple_choice
+    question: Qual frase significa “Nós mandamos trocar a fechadura”?
+    options:
+      - Wir lassen das Schloss wechseln.
+      - Wir lassen wechseln das Schloss.
+      - Wir lässt das Schloss wechseln.
+    answer: Wir lassen das Schloss wechseln.
+  - type: fill_blank
+    question: "Complete: Meine Nachbarin ___ ihren Hund nicht allein rausgehen."
+    answer: lässt
+  - type: multiple_choice
+    question: Qual frase usa corretamente a ideia de possibilidade?
+    options:
+      - Der Termin lässt verschieben sich.
+      - Der Termin lässt sich verschieben.
+      - Der Termin lässt mich verschieben.
+    answer: Der Termin lässt sich verschieben.
+  - type: translation
+    question: "Traduza: Me deixe pensar um momento, por favor."
+    answer: Lass mich bitte einen Moment nachdenken.
+  - type: multiple_choice
+    question: Qual forma está correta para ihr?
+    options:
+      - ihr lasst
+      - ihr lässt
+      - ihr lassen
+    answer: ihr lasst
+  - type: transformation
+    question: "Reescreva com lassen: Jonas putzt die Fenster nicht selbst. Eine Firma macht das."
+    answer: Jonas lässt die Fenster putzen.
+  - type: fill_blank
+    question: "Complete: Diese App lässt ___ leicht installieren."
+    answer: sich
+  - type: multiple_choice
+    question: Qual frase está no Perfekt correto com infinitivo duplo?
+    options:
+      - Ich habe meine Schuhe repariert lassen.
+      - Ich habe meine Schuhe reparieren gelassen.
+      - Ich habe meine Schuhe reparieren lassen.
+    answer: Ich habe meine Schuhe reparieren lassen.
+  - type: correction
+    question: "Corrija: Der Film lässt sich gut verstehen nicht."
+    answer: Der Film lässt sich nicht gut verstehen.
+  - type: fill_blank
+    question: "Complete: Ich ___ meinen Bruder meine Kamera benutzen."
+    answer: lasse
+  - type: translation
+    question: "Traduza: Ela mandou pintar o quarto."
+    answer: Sie hat das Zimmer streichen lassen.
+  - type: multiple_choice
+    question: Qual frase é mais natural para “Deixe-nos entrar”?
+    options:
+      - Lass uns reinkommen.
+      - Lässt uns reinkommen.
+      - Lass wir reinkommen.
+    answer: Lass uns reinkommen.
+  - type: fill_blank
+    question: "Complete: Warum ___ du mich so lange warten?"
+    answer: lässt
+  - type: transformation
+    question: "Reescreva com sich lassen: Man kann diese Regel einfach erklären."
+    answer: Diese Regel lässt sich einfach erklären.
+  - type: multiple_choice
+    question: Qual frase significa “Ele deixou a carteira em casa”?
+    options:
+      - Er hat den Geldbeutel zu Hause gelassen liegen.
+      - Er hat den Geldbeutel zu Hause liegen lassen.
+      - Er lässt den Geldbeutel zu Hause gelegen.
+    answer: Er hat den Geldbeutel zu Hause liegen lassen.
+  - type: correction
+    question: "Corrija: Bitte lass mich zu sprechen."
+    answer: Bitte lass mich sprechen.

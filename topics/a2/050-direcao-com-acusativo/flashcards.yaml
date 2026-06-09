@@ -1,0 +1,43 @@
+topic: Direção com acusativo
+level: A2
+cards:
+  - front: wohin?
+    back: para onde?
+    example: Wohin stellst du den Stuhl?
+    example_translation: Para onde você coloca a cadeira?
+  - front: in die Schule
+    back: para a escola
+    example: Lina geht in die Schule.
+    example_translation: Lina vai para a escola.
+  - front: in den Park
+    back: para o parque
+    example: Am Nachmittag gehen wir in den Park.
+    example_translation: À tarde nós vamos para o parque.
+  - front: auf den Tisch
+    back: sobre a mesa, com direção
+    example: Bitte leg das Heft auf den Tisch.
+    example_translation: Por favor, coloque o caderno sobre a mesa.
+  - front: an die Wand
+    back: na parede, com direção
+    example: Er hängt das Poster an die Wand.
+    example_translation: Ele pendura o pôster na parede.
+  - front: unter das Bett
+    back: para debaixo da cama
+    example: Die Katze läuft unter das Bett.
+    example_translation: A gata corre para debaixo da cama.
+  - front: neben das Sofa
+    back: ao lado do sofá, com direção
+    example: Stell die Lampe neben das Sofa.
+    example_translation: Coloque a luminária ao lado do sofá.
+  - front: zwischen die Stühle
+    back: entre as cadeiras, com direção
+    example: Setz dich zwischen die Stühle.
+    example_translation: Sente-se entre as cadeiras.
+  - front: auf den Tisch, nicht auf der Tisch
+    back: sobre a mesa; acusativo masculino usa den
+    example: Ich lege den Schlüssel auf den Tisch.
+    example_translation: Eu coloco a chave sobre a mesa.
+  - front: in die Stadt
+    back: para a cidade
+    example: Wir fahren morgen in die Stadt.
+    example_translation: Nós vamos amanhã para a cidade.

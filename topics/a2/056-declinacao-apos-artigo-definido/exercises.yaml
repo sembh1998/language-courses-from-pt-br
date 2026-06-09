@@ -1,0 +1,100 @@
+topic: Declinação após artigo definido
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete a terminação do adjetivo depois do artigo definido.
+    items:
+      - question: Der freundlich__ Mann wartet an der Tür.
+        answer: freundliche
+      - question: Die klein__ Katze schläft auf dem Sofa.
+        answer: kleine
+      - question: Das neu__ Handy liegt im Rucksack.
+        answer: neue
+      - question: Die alt__ Bücher stehen im Regal.
+        answer: alten
+      - question: Der warm__ Tee ist für dich.
+        answer: warme
+
+  - type: multiple_choice
+    instruction: Escolha a forma correta.
+    items:
+      - question: Ich sehe ___ Hund im Park.
+        options:
+          - den großen
+          - der große
+          - die großen
+        answer: den großen
+      - question: ___ Tasche ist sehr schwer.
+        options:
+          - Die neuen
+          - Der neue
+          - Die neue
+        answer: Die neue
+      - question: Wir besuchen ___ Museum am Sonntag.
+        options:
+          - den alten
+          - das alte
+          - die alte
+        answer: das alte
+      - question: ___ Kinder spielen draußen.
+        options:
+          - Die kleinen
+          - Das kleine
+          - Der kleine
+        answer: Die kleinen
+      - question: Sie kauft ___ Mantel.
+        options:
+          - der schwarze
+          - die schwarze
+          - den schwarzen
+        answer: den schwarzen
+
+  - type: transformation
+    instruction: Reescreva a expressão no acusativo quando houver objeto direto.
+    items:
+      - question: der gute Lehrer -> Ich frage ___.
+        answer: den guten Lehrer
+      - question: die nette Frau -> Er trifft ___.
+        answer: die nette Frau
+      - question: das kleine Kind -> Wir sehen ___.
+        answer: das kleine Kind
+      - question: die neuen Nachbarn -> Maria besucht ___.
+        answer: die neuen Nachbarn
+
+  - type: fill_blank
+    instruction: Complete com a expressão correta no dativo depois da preposição ou verbo.
+    items:
+      - question: Ich spreche mit ___ (der alte Freund).
+        answer: dem alten Freund
+      - question: Das Fahrrad steht vor ___ (das rote Haus).
+        answer: dem roten Haus
+      - question: Wir helfen ___ (die neue Kollegin).
+        answer: der neuen Kollegin
+      - question: Er fährt zu ___ (die kleinen Geschäfte).
+        answer: den kleinen Geschäften
+
+  - type: correction
+    instruction: Corrija a frase em alemão.
+    items:
+      - question: Der guten Mann kommt aus Berlin.
+        answer: Der gute Mann kommt aus Berlin.
+      - question: Ich trinke den warme Kaffee.
+        answer: Ich trinke den warmen Kaffee.
+      - question: Die schöne Blumen sind teuer.
+        answer: Die schönen Blumen sind teuer.
+      - question: Mit der nette Ärztin spreche ich heute.
+        answer: Mit der netten Ärztin spreche ich heute.
+
+  - type: short_answer
+    instruction: Traduza para o alemão usando artigo definido e adjetivo.
+    items:
+      - question: o bom amigo
+        answer: der gute Freund
+      - question: a professora simpática
+        answer: die nette Lehrerin
+      - question: as crianças pequenas
+        answer: die kleinen Kinder
+      - question: Eu compro o pão fresco.
+        answer: Ich kaufe das frische Brot.
+      - question: Nós vemos o carro velho.
+        answer: Wir sehen das alte Auto.

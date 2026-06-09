@@ -1,0 +1,87 @@
+topic: Comparativo
+level: A2
+words:
+  - german: klein
+    translation: pequeno
+    type: adjective
+    gender: null
+    plural: null
+    example: Mein Zimmer ist klein.
+    example_translation: Meu quarto é pequeno.
+  - german: kleiner
+    translation: menor; mais pequeno
+    type: comparative adjective
+    gender: null
+    plural: null
+    example: Mein Zimmer ist kleiner als dein Zimmer.
+    example_translation: Meu quarto é menor do que o seu quarto.
+  - german: gut
+    translation: bom
+    type: adjective
+    gender: null
+    plural: null
+    example: Der Kaffee ist gut.
+    example_translation: O café é bom.
+  - german: besser
+    translation: melhor
+    type: comparative adjective
+    gender: null
+    plural: null
+    example: Der Tee ist besser als der Kaffee.
+    example_translation: O chá é melhor do que o café.
+  - german: viel
+    translation: muito; muita quantidade
+    type: adjective/adverb
+    gender: null
+    plural: null
+    example: Ich habe viel Zeit.
+    example_translation: Eu tenho muito tempo.
+  - german: mehr
+    translation: mais; maior quantidade
+    type: comparative adjective/adverb
+    gender: null
+    plural: null
+    example: Ich habe mehr Zeit als du.
+    example_translation: Eu tenho mais tempo do que você.
+  - german: als
+    translation: do que; que em comparações
+    type: conjunction
+    gender: null
+    plural: null
+    example: Der Bus ist schneller als das Auto.
+    example_translation: O ônibus é mais rápido do que o carro.
+  - german: schnell
+    translation: rápido
+    type: adjective
+    gender: null
+    plural: null
+    example: Der Zug ist schnell.
+    example_translation: O trem é rápido.
+  - german: schneller
+    translation: mais rápido
+    type: comparative adjective
+    gender: null
+    plural: null
+    example: Der Zug ist schneller als der Bus.
+    example_translation: O trem é mais rápido do que o ônibus.
+  - german: teuer
+    translation: caro
+    type: adjective
+    gender: null
+    plural: null
+    example: Die Jacke ist teuer.
+    example_translation: A jaqueta é cara.
+  - german: teurer
+    translation: mais caro
+    type: comparative adjective
+    gender: null
+    plural: null
+    example: Die Jacke ist teurer als das Hemd.
+    example_translation: A jaqueta é mais cara do que a camisa.
+  - german: größer
+    translation: maior
+    type: comparative adjective
+    gender: null
+    plural: null
+    example: Hamburg ist größer als Bremen.
+    example_translation: Hamburgo é maior do que Bremen.

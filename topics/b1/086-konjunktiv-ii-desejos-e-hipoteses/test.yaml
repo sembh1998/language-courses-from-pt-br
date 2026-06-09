@@ -1,0 +1,75 @@
+topic: "Konjunktiv II: Desejos e hipóteses"
+level: B1
+questions:
+  - type: multiple_choice
+    question: "Qual frase está correta para uma hipótese irreal?"
+    options:
+      - "Wenn ich mehr Ruhe hätte, würde ich besser schlafen."
+      - "Wenn ich hätte mehr Ruhe, ich würde besser schlafen."
+      - "Wenn ich mehr Ruhe habe, ich würde besser schlafen."
+    answer: "Wenn ich mehr Ruhe hätte, würde ich besser schlafen."
+  - type: fill_blank
+    question: "Complete: Ich ___ gern bei meiner Familie."
+    answer: "wäre"
+  - type: multiple_choice
+    question: "Qual opção completa corretamente: Wenn Maria ein Ticket ___, würde sie zum Konzert gehen."
+    options:
+      - "hat"
+      - "hätte"
+      - "würde"
+    answer: "hätte"
+  - type: translation
+    question: "Traduza: Nós gostaríamos de ter uma varanda."
+    answer: "Wir hätten gern einen Balkon."
+  - type: correction
+    question: "Corrija: Wenn wir wären reich, würden wir ein Haus kaufen."
+    answer: "Wenn wir reich wären, würden wir ein Haus kaufen."
+  - type: multiple_choice
+    question: "Qual frase usa corretamente o modal könnte?"
+    options:
+      - "Ich könnte am Wochenende helfen."
+      - "Ich könnte am Wochenende helfe."
+      - "Ich kannte am Wochenende helfen."
+    answer: "Ich könnte am Wochenende helfen."
+  - type: fill_blank
+    question: "Complete: ___ du gern früher anfangen?"
+    answer: "Würdest"
+  - type: short_answer
+    question: "Responda em alemão: Wo wärst du im Urlaub gern? Use: in Österreich."
+    answer: "Ich wäre im Urlaub gern in Österreich."
+  - type: multiple_choice
+    question: "Qual frase soa mais natural para 'Ela teria uma chance'?"
+    options:
+      - "Sie hätte eine Chance."
+      - "Sie würde eine Chance haben."
+      - "Sie eine Chance hätte."
+    answer: "Sie hätte eine Chance."
+  - type: transformation
+    question: "Transforme em hipótese: Ich habe ein Fahrrad. Ich fahre zur Arbeit."
+    answer: "Wenn ich ein Fahrrad hätte, würde ich zur Arbeit fahren."
+  - type: multiple_choice
+    question: "Qual frase expressa preferência corretamente?"
+    options:
+      - "Ich hätte lieber bleiben zu Hause."
+      - "Ich lieber würde zu Hause bleiben."
+      - "Ich würde lieber zu Hause bleiben."
+    answer: "Ich würde lieber zu Hause bleiben."
+  - type: fill_blank
+    question: "Complete: Wenn ihr jetzt hier ___, könnten wir zusammen essen."
+    answer: "wärt"
+  - type: translation
+    question: "Traduza: Se eu pudesse, trabalharia menos."
+    answer: "Wenn ich könnte, würde ich weniger arbeiten."
+  - type: correction
+    question: "Corrija: Sie würde gern eine Reise macht."
+    answer: "Sie würde gern eine Reise machen."
+  - type: multiple_choice
+    question: "Qual pergunta é um convite hipotético/educado?"
+    options:
+      - "Hast du mitkommen?"
+      - "Bist du mitkommen?"
+      - "Würdest du mitkommen?"
+    answer: "Würdest du mitkommen?"
+  - type: short_answer
+    question: "Complete com uma frase alemã: Wenn ich mehr Geld hätte, ... Use: ein neues Handy kaufen."
+    answer: "Wenn ich mehr Geld hätte, würde ich ein neues Handy kaufen."

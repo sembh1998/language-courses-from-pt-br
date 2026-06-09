@@ -1,0 +1,43 @@
+topic: Revisão geral A2
+level: A2
+cards:
+  - front: ich habe gelernt
+    back: eu estudei; eu aprendi
+    example: Ich habe am Abend gelernt.
+    example_translation: Eu estudei à noite.
+  - front: ich bin gefahren
+    back: eu fui; eu viajei de transporte
+    example: Ich bin nach Hamburg gefahren.
+    example_translation: Eu fui para Hamburgo.
+  - front: mit + Dativ
+    back: com; de meio de transporte + dativo
+    example: Ich fahre mit dem Zug.
+    example_translation: Eu vou de trem.
+  - front: helfen + Dativ
+    back: ajudar + dativo
+    example: Er hilft seiner Mutter.
+    example_translation: Ele ajuda a mãe dele.
+  - front: nach Hause
+    back: para casa
+    example: Wir gehen nach Hause.
+    example_translation: Nós vamos para casa.
+  - front: zum Arzt
+    back: ao médico
+    example: Ich muss morgen zum Arzt.
+    example_translation: Eu preciso ir ao médico amanhã.
+  - front: weil ... Verb am Ende
+    back: porque ... verbo no fim
+    example: Ich bleibe hier, weil ich müde bin.
+    example_translation: Eu fico aqui porque estou cansado.
+  - front: dass ... Verb am Ende
+    back: que ... verbo no fim
+    example: Sie sagt, dass sie später kommt.
+    example_translation: Ela diz que vem mais tarde.
+  - front: wenn ... Verb am Ende
+    back: quando ou se ... verbo no fim
+    example: Wenn ich frei habe, besuche ich dich.
+    example_translation: Quando estou livre, eu visito você.
+  - front: bei meiner Familie
+    back: com a minha família; na casa da minha família
+    example: Ich war am Sonntag bei meiner Familie.
+    example_translation: Eu estava com minha família no domingo.

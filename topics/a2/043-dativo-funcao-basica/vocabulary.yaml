@@ -1,0 +1,101 @@
+topic: "Dativo: função básica"
+level: A2
+words:
+  - german: geben
+    translation: dar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich gebe dem Kind den Ball.
+    example_translation: Eu dou a bola à criança.
+  - german: schenken
+    translation: presentear; dar de presente
+    type: verb
+    gender: null
+    plural: null
+    example: Wir schenken der Mutter Blumen.
+    example_translation: Nós damos flores de presente para a mãe.
+  - german: schreiben
+    translation: escrever
+    type: verb
+    gender: null
+    plural: null
+    example: Er schreibt dem Freund eine Nachricht.
+    example_translation: Ele escreve uma mensagem para o amigo.
+  - german: helfen
+    translation: ajudar
+    type: verb
+    gender: null
+    plural: null
+    example: Kannst du mir helfen?
+    example_translation: Você pode me ajudar?
+  - german: zeigen
+    translation: mostrar
+    type: verb
+    gender: null
+    plural: null
+    example: Sie zeigt dem Gast die Wohnung.
+    example_translation: Ela mostra o apartamento ao convidado.
+  - german: erklären
+    translation: explicar
+    type: verb
+    gender: null
+    plural: null
+    example: Der Lehrer erklärt den Schülern die Aufgabe.
+    example_translation: O professor explica a tarefa aos alunos.
+  - german: der Freund
+    translation: o amigo
+    type: noun
+    gender: masculine
+    plural: die Freunde
+    example: Ich helfe dem Freund.
+    example_translation: Eu ajudo o amigo.
+  - german: die Freundin
+    translation: a amiga
+    type: noun
+    gender: feminine
+    plural: die Freundinnen
+    example: Lisa schreibt der Freundin.
+    example_translation: Lisa escreve para a amiga.
+  - german: das Kind
+    translation: a criança
+    type: noun
+    gender: neuter
+    plural: die Kinder
+    example: Der Vater gibt dem Kind Saft.
+    example_translation: O pai dá suco à criança.
+  - german: die Eltern
+    translation: os pais
+    type: noun
+    gender: plural
+    plural: null
+    example: Ich zeige den Eltern das Foto.
+    example_translation: Eu mostro a foto aos pais.
+  - german: mir
+    translation: para mim; me
+    type: pronoun
+    gender: null
+    plural: null
+    example: Hilfst du mir?
+    example_translation: Você me ajuda?
+  - german: dir
+    translation: para você; te
+    type: pronoun
+    gender: null
+    plural: null
+    example: Ich gebe dir meine Nummer.
+    example_translation: Eu te dou meu número.
+  - german: ihm
+    translation: para ele; lhe
+    type: pronoun
+    gender: null
+    plural: null
+    example: Wir schenken ihm ein Buch.
+    example_translation: Nós damos um livro de presente para ele.
+  - german: ihr
+    translation: para ela; lhe
+    type: pronoun
+    gender: null
+    plural: null
+    example: Paul schreibt ihr heute.
+    example_translation: Paul escreve para ela hoje.

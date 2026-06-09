@@ -1,0 +1,87 @@
+topic: Argumentação simples
+level: B1
+words:
+  - german: die Meinung
+    translation: a opinião
+    type: noun
+    gender: feminine
+    plural: die Meinungen
+    example: Meiner Meinung nach ist das eine gute Idee.
+    example_translation: Na minha opinião, isso é uma boa ideia.
+  - german: der Vorteil
+    translation: a vantagem
+    type: noun
+    gender: masculine
+    plural: die Vorteile
+    example: Ein Vorteil ist, dass man Zeit spart.
+    example_translation: Uma vantagem é que se economiza tempo.
+  - german: der Nachteil
+    translation: a desvantagem
+    type: noun
+    gender: masculine
+    plural: die Nachteile
+    example: Der Nachteil ist der hohe Preis.
+    example_translation: A desvantagem é o preço alto.
+  - german: das Argument
+    translation: o argumento
+    type: noun
+    gender: neuter
+    plural: die Argumente
+    example: Sein Argument ist verständlich.
+    example_translation: O argumento dele é compreensível.
+  - german: der Grund
+    translation: o motivo
+    type: noun
+    gender: masculine
+    plural: die Gründe
+    example: Ein wichtiger Grund ist die Flexibilität.
+    example_translation: Um motivo importante é a flexibilidade.
+  - german: die Lösung
+    translation: a solução
+    type: noun
+    gender: feminine
+    plural: die Lösungen
+    example: Wir brauchen eine einfache Lösung.
+    example_translation: Precisamos de uma solução simples.
+  - german: dafür
+    translation: a favor disso
+    type: adverb
+    gender: null
+    plural: null
+    example: Ich bin dafür, weil es praktisch ist.
+    example_translation: Sou a favor disso porque é prático.
+  - german: dagegen
+    translation: contra isso
+    type: adverb
+    gender: null
+    plural: null
+    example: Viele Eltern sind dagegen.
+    example_translation: Muitos pais são contra isso.
+  - german: einerseits
+    translation: por um lado
+    type: adverb
+    gender: null
+    plural: null
+    example: Einerseits ist das bequem.
+    example_translation: Por um lado, isso é confortável.
+  - german: andererseits
+    translation: por outro lado
+    type: adverb
+    gender: null
+    plural: null
+    example: Andererseits ist es teuer.
+    example_translation: Por outro lado, é caro.
+  - german: zustimmen
+    translation: concordar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich stimme dir zu.
+    example_translation: Eu concordo com você.
+  - german: ablehnen
+    translation: rejeitar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich lehne den Vorschlag nicht ab.
+    example_translation: Eu não rejeito a proposta.

@@ -1,0 +1,128 @@
+topic: Contraste Wo vs Wohin
+level: A2
+exercises:
+  - type: multiple_choice
+    instruction: Escolha se a frase responde a Wo? ou Wohin?.
+    items:
+      - question: Ich bin im Büro.
+        options:
+          - Wo?
+          - Wohin?
+          - Wann?
+        answer: Wo?
+      - question: Laura geht in die Küche.
+        options:
+          - Wo?
+          - Wann?
+          - Wohin?
+        answer: Wohin?
+      - question: Das Bild hängt an der Wand.
+        options:
+          - Wohin?
+          - Wo?
+          - Wie lange?
+        answer: Wo?
+      - question: Wir stellen den Tisch vor das Fenster.
+        options:
+          - Wann?
+          - Wo?
+          - Wohin?
+        answer: Wohin?
+
+  - type: fill_blank
+    instruction: Complete com a forma correta da preposição e do artigo.
+    items:
+      - question: Ich wohne ___ Stadt. (in + die Stadt)
+        answer: in der
+      - question: Max geht ___ Schule. (in + die Schule)
+        answer: in die
+      - question: Das Glas steht ___ Tisch. (auf + der Tisch)
+        answer: auf dem
+      - question: Sie legt das Glas ___ Tisch. (auf + der Tisch)
+        answer: auf den
+      - question: Der Hund schläft ___ Sofa. (unter + das Sofa)
+        answer: unter dem
+      - question: Der Hund läuft ___ Sofa. (unter + das Sofa)
+        answer: unter das
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta para a situação indicada.
+    items:
+      - question: "Situação: o livro já está em cima da cama."
+        options:
+          - Das Buch liegt auf dem Bett.
+          - Das Buch liegt auf das Bett.
+          - Das Buch legt auf dem Bett.
+        answer: Das Buch liegt auf dem Bett.
+      - question: "Situação: eu coloco a bolsa ao lado da porta."
+        options:
+          - Ich stelle die Tasche neben der Tür.
+          - Ich stelle die Tasche neben die Tür.
+          - Ich stehe die Tasche neben die Tür.
+        answer: Ich stelle die Tasche neben die Tür.
+      - question: "Situação: as crianças estão no jardim."
+        options:
+          - Die Kinder gehen in den Garten.
+          - Die Kinder spielen in den Garten.
+          - Die Kinder spielen im Garten.
+        answer: Die Kinder spielen im Garten.
+      - question: "Situação: nós vamos até a parada."
+        options:
+          - Wir warten an der Haltestelle.
+          - Wir gehen an die Haltestelle.
+          - Wir gehen an der Haltestelle.
+        answer: Wir gehen an die Haltestelle.
+
+  - type: transformation
+    instruction: Transforme a frase de posição em direção, mantendo o sentido básico.
+    items:
+      - question: Ich bin im Wohnzimmer. → Ich gehe ___ Wohnzimmer.
+        answer: ins
+      - question: Die Zeitung liegt auf dem Stuhl. → Ich lege die Zeitung ___ Stuhl.
+        answer: auf den
+      - question: Das Poster hängt an der Tür. → Ich hänge das Poster ___ Tür.
+        answer: an die
+      - question: Der Ball ist hinter dem Schrank. → Der Ball rollt ___ Schrank.
+        answer: hinter den
+      - question: Die Lampe steht neben dem Sofa. → Ich stelle die Lampe ___ Sofa.
+        answer: neben das
+
+  - type: fill_blank
+    instruction: Complete com dem, den, der, die ou das.
+    items:
+      - question: Der Laptop steht auf ___ Schreibtisch.
+        answer: dem
+      - question: Ich stelle den Laptop auf ___ Schreibtisch.
+        answer: den
+      - question: Maria sitzt in ___ Küche.
+        answer: der
+      - question: Maria geht in ___ Küche.
+        answer: die
+      - question: Das Fahrrad steht vor ___ Haus.
+        answer: dem
+      - question: Ich stelle das Fahrrad vor ___ Haus.
+        answer: das
+
+  - type: short_answer
+    instruction: Responda em alemão usando uma expressão com Wo? ou Wohin?.
+    items:
+      - question: Wo ist die Katze? (unter + der Tisch)
+        answer: Die Katze ist unter dem Tisch.
+      - question: Wohin läuft die Katze? (unter + der Tisch)
+        answer: Die Katze läuft unter den Tisch.
+      - question: Wo wartet Paul? (vor + das Kino)
+        answer: Paul wartet vor dem Kino.
+      - question: Wohin fährt Anna? (vor + das Kino)
+        answer: Anna fährt vor das Kino.
+
+  - type: correction
+    instruction: Corrija o erro de caso ou de verbo na frase.
+    items:
+      - question: Ich bin ins Zimmer.
+        answer: Ich bin im Zimmer.
+      - question: Sie geht in der Küche.
+        answer: Sie geht in die Küche.
+      - question: Das Buch legt auf dem Tisch.
+        answer: Das Buch liegt auf dem Tisch.
+      - question: Ich lege den Schlüssel auf dem Tisch.
+        answer: Ich lege den Schlüssel auf den Tisch.

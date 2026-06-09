@@ -1,0 +1,112 @@
+topic: Dass
+level: A2
+exercises:
+  - type: fill_blank
+    instruction: Complete com dass e coloque o verbo na posição correta quando necessário.
+    items:
+      - question: Ich glaube, ___ Maria heute kommt.
+        answer: dass
+      - question: Er sagt, ___ er keine Zeit hat.
+        answer: dass
+      - question: Wir denken, ___ der Kurs interessant ist.
+        answer: dass
+      - question: Ich hoffe, ___ du morgen kommen kannst.
+        answer: dass
+      - question: Sie weiß, ___ wir pünktlich sein müssen.
+        answer: dass
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta com dass.
+    items:
+      - question: Qual frase significa "Eu acho que ele está cansado"?
+        options:
+          - Ich glaube, dass er müde ist.
+          - Ich glaube, dass er ist müde.
+          - Ich glaube, er dass müde ist.
+        answer: Ich glaube, dass er müde ist.
+      - question: Qual frase está correta?
+        options:
+          - Sie sagt, dass sie hat Hunger.
+          - Sie sagt, dass sie Hunger hat.
+          - Sie sagt, dass hat sie Hunger.
+        answer: Sie sagt, dass sie Hunger hat.
+      - question: Qual frase usa corretamente o modal?
+        options:
+          - Ich denke, dass wir können helfen.
+          - Ich denke, dass können wir helfen.
+          - Ich denke, dass wir helfen können.
+        answer: Ich denke, dass wir helfen können.
+      - question: Qual frase relata uma opinião corretamente?
+        options:
+          - Ich finde, dass der Film gut ist.
+          - Ich finde, dass ist der Film gut.
+          - Ich finde, der Film dass gut ist.
+        answer: Ich finde, dass der Film gut ist.
+      - question: Qual frase está correta com es ist wichtig?
+        options:
+          - Es ist wichtig, dass du lernst jeden Tag.
+          - Es ist wichtig, dass du jeden Tag lernst.
+          - Es ist wichtig, dass lernst du jeden Tag.
+        answer: Es ist wichtig, dass du jeden Tag lernst.
+      - question: Qual frase significa "Eu sei que você tem razão"?
+        options:
+          - Ich weiß, dass du hast recht.
+          - Ich weiß, dass hast du recht.
+          - Ich weiß, dass du recht hast.
+        answer: Ich weiß, dass du recht hast.
+
+  - type: transformation
+    instruction: Una as frases usando dass. Mantenha o sentido.
+    items:
+      - question: Ich glaube. Lisa ist krank.
+        answer: Ich glaube, dass Lisa krank ist.
+      - question: Paul sagt. Er arbeitet morgen.
+        answer: Paul sagt, dass er morgen arbeitet.
+      - question: Wir denken. Das Restaurant ist teuer.
+        answer: Wir denken, dass das Restaurant teuer ist.
+      - question: Anna weiß. Der Bus kommt um acht.
+        answer: Anna weiß, dass der Bus um acht kommt.
+      - question: Ich hoffe. Du kannst am Samstag kommen.
+        answer: Ich hoffe, dass du am Samstag kommen kannst.
+
+  - type: error_correction
+    instruction: Corrija a ordem das palavras nas frases com dass.
+    items:
+      - question: Ich glaube, dass Tom ist zu Hause.
+        answer: Ich glaube, dass Tom zu Hause ist.
+      - question: Sie sagt, dass sie muss lernen.
+        answer: Sie sagt, dass sie lernen muss.
+      - question: Wir wissen, dass der Zug ist spät.
+        answer: Wir wissen, dass der Zug spät ist.
+      - question: Er denkt, dass wir haben frei.
+        answer: Er denkt, dass wir frei haben.
+      - question: Ich finde, dass Deutsch ist nicht schwer.
+        answer: Ich finde, dass Deutsch nicht schwer ist.
+
+  - type: short_answer
+    instruction: Traduza para o alemão usando dass.
+    items:
+      - question: Eu acho que ela mora em Berlim.
+        answer: Ich glaube, dass sie in Berlin wohnt.
+      - question: Ele diz que está doente.
+        answer: Er sagt, dass er krank ist.
+      - question: Nós achamos que o café é bom.
+        answer: Wir finden, dass der Kaffee gut ist.
+      - question: Eu sei que você tem tempo.
+        answer: Ich weiß, dass du Zeit hast.
+      - question: É importante que nós cheguemos pontualmente.
+        answer: Es ist wichtig, dass wir pünktlich kommen.
+
+  - type: matching
+    instruction: Relacione o início da frase com uma continuação correta.
+    items:
+      - question: Ich glaube,
+        answer: dass er heute kommt.
+      - question: Sie sagt,
+        answer: dass sie müde ist.
+      - question: Wir hoffen,
+        answer: dass das Wetter gut bleibt.
+      - question: Er weiß,
+        answer: dass der Termin um neun beginnt.
+      - question: Es ist gut,
+        answer: dass du hier bist.

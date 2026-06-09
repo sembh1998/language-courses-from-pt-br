@@ -1,0 +1,116 @@
+topic: Pronomes Possessivos
+level: A2
+exercises:
+  - type: multiple_choice
+    instruction: Escolha o possessivo correto no dativo.
+    items:
+      - question: Ich fahre mit ___ Bruder.
+        options:
+          - meinem
+          - meine
+          - mein
+        answer: meinem
+      - question: Lea ist bei ___ Freundin.
+        options:
+          - ihre
+          - ihrer
+          - ihrem
+        answer: ihrer
+      - question: Wir gehen zu ___ Haus.
+        options:
+          - unsere
+          - unseren
+          - unserem
+        answer: unserem
+      - question: Spielst du mit ___ Kindern?
+        options:
+          - deinen
+          - deinem
+          - deiner
+        answer: deinen
+      - question: Paul wohnt bei ___ Mutter.
+        options:
+          - seiner
+          - seinem
+          - seinen
+        answer: seiner
+      - question: Geht ihr zu ___ Kurs?
+        options:
+          - eurem
+          - euer
+          - euren
+        answer: eurem
+
+  - type: fill_blank
+    instruction: Complete com a forma correta do possessivo no dativo.
+    items:
+      - question: Ich telefoniere mit ___ Vater. (mein)
+        answer: meinem
+      - question: Sie schläft bei ___ Tante. (ihr)
+        answer: ihrer
+      - question: Wir essen bei ___ Nachbarn. (unser)
+        answer: unseren
+      - question: Kommst du von ___ Arbeit? (dein)
+        answer: deiner
+      - question: Die Kinder sind bei ___ Oma. (ihr)
+        answer: ihrer
+      - question: Herr Müller, bleiben Sie bei ___ Auto? (Ihr)
+        answer: Ihrem
+
+  - type: transformation
+    instruction: Reescreva a expressão no dativo com a preposição indicada.
+    items:
+      - question: mein Bruder -> mit
+        answer: mit meinem Bruder
+      - question: deine Schwester -> bei
+        answer: bei deiner Schwester
+      - question: unser Haus -> zu
+        answer: zu unserem Haus
+      - question: ihre Eltern -> mit
+        answer: mit ihren Eltern
+      - question: euer Lehrer -> zu
+        answer: zu eurem Lehrer
+      - question: sein Kind -> mit
+        answer: mit seinem Kind
+
+  - type: correction
+    instruction: Corrija o erro no possessivo.
+    items:
+      - question: Ich spreche mit mein Bruder.
+        answer: Ich spreche mit meinem Bruder.
+      - question: Wir sind bei unsere Lehrerin.
+        answer: Wir sind bei unserer Lehrerin.
+      - question: Sie fährt mit ihre Eltern.
+        answer: Sie fährt mit ihren Eltern.
+      - question: Gehst du zu dein Freund?
+        answer: Gehst du zu deinem Freund?
+      - question: Er kommt von seine Arbeit.
+        answer: Er kommt von seiner Arbeit.
+
+  - type: translation
+    instruction: Traduza para o alemão usando possessivo no dativo.
+    items:
+      - question: Eu moro com minha mãe.
+        answer: Ich wohne bei meiner Mutter.
+      - question: Nós vamos para a nossa escola.
+        answer: Wir gehen zu unserer Schule.
+      - question: Ela fala com o irmão dela.
+        answer: Sie spricht mit ihrem Bruder.
+      - question: Você vem com seus pais?
+        answer: Kommst du mit deinen Eltern?
+      - question: Vocês estão com o professor de vocês?
+        answer: Seid ihr bei eurem Lehrer?
+
+  - type: short_answer
+    instruction: Responda em alemão com uma frase curta usando a expressão indicada.
+    items:
+      - question: Mit wem fährst du? (mein Bruder)
+        answer: Ich fahre mit meinem Bruder.
+      - question: Bei wem ist Jana? (ihre Freundin)
+        answer: Jana ist bei ihrer Freundin.
+      - question: Wohin geht ihr? (unser Haus)
+        answer: Wir gehen zu unserem Haus.
+      - question: Mit wem spielt Ben? (seine Kinder)
+        answer: Ben spielt mit seinen Kindern.
+      - question: Wo lernst du? (meine Lehrerin)
+        answer: Ich lerne bei meiner Lehrerin.
