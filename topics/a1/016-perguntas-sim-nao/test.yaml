@@ -1,0 +1,53 @@
+topic: Perguntas Sim/Não
+level: A1
+questions:
+  - type: short_answer
+    question: "Transforme: Du lernst Deutsch."
+    answer: Lernst du Deutsch?
+  - type: short_answer
+    question: "Transforme: Du kommst heute."
+    answer: Kommst du heute?
+  - type: short_answer
+    question: "Transforme: Du hast Zeit."
+    answer: Hast du Zeit?
+  - type: multiple_choice
+    question: Qual pergunta está correta?
+    options:
+      - Wohnst du in Berlin?
+      - Du wohnst in Berlin?
+      - Wohnst in Berlin du?
+    answer: Wohnst du in Berlin?
+  - type: short_answer
+    question: "Traduza: Você é Maria?"
+    answer: Bist du Maria?
+  - type: short_answer
+    question: "Traduza: Você vem?"
+    answer: Kommst du?
+  - type: multiple_choice
+    question: "Kommst du nicht? Resposta positiva correta:"
+    options:
+      - Ja!
+      - Doch!
+      - Nein!
+    answer: Doch!
+  - type: short_answer
+    question: Em perguntas sim/não, o verbo fica em qual posição?
+    answer: posição 1
+  - type: short_answer
+    question: "Complete: ___, ich komme nicht."
+    answer: Nein
+  - type: short_answer
+    question: "Complete: ___, ich komme."
+    answer: Ja
+  - type: ordering
+    question: "Ordene: du / müde / bist"
+    answer: Bist du müde?
+  - type: ordering
+    question: "Ordene: du / hier / wohnst"
+    answer: Wohnst du hier?
+  - type: short_answer
+    question: "Traduza: Você estuda alemão?"
+    answer: Lernst du Deutsch?
+  - type: short_answer
+    question: "Corrija: Hast Zeit du?"
+    answer: Hast du Zeit?

@@ -1,8 +1,8 @@
-# Story: Vogais, Umlaut e ß
+# História: Vogais, Umlaut e ß
 
-Level: A1
+Nível: A1
 
-## German Story
+## História em alemão
 
 Lisa ist im Deutschkurs.  
 Sie liest neue Wörter: Straße, Fuß, schön und grün.  
@@ -13,9 +13,9 @@ Lisa schreibt: "Mädchen, schön, grün."
 Dann schreibt sie: "Wasser" mit ss und "Straße" mit ß.  
 Der Lehrer sagt: "Sehr gut, Lisa!"  
 
-## Line-by-line translation
+## Tradução linha por linha
 
-| German | Translation |
+| Alemão | Tradução |
 |---|---|
 | Lisa ist im Deutschkurs. | Lisa está no curso de alemão. |
 | Sie liest neue Wörter: Straße, Fuß, schön und grün. | Ela lê palavras novas: rua, pé, bonito e verde. |
@@ -26,7 +26,7 @@ Der Lehrer sagt: "Sehr gut, Lisa!"
 | Dann schreibt sie: "Wasser" mit ss und "Straße" mit ß. | Então ela escreve "água" com ss e "rua" com ß. |
 | Der Lehrer sagt: "Sehr gut, Lisa!" | O professor diz: "Muito bem, Lisa!" |
 
-## Vocabulary notes
+## Notas de vocabulário
 
 - der Deutschkurs = o curso de alemão
 - liest = lê
@@ -38,7 +38,7 @@ Der Lehrer sagt: "Sehr gut, Lisa!"
 - auch = também
 - sehr gut = muito bem
 
-## Comprehension questions
+## Perguntas de compreensão
 
 1. Onde Lisa está?
 2. Quais são as vogais básicas no texto?

@@ -1,0 +1,23 @@
+topic: Conjunções simples sem inversão
+level: A1
+cards:
+- front: und
+  back: e
+  example: Ich lese und ich schreibe.
+  example_translation: Eu leio e escrevo.
+- front: aber
+  back: mas
+  example: Ich komme, aber ich bleibe kurz.
+  example_translation: Eu venho, mas fico pouco.
+- front: oder
+  back: ou
+  example: Tee oder Kaffee?
+  example_translation: Chá ou café?
+- front: denn
+  back: pois / porque
+  example: Ich bleibe, denn ich bin krank.
+  example_translation: Eu fico, pois estou doente.
+- front: sondern
+  back: mas sim
+  example: Nicht Tee, sondern Kaffee.
+  example_translation: Não chá, mas sim café.

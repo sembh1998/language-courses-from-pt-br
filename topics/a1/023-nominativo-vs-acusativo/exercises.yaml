@@ -1,0 +1,92 @@
+topic: Nominativo vs Acusativo
+level: A1
+exercises:
+- type: classification
+  instruction: Classifique o termo destacado como nominativo ou acusativo.
+  items:
+  - question: Der Lehrer sieht den Schüler. -> Der Lehrer
+    answer: nominativo
+    explanation: É quem faz a ação, portanto está no nominativo.
+  - question: Die Mutter kauft den Apfel. -> den Apfel
+    answer: acusativo
+    explanation: É o objeto direto comprado; masculino no acusativo usa den.
+  - question: Das Kind hört die Musik. -> Das Kind
+    answer: nominativo
+    explanation: É o sujeito da frase.
+  - question: Ich brauche das Heft. -> das Heft
+    answer: acusativo
+    explanation: Recebe a ação de brauchen.
+- type: fill_blank
+  instruction: Complete com der ou den.
+  items:
+  - question: ___ Mann trinkt Wasser.
+    answer: Der
+    explanation: 'Mann é sujeito, então nominativo: der.'
+  - question: Ich sehe ___ Mann.
+    answer: den
+    explanation: 'Mann é objeto direto masculino, então acusativo: den.'
+  - question: ___ Hund spielt.
+    answer: Der
+    explanation: Hund faz a ação; nominativo.
+  - question: Sie ruft ___ Arzt.
+    answer: den
+    explanation: Arzt recebe a ação de chamar; acusativo.
+- type: multiple_choice
+  instruction: Escolha a frase correta.
+  items:
+  - question: Qual frase significa “O homem vê a mulher”?
+    options:
+    - Der Mann sieht die Frau.
+    - Den Mann sieht die Frau.
+    - Die Mann sieht der Frau.
+    answer: Der Mann sieht die Frau.
+    explanation: O sujeito masculino é der Mann; Frau não muda no acusativo.
+  - question: Qual frase mostra “Eu vejo o aluno”?
+    options:
+    - Ich sehe der Schüler.
+    - Ich sehe den Schüler.
+    - Ich sehe dem Schüler.
+    answer: Ich sehe den Schüler.
+    explanation: 'Schüler é masculino e objeto direto: den.'
+  - question: Qual frase tem sujeito feminino e objeto masculino?
+    options:
+    - Den Lehrer sieht die Frau.
+    - Die Frau sieht der Lehrer.
+    - Die Frau sieht den Lehrer.
+    answer: Die Frau sieht den Lehrer.
+    explanation: 'Frau é sujeito; Lehrer é objeto masculino: den.'
+- type: correction
+  instruction: Corrija o artigo errado.
+  items:
+  - question: Der Junge sieht der Hund.
+    answer: Der Junge sieht den Hund.
+    explanation: Hund é objeto masculino, então der vira den.
+  - question: Den Vater kocht.
+    answer: Der Vater kocht.
+    explanation: Vater é sujeito; precisa de der.
+  - question: Ich finde der Schlüssel.
+    answer: Ich finde den Schlüssel.
+    explanation: Schlüssel é objeto masculino, então den.
+- type: translation
+  instruction: Traduza para o alemão.
+  items:
+  - question: O amigo vê o carro.
+    answer: Der Freund sieht das Auto.
+    explanation: Freund é sujeito masculino; Auto é neutro e não muda.
+  - question: Eu compro o pão.
+    answer: Ich kaufe das Brot.
+    explanation: Brot é neutro; no acusativo continua das.
+  - question: A mulher chama o médico.
+    answer: Die Frau ruft den Arzt.
+    explanation: Arzt é masculino e objeto direto.
+- type: sentence_transformation
+  instruction: Transforme a frase trocando sujeito e objeto.
+  items:
+  - question: Der Mann sieht den Jungen.
+    answer: Der Junge sieht den Mann.
+    explanation: Ao trocar papéis, o novo sujeito fica der e o objeto masculino fica
+      den.
+  - question: Die Lehrerin hört den Schüler.
+    answer: Der Schüler hört die Lehrerin.
+    explanation: 'Schüler vira sujeito masculino: der; Lehrerin como objeto feminino
+      continua die.'

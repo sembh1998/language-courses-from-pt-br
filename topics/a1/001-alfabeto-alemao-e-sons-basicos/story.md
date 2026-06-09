@@ -1,8 +1,8 @@
-# Story: Alfabeto alemão e sons básicos
+# História: Alfabeto alemão e sons básicos
 
-Level: A1
+Nível: A1
 
-## German Story
+## História em alemão
 
 Anna ist im Deutschkurs.  
 Der Lehrer fragt: "Wie heißen Sie?"  
@@ -13,9 +13,9 @@ Dann sagt Bruno: "Mein Name ist Bruno: B-R-U-N-O."
 Der Lehrer sagt: "Sehr gut! W, V, J und Z sind wichtig."  
 Anna wiederholt langsam: "W, V, J, Z."  
 
-## Line-by-line translation
+## Tradução linha por linha
 
-| German | Translation |
+| Alemão | Tradução |
 |---|---|
 | Anna ist im Deutschkurs. | Anna está no curso de alemão. |
 | Der Lehrer fragt: "Wie heißen Sie?" | O professor pergunta: "Como a senhora se chama?" |
@@ -26,7 +26,7 @@ Anna wiederholt langsam: "W, V, J, Z."
 | Der Lehrer sagt: "Sehr gut! W, V, J und Z sind wichtig." | O professor diz: "Muito bem! W, V, J e Z são importantes." |
 | Anna wiederholt langsam: "W, V, J, Z." | Anna repete devagar: "W, V, J, Z." |
 
-## Vocabulary notes
+## Notas de vocabulário
 
 - der Deutschkurs = o curso de alemão
 - der Lehrer = o professor
@@ -37,7 +37,7 @@ Anna wiederholt langsam: "W, V, J, Z."
 - wichtig = importante
 - langsam = devagar
 
-## Comprehension questions
+## Perguntas de compreensão
 
 1. Onde Anna está?
 2. Como Anna soletra o nome dela?

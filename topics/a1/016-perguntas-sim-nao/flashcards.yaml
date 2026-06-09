@@ -1,0 +1,35 @@
+topic: Perguntas Sim/Não
+level: A1
+cards:
+  - front: Kommst du?
+    back: Você vem?
+    example: Kommst du heute?
+    example_translation: Você vem hoje?
+  - front: Lernst du Deutsch?
+    back: Você estuda alemão?
+    example: Lernst du Deutsch?
+    example_translation: Você estuda alemão?
+  - front: Wohnst du in Berlin?
+    back: Você mora em Berlim?
+    example: Wohnst du in Berlin?
+    example_translation: Você mora em Berlim?
+  - front: Bist du Maria?
+    back: Você é Maria?
+    example: Bist du Maria?
+    example_translation: Você é Maria?
+  - front: Hast du Zeit?
+    back: Você tem tempo?
+    example: Hast du heute Zeit?
+    example_translation: Você tem tempo hoje?
+  - front: Ja.
+    back: Sim.
+    example: Ja, ich komme.
+    example_translation: Sim, eu venho.
+  - front: Nein.
+    back: Não.
+    example: Nein, ich komme nicht.
+    example_translation: Não, eu não venho.
+  - front: Doch!
+    back: Sim, ao contrário; resposta positiva a pergunta negativa.
+    example: Kommst du nicht? Doch!
+    example_translation: Você não vem? Venho sim!

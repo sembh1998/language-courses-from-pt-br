@@ -1,0 +1,65 @@
+topic: Preposições com acusativo
+level: A1
+questions:
+- question: Qual está correto?
+  answer: für den Lehrer
+  explanation: Für pede acusativo masculino.
+  options:
+  - für den Lehrer
+  - für der Lehrer
+  - für dem Lehrer
+- question: 'Complete: ohne ___ Schlüssel'
+  answer: den
+  explanation: Schlüssel é masculino; acusativo den.
+  options:
+  - der
+  - den
+  - dem
+- question: Como dizer pelo parque?
+  answer: durch den Park
+  explanation: Durch pede acusativo.
+  options:
+  - um der Park
+  - gegen dem Park
+  - durch den Park
+- question: Ich komme ___ neun Uhr.
+  answer: um
+  explanation: Hora usa um.
+- question: Das ist für ___ Mutter.
+  answer: die
+  explanation: 'Mutter é feminino: die.'
+- question: sem um computador
+  answer: ohne einen Computer
+  explanation: Computer é masculino.
+- question: até Munique
+  answer: bis München
+  explanation: Bis indica até.
+- question: gegen der Wind
+  answer: gegen den Wind
+  explanation: Gegen pede acusativo.
+- question: Qual preposição significa sem?
+  answer: ohne
+  explanation: Ohne significa sem.
+  options:
+  - für
+  - ohne
+  - durch
+- question: Wir gehen durch ___ Stadt.
+  answer: die
+  explanation: Stadt é feminino.
+- question: para a criança
+  answer: für das Kind
+  explanation: Kind é neutro.
+- question: um sechs Uhr
+  answer: um sechs Uhr
+  explanation: A expressão já está correta para horas.
+- question: Qual artigo é acusativo masculino definido?
+  answer: den
+  explanation: Der vira den no acusativo.
+  options:
+  - der
+  - dem
+  - den
+- question: Sie läuft ___ den Bahnhof.
+  answer: durch
+  explanation: Durch pode indicar por/através de.

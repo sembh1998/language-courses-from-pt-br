@@ -1,0 +1,59 @@
+topic: Mögen e möchte
+level: A1
+questions:
+- question: Na padaria, escolha a frase natural.
+  answer: Ich möchte ein Brötchen.
+  explanation: Möchte indica gostaria.
+  options:
+  - Ich möchte ein Brötchen.
+  - Ich mag ein Brötchen.
+  - Ich lerne ein Brötchen.
+- question: 'Complete: Du ___ Kaffee.'
+  answer: magst
+  explanation: Du exige magst.
+  options:
+  - mögen
+  - magst
+  - möchte
+- question: Ela gosta de música.
+  answer: Sie mag Musik.
+  explanation: Mag indica gosto.
+  options:
+  - Sie möchte Musik.
+  - Sie muss Musik.
+  - Sie mag Musik.
+- question: Ich ___ bitte eine Cola.
+  answer: möchte
+  explanation: Pedido com bitte.
+- question: Wir ___ Filme.
+  answer: mögen
+  explanation: Wir usa mögen.
+- question: Eu gostaria de chá.
+  answer: Ich möchte Tee.
+  explanation: Möchte para pedido.
+- question: Você gosta de Berlim?
+  answer: Magst du Berlin?
+  explanation: Magst du pergunta gosto.
+- question: 'Forma para Sie formal:'
+  answer: möchten
+  explanation: Sie formal usa möchten.
+  options:
+  - möchte
+  - möchten
+  - magst
+- question: Er ___ kein Bier.
+  answer: mag
+  explanation: Er usa mag.
+- question: Ich will eine Suppe.
+  answer: Ich möchte eine Suppe.
+  explanation: Möchte é educado.
+- question: Qual verbo combina com gostar?
+  answer: mögen
+  explanation: Mögen é gostar.
+  options:
+  - mögen
+  - möchten
+  - dürfen
+- question: Mia und Tom ___ Pizza.
+  answer: mögen
+  explanation: Plural usa mögen.

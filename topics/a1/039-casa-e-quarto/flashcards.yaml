@@ -1,0 +1,39 @@
+topic: Casa e quarto
+level: A1
+cards:
+  - front: das Haus
+    back: a casa
+    example: Das Haus ist groß.
+    example_translation: A casa é grande.
+  - front: die Wohnung
+    back: o apartamento; a moradia
+    example: Die Wohnung ist schön.
+    example_translation: O apartamento é bonito.
+  - front: das Zimmer
+    back: o quarto; o cômodo
+    example: Mein Zimmer ist klein.
+    example_translation: Meu quarto é pequeno.
+  - front: die Küche
+    back: a cozinha
+    example: Die Küche ist hell.
+    example_translation: A cozinha é clara.
+  - front: das Bad
+    back: o banheiro
+    example: Das Bad ist sauber.
+    example_translation: O banheiro está limpo.
+  - front: das Bett
+    back: a cama
+    example: Das Bett ist bequem.
+    example_translation: A cama é confortável.
+  - front: der Tisch
+    back: a mesa
+    example: Der Tisch ist neu.
+    example_translation: A mesa é nova.
+  - front: der Stuhl
+    back: a cadeira
+    example: Der Stuhl steht hier.
+    example_translation: A cadeira fica aqui.
+  - front: der Schrank
+    back: o armário
+    example: Der Schrank ist im Zimmer.
+    example_translation: O armário está no quarto.

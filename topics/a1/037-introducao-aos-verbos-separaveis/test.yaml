@@ -1,0 +1,61 @@
+topic: Introdução aos verbos separáveis
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Ich rufe Max an.
+      - Ich anrufe Max.
+      - Ich rufe an Max.
+    answer: Ich rufe Max an.
+  - type: multiple_choice
+    question: Como dizer "Nós assistimos TV à noite"?
+    options:
+      - Wir fernsehen am Abend.
+      - Wir sehen am Abend fern.
+      - Wir sehen fern am Abend immer.
+    answer: Wir sehen am Abend fern.
+  - type: multiple_choice
+    question: Qual é a pergunta correta?
+    options:
+      - Du kommst mit?
+      - Mitkommst du?
+      - Kommst du mit?
+    answer: Kommst du mit?
+  - type: fill_blank
+    question: Ich kaufe morgen ___.
+    answer: ein
+  - type: fill_blank
+    question: Nina steht um neun Uhr ___.
+    answer: auf
+  - type: fill_blank
+    question: Wir rufen den Arzt ___.
+    answer: an
+  - type: transformation
+    question: sie / fernsehen / heute
+    answer: Sie sieht heute fern.
+  - type: transformation
+    question: du / aufstehen / früh
+    answer: Du stehst früh auf.
+  - type: translation
+    question: Você liga para Paul?
+    answer: Rufst du Paul an?
+  - type: translation
+    question: Eu venho junto.
+    answer: Ich komme mit.
+  - type: multiple_choice
+    question: Onde fica o prefixo em uma frase principal simples?
+    options:
+      - Antes do sujeito.
+      - No fim da frase.
+      - Sempre junto ao verbo.
+    answer: No fim da frase.
+  - type: fill_blank
+    question: ___ ihr heute mit?
+    answer: Kommt
+  - type: short_answer
+    question: Escreva uma frase com `einkaufen`.
+    answer: Ich kaufe heute ein.
+  - type: short_answer
+    question: Escreva uma pergunta com `mitkommen`.
+    answer: Kommst du mit?

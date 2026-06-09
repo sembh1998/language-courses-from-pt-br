@@ -1,0 +1,47 @@
+topic: O verbo sein no presente
+level: A1
+questions:
+  - type: fill_blank
+    question: Ich ___ Brasilianer.
+    answer: bin
+  - type: fill_blank
+    question: Du ___ nett.
+    answer: bist
+  - type: fill_blank
+    question: Er ___ in Berlin.
+    answer: ist
+  - type: fill_blank
+    question: Wir ___ Freunde.
+    answer: sind
+  - type: fill_blank
+    question: Ihr ___ hier.
+    answer: seid
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options: [Ich ist Ana., Ich bin Ana., Ich bist Ana.]
+    answer: Ich bin Ana.
+  - type: transformation
+    question: "Faça pergunta: Du bist müde."
+    answer: Bist du müde?
+  - type: transformation
+    question: "Negue: Sie ist krank."
+    answer: Sie ist nicht krank.
+  - type: translation
+    question: "Traduza: Nós estamos em casa."
+    answer: Wir sind zu Hause.
+  - type: translation
+    question: "Traduza: Você é estudante?"
+    answer: Bist du Student?
+  - type: multiple_choice
+    question: sein significa...
+    options: [ter, ser/estar, morar]
+    answer: ser/estar
+  - type: fill_blank
+    question: Sie ___ Herr Bauer.
+    answer: sind
+  - type: fill_blank
+    question: Es ___ gut.
+    answer: ist
+  - type: transformation
+    question: "Negue: Ich bin Lehrer."
+    answer: Ich bin nicht Lehrer.

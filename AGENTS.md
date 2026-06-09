@@ -1,11 +1,32 @@
 # Agent Instructions
 
-This project follows `roadmap.tsv`. Before generating content, read the roadmap
-and select the requested topic from it.
+This project follows `roadmap.tsv`. Before generating content, locate the exact
+roadmap row for the requested topic and use that row as the source of truth.
 
 ## Roadmap Source Of Truth
 
 Use `roadmap.tsv` as the planning source for topic generation.
+
+## Fast Roadmap Lookup
+
+When the user requests a topic by number, do not read the whole `roadmap.tsv`
+first. Search directly for the tab-delimited `Ordem` column and inspect only the
+matching row.
+
+Preferred lookup pattern for topic number `<N>`:
+
+```regex
+^([^\t]*\t)<N>\t
+```
+
+Examples:
+
+- Topic 19: search `^([^\t]*\t)19\t` in `roadmap.tsv`.
+- Topic 091 or 91: search `^([^\t]*\t)0?91\t` if the user may include or omit leading zeros.
+
+Only read a larger portion of `roadmap.tsv` if the direct search fails, returns
+multiple ambiguous rows, or the user identifies the topic by title/level instead
+of `Ordem`.
 
 Important columns:
 
@@ -25,7 +46,7 @@ Important columns:
 
 When asked to generate a topic:
 
-1. Read `roadmap.tsv`.
+1. Locate the selected row in `roadmap.tsv`, preferably by direct search on `Ordem` when a topic number is provided.
 2. Find the selected topic by `Ordem`, `Nível`, or `Tópico Principal`.
 3. Use the roadmap row to determine level, block, title, and required subtópicos.
 4. Create the topic folder under `topics/<level>/<order-topic-slug>/`.
@@ -38,6 +59,64 @@ Example folder names:
 - `topics/b1/091-verbos-com-preposicoes-fixas/`
 
 Use three digits for `Ordem` so folders sort correctly.
+
+## Topic Learning Load Evaluation
+
+Before generating a topic, evaluate its learning load from the roadmap row. Use
+the topic title, level, block, and subtópicos to decide how much practice the
+student needs.
+
+Evaluate two dimensions:
+
+- `Difficulty`: how hard the topic is for the target student at that CEFR level.
+- `Importance`: how critical the topic is for future German learning.
+
+Use this evaluation to scale the amount of content inside the required files,
+without creating extra source files unless explicitly requested.
+
+Guidelines:
+
+- Low difficulty and low/medium importance: short lesson, 1 short story, 3-4 exercise groups, 8-10 test questions.
+- Medium difficulty or medium/high importance: fuller lesson, 1-2 short stories or story sections, 4-6 exercise groups, 10-14 test questions.
+- High difficulty or high importance: detailed lesson, 2-3 short stories or guided contexts, 6-8 exercise groups, 14-20 test questions.
+
+Treat these as flexible targets, not rigid quotas. If a topic is foundational
+or error-prone, add more examples, contrastive explanations, guided practice,
+and review questions so the student can learn it well before moving on.
+
+For critical topics, prefer more varied practice over longer prose: recognition,
+translation, fill-in-the-blank, sentence transformation, short production, and
+review questions where appropriate for the level.
+
+For `lesson.md`, scale the explanation by CEFR level, importance, and
+difficulty. Important or error-prone topics should not end with a mostly empty
+final page if more useful guidance would help the student. Add compact guided
+practice, contrastive examples, mini-checks with explanations, or extra example
+tables where appropriate. Keep this level-appropriate: A1/A2 should stay short,
+clear, and patterned; B1/B2 can include more sentence-level contrast and usage
+notes; C1/C2 can include nuance, register, and exceptions.
+
+For `story.md`, scale the story by CEFR level, importance, and difficulty.
+Important foundational topics should usually include more reading practice, but
+the kind of reading must match the roadmap level. A1/A2 stories should use more
+short, transparent sentences and guided completion. B1/B2 stories can use richer
+connected paragraphs, reasons, opinions, and reformulation. C1/C2 stories can
+use denser prose, register nuance, and analytical questions. Avoid leaving most
+of the story page empty when the topic can support more level-appropriate
+reading or guided practice.
+
+## Content Quality Rules
+
+- Use Brazilian Portuguese for headings, section subtitles, instructions,
+  table headers, notes, and explanations.
+- Keep German only where the learner should read or produce German.
+- Do not copy exercise items into `test.yaml`. The test may assess the same
+  skill, but it must use new sentences, contexts, names, and examples.
+- Multiple-choice items should usually have exactly three options.
+- Distribute correct multiple-choice answers across option positions 1, 2, and
+  3. Avoid making the correct answer mostly option 1 or 2.
+- In `answers.md`, include a short explanation for every exercise and test
+  answer, not only the answer or points.
 
 ## Required Topic Files
 
@@ -113,7 +192,9 @@ learning value in `lesson.md`, `exercises.yaml`, `story.md`, and `test.yaml`.
 After generating a topic:
 
 1. Validate YAML files parse successfully.
-2. Compile PDFs with `scripts/compile-topic.sh <topic-folder>` if Typst is available.
-3. Report which files were created.
-4. Report whether flashcards were generated or intentionally skipped, and why.
-5. Do not edit `roadmap.tsv` unless explicitly asked.
+2. Run `python3 scripts/validate-content.py <topic-folder>` and address content
+   QA issues where practical.
+3. Compile PDFs with `scripts/compile-topic.sh <topic-folder>` if Typst is available.
+4. Report which files were created.
+5. Report whether flashcards were generated or intentionally skipped, and why.
+6. Do not edit `roadmap.tsv` unless explicitly asked.

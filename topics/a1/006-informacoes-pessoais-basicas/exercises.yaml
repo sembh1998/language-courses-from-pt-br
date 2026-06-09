@@ -1,0 +1,89 @@
+topic: Informações pessoais básicas
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete as frases com a palavra correta.
+    items:
+      - question: Ich ___ Ana.
+        answer: heiße
+      - question: Ich komme ___ Brasilien.
+        answer: aus
+      - question: Ich wohne ___ Berlin.
+        answer: in
+      - question: Ich bin 30 Jahre ___.
+        answer: alt
+      - question: Mein ___ ist Carlos.
+        answer: Name
+  - type: multiple_choice
+    instruction: Escolha a tradução correta.
+    items:
+      - question: Ich wohne in München.
+        options:
+          - Eu venho de Munique.
+          - Eu moro em Munique.
+          - Eu me chamo Munique.
+        answer: Eu moro em Munique.
+      - question: Ich komme aus Brasilien.
+        options:
+          - Eu moro no Brasil.
+          - Eu venho do Brasil.
+          - Eu sou alemão.
+        answer: Eu venho do Brasil.
+      - question: Ich bin 22 Jahre alt.
+        options:
+          - Eu tenho 22 anos.
+          - Eu moro há 22 anos.
+          - Eu me chamo 22.
+        answer: Eu tenho 22 anos.
+  - type: transformation
+    instruction: Transforme a dica em uma frase alemã completa.
+    items:
+      - question: "nome: Julia"
+        answer: Ich heiße Julia.
+      - question: "origem: Brasilien"
+        answer: Ich komme aus Brasilien.
+      - question: "cidade onde mora: Hamburg"
+        answer: Ich wohne in Hamburg.
+      - question: "idade: 19"
+        answer: Ich bin 19 Jahre alt.
+      - question: "profissão: Studentin"
+        answer: Ich bin Studentin.
+  - type: matching
+    instruction: Combine a pergunta com uma resposta adequada.
+    items:
+      - question: Wie heißt du?
+        answer: Ich heiße Lara.
+      - question: Woher kommst du?
+        answer: Ich komme aus Brasilien.
+      - question: Wo wohnst du?
+        answer: Ich wohne in Berlin.
+      - question: Was bist du von Beruf?
+        answer: Ich bin Student.
+      - question: Wie alt bist du?
+        answer: Ich bin 24 Jahre alt.
+  - type: translation
+    instruction: Traduza para o alemão.
+    items:
+      - question: Eu me chamo Pedro.
+        answer: Ich heiße Pedro.
+      - question: Eu venho do Brasil.
+        answer: Ich komme aus Brasilien.
+      - question: Eu moro em Frankfurt.
+        answer: Ich wohne in Frankfurt.
+      - question: Eu sou brasileira.
+        answer: Ich bin Brasilianerin.
+      - question: Eu tenho 28 anos.
+        answer: Ich bin 28 Jahre alt.
+  - type: short_answer
+    instruction: Responda em alemão com uma frase curta. Use as informações entre parênteses.
+    items:
+      - question: Wie heißt du? (Marina)
+        answer: Ich heiße Marina.
+      - question: Woher kommst du? (Brasilien)
+        answer: Ich komme aus Brasilien.
+      - question: Wo wohnst du? (Köln)
+        answer: Ich wohne in Köln.
+      - question: Wie alt bist du? (31)
+        answer: Ich bin 31 Jahre alt.
+      - question: Was bist du von Beruf? (Ingenieur)
+        answer: Ich bin Ingenieur.

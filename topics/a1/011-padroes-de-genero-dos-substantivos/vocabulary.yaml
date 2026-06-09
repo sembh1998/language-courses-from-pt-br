@@ -1,0 +1,73 @@
+topic: Padrões de gênero dos substantivos
+level: A1
+words:
+  - german: der Montag
+    translation: a segunda-feira
+    type: noun
+    gender: masculine
+    plural: die Montage
+    example: Der Montag ist lang.
+    example_translation: A segunda-feira é longa.
+  - german: der Januar
+    translation: janeiro
+    type: noun
+    gender: masculine
+    plural: null
+    example: Der Januar ist kalt.
+    example_translation: Janeiro é frio.
+  - german: der Sommer
+    translation: o verão
+    type: noun
+    gender: masculine
+    plural: die Sommer
+    example: Der Sommer ist schön.
+    example_translation: O verão é bonito.
+  - german: die Wohnung
+    translation: o apartamento
+    type: noun
+    gender: feminine
+    plural: die Wohnungen
+    example: Die Wohnung ist klein.
+    example_translation: O apartamento é pequeno.
+  - german: die Zeitung
+    translation: o jornal
+    type: noun
+    gender: feminine
+    plural: die Zeitungen
+    example: Die Zeitung ist hier.
+    example_translation: O jornal está aqui.
+  - german: die Krankheit
+    translation: a doença
+    type: noun
+    gender: feminine
+    plural: die Krankheiten
+    example: Die Krankheit ist ernst.
+    example_translation: A doença é séria.
+  - german: die Möglichkeit
+    translation: a possibilidade
+    type: noun
+    gender: feminine
+    plural: die Möglichkeiten
+    example: Die Möglichkeit ist gut.
+    example_translation: A possibilidade é boa.
+  - german: das Mädchen
+    translation: a menina
+    type: noun
+    gender: neuter
+    plural: die Mädchen
+    example: Das Mädchen lernt Deutsch.
+    example_translation: A menina aprende alemão.
+  - german: das Brötchen
+    translation: o pãozinho
+    type: noun
+    gender: neuter
+    plural: die Brötchen
+    example: Das Brötchen ist frisch.
+    example_translation: O pãozinho está fresco.
+  - german: das Lernen
+    translation: o aprendizado
+    type: noun
+    gender: neuter
+    plural: null
+    example: Das Lernen ist wichtig.
+    example_translation: Aprender é importante.

@@ -1,0 +1,81 @@
+topic: Sollen
+level: A1
+exercises:
+- type: fill_blank
+  instruction: Complete com a forma correta de Sollen.
+  items:
+  - question: Ich ___ heute arbeiten.
+    answer: soll
+    explanation: Ich usa a forma singular.
+  - question: Du ___ Deutsch lernen.
+    answer: sollst
+    explanation: Du recebe -st.
+  - question: Er ___ nach Hause gehen.
+    answer: soll
+    explanation: Er usa a mesma forma de ich.
+  - question: Wir ___ früh kommen.
+    answer: sollen
+    explanation: Wir usa a forma plural.
+- type: multiple_choice
+  instruction: Escolha a frase com ordem correta.
+  items:
+  - question: 'Frase correta com ich:'
+    answer: Ich soll heute arbeiten.
+    explanation: O infinitivo vai ao fim.
+    options:
+    - Ich arbeiten soll heute.
+    - Ich soll heute arbeiten.
+    - Ich heute arbeiten soll.
+  - question: 'Frase correta com du:'
+    answer: Du sollst Deutsch lernen.
+    explanation: O modal fica na segunda posição.
+    options:
+    - Du sollst Deutsch lernen.
+    - Du lernen sollst Deutsch.
+    - Du Deutsch sollst lernst.
+  - question: 'Frase correta com plural:'
+    answer: Wir sollen morgen kommen.
+    explanation: Wir usa forma plural e infinitivo no fim.
+    options:
+    - Wir kommen sollen morgen.
+    - Wir morgen sollen kommen.
+    - Wir sollen morgen kommen.
+- type: translation
+  instruction: Traduza para o alemão.
+  items:
+  - question: Eu dever / deveria estudar.
+    answer: Ich soll lernen.
+    explanation: Conjugue só o modal.
+  - question: Você dever / deveria ir.
+    answer: Du sollst gehen.
+    explanation: Du usa a forma própria.
+  - question: Nós dever / deveria trabalhar.
+    answer: Wir sollen arbeiten.
+    explanation: Wir usa forma plural.
+- type: rewrite
+  instruction: Reordene a frase.
+  items:
+  - question: arbeiten / ich / heute / soll
+    answer: Ich soll heute arbeiten.
+    explanation: Modal em segunda posição.
+  - question: lernen / du / Deutsch / sollst
+    answer: Du sollst Deutsch lernen.
+    explanation: Infinitivo no fim.
+  - question: gehen / wir / morgen / sollen
+    answer: Wir sollen morgen gehen.
+    explanation: Wir + modal + tempo + infinitivo.
+- type: fill_blank
+  instruction: Complete com o verbo principal no infinitivo.
+  items:
+  - question: Ich soll heute ___.
+    answer: arbeiten
+    explanation: Depois do modal, use infinitivo.
+  - question: Du sollst viel ___.
+    answer: lernen
+    explanation: O verbo principal não é conjugado.
+  - question: Er soll jetzt ___.
+    answer: gehen
+    explanation: Infinitivo no fim.
+  - question: Wir sollen morgen ___.
+    answer: kommen
+    explanation: Infinitivo para plural também.

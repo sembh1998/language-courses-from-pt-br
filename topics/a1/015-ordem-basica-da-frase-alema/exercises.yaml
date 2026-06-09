@@ -1,0 +1,63 @@
+topic: Ordem básica da frase alemã
+level: A1
+exercises:
+  - type: multiple_choice
+    instruction: Escolha a frase correta.
+    items:
+      - question: Hoje eu estudo alemão.
+        options:
+          - Heute ich lerne Deutsch.
+          - Heute lerne ich Deutsch.
+          - Ich heute lerne Deutsch.
+        answer: Heute lerne ich Deutsch.
+      - question: Eu moro em Berlim.
+        options:
+          - Ich wohne in Berlin.
+          - Ich in Berlin wohne.
+          - Wohne ich in Berlin.
+        answer: Ich wohne in Berlin.
+  - type: ordering
+    instruction: Coloque as palavras em ordem correta.
+    items:
+      - question: ich / Deutsch / lerne
+        answer: Ich lerne Deutsch.
+      - question: heute / arbeite / ich
+        answer: Heute arbeite ich.
+      - question: in Berlin / wohnt / Maria
+        answer: Maria wohnt in Berlin.
+      - question: jetzt / Wasser / trinke / ich
+        answer: Jetzt trinke ich Wasser.
+  - type: fill_blank
+    instruction: Complete com o sujeito correto.
+    items:
+      - question: Heute lerne ___ Deutsch.
+        answer: ich
+      - question: Am Montag arbeitet ___ .
+        answer: Maria
+      - question: Jetzt trinkst ___ Wasser.
+        answer: du
+  - type: transformation
+    instruction: Comece a frase com a palavra indicada.
+    items:
+      - question: Ich lerne Deutsch. Comece com Heute.
+        answer: Heute lerne ich Deutsch.
+      - question: Ich arbeite am Montag. Comece com Am Montag.
+        answer: Am Montag arbeite ich.
+      - question: Ich trinke jetzt Wasser. Comece com Jetzt.
+        answer: Jetzt trinke ich Wasser.
+  - type: translation
+    instruction: Traduza para alemão.
+    items:
+      - question: Eu estudo alemão.
+        answer: Ich lerne Deutsch.
+      - question: Hoje eu trabalho.
+        answer: Heute arbeite ich.
+      - question: Maria mora em Berlim.
+        answer: Maria wohnt in Berlin.
+  - type: short_answer
+    instruction: Responda em português.
+    items:
+      - question: Em uma frase afirmativa simples, em qual posição fica o verbo conjugado?
+        answer: posição 2
+      - question: Em Hoje estudo alemão, qual palavra ocupa a posição 1 em alemão?
+        answer: Heute

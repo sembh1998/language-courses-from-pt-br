@@ -1,0 +1,57 @@
+topic: Pronomes pessoais no nominativo
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete com o pronome pessoal correto.
+    items:
+      - question: ___ bin Julia.
+        answer: Ich
+      - question: ___ bist Pedro.
+        answer: Du
+      - question: ___ ist mein Bruder.
+        answer: Er
+      - question: ___ sind Freunde.
+        answer: Wir
+  - type: multiple_choice
+    instruction: Escolha a tradução correta.
+    items:
+      - question: wir
+        options: [eu, nós, vocês]
+        answer: nós
+      - question: ihr
+        options: [vocês informal, ela, ele]
+        answer: vocês informal
+      - question: Sie
+        options: [ela, formal, nós]
+        answer: formal
+  - type: transformation
+    instruction: Substitua o nome pelo pronome correto.
+    items:
+      - question: Anna ist hier.
+        answer: Sie ist hier.
+      - question: Paul wohnt in Bonn.
+        answer: Er wohnt in Bonn.
+      - question: Anna und Paul lernen.
+        answer: Sie lernen.
+      - question: Das Kind spielt.
+        answer: Es spielt.
+  - type: translation
+    instruction: Traduza para o alemão usando pronome.
+    items:
+      - question: Eu aprendo alemão.
+        answer: Ich lerne Deutsch.
+      - question: Nós moramos aqui.
+        answer: Wir wohnen hier.
+      - question: O senhor é o senhor Müller.
+        answer: Sie sind Herr Müller.
+  - type: classification
+    instruction: Classifique como informal, formal ou plural.
+    items:
+      - question: du
+        answer: informal
+      - question: Sie
+        answer: formal
+      - question: wir
+        answer: plural
+      - question: ihr
+        answer: plural informal

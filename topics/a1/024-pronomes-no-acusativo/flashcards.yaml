@@ -1,0 +1,35 @@
+topic: Pronomes no acusativo
+level: A1
+cards:
+- front: mich
+  back: me
+  example: Anna sieht mich.
+  example_translation: Anna me vê.
+- front: dich
+  back: te / você
+  example: Ich rufe dich.
+  example_translation: Eu chamo você.
+- front: ihn
+  back: o / ele
+  example: Wir hören ihn.
+  example_translation: Nós o ouvimos.
+- front: sie
+  back: a / ela
+  example: Tom kennt sie.
+  example_translation: Tom a conhece.
+- front: es
+  back: o/a para neutro
+  example: Ich brauche es.
+  example_translation: Eu preciso dele/dela.
+- front: uns
+  back: nos
+  example: Der Lehrer fragt uns.
+  example_translation: O professor nos pergunta.
+- front: euch
+  back: vocês
+  example: Ich sehe euch.
+  example_translation: Eu vejo vocês.
+- front: Sie
+  back: o senhor / a senhora / vocês formal
+  example: Ich begrüße Sie.
+  example_translation: Eu cumprimento o senhor/a senhora.

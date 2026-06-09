@@ -1,0 +1,78 @@
+topic: Wollen
+level: A1
+exercises:
+- type: fill_blank
+  instruction: Complete com a forma correta de wollen.
+  items:
+  - question: Ich ___ Deutsch lernen.
+    answer: will
+    explanation: 'Com ich: will.'
+  - question: Du ___ Tee trinken.
+    answer: willst
+    explanation: 'Com du: willst.'
+  - question: Wir ___ nach Berlin fahren.
+    answer: wollen
+    explanation: 'Com wir: wollen.'
+  - question: Er ___ heute arbeiten.
+    answer: will
+    explanation: 'Com er: will.'
+- type: multiple_choice
+  instruction: Escolha a frase correta.
+  items:
+  - question: Qual frase tem infinitivo no final?
+    options:
+    - Ich will Deutsch lernen.
+    - Ich will lernen Deutsch.
+    - Ich Deutsch will lernen.
+    answer: Ich will Deutsch lernen.
+    explanation: Com modal, o verbo principal fica no final.
+  - question: Qual é mais educado para pedir café?
+    options:
+    - Ich will Kaffee.
+    - Ich möchte Kaffee.
+    - Ich wollen Kaffee.
+    answer: Ich möchte Kaffee.
+    explanation: Möchte é mais educado.
+  - question: Qual forma combina com ihr?
+    options:
+    - ihr will
+    - ihr wollen
+    - ihr wollt
+    answer: ihr wollt
+    explanation: 'Com ihr: wollt.'
+- type: correction
+  instruction: Corrija a frase.
+  items:
+  - question: Sie will Deutsch lernt.
+    answer: Sie will Deutsch lernen.
+    explanation: O verbo final fica no infinitivo.
+  - question: Wir will kommen.
+    answer: Wir wollen kommen.
+    explanation: Wir usa wollen.
+  - question: Du wollen schlafen.
+    answer: Du willst schlafen.
+    explanation: Du usa willst.
+- type: translation
+  instruction: Traduza para o alemão.
+  items:
+  - question: Eu quero aprender alemão.
+    answer: Ich will Deutsch lernen.
+    explanation: Will + infinitivo final.
+  - question: Nós queremos viajar.
+    answer: Wir wollen reisen.
+    explanation: Wir usa wollen.
+  - question: Ela gostaria de água.
+    answer: Sie möchte Wasser.
+    explanation: Möchte é educado e mais suave.
+- type: classification
+  instruction: 'Classifique a intenção: direto ou educado.'
+  items:
+  - question: Ich will zahlen.
+    answer: direto
+    explanation: Will expressa vontade direta.
+  - question: Ich möchte zahlen.
+    answer: educado
+    explanation: Möchte soa mais cortês.
+  - question: Wir wollen lernen.
+    answer: direto
+    explanation: Wollen indica intenção clara.

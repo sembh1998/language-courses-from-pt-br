@@ -1,0 +1,67 @@
+topic: Introdução ao Perfekt
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Ich habe Wasser getrunken.
+      - Ich bin Wasser getrunken.
+      - Ich habe getrunken Wasser.
+    answer: Ich habe Wasser getrunken.
+  - type: multiple_choice
+    question: Qual auxiliar combina melhor com `gegangen`?
+    options:
+      - hat
+      - ist
+      - haben
+    answer: ist
+  - type: multiple_choice
+    question: Como dizer "Nós compramos pão"?
+    options:
+      - Wir Brot haben gekauft.
+      - Wir sind Brot gekauft.
+      - Wir haben Brot gekauft.
+    answer: Wir haben Brot gekauft.
+  - type: fill_blank
+    question: Ich ___ gestern gekocht.
+    answer: habe
+  - type: fill_blank
+    question: Er ___ nach Hamburg gefahren.
+    answer: ist
+  - type: fill_blank
+    question: Du hast Musik ___.
+    answer: gehört
+  - type: transformation
+    question: sie / Kaffee / trinken
+    answer: Sie hat Kaffee getrunken.
+  - type: transformation
+    question: wir / nach Hause / kommen
+    answer: Wir sind nach Hause gekommen.
+  - type: translation
+    question: Eu fiz a tarefa.
+    answer: Ich habe die Aufgabe gemacht.
+  - type: translation
+    question: Ele foi para casa.
+    answer: Er ist nach Hause gegangen.
+  - type: multiple_choice
+    question: Onde fica o particípio em frase simples?
+    options:
+      - No fim da frase.
+      - Sempre no início.
+      - Antes do sujeito.
+    answer: No fim da frase.
+  - type: fill_blank
+    question: Wir ___ Deutsch gelernt.
+    answer: haben
+  - type: fill_blank
+    question: Maria ___ spät gekommen.
+    answer: ist
+  - type: matching
+    question: Particípio de `machen`.
+    answer: gemacht
+  - type: short_answer
+    question: Escreva uma frase com `Ich habe ... gelernt`.
+    answer: Ich habe Deutsch gelernt.
+  - type: short_answer
+    question: Escreva uma frase com `Ich bin ... gegangen`.
+    answer: Ich bin nach Hause gegangen.

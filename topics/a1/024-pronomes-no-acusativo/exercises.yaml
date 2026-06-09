@@ -1,0 +1,78 @@
+topic: Pronomes no acusativo
+level: A1
+exercises:
+- type: fill_blank
+  instruction: Complete com o pronome no acusativo.
+  items:
+  - question: Ich sehe Maria. Ich sehe ___.
+    answer: sie
+    explanation: 'Maria é feminino: sie.'
+  - question: Anna ruft Tom. Anna ruft ___.
+    answer: ihn
+    explanation: 'Tom é masculino: ihn.'
+  - question: Der Lehrer fragt uns. Er fragt ___.
+    answer: uns
+    explanation: Para nós no acusativo usa uns.
+  - question: Ich brauche das Buch. Ich brauche ___.
+    answer: es
+    explanation: 'Buch é neutro: es.'
+- type: multiple_choice
+  instruction: Escolha o pronome correto.
+  items:
+  - question: Ich kenne ___ (você).
+    options:
+    - mich
+    - dich
+    - ihn
+    answer: dich
+    explanation: Você informal como objeto é dich.
+  - question: Siehst du Paul? Ja, ich sehe ___.
+    options:
+    - ihn
+    - sie
+    - es
+    answer: ihn
+    explanation: Paul é masculino.
+  - question: Der Chef begrüßt ___ (a senhora).
+    options:
+    - euch
+    - uns
+    - Sie
+    answer: Sie
+    explanation: Forma formal no acusativo é Sie.
+- type: replacement
+  instruction: Substitua o objeto por um pronome.
+  items:
+  - question: Ich kaufe den Stift.
+    answer: Ich kaufe ihn.
+    explanation: 'Stift é masculino: ihn.'
+  - question: Wir lesen die Zeitung.
+    answer: Wir lesen sie.
+    explanation: 'Zeitung é feminino: sie.'
+  - question: Er findet das Handy.
+    answer: Er findet es.
+    explanation: 'Handy é neutro: es.'
+- type: correction
+  instruction: Corrija o pronome.
+  items:
+  - question: Ich sehe du.
+    answer: Ich sehe dich.
+    explanation: 'Depois de sehen, objeto: dich.'
+  - question: Sie ruft er.
+    answer: Sie ruft ihn.
+    explanation: Ele como objeto é ihn.
+  - question: Der Lehrer fragt wir.
+    answer: Der Lehrer fragt uns.
+    explanation: Nós como objeto é uns.
+- type: translation
+  instruction: Traduza para o alemão.
+  items:
+  - question: Eu te vejo.
+    answer: Ich sehe dich.
+    explanation: 'te/você como objeto: dich.'
+  - question: Nós a conhecemos.
+    answer: Wir kennen sie.
+    explanation: 'a/ela como objeto: sie.'
+  - question: Ela nos chama.
+    answer: Sie ruft uns.
+    explanation: 'nos como objeto: uns.'

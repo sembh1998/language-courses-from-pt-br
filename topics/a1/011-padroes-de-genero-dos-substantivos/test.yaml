@@ -1,0 +1,49 @@
+topic: Padrões de gênero dos substantivos
+level: A1
+questions:
+  - type: fill_blank
+    question: ___ Montag
+    answer: der
+  - type: fill_blank
+    question: ___ Januar
+    answer: der
+  - type: fill_blank
+    question: ___ Wohnung
+    answer: die
+  - type: fill_blank
+    question: ___ Zeitung
+    answer: die
+  - type: fill_blank
+    question: ___ Mädchen
+    answer: das
+  - type: multiple_choice
+    question: Palavras terminadas em -ung geralmente usam...
+    options: [der, die, das]
+    answer: die
+  - type: multiple_choice
+    question: Palavras terminadas em -chen geralmente usam...
+    options: [der, die, das]
+    answer: das
+  - type: multiple_choice
+    question: Dias da semana geralmente usam...
+    options: [der, die, das]
+    answer: der
+  - type: classification
+    question: die Krankheit tem qual padrão?
+    answer: -heit
+  - type: classification
+    question: die Möglichkeit tem qual padrão?
+    answer: -keit
+  - type: translation
+    question: "Traduza: o verão."
+    answer: der Sommer
+  - type: translation
+    question: "Traduza: o aprendizado."
+    answer: das Lernen
+  - type: correction
+    question: "Corrija: Die Mädchen ist hier."
+    answer: Das Mädchen ist hier.
+  - type: multiple_choice
+    question: Estes padrões são...
+    options: [ajudas úteis, regras para todos os substantivos, sem valor]
+    answer: ajudas úteis

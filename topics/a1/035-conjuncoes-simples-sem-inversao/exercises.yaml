@@ -1,0 +1,90 @@
+topic: Conjunções simples sem inversão
+level: A1
+exercises:
+- type: fill_blank
+  instruction: Complete com und, aber, oder, denn ou sondern.
+  items:
+  - question: Ich lerne Deutsch, ___ ich wohne in Berlin.
+    answer: denn
+    explanation: Denn introduz motivo.
+  - question: Ich trinke Tee ___ Kaffee.
+    answer: oder
+    explanation: Oder apresenta alternativa.
+  - question: Das ist nicht kalt, ___ warm.
+    answer: sondern
+    explanation: Sondern corrige depois de negação.
+  - question: Anna liest ___ Tom schreibt.
+    answer: und
+    explanation: Und soma ações.
+- type: multiple_choice
+  instruction: Escolha a conjunção correta.
+  items:
+  - question: Quero contraste.
+    answer: aber
+    explanation: Aber marca contraste.
+    options:
+    - aber
+    - und
+    - oder
+  - question: Quero motivo.
+    answer: denn
+    explanation: Denn explica motivo.
+    options:
+    - oder
+    - denn
+    - sondern
+  - question: Quero correção após nicht.
+    answer: sondern
+    explanation: Sondern corrige uma negação.
+    options:
+    - aber
+    - und
+    - sondern
+- type: rewrite
+  instruction: Una as frases com a conjunção indicada.
+  items:
+  - question: Ich komme. Ich bin müde. (aber)
+    answer: Ich komme, aber ich bin müde.
+    explanation: Sem inversão depois de aber.
+  - question: Du lernst. Ich lese. (und)
+    answer: Du lernst und ich lese.
+    explanation: Und soma frases.
+  - question: Ich bleibe zu Hause. Ich bin krank. (denn)
+    answer: Ich bleibe zu Hause, denn ich bin krank.
+    explanation: Denn dá motivo.
+- type: translation
+  instruction: Traduza para o alemão.
+  items:
+  - question: Eu bebo água ou chá.
+    answer: Ich trinke Wasser oder Tee.
+    explanation: Oder liga alternativas.
+  - question: Não é café, mas sim chá.
+    answer: Das ist nicht Kaffee, sondern Tee.
+    explanation: Sondern após nicht.
+  - question: Eu venho, pois tenho tempo.
+    answer: Ich komme, denn ich habe Zeit.
+    explanation: Denn introduz motivo.
+- type: multiple_choice
+  instruction: Escolha a frase com ordem correta.
+  items:
+  - question: 'Com aber:'
+    answer: Ich komme, aber ich bleibe kurz.
+    explanation: Sem inversão após aber.
+    options:
+    - Ich komme, aber ich bleibe kurz.
+    - Ich komme, aber bleibe ich kurz.
+    - Ich komme, aber kurz ich bleibe.
+  - question: 'Com denn:'
+    answer: Ich esse, denn ich habe Hunger.
+    explanation: Denn não inverte.
+    options:
+    - Ich esse, denn habe ich Hunger.
+    - Ich esse, denn ich habe Hunger.
+    - Ich esse, denn Hunger ich habe.
+  - question: 'Com sondern:'
+    answer: Ich trinke nicht Bier, sondern Wasser.
+    explanation: Sondern corrige a negação.
+    options:
+    - Ich trinke nicht Bier, aber Wasser.
+    - Ich trinke Bier, sondern Wasser.
+    - Ich trinke nicht Bier, sondern Wasser.

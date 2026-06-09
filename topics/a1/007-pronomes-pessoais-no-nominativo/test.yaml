@@ -1,0 +1,44 @@
+topic: Pronomes pessoais no nominativo
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual pronome significa eu?
+    options: [du, ich, wir]
+    answer: ich
+  - type: fill_blank
+    question: ___ bin aus Brasilien.
+    answer: Ich
+  - type: multiple_choice
+    question: Qual é o pronome formal?
+    options: [du, ihr, Sie]
+    answer: Sie
+  - type: fill_blank
+    question: Anna ist nett. ___ ist nett.
+    answer: Sie
+  - type: fill_blank
+    question: Das Kind ist klein. ___ ist klein.
+    answer: Es
+  - type: multiple_choice
+    question: wir significa...
+    options: [nós, eles, você]
+    answer: nós
+  - type: fill_blank
+    question: Paul ist hier. ___ ist hier.
+    answer: Er
+  - type: multiple_choice
+    question: ihr é usado para...
+    options: [uma pessoa formal, um grupo informal, eu]
+    answer: um grupo informal
+  - type: translation
+    question: "Traduza: Nós aprendemos."
+    answer: Wir lernen.
+  - type: translation
+    question: "Traduza: A senhora é Maria."
+    answer: Sie sind Maria.
+  - type: multiple_choice
+    question: sie com letra minúscula pode significar...
+    options: [ela ou eles/elas, somente eu, somente formal]
+    answer: ela ou eles/elas
+  - type: fill_blank
+    question: ___ seid Freunde.
+    answer: Ihr

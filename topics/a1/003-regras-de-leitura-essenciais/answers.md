@@ -1,10 +1,10 @@
-# Answers: Regras de leitura essenciais
+# Respostas: Regras de leitura essenciais
 
-Level: A1
+Nível: A1
 
-## Exercises answer key
+## Gabarito dos exercícios
 
-| ID | Answer | Note |
+| ID | Resposta | Explicação |
 |---|---|---|
 | 1.1 | ai | **ei** em **mein** soa como ai. |
 | 1.2 | i longo | **ie** em **Liebe** soa como i longo. |
@@ -29,9 +29,9 @@ Level: A1
 | 5.3 | ach-Laut | Depois de a, o, u ou au, ch geralmente é ach-Laut. |
 | 5.4 | ich-Laut | Depois de i, e, ä, ö, ü, ei ou eu, ch geralmente é ich-Laut. |
 
-## Test answer key
+## Gabarito do teste
 
-| ID | Answer | Points |
+| ID | Resposta | Pontos |
 |---|---|---|
 | 1 | ai | 1 |
 | 2 | i longo | 1 |
@@ -44,9 +44,9 @@ Level: A1
 | 9 | w | 1 |
 | 10 | f | 1 |
 
-## Story questions
+## Perguntas da história
 
-| Question | Answer |
+| Pergunta | Resposta |
 |---|---|
 | Onde Tom está? | Tom está no curso de alemão. |
 | Quais duas combinações a professora explica primeiro? | Ela explica ei e ie. |

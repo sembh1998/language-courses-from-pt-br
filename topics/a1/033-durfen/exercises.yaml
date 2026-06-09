@@ -1,0 +1,81 @@
+topic: Dürfen
+level: A1
+exercises:
+- type: fill_blank
+  instruction: Complete com a forma correta de Dürfen.
+  items:
+  - question: Ich ___ heute arbeiten.
+    answer: darf
+    explanation: Ich usa a forma singular.
+  - question: Du ___ Deutsch lernen.
+    answer: darfst
+    explanation: Du recebe -st.
+  - question: Er ___ nach Hause gehen.
+    answer: darf
+    explanation: Er usa a mesma forma de ich.
+  - question: Wir ___ früh kommen.
+    answer: dürfen
+    explanation: Wir usa a forma plural.
+- type: multiple_choice
+  instruction: Escolha a frase com ordem correta.
+  items:
+  - question: 'Frase correta com ich:'
+    answer: Ich darf heute arbeiten.
+    explanation: O infinitivo vai ao fim.
+    options:
+    - Ich arbeiten darf heute.
+    - Ich darf heute arbeiten.
+    - Ich heute arbeiten darf.
+  - question: 'Frase correta com du:'
+    answer: Du darfst Deutsch lernen.
+    explanation: O modal fica na segunda posição.
+    options:
+    - Du darfst Deutsch lernen.
+    - Du lernen darfst Deutsch.
+    - Du Deutsch darfst lernst.
+  - question: 'Frase correta com plural:'
+    answer: Wir dürfen morgen kommen.
+    explanation: Wir usa forma plural e infinitivo no fim.
+    options:
+    - Wir kommen dürfen morgen.
+    - Wir morgen dürfen kommen.
+    - Wir dürfen morgen kommen.
+- type: translation
+  instruction: Traduza para o alemão.
+  items:
+  - question: Eu poder / ter permissão estudar.
+    answer: Ich darf lernen.
+    explanation: Conjugue só o modal.
+  - question: Você poder / ter permissão ir.
+    answer: Du darfst gehen.
+    explanation: Du usa a forma própria.
+  - question: Nós poder / ter permissão trabalhar.
+    answer: Wir dürfen arbeiten.
+    explanation: Wir usa forma plural.
+- type: rewrite
+  instruction: Reordene a frase.
+  items:
+  - question: arbeiten / ich / heute / darf
+    answer: Ich darf heute arbeiten.
+    explanation: Modal em segunda posição.
+  - question: lernen / du / Deutsch / darfst
+    answer: Du darfst Deutsch lernen.
+    explanation: Infinitivo no fim.
+  - question: gehen / wir / morgen / dürfen
+    answer: Wir dürfen morgen gehen.
+    explanation: Wir + modal + tempo + infinitivo.
+- type: fill_blank
+  instruction: Complete com o verbo principal no infinitivo.
+  items:
+  - question: Ich darf heute ___.
+    answer: arbeiten
+    explanation: Depois do modal, use infinitivo.
+  - question: Du darfst viel ___.
+    answer: lernen
+    explanation: O verbo principal não é conjugado.
+  - question: Er darf jetzt ___.
+    answer: gehen
+    explanation: Infinitivo no fim.
+  - question: Wir dürfen morgen ___.
+    answer: kommen
+    explanation: Infinitivo para plural também.

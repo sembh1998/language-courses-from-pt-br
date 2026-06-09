@@ -1,8 +1,8 @@
-# Story: Regras de leitura essenciais
+# História: Regras de leitura essenciais
 
-Level: A1
+Nível: A1
 
-## German Story
+## História em alemão
 
 Tom ist im Deutschkurs.  
 Er liest: mein, sie, heute und Häuser.  
@@ -13,9 +13,9 @@ Dann liest Tom: Zeit, Vater, Wasser und ja.
 Er liest langsam und klar.  
 Deutsch ist neu, aber Tom übt jeden Tag.  
 
-## Line-by-line translation
+## Tradução linha por linha
 
-| German | Translation |
+| Alemão | Tradução |
 |---|---|
 | Tom ist im Deutschkurs. | Tom está no curso de alemão. |
 | Er liest: mein, sie, heute und Häuser. | Ele lê: meu, ela, hoje e casas. |
@@ -26,7 +26,7 @@ Deutsch ist neu, aber Tom übt jeden Tag.
 | Er liest langsam und klar. | Ele lê devagar e com clareza. |
 | Deutsch ist neu, aber Tom übt jeden Tag. | Alemão é novo, mas Tom pratica todos os dias. |
 
-## Vocabulary notes
+## Notas de vocabulário
 
 - der Deutschkurs = o curso de alemão
 - liest = lê
@@ -39,7 +39,7 @@ Deutsch ist neu, aber Tom übt jeden Tag.
 - übt = pratica
 - jeden Tag = todos os dias
 
-## Comprehension questions
+## Perguntas de compreensão
 
 1. Onde Tom está?
 2. Quais duas combinações a professora explica primeiro?

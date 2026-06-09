@@ -1,0 +1,77 @@
+topic: Revisão geral A1
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta para apresentação?
+    options:
+      - Ich heiße Pedro.
+      - Ich heiße aus Pedro.
+      - Ich bin heiße Pedro.
+    answer: Ich heiße Pedro.
+  - type: multiple_choice
+    question: Selecione uma resposta curta de origem.
+    options:
+      - Ich wohne klein.
+      - Aus Chile.
+      - Ich lese gern.
+    answer: Aus Chile.
+  - type: multiple_choice
+    question: Qual frase usa verbo separável corretamente?
+    options:
+      - Ich aufstehe früh.
+      - Ich stehe auf früh.
+      - Ich stehe früh auf.
+    answer: Ich stehe früh auf.
+  - type: fill_blank
+    question: Ich ___ in Rio.
+    answer: wohne
+  - type: fill_blank
+    question: Meine ___ heißt Paula. (mãe)
+    answer: Mutter
+  - type: fill_blank
+    question: Wir ___ gern Fußball.
+    answer: spielen
+  - type: translation
+    question: Eu tenho uma irmã.
+    answer: Ich habe eine Schwester.
+  - type: translation
+    question: O banheiro é novo.
+    answer: Das Bad ist neu.
+  - type: translation
+    question: Ela ouve música.
+    answer: Sie hört Musik.
+  - type: multiple_choice
+    question: Qual frase está no Perfekt correto?
+    options:
+      - Ich habe Kaffee getrunken.
+      - Ich bin Kaffee getrunken.
+      - Ich getrunken habe Kaffee.
+    answer: Ich habe Kaffee getrunken.
+  - type: multiple_choice
+    question: Qual artigo de `Tisch`?
+    options:
+      - die
+      - der
+      - das
+    answer: der
+  - type: fill_blank
+    question: Kommst du heute ___?
+    answer: mit
+  - type: transformation
+    question: du / gern / lesen
+    answer: Du liest gern.
+  - type: transformation
+    question: ich / gestern / Deutsch / lernen
+    answer: Ich habe gestern Deutsch gelernt.
+  - type: short_answer
+    question: Produza uma frase sobre esporte com `gern`.
+    answer: Ich schwimme gern.
+  - type: short_answer
+    question: "Responda: Hast du Geschwister?"
+    answer: Ja, ich habe Geschwister.
+  - type: short_answer
+    question: Escreva uma frase sobre sua casa.
+    answer: Meine Wohnung ist klein.
+  - type: short_answer
+    question: Escreva uma pergunta simples em alemão.
+    answer: Wie heißt du?

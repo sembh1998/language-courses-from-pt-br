@@ -1,0 +1,59 @@
+topic: Sollen
+level: A1
+questions:
+- question: Qual frase está correta?
+  answer: Ich soll morgen kommen.
+  explanation: Modal em segunda posição.
+  options:
+  - Ich soll morgen kommen.
+  - Ich komme morgen soll.
+  - Ich morgen komme soll.
+- question: 'Complete: Du ___ jetzt gehen.'
+  answer: sollst
+  explanation: Du usa forma com -st.
+  options:
+  - soll
+  - sollst
+  - sollen
+- question: Qual frase tem infinitivo no fim?
+  answer: Wir sollen heute lernen.
+  explanation: Lernen fica no fim.
+  options:
+  - Wir lernen heute sollen.
+  - Wir heute lernen sollen.
+  - Wir sollen heute lernen.
+- question: Er ___ viel arbeiten.
+  answer: soll
+  explanation: Er usa forma singular.
+- question: Ich soll nicht ___.
+  answer: gehen
+  explanation: Verbo principal no infinitivo.
+- question: Eu dever / deveria trabalhar hoje.
+  answer: Ich soll heute arbeiten.
+  explanation: Tempo pode ficar no meio.
+- question: Você dever / deveria vir amanhã.
+  answer: Du sollst morgen kommen.
+  explanation: Infinitivo no fim.
+- question: Deutsch / wir / sollen / lernen
+  answer: Wir sollen Deutsch lernen.
+  explanation: Ordem básica com modal.
+- question: 'Forma para wir:'
+  answer: sollen
+  explanation: Wir usa forma plural.
+  options:
+  - sollst
+  - sollen
+  - soll
+- question: Sie ___ früh schlafen.
+  answer: soll
+  explanation: Sie ela usa forma singular.
+- question: gehen / ich / jetzt / soll
+  answer: Ich soll jetzt gehen.
+  explanation: Infinitivo no fim.
+- question: 'Depois de modal, o verbo principal fica:'
+  answer: no infinitivo
+  explanation: Regra central dos modais.
+  options:
+  - conjugado
+  - no infinitivo
+  - sempre ausente

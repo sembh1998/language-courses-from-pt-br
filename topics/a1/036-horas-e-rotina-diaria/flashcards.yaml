@@ -1,0 +1,27 @@
+topic: Horas e rotina diária
+level: A1
+cards:
+- front: Wie spät ist es?
+  back: Que horas são?
+  example: Wie spät ist es?
+  example_translation: Que horas são?
+- front: Es ist fünf Uhr.
+  back: São cinco horas.
+  example: Es ist fünf Uhr.
+  example_translation: São cinco horas.
+- front: um sieben Uhr
+  back: às sete horas
+  example: Ich komme um sieben Uhr.
+  example_translation: Eu venho às sete horas.
+- front: morgens
+  back: de manhã
+  example: Morgens trinke ich Kaffee.
+  example_translation: De manhã eu bebo café.
+- front: abends
+  back: à noite
+  example: Abends lerne ich Deutsch.
+  example_translation: À noite eu estudo alemão.
+- front: aufstehen
+  back: levantar
+  example: Ich stehe früh auf.
+  example_translation: Eu levanto cedo.

@@ -1,0 +1,27 @@
+topic: Kein
+level: A1
+cards:
+- front: kein
+  back: nenhum / não um
+  example: Ich habe keinen Hund.
+  example_translation: Eu não tenho cachorro.
+- front: keine
+  back: nenhuma / não uma
+  example: Sie hat keine Tasche.
+  example_translation: Ela não tem bolsa.
+- front: keinen
+  back: nenhum para masculino acusativo
+  example: Wir kaufen keinen Kuchen.
+  example_translation: Nós não compramos bolo.
+- front: ein Hund
+  back: um cachorro
+  example: Das ist ein Hund.
+  example_translation: Isso é um cachorro.
+- front: eine Tasche
+  back: uma bolsa
+  example: Ich habe eine Tasche.
+  example_translation: Eu tenho uma bolsa.
+- front: Brot
+  back: pão
+  example: Ich esse kein Brot.
+  example_translation: Eu não como pão.

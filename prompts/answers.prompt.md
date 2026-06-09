@@ -21,27 +21,31 @@ Strict output rules:
 - Include answer keys for exercises and tests.
 - Include story question answers if `story.md` is provided.
 - Use `{{LANGUAGE_OF_EXPLANATION}}` for brief notes.
+- Use Portuguese section headings and table headers when `{{LANGUAGE_OF_EXPLANATION}}` is Brazilian Portuguese.
+- Do not leave navigation labels such as Answers, Exercises answer key, Test answer key, Story questions, Level, Answer, Note, Points, or Question in English.
+- Every exercise and test answer row must include a short explanation in `{{LANGUAGE_OF_EXPLANATION}}`; do not leave explanation/note cells blank.
+- For test answers, include both the explanation and the points.
 
 Required structure:
 
-# Answers: {{TOPIC}}
+# Respostas: {{TOPIC}}
 
-Level: {{LEVEL}}
+Nível: {{LEVEL}}
 
-## Exercises answer key
+## Gabarito dos exercícios
 
-| ID | Answer | Note |
+| ID | Resposta | Explicação |
 |---|---|---|
-| exercise number or item | answer | short note |
+| número do exercício ou item | resposta | explicação curta |
 
-## Test answer key
+## Gabarito do teste
 
-| ID | Answer | Points |
-|---|---|---|
-| question number | answer | points if available |
+| ID | Resposta | Explicação | Pontos |
+|---|---|---|---|
+| número da questão | resposta | explicação curta | pontos, se houver |
 
-## Story questions
+## Perguntas da história
 
-| Question | Answer |
+| Pergunta | Resposta |
 |---|---|
-| question | answer |
+| pergunta | resposta |

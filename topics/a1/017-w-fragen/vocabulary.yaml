@@ -1,0 +1,80 @@
+topic: W-Fragen
+level: A1
+words:
+  - german: wer
+    translation: quem
+    type: question_word
+    gender: null
+    plural: null
+    example: Wer bist du?
+    example_translation: Quem é você?
+  - german: was
+    translation: o quê
+    type: question_word
+    gender: null
+    plural: null
+    example: Was machst du?
+    example_translation: O que você faz?
+  - german: wo
+    translation: onde
+    type: question_word
+    gender: null
+    plural: null
+    example: Wo wohnst du?
+    example_translation: Onde você mora?
+  - german: woher
+    translation: de onde
+    type: question_word
+    gender: null
+    plural: null
+    example: Woher kommst du?
+    example_translation: De onde você vem?
+  - german: wohin
+    translation: para onde
+    type: question_word
+    gender: null
+    plural: null
+    example: Wohin gehst du?
+    example_translation: Para onde você vai?
+  - german: wann
+    translation: quando
+    type: question_word
+    gender: null
+    plural: null
+    example: Wann kommst du?
+    example_translation: Quando você vem?
+  - german: wie
+    translation: como
+    type: question_word
+    gender: null
+    plural: null
+    example: Wie heißt du?
+    example_translation: Como você se chama?
+  - german: warum
+    translation: por quê
+    type: question_word
+    gender: null
+    plural: null
+    example: Warum lernst du Deutsch?
+    example_translation: Por que você estuda alemão?
+  - german: wie viel
+    translation: quanto
+    type: question_phrase
+    gender: null
+    plural: null
+    example: Wie viel kostet das?
+    example_translation: Quanto custa isso?
+  - german: wie viele
+    translation: quantos, quantas
+    type: question_phrase
+    gender: null
+    plural: null
+    example: Wie viele Bücher hast du?
+    example_translation: Quantos livros você tem?
+  - german: gehen
+    translation: ir
+    type: verb
+    gender: null
+    plural: null
+    example: Wohin gehst du?
+    example_translation: Para onde você vai?

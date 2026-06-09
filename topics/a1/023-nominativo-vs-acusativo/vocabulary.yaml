@@ -1,0 +1,45 @@
+topic: Nominativo vs Acusativo
+level: A1
+words:
+- german: sehen
+  translation: ver
+  type: verb
+  gender: null
+  plural: null
+  example: Ich sehe den Mann.
+  example_translation: Eu vejo o homem.
+- german: kaufen
+  translation: comprar
+  type: verb
+  gender: null
+  plural: null
+  example: Sie kauft eine Tasche.
+  example_translation: Ela compra uma bolsa.
+- german: brauchen
+  translation: precisar de
+  type: verb
+  gender: null
+  plural: null
+  example: Wir brauchen das Buch.
+  example_translation: Nós precisamos do livro.
+- german: der Mann
+  translation: o homem
+  type: noun
+  gender: masculine
+  plural: die Männer
+  example: Der Mann sieht mich.
+  example_translation: O homem me vê.
+- german: die Frau
+  translation: a mulher
+  type: noun
+  gender: feminine
+  plural: die Frauen
+  example: Ich sehe die Frau.
+  example_translation: Eu vejo a mulher.
+- german: das Kind
+  translation: a criança
+  type: noun
+  gender: neuter
+  plural: die Kinder
+  example: Das Kind liest.
+  example_translation: A criança lê.

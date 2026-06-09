@@ -1,0 +1,148 @@
+topic: Apresentações com sein e heißen
+level: A1
+exercises:
+  - type: multiple_choice
+    instruction: Escolha a tradução correta.
+    items:
+      - question: Ich heiße Ana.
+        options:
+          - Eu me chamo Ana.
+          - Eu vejo Ana.
+          - Eu moro com Ana.
+        answer: Eu me chamo Ana.
+      - question: Wie heißt du?
+        options:
+          - Quem é você?
+          - Como você se chama?
+          - Onde você está?
+        answer: Como você se chama?
+      - question: Wer bist du?
+        options:
+          - Quem é você?
+          - Como você se chama?
+          - De onde você é?
+        answer: Quem é você?
+      - question: Das ist Lena.
+        options:
+          - Eu sou Lena.
+          - Esta é a Lena.
+          - Lena está aqui.
+        answer: Esta é a Lena.
+
+  - type: fill_blank
+    instruction: Complete com a forma correta de sein.
+    items:
+      - question: Ich ___ Ana.
+        answer: bin
+      - question: Du ___ Paul.
+        answer: bist
+      - question: Er ___ Lukas.
+        answer: ist
+      - question: Sie ___ Clara.
+        answer: ist
+      - question: Wer ___ Sie?
+        answer: sind
+      - question: Das ___ Maria.
+        answer: ist
+
+  - type: fill_blank
+    instruction: Complete com a forma correta de heißen.
+    items:
+      - question: Ich ___ Bruno.
+        answer: heiße
+      - question: Wie ___ du?
+        answer: heißt
+      - question: Du ___ Clara.
+        answer: heißt
+      - question: Er ___ Thomas.
+        answer: heißt
+      - question: Sie ___ Lena.
+        answer: heißt
+      - question: Wie ___ Sie?
+        answer: heißen
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta em alemão.
+    items:
+      - question: Meu nome é Ana.
+        options:
+          - Ich heiße Ana.
+          - Ich heißt Ana.
+          - Ich bin heiße Ana.
+        answer: Ich heiße Ana.
+      - question: Você é Paul.
+        options:
+          - Du ist Paul.
+          - Du bist Paul.
+          - Du bin Paul.
+        answer: Du bist Paul.
+      - question: Ele se chama Lukas.
+        options:
+          - Er heißt Lukas.
+          - Er heiße Lukas.
+          - Er ist heißt Lukas.
+        answer: Er heißt Lukas.
+      - question: Como a senhora se chama?
+        options:
+          - Wie heißt du?
+          - Wie heißen Sie?
+          - Wer bist du?
+        answer: Wie heißen Sie?
+
+  - type: fill_blank
+    instruction: Complete os diálogos.
+    items:
+      - question: "Hallo! Wie heißt du? - Ich ___ Ana."
+        answer: heiße
+      - question: "Ich heiße Bruno. ___ du? - Ich heiße Clara."
+        answer: Und
+      - question: "Wer bist du? - Ich ___ Paul."
+        answer: bin
+      - question: "Guten Tag. Wie ___ Sie? - Ich heiße Frau Weber."
+        answer: heißen
+      - question: "Ana, das ___ Lena. - Hallo, Lena!"
+        answer: ist
+
+  - type: translation
+    instruction: Traduza para o alemão.
+    items:
+      - question: Eu me chamo Ana.
+        answer: Ich heiße Ana.
+      - question: Como você se chama?
+        answer: Wie heißt du?
+      - question: Eu sou Bruno.
+        answer: Ich bin Bruno.
+      - question: Ela é Lena.
+        answer: Sie ist Lena.
+      - question: Ele se chama Thomas.
+        answer: Er heißt Thomas.
+      - question: Esta é a Maria.
+        answer: Das ist Maria.
+
+  - type: transformation
+    instruction: Transforme a frase conforme indicado.
+    items:
+      - question: Ich heiße Ana. -> pergunta com du
+        answer: Wie heißt du?
+      - question: Ich bin Paul. -> com du
+        answer: Du bist Paul.
+      - question: Du heißt Lukas. -> com er
+        answer: Er heißt Lukas.
+      - question: Du bist Clara. -> com sie
+        answer: Sie ist Clara.
+      - question: Wie heißt du? -> formal com Sie
+        answer: Wie heißen Sie?
+
+  - type: correction
+    instruction: Corrija a frase errada.
+    items:
+      - question: Ich bin heiße Ana.
+        answer: Ich heiße Ana.
+      - question: Du ist Paul.
+        answer: Du bist Paul.
+      - question: Wie bist du?
+        answer: Wie heißt du?
+      - question: Er heiße Lukas.
+        answer: Er heißt Lukas.
+      - question: Sie bist Lena.
+        answer: Sie ist Lena.

@@ -1,0 +1,35 @@
+topic: Artigos indefinidos ein, eine
+level: A1
+cards:
+  - front: ein Mann
+    back: um homem
+    example: Ein Mann ist hier.
+    example_translation: Um homem está aqui.
+  - front: eine Frau
+    back: uma mulher
+    example: Eine Frau kommt.
+    example_translation: Uma mulher vem.
+  - front: ein Kind
+    back: uma criança
+    example: Ein Kind spielt.
+    example_translation: Uma criança brinca.
+  - front: ein Buch
+    back: um livro
+    example: Das ist ein Buch.
+    example_translation: Isto é um livro.
+  - front: eine Lampe
+    back: uma lâmpada
+    example: Das ist eine Lampe.
+    example_translation: Isto é uma lâmpada.
+  - front: ein Tisch
+    back: uma mesa
+    example: Das ist ein Tisch.
+    example_translation: Isto é uma mesa.
+  - front: eine Frage
+    back: uma pergunta
+    example: Ich habe eine Frage.
+    example_translation: Eu tenho uma pergunta.
+  - front: ein Auto
+    back: um carro
+    example: Ich habe ein Auto.
+    example_translation: Eu tenho um carro.

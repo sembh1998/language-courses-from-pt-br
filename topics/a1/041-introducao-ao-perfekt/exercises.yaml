@@ -1,0 +1,88 @@
+topic: Introdução ao Perfekt
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete com `habe`, `hast`, `hat`, `haben` ou `bin`.
+    items:
+      - question: Ich ___ Deutsch gelernt.
+        answer: habe
+      - question: Du ___ Brot gekauft.
+        answer: hast
+      - question: Sie ___ Musik gehört.
+        answer: hat
+      - question: Wir ___ Pizza gemacht.
+        answer: haben
+      - question: Ich ___ nach Hause gegangen.
+        answer: bin
+  - type: multiple_choice
+    instruction: Escolha a frase correta no Perfekt.
+    items:
+      - question: Como dizer "Eu estudei alemão"?
+        options:
+          - Ich habe Deutsch gelernt.
+          - Ich Deutsch habe gelernt.
+          - Ich bin Deutsch gelernt.
+        answer: Ich habe Deutsch gelernt.
+      - question: Como dizer "Ela chegou cedo"?
+        options:
+          - Sie hat früh gekommen.
+          - Sie ist früh gekommen.
+          - Sie früh ist gekommen.
+        answer: Sie ist früh gekommen.
+      - question: Qual frase tem o particípio no fim?
+        options:
+          - Wir haben gehört Musik.
+          - Wir Musik gehört haben.
+          - Wir haben Musik gehört.
+        answer: Wir haben Musik gehört.
+  - type: matching
+    instruction: Associe o infinitivo ao particípio correto.
+    items:
+      - question: lernen
+        answer: gelernt
+      - question: kaufen
+        answer: gekauft
+      - question: machen
+        answer: gemacht
+      - question: gehen
+        answer: gegangen
+      - question: kommen
+        answer: gekommen
+  - type: transformation
+    instruction: Forme uma frase no Perfekt.
+    items:
+      - question: ich / Kaffee / trinken
+        answer: Ich habe Kaffee getrunken.
+      - question: du / Deutsch / lernen
+        answer: Du hast Deutsch gelernt.
+      - question: er / nach Hause / gehen
+        answer: Er ist nach Hause gegangen.
+      - question: wir / Musik / hören
+        answer: Wir haben Musik gehört.
+  - type: translation
+    instruction: Traduza para o alemão.
+    items:
+      - question: Eu comprei leite.
+        answer: Ich habe Milch gekauft.
+      - question: Nós fomos para Berlim.
+        answer: Wir sind nach Berlin gefahren.
+      - question: Ela fez esporte.
+        answer: Sie hat Sport gemacht.
+      - question: Você estudou ontem.
+        answer: Du hast gestern gelernt.
+  - type: fill_blank
+    instruction: Complete com o particípio correto.
+    items:
+      - question: Ich habe Tee ___. (trinken)
+        answer: getrunken
+      - question: Wir haben Fußball ___. (spielen)
+        answer: gespielt
+      - question: Sie ist nach Hause ___. (gehen)
+        answer: gegangen
+  - type: short_answer
+    instruction: Responda em alemão com uma frase no Perfekt.
+    items:
+      - question: Was hast du gestern gemacht?
+        answer: Ich habe Deutsch gelernt.
+      - question: Wohin bist du gegangen?
+        answer: Ich bin nach Hause gegangen.

@@ -1,0 +1,87 @@
+topic: "Nominativo: sujeito da frase"
+level: A1
+words:
+  - german: der Mann
+    translation: o homem
+    type: noun
+    gender: masculine
+    plural: die Männer
+    example: Der Mann kommt.
+    example_translation: O homem vem.
+  - german: die Frau
+    translation: a mulher
+    type: noun
+    gender: feminine
+    plural: die Frauen
+    example: Die Frau lernt.
+    example_translation: A mulher aprende.
+  - german: das Kind
+    translation: a criança
+    type: noun
+    gender: neuter
+    plural: die Kinder
+    example: Das Kind spielt.
+    example_translation: A criança brinca.
+  - german: der Hund
+    translation: o cachorro
+    type: noun
+    gender: masculine
+    plural: die Hunde
+    example: Der Hund schläft.
+    example_translation: O cachorro dorme.
+  - german: die Katze
+    translation: a gata; o gato
+    type: noun
+    gender: feminine
+    plural: die Katzen
+    example: Die Katze ist klein.
+    example_translation: O gato é pequeno.
+  - german: das Haus
+    translation: a casa
+    type: noun
+    gender: neuter
+    plural: die Häuser
+    example: Das Haus ist alt.
+    example_translation: A casa é antiga.
+  - german: die Kinder
+    translation: as crianças
+    type: noun
+    gender: plural
+    plural: null
+    example: Die Kinder spielen.
+    example_translation: As crianças brincam.
+  - german: ein Lehrer
+    translation: um professor
+    type: noun_phrase
+    gender: masculine
+    plural: Lehrer
+    example: Ein Lehrer wohnt hier.
+    example_translation: Um professor mora aqui.
+  - german: eine Lehrerin
+    translation: uma professora
+    type: noun_phrase
+    gender: feminine
+    plural: Lehrerinnen
+    example: Eine Lehrerin spricht Deutsch.
+    example_translation: Uma professora fala alemão.
+  - german: ein Auto
+    translation: um carro
+    type: noun_phrase
+    gender: neuter
+    plural: Autos
+    example: Ein Auto steht dort.
+    example_translation: Um carro está ali.
+  - german: ich
+    translation: eu
+    type: pronoun
+    gender: null
+    plural: null
+    example: Ich lerne Deutsch.
+    example_translation: Eu aprendo alemão.
+  - german: wir
+    translation: nós
+    type: pronoun
+    gender: null
+    plural: null
+    example: Wir wohnen in Brasilien.
+    example_translation: Nós moramos no Brasil.

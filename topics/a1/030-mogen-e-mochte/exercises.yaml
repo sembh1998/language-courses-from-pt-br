@@ -1,0 +1,81 @@
+topic: Mögen e möchte
+level: A1
+exercises:
+- type: fill_blank
+  instruction: Complete com a forma correta de mögen.
+  items:
+  - question: Ich ___ Kaffee.
+    answer: mag
+    explanation: Ich usa mag.
+  - question: Du ___ Musik.
+    answer: magst
+    explanation: Du usa magst.
+  - question: Er ___ Tee.
+    answer: mag
+    explanation: Er usa mag.
+  - question: Wir ___ Deutsch.
+    answer: mögen
+    explanation: Wir usa mögen.
+- type: multiple_choice
+  instruction: Escolha a opção correta.
+  items:
+  - question: 'Pedido educado:'
+    answer: Ich möchte Wasser.
+    explanation: Möchte expressa gostaria.
+    options:
+    - Ich möchte Wasser.
+    - Ich mag Wasser.
+    - Ich muss Wasser.
+  - question: 'Frase de gosto:'
+    answer: Ich mag Brot.
+    explanation: Mag indica gostar.
+    options:
+    - Ich möchte Brot.
+    - Ich mag Brot.
+    - Ich darf Brot.
+  - question: 'Pergunta formal educada:'
+    answer: Möchten Sie Kaffee?
+    explanation: Möchten Sie é formal e educado.
+    options:
+    - Magst du Kaffee?
+    - Ich mag Kaffee.
+    - Möchten Sie Kaffee?
+- type: translation
+  instruction: Traduza para o alemão.
+  items:
+  - question: Eu gosto de pizza.
+    answer: Ich mag Pizza.
+    explanation: Mag indica gosto.
+  - question: Eu gostaria de uma água.
+    answer: Ich möchte ein Wasser.
+    explanation: Möchte é pedido educado.
+  - question: Você gostaria de chá?
+    answer: Möchtest du Tee?
+    explanation: Du usa möchtest.
+- type: rewrite
+  instruction: Reescreva como pedido educado.
+  items:
+  - question: Ich will Kaffee.
+    answer: Ich möchte Kaffee.
+    explanation: Möchte é mais educado.
+  - question: Wir wollen Wasser.
+    answer: Wir möchten Wasser.
+    explanation: Wir usa möchten.
+  - question: Ich will bitte Brot.
+    answer: Ich möchte bitte Brot.
+    explanation: Bitte combina com möchte.
+- type: fill_blank
+  instruction: Use mag ou möchte.
+  items:
+  - question: Anna ___ Kuchen.
+    answer: mag
+    explanation: É preferência.
+  - question: Ich ___ bitte zahlen.
+    answer: möchte
+    explanation: É pedido.
+  - question: ___ du Schokolade?
+    answer: Magst
+    explanation: Pergunta sobre gosto.
+  - question: Wir ___ bitte Tee.
+    answer: möchten
+    explanation: Pedido com wir usa möchten.

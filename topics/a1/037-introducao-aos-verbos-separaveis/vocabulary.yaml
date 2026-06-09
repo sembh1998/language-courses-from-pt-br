@@ -1,0 +1,59 @@
+topic: Introdução aos verbos separáveis
+level: A1
+words:
+  - german: aufstehen
+    translation: levantar-se
+    type: verb
+    gender: null
+    plural: null
+    example: Ich stehe früh auf.
+    example_translation: Eu me levanto cedo.
+  - german: einkaufen
+    translation: fazer compras
+    type: verb
+    gender: null
+    plural: null
+    example: Wir kaufen heute ein.
+    example_translation: Nós fazemos compras hoje.
+  - german: anrufen
+    translation: ligar para alguém
+    type: verb
+    gender: null
+    plural: null
+    example: Ich rufe meine Mutter an.
+    example_translation: Eu ligo para minha mãe.
+  - german: mitkommen
+    translation: vir junto
+    type: verb
+    gender: null
+    plural: null
+    example: Kommst du mit?
+    example_translation: Você vem junto?
+  - german: fernsehen
+    translation: assistir TV
+    type: verb
+    gender: null
+    plural: null
+    example: Er sieht abends fern.
+    example_translation: Ele assiste TV à noite.
+  - german: früh
+    translation: cedo
+    type: adverb
+    gender: null
+    plural: null
+    example: Sie steht früh auf.
+    example_translation: Ela se levanta cedo.
+  - german: heute
+    translation: hoje
+    type: adverb
+    gender: null
+    plural: null
+    example: Heute kaufe ich ein.
+    example_translation: Hoje eu faço compras.
+  - german: am Abend
+    translation: à noite
+    type: phrase
+    gender: null
+    plural: null
+    example: Am Abend sehen wir fern.
+    example_translation: À noite nós assistimos TV.

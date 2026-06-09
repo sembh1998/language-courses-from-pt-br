@@ -1,0 +1,35 @@
+topic: Artigos definidos der, die, das
+level: A1
+cards:
+  - front: der Mann
+    back: o homem
+    example: Der Mann ist hier.
+    example_translation: O homem está aqui.
+  - front: die Frau
+    back: a mulher
+    example: Die Frau ist nett.
+    example_translation: A mulher é simpática.
+  - front: das Kind
+    back: a criança
+    example: Das Kind spielt.
+    example_translation: A criança brinca.
+  - front: der Tisch
+    back: a mesa
+    example: Der Tisch ist klein.
+    example_translation: A mesa é pequena.
+  - front: die Lampe
+    back: a lâmpada
+    example: Die Lampe ist neu.
+    example_translation: A lâmpada é nova.
+  - front: das Buch
+    back: o livro
+    example: Das Buch ist gut.
+    example_translation: O livro é bom.
+  - front: die Kinder
+    back: as crianças
+    example: Die Kinder lernen.
+    example_translation: As crianças aprendem.
+  - front: das Mädchen
+    back: a menina
+    example: Das Mädchen kommt.
+    example_translation: A menina vem.

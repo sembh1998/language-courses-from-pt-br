@@ -1,0 +1,115 @@
+topic: Informações pessoais básicas
+level: A1
+words:
+  - german: der Name
+    translation: o nome
+    type: noun
+    gender: masculine
+    plural: die Namen
+    example: Mein Name ist Ana.
+    example_translation: Meu nome é Ana.
+  - german: das Land
+    translation: o país
+    type: noun
+    gender: neuter
+    plural: die Länder
+    example: Brasilien ist ein Land.
+    example_translation: O Brasil é um país.
+  - german: die Stadt
+    translation: a cidade
+    type: noun
+    gender: feminine
+    plural: die Städte
+    example: Ich wohne in einer Stadt.
+    example_translation: Eu moro em uma cidade.
+  - german: die Nationalität
+    translation: a nacionalidade
+    type: noun
+    gender: feminine
+    plural: die Nationalitäten
+    example: Meine Nationalität ist brasilianisch.
+    example_translation: Minha nacionalidade é brasileira.
+  - german: der Beruf
+    translation: a profissão
+    type: noun
+    gender: masculine
+    plural: die Berufe
+    example: Was bist du von Beruf?
+    example_translation: Qual é a sua profissão?
+  - german: das Alter
+    translation: a idade
+    type: noun
+    gender: neuter
+    plural: null
+    example: Mein Alter ist 25.
+    example_translation: Minha idade é 25.
+  - german: heißen
+    translation: chamar-se
+    type: verb
+    gender: null
+    plural: null
+    example: Ich heiße Maria.
+    example_translation: Eu me chamo Maria.
+  - german: kommen aus
+    translation: vir de
+    type: expression
+    gender: null
+    plural: null
+    example: Ich komme aus Brasilien.
+    example_translation: Eu venho do Brasil.
+  - german: wohnen in
+    translation: morar em
+    type: expression
+    gender: null
+    plural: null
+    example: Ich wohne in Berlin.
+    example_translation: Eu moro em Berlim.
+  - german: Brasilien
+    translation: Brasil
+    type: country
+    gender: null
+    plural: null
+    example: Ich komme aus Brasilien.
+    example_translation: Eu venho do Brasil.
+  - german: Deutschland
+    translation: Alemanha
+    type: country
+    gender: null
+    plural: null
+    example: Ich wohne in Deutschland.
+    example_translation: Eu moro na Alemanha.
+  - german: Brasilianer
+    translation: brasileiro
+    type: nationality
+    gender: masculine
+    plural: Brasilianer
+    example: Ich bin Brasilianer.
+    example_translation: Eu sou brasileiro.
+  - german: Brasilianerin
+    translation: brasileira
+    type: nationality
+    gender: feminine
+    plural: Brasilianerinnen
+    example: Ich bin Brasilianerin.
+    example_translation: Eu sou brasileira.
+  - german: Student
+    translation: estudante
+    type: noun
+    gender: masculine
+    plural: Studenten
+    example: Ich bin Student.
+    example_translation: Eu sou estudante.
+  - german: Studentin
+    translation: estudante
+    type: noun
+    gender: feminine
+    plural: Studentinnen
+    example: Ich bin Studentin.
+    example_translation: Eu sou estudante.
+  - german: Jahre alt
+    translation: anos de idade
+    type: expression
+    gender: null
+    plural: null
+    example: Ich bin 20 Jahre alt.
+    example_translation: Eu tenho 20 anos.

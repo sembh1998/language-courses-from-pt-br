@@ -4,6 +4,6 @@
 #let topic = sys.inputs.at("topic", default: "topics/a1/001-alfabeto-alemao-e-sons-basicos")
 #let lesson = read(topic + "/lesson.md")
 
-#show: doc => workbook(doc, title: "German Lesson", kind: "Lesson", accent: teal, margin: (x: 1.8cm, y: 1.85cm), body-size: 10.6pt)
+#show: doc => workbook(doc, title: "Lição de alemão", kind: "Lição", accent: teal, margin: (x: 1.3cm, y: 1.3cm), body-size: 9.9pt)
 
 #render(lesson)

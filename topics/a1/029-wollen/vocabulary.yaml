@@ -1,0 +1,45 @@
+topic: Wollen
+level: A1
+words:
+- german: wollen
+  translation: querer
+  type: modal verb
+  gender: null
+  plural: null
+  example: Ich will Deutsch lernen.
+  example_translation: Eu quero aprender alemão.
+- german: ich will
+  translation: eu quero
+  type: verb form
+  gender: null
+  plural: null
+  example: Ich will kommen.
+  example_translation: Eu quero vir.
+- german: du willst
+  translation: você quer
+  type: verb form
+  gender: null
+  plural: null
+  example: Du willst arbeiten.
+  example_translation: Você quer trabalhar.
+- german: er will
+  translation: ele quer
+  type: verb form
+  gender: null
+  plural: null
+  example: Er will essen.
+  example_translation: Ele quer comer.
+- german: wir wollen
+  translation: nós queremos
+  type: verb form
+  gender: null
+  plural: null
+  example: Wir wollen reisen.
+  example_translation: Nós queremos viajar.
+- german: möchte
+  translation: gostaria de
+  type: verb form
+  gender: null
+  plural: null
+  example: Ich möchte Kaffee.
+  example_translation: Eu gostaria de café.

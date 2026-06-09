@@ -1,0 +1,55 @@
+topic: Casa e quarto
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual artigo combina com `Wohnung`?
+    options:
+      - die
+      - der
+      - das
+    answer: die
+  - type: multiple_choice
+    question: Qual palavra significa "banheiro"?
+    options:
+      - das Bett
+      - das Bad
+      - der Tisch
+    answer: das Bad
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Die Zimmer ist hell.
+      - Der Küche ist hell.
+      - Das Zimmer ist hell.
+    answer: Das Zimmer ist hell.
+  - type: fill_blank
+    question: ___ Bett ist bequem.
+    answer: Das
+  - type: fill_blank
+    question: Die ___ ist klein. (cozinha)
+    answer: Küche
+  - type: translation
+    question: Meu quarto é bonito.
+    answer: Mein Zimmer ist schön.
+  - type: translation
+    question: O armário é grande.
+    answer: Der Schrank ist groß.
+  - type: multiple_choice
+    question: "`der Stuhl` significa:"
+    options:
+      - a cadeira
+      - a mesa
+      - a bolsa
+    answer: a cadeira
+  - type: fill_blank
+    question: Ich wohne in einem ___. (casa)
+    answer: Haus
+  - type: translation
+    question: A bolsa está aqui.
+    answer: Die Tasche ist hier.
+  - type: short_answer
+    question: Descreva um apartamento em alemão.
+    answer: Die Wohnung ist groß.
+  - type: short_answer
+    question: Escreva uma frase com `der Tisch`.
+    answer: Der Tisch ist neu.

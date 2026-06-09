@@ -1,0 +1,63 @@
+topic: "Nominativo: sujeito da frase"
+level: A1
+questions:
+  - type: multiple_choice
+    question: Escolha a opção com menino como sujeito.
+    options:
+      - Der Junge spielt.
+      - Den Junge spielt.
+      - Dem Junge spielt.
+    answer: Der Junge spielt.
+  - type: multiple_choice
+    question: Escolha a opção com mãe como sujeito.
+    options:
+      - Der Mutter kocht.
+      - Die Mutter kocht.
+      - Den Mutter kocht.
+    answer: Die Mutter kocht.
+  - type: multiple_choice
+    question: Escolha a opção com menina como sujeito.
+    options:
+      - Die Mädchen tanzt.
+      - Der Mädchen tanzt.
+      - Das Mädchen tanzt.
+    answer: Das Mädchen tanzt.
+  - type: fill_blank
+    question: ___ Vater arbeitet heute.
+    answer: Der
+  - type: fill_blank
+    question: ___ Schwester hört Musik.
+    answer: Die
+  - type: fill_blank
+    question: ___ Baby schläft.
+    answer: Das
+  - type: identify
+    question: "Identifique o sujeito: Meine Freundin wohnt in Köln."
+    answer: Meine Freundin
+  - type: identify
+    question: "Identifique o sujeito: Ihr seid sehr nett."
+    answer: Ihr
+  - type: fill_blank
+    question: "Complete com ein ou eine: ___ Arzt ist hier."
+    answer: Ein
+  - type: fill_blank
+    question: "Complete com ein ou eine: ___ Studentin liest."
+    answer: Eine
+  - type: transformation
+    question: "Reescreva com pronome: Der Vater arbeitet."
+    answer: Er arbeitet.
+  - type: transformation
+    question: "Reescreva com pronome: Das Mädchen lacht."
+    answer: Es lacht.
+  - type: translation
+    question: "Traduza: A mãe cozinha."
+    answer: Die Mutter kocht.
+  - type: translation
+    question: "Traduza: Um bebê dorme."
+    answer: Ein Baby schläft.
+  - type: error_correction
+    question: "Corrija: Den Junge spielt."
+    answer: Der Junge spielt.
+  - type: error_correction
+    question: "Corrija: Eine Arzt ist hier."
+    answer: Ein Arzt ist hier.

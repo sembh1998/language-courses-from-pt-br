@@ -1,0 +1,35 @@
+topic: Família
+level: A1
+cards:
+  - front: der Vater
+    back: o pai
+    example: Mein Vater ist nett.
+    example_translation: Meu pai é simpático.
+  - front: die Mutter
+    back: a mãe
+    example: Meine Mutter kocht gern.
+    example_translation: Minha mãe gosta de cozinhar.
+  - front: der Bruder
+    back: o irmão
+    example: Mein Bruder ist jung.
+    example_translation: Meu irmão é jovem.
+  - front: die Schwester
+    back: a irmã
+    example: Meine Schwester wohnt in Berlin.
+    example_translation: Minha irmã mora em Berlim.
+  - front: die Eltern
+    back: os pais
+    example: Meine Eltern arbeiten viel.
+    example_translation: Meus pais trabalham muito.
+  - front: die Geschwister
+    back: irmãos e irmãs
+    example: Ich habe zwei Geschwister.
+    example_translation: Eu tenho dois irmãos/irmãs.
+  - front: verheiratet
+    back: casado/casada
+    example: Maria ist verheiratet.
+    example_translation: Maria é casada.
+  - front: ledig
+    back: solteiro/solteira
+    example: Ich bin ledig.
+    example_translation: Eu sou solteiro/solteira.

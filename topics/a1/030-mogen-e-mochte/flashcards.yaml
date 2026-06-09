@@ -1,0 +1,23 @@
+topic: Mögen e möchte
+level: A1
+cards:
+- front: ich mag
+  back: eu gosto
+  example: Ich mag Pizza.
+  example_translation: Eu gosto de pizza.
+- front: du magst
+  back: você gosta
+  example: Magst du Tee?
+  example_translation: Você gosta de chá?
+- front: ich möchte
+  back: eu gostaria
+  example: Ich möchte Wasser.
+  example_translation: Eu gostaria de água.
+- front: wir möchten
+  back: nós gostaríamos
+  example: Wir möchten zahlen.
+  example_translation: Nós gostaríamos de pagar.
+- front: Möchten Sie ...?
+  back: O(A) senhor(a) gostaria de ...?
+  example: Möchten Sie Kaffee?
+  example_translation: O(A) senhor(a) gostaria de café?

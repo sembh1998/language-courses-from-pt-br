@@ -1,0 +1,45 @@
+topic: Nicht
+level: A1
+words:
+- german: nicht
+  translation: não
+  type: particle
+  gender: null
+  plural: null
+  example: Ich komme nicht.
+  example_translation: Eu não venho.
+- german: kommen
+  translation: vir
+  type: verb
+  gender: null
+  plural: null
+  example: Er kommt nicht.
+  example_translation: Ele não vem.
+- german: lernen
+  translation: aprender
+  type: verb
+  gender: null
+  plural: null
+  example: Wir lernen nicht heute.
+  example_translation: Nós não estudamos hoje.
+- german: gut
+  translation: bom / bem
+  type: adjective
+  gender: null
+  plural: null
+  example: Das ist nicht gut.
+  example_translation: Isso não é bom.
+- german: heute
+  translation: hoje
+  type: adverb
+  gender: null
+  plural: null
+  example: Ich arbeite heute nicht.
+  example_translation: Eu não trabalho hoje.
+- german: zu Hause
+  translation: em casa
+  type: phrase
+  gender: null
+  plural: null
+  example: Sie ist nicht zu Hause.
+  example_translation: Ela não está em casa.

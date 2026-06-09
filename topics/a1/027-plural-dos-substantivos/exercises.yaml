@@ -1,0 +1,78 @@
+topic: Plural dos substantivos
+level: A1
+exercises:
+- type: fill_blank
+  instruction: Escreva o plural com artigo.
+  items:
+  - question: der Tag
+    answer: die Tage
+    explanation: Muitos masculinos usam -e.
+  - question: das Kind
+    answer: die Kinder
+    explanation: Kind faz plural em -er.
+  - question: die Frau
+    answer: die Frauen
+    explanation: Muitos femininos usam -en.
+  - question: das Auto
+    answer: die Autos
+    explanation: Palavras internacionais frequentemente usam -s.
+- type: multiple_choice
+  instruction: Escolha o plural correto.
+  items:
+  - question: der Apfel
+    options:
+    - die Äpfel
+    - die Apfeln
+    - die Apfels
+    answer: die Äpfel
+    explanation: Apfel ganha Umlaut.
+  - question: die Tasche
+    options:
+    - die Tasche
+    - die Tascher
+    - die Taschen
+    answer: die Taschen
+    explanation: Feminino em -e costuma usar -n.
+  - question: der Lehrer
+    options:
+    - die Lehreren
+    - die Lehrers
+    - die Lehrer
+    answer: die Lehrer
+    explanation: Muitas profissões em -er não mudam no plural.
+- type: classification
+  instruction: Classifique o padrão do plural.
+  items:
+  - question: das Buch -> die Bücher
+    answer: -er com Umlaut
+    explanation: Buch recebe -er e Umlaut.
+  - question: die Lampe -> die Lampen
+    answer: -n/-en
+    explanation: Lampe adiciona -n.
+  - question: das Café -> die Cafés
+    answer: -s
+    explanation: Palavra internacional; plural em -s.
+- type: correction
+  instruction: Corrija o plural.
+  items:
+  - question: die Kinds
+    answer: die Kinder
+    explanation: Kind não usa -s.
+  - question: die Fraus
+    answer: die Frauen
+    explanation: Frau usa -en.
+  - question: die Apfel
+    answer: die Äpfel
+    explanation: Apfel precisa de Umlaut no plural.
+- type: translation
+  instruction: Traduza para o alemão.
+  items:
+  - question: As crianças brincam.
+    answer: Die Kinder spielen.
+    explanation: 'Plural de Kind: Kinder.'
+  - question: Eu compro duas bolsas.
+    answer: Ich kaufe zwei Taschen.
+    explanation: Depois de número, use plural sem artigo.
+  - question: Os carros são novos.
+    answer: Die Autos sind neu.
+    explanation: Auto faz plural em -s.

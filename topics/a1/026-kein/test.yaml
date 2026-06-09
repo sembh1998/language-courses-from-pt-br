@@ -1,0 +1,63 @@
+topic: Kein
+level: A1
+questions:
+- type: fill_blank
+  question: Lena hat ___ Bruder.
+  answer: keinen
+  explanation: Bruder é masculino e objeto de haben.
+- type: fill_blank
+  question: Das ist ___ Schule.
+  answer: keine
+  explanation: Schule é feminino.
+- type: multiple_choice
+  question: Qual está correta?
+  options:
+  - Ich esse kein Brot.
+  - Ich esse keine Brot.
+  - Ich esse keinen Brot.
+  answer: Ich esse kein Brot.
+  explanation: Brot é neutro.
+- type: classification
+  question: Das ist ___ teuer.
+  answer: nicht
+  explanation: Teuer é adjetivo.
+- type: translation
+  question: 'Traduza: Ela não tem caneta.'
+  answer: Sie hat keinen Stift.
+  explanation: Stift é masculino no acusativo.
+- type: correction
+  question: 'Corrija: Wir haben nicht Auto.'
+  answer: Wir haben kein Auto.
+  explanation: Auto como substantivo indefinido usa kein.
+- type: multiple_choice
+  question: Qual nega plural?
+  options:
+  - keinen Bücher
+  - kein Bücher
+  - keine Bücher
+  answer: keine Bücher
+  explanation: Plural usa keine.
+- type: fill_blank
+  question: Ich finde ___ Schlüssel.
+  answer: keinen
+  explanation: Schlüssel é masculino objeto.
+- type: translation
+  question: 'Traduza: Isso não é uma mesa.'
+  answer: Das ist kein Tisch.
+  explanation: 'Tisch é masculino no nominativo: kein.'
+- type: multiple_choice
+  question: Quando usar kein?
+  options:
+  - Para negar adjetivos
+  - Para negar substantivos com ein ou sem artigo
+  - Somente depois de sein
+  answer: Para negar substantivos com ein ou sem artigo
+  explanation: Essa é a função principal de kein.
+- type: fill_blank
+  question: Wir trinken ___ Milch.
+  answer: keine
+  explanation: Milch é feminino.
+- type: correction
+  question: 'Corrija: Er ist kein alt.'
+  answer: Er ist nicht alt.
+  explanation: Alt é adjetivo; use nicht.

@@ -1,0 +1,94 @@
+topic: Dias, meses e estações
+level: A1
+words:
+  - german: der Montag
+    translation: a segunda-feira
+    type: noun
+    gender: masculine
+    plural: die Montage
+    example: Heute ist Montag.
+    example_translation: Hoje é segunda-feira.
+  - german: der Dienstag
+    translation: a terça-feira
+    type: noun
+    gender: masculine
+    plural: die Dienstage
+    example: Am Dienstag arbeite ich.
+    example_translation: Na terça-feira eu trabalho.
+  - german: der Mittwoch
+    translation: a quarta-feira
+    type: noun
+    gender: masculine
+    plural: die Mittwoche
+    example: Mittwoch ist gut.
+    example_translation: Quarta-feira é bom.
+  - german: der Donnerstag
+    translation: a quinta-feira
+    type: noun
+    gender: masculine
+    plural: die Donnerstage
+    example: Am Donnerstag lerne ich.
+    example_translation: Na quinta-feira eu estudo.
+  - german: der Freitag
+    translation: a sexta-feira
+    type: noun
+    gender: masculine
+    plural: die Freitage
+    example: Freitag ist frei.
+    example_translation: Sexta-feira é livre.
+  - german: der Samstag
+    translation: o sábado
+    type: noun
+    gender: masculine
+    plural: die Samstage
+    example: Am Samstag koche ich.
+    example_translation: No sábado eu cozinho.
+  - german: der Sonntag
+    translation: o domingo
+    type: noun
+    gender: masculine
+    plural: die Sonntage
+    example: Sonntag ist ruhig.
+    example_translation: Domingo é tranquilo.
+  - german: der Januar
+    translation: janeiro
+    type: noun
+    gender: masculine
+    plural: null
+    example: Im Januar ist es kalt.
+    example_translation: Em janeiro faz frio.
+  - german: der Juli
+    translation: julho
+    type: noun
+    gender: masculine
+    plural: null
+    example: Mein Geburtstag ist im Juli.
+    example_translation: Meu aniversário é em julho.
+  - german: der Frühling
+    translation: a primavera
+    type: noun
+    gender: masculine
+    plural: die Frühlinge
+    example: Im Frühling ist es schön.
+    example_translation: Na primavera está bonito.
+  - german: der Sommer
+    translation: o verão
+    type: noun
+    gender: masculine
+    plural: die Sommer
+    example: Im Sommer ist es warm.
+    example_translation: No verão faz calor.
+  - german: der Herbst
+    translation: o outono
+    type: noun
+    gender: masculine
+    plural: die Herbste
+    example: Im Herbst regnet es oft.
+    example_translation: No outono chove frequentemente.
+  - german: der Winter
+    translation: o inverno
+    type: noun
+    gender: masculine
+    plural: die Winter
+    example: Im Winter ist es kalt.
+    example_translation: No inverno faz frio.

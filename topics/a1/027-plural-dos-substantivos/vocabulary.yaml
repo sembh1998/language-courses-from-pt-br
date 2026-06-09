@@ -1,0 +1,52 @@
+topic: Plural dos substantivos
+level: A1
+words:
+- german: der Tag
+  translation: o dia
+  type: noun
+  gender: masculine
+  plural: die Tage
+  example: Zwei Tage sind frei.
+  example_translation: Dois dias estão livres.
+- german: das Kind
+  translation: a criança
+  type: noun
+  gender: neuter
+  plural: die Kinder
+  example: Die Kinder spielen.
+  example_translation: As crianças brincam.
+- german: die Frau
+  translation: a mulher
+  type: noun
+  gender: feminine
+  plural: die Frauen
+  example: Die Frauen arbeiten.
+  example_translation: As mulheres trabalham.
+- german: die Tasche
+  translation: a bolsa
+  type: noun
+  gender: feminine
+  plural: die Taschen
+  example: Die Taschen sind neu.
+  example_translation: As bolsas são novas.
+- german: das Auto
+  translation: o carro
+  type: noun
+  gender: neuter
+  plural: die Autos
+  example: Die Autos sind rot.
+  example_translation: Os carros são vermelhos.
+- german: der Apfel
+  translation: a maçã
+  type: noun
+  gender: masculine
+  plural: die Äpfel
+  example: Die Äpfel sind gut.
+  example_translation: As maçãs são boas.
+- german: der Lehrer
+  translation: o professor
+  type: noun
+  gender: masculine
+  plural: die Lehrer
+  example: Die Lehrer kommen.
+  example_translation: Os professores vêm.

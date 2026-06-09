@@ -1,0 +1,59 @@
+topic: Introdução ao Perfekt
+level: A1
+words:
+  - german: ich habe gelernt
+    translation: eu estudei; eu aprendi
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich habe gestern Deutsch gelernt.
+    example_translation: Eu estudei alemão ontem.
+  - german: ich habe gekauft
+    translation: eu comprei
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich habe Brot gekauft.
+    example_translation: Eu comprei pão.
+  - german: ich habe gehört
+    translation: eu ouvi
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich habe Musik gehört.
+    example_translation: Eu ouvi música.
+  - german: ich habe gemacht
+    translation: eu fiz
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich habe Sport gemacht.
+    example_translation: Eu fiz esporte.
+  - german: ich bin gegangen
+    translation: eu fui; eu caminhei
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich bin nach Hause gegangen.
+    example_translation: Eu fui para casa.
+  - german: ich bin gekommen
+    translation: eu vim; eu cheguei
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich bin spät gekommen.
+    example_translation: Eu cheguei tarde.
+  - german: ich bin gefahren
+    translation: eu fui de transporte; eu viajei
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich bin nach München gefahren.
+    example_translation: Eu fui para Munique.
+  - german: gestern
+    translation: ontem
+    type: adverb
+    gender: null
+    plural: null
+    example: Gestern habe ich gekocht.
+    example_translation: Ontem eu cozinhei.

@@ -1,0 +1,55 @@
+topic: Conjunções simples sem inversão
+level: A1
+questions:
+- question: Qual conjunção soma ideias?
+  answer: und
+  explanation: Und soma.
+  options:
+  - und
+  - aber
+  - denn
+- question: 'Complete: Ich bleibe, ___ ich bin krank.'
+  answer: denn
+  explanation: Denn dá motivo.
+  options:
+  - aber
+  - denn
+  - oder
+- question: 'Complete: nicht Tee, ___ Kaffee.'
+  answer: sondern
+  explanation: Sondern corrige negação.
+  options:
+  - und
+  - aber
+  - sondern
+- question: Kommst du heute ___ morgen?
+  answer: oder
+  explanation: Oder mostra alternativa.
+- question: Ich lerne, ___ ich habe einen Test.
+  answer: denn
+  explanation: Denn explica a razão.
+- question: Eu cozinho e ela lê.
+  answer: Ich koche und sie liest.
+  explanation: Und sem inversão.
+- question: Ele vem, mas ele fica pouco.
+  answer: Er kommt, aber er bleibt kurz.
+  explanation: Aber sem inversão.
+- question: Ich mag Tee. Ich mag Kaffee. (und)
+  answer: Ich mag Tee und ich mag Kaffee.
+  explanation: Und soma ideias.
+- question: Qual frase está correta?
+  answer: Ich gehe, denn ich bin müde.
+  explanation: Denn não exige inversão.
+  options:
+  - Ich gehe, denn bin ich müde.
+  - Ich gehe, denn ich bin müde.
+  - Ich gehe, denn müde ich bin.
+- question: Das ist nicht mein Buch, ___ dein Buch.
+  answer: sondern
+  explanation: Correção após nicht.
+- question: Café ou água?
+  answer: Kaffee oder Wasser?
+  explanation: Oder para escolha.
+- question: Ich habe Zeit. Ich komme nicht. (aber)
+  answer: Ich habe Zeit, aber ich komme nicht.
+  explanation: Aber indica contraste.

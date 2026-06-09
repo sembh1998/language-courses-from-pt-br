@@ -1,0 +1,63 @@
+topic: Plural dos substantivos
+level: A1
+questions:
+- type: fill_blank
+  question: 'Plural de der Hund: ___ Hunde'
+  answer: die
+  explanation: Todo plural com artigo definido usa die.
+- type: multiple_choice
+  question: Qual é o plural de das Buch?
+  options:
+  - die Buchs
+  - die Buchen
+  - die Bücher
+  answer: die Bücher
+  explanation: Buch faz plural -er com Umlaut.
+- type: fill_blank
+  question: die Mutter -> die ___
+  answer: Mütter
+  explanation: Mutter muda com Umlaut.
+- type: translation
+  question: 'Traduza: Os professores estão aqui.'
+  answer: Die Lehrer sind hier.
+  explanation: Lehrer não muda no plural.
+- type: correction
+  question: 'Corrija: die Autosen'
+  answer: die Autos
+  explanation: Auto usa -s.
+- type: multiple_choice
+  question: Qual forma está correta?
+  options:
+  - die Frauen
+  - die Fraue
+  - die Fraus
+  answer: die Frauen
+  explanation: Frau usa -en.
+- type: classification
+  question: der Mann -> die Männer
+  answer: -er com Umlaut
+  explanation: Mann recebe -er e Umlaut.
+- type: fill_blank
+  question: die Frage -> die ___
+  answer: Fragen
+  explanation: 'Feminino em -e: adiciona -n.'
+- type: translation
+  question: 'Traduza: Eu leio dois livros.'
+  answer: Ich lese zwei Bücher.
+  explanation: Buch plural é Bücher.
+- type: multiple_choice
+  question: Qual regra geral é verdadeira?
+  options:
+  - Todos os plurais terminam em -s
+  - O artigo definido plural é die
+  - Plural nunca tem Umlaut
+  answer: O artigo definido plural é die
+  explanation: Die é o artigo definido do plural.
+- type: correction
+  question: 'Corrija: die Tager'
+  answer: die Tage
+  explanation: Tag usa -e.
+- type: fill_blank
+  question: das Hotel -> die ___
+  answer: Hotels
+  explanation: Hotel usa plural em -s.

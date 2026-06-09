@@ -1,12 +1,12 @@
 # Regras de leitura essenciais
 
-Level: A1
+Nível: A1
 
-## Goal
+## Objetivo
 
 Ler palavras alemãs simples reconhecendo combinações frequentes de letras e sons.
 
-## Explanation
+## Explicação
 
 O alemão costuma ser mais regular na leitura do que o português, mas algumas combinações de letras precisam ser memorizadas desde o início. Nesta lição, o objetivo não é ter pronúncia perfeita, e sim evitar erros básicos na hora de ler palavras comuns.
 
@@ -20,9 +20,9 @@ A combinação **sch** tem som parecido com o **ch** de **chá**, como em **Schu
 
 Algumas consoantes também são diferentes do português. **z** soa como **ts**, como em **Zeit**. **v** muitas vezes soa como **f**, como em **Vater**. **w** soa como **v** português, como em **Wasser**. **j** soa como **i** ou **y**, como em **ja**.
 
-## Examples
+## Exemplos
 
-| German | Translation | Note |
+| Alemão | Tradução | Observação |
 |---|---|---|
 | Das ist mein Buch. | Este é meu livro. | **ei** soa como **ai**; **ch** em **Buch** é ach-Laut. |
 | Sie lernt Deutsch. | Ela aprende alemão. | **ie** soa como **i longo**; **eu** soa como **ói**. |
@@ -37,7 +37,7 @@ Algumas consoantes também são diferentes do português. **z** soa como **ts**,
 | Mein Vater trinkt Wasser. | Meu pai bebe água. | **v** em **Vater** soa como **f**; **w** em **Wasser** soa como **v**. |
 | Ja, ich lerne Deutsch. | Sim, eu aprendo alemão. | **j** soa como **i/y**. |
 
-## Common mistakes
+## Erros comuns
 
 - Ler **ei** como **ei** do português. Em alemão, **mein** soa mais como **main**.
 - Ler **ie** como duas vogais separadas. Em alemão, **sie** tem **i longo**.
@@ -46,6 +46,6 @@ Algumas consoantes também são diferentes do português. **z** soa como **ts**,
 - Ler **sch**, **sp** e **st** no início como no português. Em alemão, **Schule**, **spielen** e **stehen** têm som inicial com **sh**.
 - Ler **w** como **u** ou **v** como **v** português em palavras comuns como **Wasser** e **Vater**.
 
-## Summary
+## Resumo
 
 Para ler melhor em alemão no nível A1, memorize primeiro estas relações: **ei = ai**, **ie = i longo**, **eu/äu = ói**, **sch = ch de chá**, **z = ts**, **w = v português**, **j = i/y**. Preste atenção especial ao **ch**, que muda conforme a vogal anterior: **ich** tem um som leve, enquanto **Buch** tem um som mais forte.

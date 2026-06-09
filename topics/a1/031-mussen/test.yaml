@@ -1,0 +1,59 @@
+topic: Müssen
+level: A1
+questions:
+- question: Qual frase está correta?
+  answer: Ich muss morgen kommen.
+  explanation: Modal em segunda posição.
+  options:
+  - Ich muss morgen kommen.
+  - Ich komme morgen muss.
+  - Ich morgen komme muss.
+- question: 'Complete: Du ___ jetzt gehen.'
+  answer: musst
+  explanation: Du usa forma com -st.
+  options:
+  - muss
+  - musst
+  - müssen
+- question: Qual frase tem infinitivo no fim?
+  answer: Wir müssen heute lernen.
+  explanation: Lernen fica no fim.
+  options:
+  - Wir lernen heute müssen.
+  - Wir heute lernen müssen.
+  - Wir müssen heute lernen.
+- question: Er ___ viel arbeiten.
+  answer: muss
+  explanation: Er usa forma singular.
+- question: Ich muss nicht ___.
+  answer: gehen
+  explanation: Verbo principal no infinitivo.
+- question: Eu precisar / ter que trabalhar hoje.
+  answer: Ich muss heute arbeiten.
+  explanation: Tempo pode ficar no meio.
+- question: Você precisar / ter que vir amanhã.
+  answer: Du musst morgen kommen.
+  explanation: Infinitivo no fim.
+- question: Deutsch / wir / müssen / lernen
+  answer: Wir müssen Deutsch lernen.
+  explanation: Ordem básica com modal.
+- question: 'Forma para wir:'
+  answer: müssen
+  explanation: Wir usa forma plural.
+  options:
+  - musst
+  - müssen
+  - muss
+- question: Sie ___ früh schlafen.
+  answer: muss
+  explanation: Sie ela usa forma singular.
+- question: gehen / ich / jetzt / muss
+  answer: Ich muss jetzt gehen.
+  explanation: Infinitivo no fim.
+- question: 'Depois de modal, o verbo principal fica:'
+  answer: no infinitivo
+  explanation: Regra central dos modais.
+  options:
+  - conjugado
+  - no infinitivo
+  - sempre ausente

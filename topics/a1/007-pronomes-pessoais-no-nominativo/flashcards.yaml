@@ -1,0 +1,35 @@
+topic: Pronomes pessoais no nominativo
+level: A1
+cards:
+  - front: ich
+    back: eu
+    example: Ich bin Maria.
+    example_translation: Eu sou Maria.
+  - front: du
+    back: você; tu
+    example: Du bist nett.
+    example_translation: Você é simpático.
+  - front: er
+    back: ele
+    example: Er ist hier.
+    example_translation: Ele está aqui.
+  - front: sie
+    back: ela; eles; elas
+    example: Sie kommt heute.
+    example_translation: Ela vem hoje.
+  - front: es
+    back: ele; ela; isso para neutro
+    example: Es ist gut.
+    example_translation: Isso é bom.
+  - front: wir
+    back: nós
+    example: Wir lernen.
+    example_translation: Nós aprendemos.
+  - front: ihr
+    back: vocês informal
+    example: Ihr wohnt hier.
+    example_translation: Vocês moram aqui.
+  - front: Sie
+    back: o senhor; a senhora; vocês formal
+    example: Sie sind Frau Klein.
+    example_translation: A senhora é a senhora Klein.

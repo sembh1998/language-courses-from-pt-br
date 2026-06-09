@@ -1,0 +1,74 @@
+topic: Hobbies e tempo livre
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete com o verbo correto.
+    items:
+      - question: Ich ___ gern. (ler)
+        answer: lese
+      - question: Wir ___ Musik. (ouvir)
+        answer: hören
+      - question: Sie ___ Geige. (tocar)
+        answer: spielt
+      - question: Du ___ gern. (cozinhar)
+        answer: kochst
+  - type: multiple_choice
+    instruction: Escolha a tradução correta.
+    items:
+      - question: "`spazieren gehen`"
+        options:
+          - passear
+          - cozinhar
+          - nadar
+        answer: passear
+      - question: "`Musik hören`"
+        options:
+          - ler livros
+          - ouvir música
+          - jogar futebol
+        answer: ouvir música
+      - question: "`Fußball spielen`"
+        options:
+          - tocar violino
+          - dançar
+          - jogar futebol
+        answer: jogar futebol
+  - type: translation
+    instruction: Traduza para o alemão.
+    items:
+      - question: Eu gosto de ler.
+        answer: Ich lese gern.
+      - question: Ela toca violino.
+        answer: Sie spielt Geige.
+      - question: Nós ouvimos música.
+        answer: Wir hören Musik.
+      - question: Ele gosta de passear.
+        answer: Er geht gern spazieren.
+  - type: multiple_choice
+    instruction: Escolha a frase natural em alemão.
+    items:
+      - question: Como dizer "Eu gosto de cozinhar"?
+        options:
+          - Ich koche gern.
+          - Ich gern koche.
+          - Ich mag kochen gern.
+        answer: Ich koche gern.
+      - question: Como dizer "Você toca violino?"?
+        options:
+          - Du spielst Geige?
+          - Spielst du Geige?
+          - Geige du spielst?
+        answer: Spielst du Geige?
+      - question: Qual frase com `spazieren gehen` está correta?
+        options:
+          - Wir spazieren gehen.
+          - Wir gehen gern.
+          - Wir gehen spazieren.
+        answer: Wir gehen spazieren.
+  - type: short_answer
+    instruction: Responda em alemão com uma frase curta.
+    items:
+      - question: Was machst du gern?
+        answer: Ich höre gern Musik.
+      - question: Was machst du am Wochenende?
+        answer: Am Wochenende lese ich.

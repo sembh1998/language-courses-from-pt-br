@@ -1,0 +1,51 @@
+topic: Dias, meses e estações
+level: A1
+questions:
+  - type: short_answer
+    question: Como se diz segunda-feira em alemão?
+    answer: Montag
+  - type: short_answer
+    question: Como se diz quarta-feira em alemão?
+    answer: Mittwoch
+  - type: multiple_choice
+    question: Qual é o domingo?
+    options:
+      - Samstag
+      - Sonntag
+      - Donnerstag
+    answer: Sonntag
+  - type: short_answer
+    question: "Complete: ___ Montag."
+    answer: Am
+  - type: short_answer
+    question: "Complete: ___ Januar."
+    answer: Im
+  - type: multiple_choice
+    question: "der Frühling significa:"
+    options:
+      - primavera
+      - verão
+      - inverno
+    answer: primavera
+  - type: short_answer
+    question: "Traduza: Hoje é terça-feira."
+    answer: Heute ist Dienstag.
+  - type: short_answer
+    question: "Traduza: No verão faz calor."
+    answer: Im Sommer ist es warm.
+  - type: short_answer
+    question: Qual é o mês 12 em alemão?
+    answer: Dezember
+  - type: short_answer
+    question: Qual é o mês 5 em alemão?
+    answer: Mai
+  - type: short_answer
+    question: "Traduza: Meu aniversário é em março."
+    answer: Mein Geburtstag ist im März.
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - In Montag lerne ich.
+      - Am Montag lerne ich.
+      - Im Montag lerne ich.
+    answer: Am Montag lerne ich.

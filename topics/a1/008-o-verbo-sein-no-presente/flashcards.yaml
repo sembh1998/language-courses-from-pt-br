@@ -1,0 +1,35 @@
+topic: O verbo sein no presente
+level: A1
+cards:
+  - front: ich bin
+    back: eu sou; eu estou
+    example: Ich bin müde.
+    example_translation: Eu estou cansado.
+  - front: du bist
+    back: você é; você está
+    example: Du bist Student.
+    example_translation: Você é estudante.
+  - front: er ist
+    back: ele é; ele está
+    example: Er ist hier.
+    example_translation: Ele está aqui.
+  - front: sie ist
+    back: ela é; ela está
+    example: Sie ist Lehrerin.
+    example_translation: Ela é professora.
+  - front: es ist
+    back: ele/ela/isso é; está
+    example: Es ist gut.
+    example_translation: Isso é bom.
+  - front: wir sind
+    back: nós somos; nós estamos
+    example: Wir sind Freunde.
+    example_translation: Nós somos amigos.
+  - front: ihr seid
+    back: vocês são; vocês estão
+    example: Ihr seid laut.
+    example_translation: Vocês estão barulhentos.
+  - front: sie/Sie sind
+    back: eles/elas são/estão; o senhor/a senhora é/está
+    example: Sie sind nett.
+    example_translation: Eles são simpáticos; o senhor é simpático.

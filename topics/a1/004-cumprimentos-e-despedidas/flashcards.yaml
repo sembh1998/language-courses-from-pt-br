@@ -1,0 +1,43 @@
+topic: Cumprimentos e despedidas
+level: A1
+cards:
+  - front: Hallo
+    back: olá
+    example: Hallo, Anna!
+    example_translation: Olá, Anna!
+  - front: Guten Morgen
+    back: bom dia
+    example: Guten Morgen, Herr Müller.
+    example_translation: Bom dia, senhor Müller.
+  - front: Guten Tag
+    back: bom dia; boa tarde
+    example: Guten Tag, Frau Weber.
+    example_translation: Bom dia, senhora Weber.
+  - front: Guten Abend
+    back: boa noite
+    example: Guten Abend, Paul.
+    example_translation: Boa noite, Paul.
+  - front: Tschüss
+    back: tchau
+    example: Tschüss, bis morgen!
+    example_translation: Tchau, até amanhã!
+  - front: Auf Wiedersehen
+    back: até logo; adeus
+    example: Auf Wiedersehen, Frau Schmidt.
+    example_translation: Até logo, senhora Schmidt.
+  - front: Gute Nacht
+    back: boa noite; usado antes de dormir
+    example: Gute Nacht, Lena.
+    example_translation: Boa noite, Lena.
+  - front: bis morgen
+    back: até amanhã
+    example: Tschüss, bis morgen!
+    example_translation: Tchau, até amanhã!
+  - front: Herr Müller
+    back: senhor Müller
+    example: Guten Tag, Herr Müller.
+    example_translation: Bom dia, senhor Müller.
+  - front: Frau Schmidt
+    back: senhora Schmidt
+    example: Auf Wiedersehen, Frau Schmidt.
+    example_translation: Até logo, senhora Schmidt.

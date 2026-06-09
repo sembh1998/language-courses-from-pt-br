@@ -1,0 +1,78 @@
+topic: Kein
+level: A1
+exercises:
+- type: fill_blank
+  instruction: Complete com kein, keine ou keinen.
+  items:
+  - question: Ich habe ___ Hund.
+    answer: keinen
+    explanation: Hund é masculino e objeto de haben.
+  - question: Sie hat ___ Katze.
+    answer: keine
+    explanation: Katze é feminino.
+  - question: Das ist ___ Problem.
+    answer: kein
+    explanation: Problem é neutro no nominativo.
+  - question: Wir kaufen ___ Apfel.
+    answer: keinen
+    explanation: Apfel é masculino e objeto direto.
+- type: multiple_choice
+  instruction: Escolha a frase correta.
+  items:
+  - question: Como negar “ein Auto”?
+    options:
+    - kein Auto
+    - keine Auto
+    - keinen Auto
+    answer: kein Auto
+    explanation: Auto é neutro.
+  - question: Qual nega um substantivo feminino?
+    options:
+    - Ich habe kein Lampe.
+    - Ich habe keine Lampe.
+    - Ich habe keinen Lampe.
+    answer: Ich habe keine Lampe.
+    explanation: Lampe é feminino.
+  - question: Qual frase usa acusativo masculino?
+    options:
+    - Wir brauchen kein Stift.
+    - Wir brauchen keine Stift.
+    - Wir brauchen keinen Stift.
+    answer: Wir brauchen keinen Stift.
+    explanation: Stift é objeto masculino.
+- type: classification
+  instruction: Escolha nicht ou kein.
+  items:
+  - question: Ich habe ___ Zeit.
+    answer: keine
+    explanation: Zeit é substantivo sem artigo.
+  - question: Das ist ___ gut.
+    answer: nicht
+    explanation: Gut é adjetivo; use nicht.
+  - question: Er trinkt ___ Kaffee.
+    answer: keinen
+    explanation: Kaffee é substantivo masculino como objeto.
+- type: correction
+  instruction: Corrija a negação.
+  items:
+  - question: Ich habe nicht Hund.
+    answer: Ich habe keinen Hund.
+    explanation: Substantivo com ideia de “um cachorro” usa kein.
+  - question: Sie ist keine müde.
+    answer: Sie ist nicht müde.
+    explanation: Müde é adjetivo; use nicht.
+  - question: Wir kaufen kein Kuchen.
+    answer: Wir kaufen keinen Kuchen.
+    explanation: Kuchen é masculino no acusativo.
+- type: translation
+  instruction: Traduza para o alemão.
+  items:
+  - question: Eu não tenho tempo.
+    answer: Ich habe keine Zeit.
+    explanation: Zeit é feminino.
+  - question: Ele não compra um carro.
+    answer: Er kauft kein Auto.
+    explanation: Auto é neutro.
+  - question: Nós não bebemos café.
+    answer: Wir trinken keinen Kaffee.
+    explanation: Kaffee é masculino e objeto.

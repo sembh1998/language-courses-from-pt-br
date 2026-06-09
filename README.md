@@ -124,6 +124,36 @@ Use lower-case folder names with a three-digit roadmap order prefix, such as
 
 Use the prompt files in `prompts/`. Each prompt is designed for one output file.
 
+Before generating a topic, analyze its learning load from `roadmap.tsv`:
+
+- `Difficulty`: how hard the topic is for the target student at that CEFR level.
+- `Importance`: how critical the topic is for future German learning.
+
+Use that analysis to decide how much content the topic needs inside the standard
+source files. Do not create extra source files just because a topic is larger.
+
+Recommended scale:
+
+- Low difficulty and low/medium importance: short lesson, 1 short story, 3-4 exercise groups, 8-10 test questions.
+- Medium difficulty or medium/high importance: fuller lesson, 1-2 short stories or story sections, 4-6 exercise groups, 10-14 test questions.
+- High difficulty or high importance: detailed lesson, 2-3 short stories or guided contexts, 6-8 exercise groups, 14-20 test questions.
+
+Critical or error-prone topics should get more examples, contrastive notes,
+guided practice, review questions, and varied exercises so the student can learn
+the topic well before moving on.
+
+Quality rules for generated content:
+
+- Use Brazilian Portuguese for headings, section subtitles, instructions,
+  table headers, notes, and explanations.
+- Keep German only where the learner should read or produce German.
+- Do not copy exercise items into `test.yaml`; use new contexts and examples
+  for exam questions.
+- Multiple-choice items should usually have exactly three options, with correct
+  answers distributed across positions 1, 2, and 3.
+- In `answers.md`, include a short explanation for every exercise and test
+  answer, not only the answer or points.
+
 Replace these variables before sending the prompt to an AI model:
 
 ```txt
@@ -199,8 +229,14 @@ typst compile --root . templates/lesson.typ output/pdf/001-alfabeto-alemao-e-son
 4. Save the generated content into the topic folder.
 5. Manually review and edit the content.
 6. Validate that YAML files are parseable.
-7. Compile PDFs locally with Typst.
-8. Keep editing the source Markdown/YAML, then recompile PDFs as needed.
+7. Run content QA:
+
+```sh
+python3 scripts/validate-content.py
+```
+
+8. Compile PDFs locally with Typst.
+9. Keep editing the source Markdown/YAML, then recompile PDFs as needed.
 
 ## Examples
 

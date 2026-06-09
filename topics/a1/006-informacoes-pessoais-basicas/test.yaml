@@ -1,0 +1,61 @@
+topic: Informações pessoais básicas
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual frase significa "Eu moro em Berlim"?
+    options:
+      - Ich komme aus Berlin.
+      - Ich wohne in Berlin.
+      - Ich heiße Berlin.
+    answer: Ich wohne in Berlin.
+  - type: multiple_choice
+    question: Qual pergunta significa "De onde você vem?"
+    options:
+      - Wo wohnst du?
+      - Woher kommst du?
+      - Wie heißt du?
+    answer: Woher kommst du?
+  - type: fill_blank
+    question: Ich komme ___ Brasilien.
+    answer: aus
+  - type: fill_blank
+    question: Ich wohne ___ München.
+    answer: in
+  - type: fill_blank
+    question: Ich ___ 26 Jahre alt.
+    answer: bin
+  - type: fill_blank
+    question: Mein ___ ist Sofia.
+    answer: Name
+  - type: translation
+    question: "Traduza: Eu me chamo Lucas."
+    answer: Ich heiße Lucas.
+  - type: translation
+    question: "Traduza: Eu venho do Brasil."
+    answer: Ich komme aus Brasilien.
+  - type: translation
+    question: "Traduza: Eu moro em Hamburgo."
+    answer: Ich wohne in Hamburg.
+  - type: translation
+    question: "Traduza: Eu tenho 20 anos."
+    answer: Ich bin 20 Jahre alt.
+  - type: short_answer
+    question: Responda a "Wie heißt du?" com o nome Laura.
+    answer: Ich heiße Laura.
+  - type: short_answer
+    question: Responda a "Was bist du von Beruf?" com Studentin.
+    answer: Ich bin Studentin.
+  - type: multiple_choice
+    question: Qual frase está correta para profissão em uma apresentação básica?
+    options:
+      - Ich bin Student.
+      - Ich habe Student.
+      - Ich wohne Student.
+    answer: Ich bin Student.
+  - type: multiple_choice
+    question: Qual frase usa idade corretamente em alemão?
+    options:
+      - Ich habe 25 Jahre.
+      - Ich bin 25 Jahre alt.
+      - Ich wohne 25 Jahre.
+    answer: Ich bin 25 Jahre alt.

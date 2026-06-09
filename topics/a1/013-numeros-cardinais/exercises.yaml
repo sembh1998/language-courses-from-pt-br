@@ -1,0 +1,75 @@
+topic: Números cardinais
+level: A1
+exercises:
+  - type: matching
+    instruction: Combine o número com a palavra alemã.
+    items:
+      - question: 0
+        answer: null
+      - question: 8
+        answer: acht
+      - question: 12
+        answer: zwölf
+      - question: 20
+        answer: zwanzig
+      - question: 100
+        answer: hundert
+  - type: fill_blank
+    instruction: Complete com o número em alemão.
+    items:
+      - question: 10 = ___
+        answer: zehn
+      - question: 15 = ___
+        answer: fünfzehn
+      - question: 21 = ___
+        answer: einundzwanzig
+      - question: 32 = ___
+        answer: zweiunddreißig
+  - type: multiple_choice
+    instruction: Escolha a opção correta.
+    items:
+      - question: Como se diz 30?
+        options:
+          - dreizehn
+          - dreißig
+          - drei
+        answer: dreißig
+      - question: Como se diz 17?
+        options:
+          - siebzehn
+          - siebzig
+          - sieben
+        answer: siebzehn
+      - question: Qual é 45?
+        options:
+          - vierundfünfzig
+          - fünfundvierzig
+          - vierzigfünf
+        answer: fünfundvierzig
+  - type: translation
+    instruction: Traduza para alemão.
+    items:
+      - question: Eu tenho vinte anos.
+        answer: Ich bin zwanzig Jahre alt.
+      - question: Isso custa doze euros.
+        answer: Das kostet zwölf Euro.
+      - question: Meu telefone é um dois três.
+        answer: Meine Telefonnummer ist eins zwei drei.
+  - type: short_answer
+    instruction: Escreva os números em algarismos.
+    items:
+      - question: neun
+        answer: 9
+      - question: sechsundzwanzig
+        answer: 26
+      - question: zweihundert
+        answer: 200
+      - question: eintausend
+        answer: 1000
+  - type: production
+    instruction: Responda em alemão com uma frase completa.
+    items:
+      - question: Wie alt bist du? Use 25.
+        answer: Ich bin fünfundzwanzig Jahre alt.
+      - question: Wie viel kostet das? Use 9 Euro.
+        answer: Das kostet neun Euro.

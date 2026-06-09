@@ -1,0 +1,81 @@
+topic: Preposições com acusativo
+level: A1
+exercises:
+- type: fill_blank
+  instruction: Complete com den, die, das ou einen.
+  items:
+  - question: Das Geschenk ist für ___ Vater.
+    answer: den
+    explanation: Für pede acusativo; der vira den.
+  - question: Ich gehe ohne ___ Tasche.
+    answer: die
+    explanation: Feminino die não muda no acusativo.
+  - question: Wir laufen durch ___ Park.
+    answer: den
+    explanation: Durch pede acusativo masculino.
+  - question: Er kauft ohne ___ Plan.
+    answer: einen
+    explanation: Ein masculino vira einen.
+- type: multiple_choice
+  instruction: Escolha a preposição correta.
+  items:
+  - question: Isso é para Maria.
+    answer: für Maria
+    explanation: Für significa para.
+    options:
+    - für Maria
+    - ohne Maria
+    - gegen Maria
+  - question: Caminhamos pelo parque.
+    answer: durch den Park
+    explanation: Durch indica atravessar/pelo.
+    options:
+    - um den Park
+    - durch den Park
+    - bis den Park
+  - question: Sem café.
+    answer: ohne Kaffee
+    explanation: Ohne significa sem.
+    options:
+    - gegen Kaffee
+    - für Kaffee
+    - ohne Kaffee
+- type: translation
+  instruction: Traduza para o alemão.
+  items:
+  - question: para o irmão
+    answer: für den Bruder
+    explanation: 'Bruder é masculino: den.'
+  - question: sem um carro
+    answer: ohne ein Auto
+    explanation: 'Auto é neutro: ein.'
+  - question: às sete horas
+    answer: um sieben Uhr
+    explanation: Um é usado para horas.
+- type: fill_blank
+  instruction: Complete com a preposição.
+  items:
+  - question: Ich komme ___ acht Uhr.
+    answer: um
+    explanation: Horas usam um.
+  - question: Der Zug fährt ___ Hamburg.
+    answer: bis
+    explanation: Bis indica até.
+  - question: Wir spielen ___ die Schule.
+    answer: gegen
+    explanation: Gegen pode indicar contra.
+  - question: Sie geht ___ den Markt.
+    answer: durch
+    explanation: Durch indica atravessar/por.
+- type: rewrite
+  instruction: Corrija o artigo masculino.
+  items:
+  - question: für der Mann
+    answer: für den Mann
+    explanation: Für pede acusativo.
+  - question: ohne ein Hund
+    answer: ohne einen Hund
+    explanation: Hund é masculino.
+  - question: durch der Garten
+    answer: durch den Garten
+    explanation: Durch pede acusativo masculino.

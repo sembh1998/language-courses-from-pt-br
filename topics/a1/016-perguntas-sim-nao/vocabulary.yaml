@@ -1,0 +1,73 @@
+topic: Perguntas Sim/Não
+level: A1
+words:
+  - german: ja
+    translation: sim
+    type: particle
+    gender: null
+    plural: null
+    example: Ja, ich komme.
+    example_translation: Sim, eu venho.
+  - german: nein
+    translation: não
+    type: particle
+    gender: null
+    plural: null
+    example: Nein, ich komme nicht.
+    example_translation: Não, eu não venho.
+  - german: doch
+    translation: sim, sim sim, ao contrário
+    type: particle
+    gender: null
+    plural: null
+    example: Lernst du nicht? Doch!
+    example_translation: Você não estuda? Estudo sim!
+  - german: kommen
+    translation: vir
+    type: verb
+    gender: null
+    plural: null
+    example: Kommst du?
+    example_translation: Você vem?
+  - german: lernen
+    translation: estudar, aprender
+    type: verb
+    gender: null
+    plural: null
+    example: Lernst du Deutsch?
+    example_translation: Você estuda alemão?
+  - german: wohnen
+    translation: morar
+    type: verb
+    gender: null
+    plural: null
+    example: Wohnst du hier?
+    example_translation: Você mora aqui?
+  - german: sein
+    translation: ser, estar
+    type: verb
+    gender: null
+    plural: null
+    example: Bist du müde?
+    example_translation: Você está cansado?
+  - german: haben
+    translation: ter
+    type: verb
+    gender: null
+    plural: null
+    example: Hast du Zeit?
+    example_translation: Você tem tempo?
+  - german: Zeit haben
+    translation: ter tempo
+    type: phrase
+    gender: null
+    plural: null
+    example: Hast du Zeit?
+    example_translation: Você tem tempo?
+  - german: Deutsch lernen
+    translation: estudar alemão
+    type: phrase
+    gender: null
+    plural: null
+    example: Lernst du Deutsch?
+    example_translation: Você estuda alemão?

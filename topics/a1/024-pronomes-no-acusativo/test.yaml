@@ -1,0 +1,63 @@
+topic: Pronomes no acusativo
+level: A1
+questions:
+- type: fill_blank
+  question: Hörst du mich? Ja, ich höre ___.
+  answer: dich
+  explanation: 'A resposta fala com “você”: dich.'
+- type: fill_blank
+  question: Ben sieht Lisa. Ben sieht ___.
+  answer: sie
+  explanation: Lisa é feminino.
+- type: multiple_choice
+  question: 'Qual completa: Ich brauche den Computer. Ich brauche ___.'
+  options:
+  - ihn
+  - sie
+  - es
+  answer: ihn
+  explanation: Computer é masculino.
+- type: correction
+  question: 'Corrija: Wir fragen ihr.'
+  answer: Wir fragen euch.
+  explanation: Vocês informal como objeto é euch.
+- type: translation
+  question: 'Traduza: Ela o chama.'
+  answer: Sie ruft ihn.
+  explanation: 'o/ele objeto: ihn.'
+- type: multiple_choice
+  question: Qual pronome é formal?
+  options:
+  - dich
+  - mich
+  - Sie
+  answer: Sie
+  explanation: Sie maiúsculo é formal.
+- type: fill_blank
+  question: Das Kind hört uns. Es hört ___.
+  answer: uns
+  explanation: uns não muda aqui.
+- type: replacement
+  question: 'Substitua: Ich lese das Buch.'
+  answer: Ich lese es.
+  explanation: Buch é neutro.
+- type: translation
+  question: 'Traduza: Eu vejo vocês.'
+  answer: Ich sehe euch.
+  explanation: 'vocês informal: euch.'
+- type: multiple_choice
+  question: Qual frase está correta?
+  options:
+  - Du kennst mich.
+  - Du kennst ich.
+  - Du kennst mir.
+  answer: Du kennst mich.
+  explanation: Eu como objeto direto é mich.
+- type: fill_blank
+  question: Wir kennen den Arzt. Wir kennen ___.
+  answer: ihn
+  explanation: Arzt é masculino.
+- type: correction
+  question: 'Corrija: Der Mann sieht sie, Herr Bauer.'
+  answer: Der Mann sieht Sie, Herr Bauer.
+  explanation: Tratamento formal usa Sie maiúsculo.

@@ -1,0 +1,35 @@
+topic: O verbo haben no presente
+level: A1
+cards:
+  - front: ich habe
+    back: eu tenho
+    example: Ich habe Zeit.
+    example_translation: Eu tenho tempo.
+  - front: du hast
+    back: você tem
+    example: Du hast ein Buch.
+    example_translation: Você tem um livro.
+  - front: er hat
+    back: ele tem
+    example: Er hat einen Bruder.
+    example_translation: Ele tem um irmão.
+  - front: sie hat
+    back: ela tem
+    example: Sie hat eine Schwester.
+    example_translation: Ela tem uma irmã.
+  - front: wir haben
+    back: nós temos
+    example: Wir haben eine Frage.
+    example_translation: Nós temos uma pergunta.
+  - front: ihr habt
+    back: vocês têm
+    example: Ihr habt ein Auto.
+    example_translation: Vocês têm um carro.
+  - front: sie/Sie haben
+    back: eles/elas têm; o senhor/a senhora tem
+    example: Sie haben Zeit.
+    example_translation: Eles têm tempo; o senhor tem tempo.
+  - front: Ich bin 20 Jahre alt.
+    back: Eu tenho 20 anos.
+    example: Ich bin 20 Jahre alt.
+    example_translation: Eu tenho 20 anos.

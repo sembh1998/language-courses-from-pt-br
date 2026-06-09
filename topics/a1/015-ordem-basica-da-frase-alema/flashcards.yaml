@@ -1,0 +1,27 @@
+topic: Ordem básica da frase alemã
+level: A1
+cards:
+  - front: Ich lerne Deutsch.
+    back: Eu estudo alemão.
+    example: Ich lerne Deutsch.
+    example_translation: Eu estudo alemão.
+  - front: Heute lerne ich Deutsch.
+    back: Hoje eu estudo alemão.
+    example: Heute lerne ich Deutsch.
+    example_translation: Hoje eu estudo alemão.
+  - front: Du wohnst in Berlin.
+    back: Você mora em Berlim.
+    example: Du wohnst in Berlin.
+    example_translation: Você mora em Berlim.
+  - front: Am Montag arbeite ich.
+    back: Na segunda-feira eu trabalho.
+    example: Am Montag arbeite ich.
+    example_translation: Na segunda-feira eu trabalho.
+  - front: Verbo na posição 2
+    back: Em frase afirmativa alemã, o verbo conjugado vem na segunda posição.
+    example: Jetzt trinke ich Wasser.
+    example_translation: Agora eu bebo água.
+  - front: Maria kommt aus Brasilien.
+    back: Maria vem do Brasil.
+    example: Maria kommt aus Brasilien.
+    example_translation: Maria vem do Brasil.

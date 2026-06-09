@@ -1,0 +1,90 @@
+topic: W-Fragen
+level: A1
+exercises:
+  - type: matching
+    instruction: Combine a palavra W com a tradução.
+    items:
+      - question: wer
+        answer: quem
+      - question: was
+        answer: o quê
+      - question: wo
+        answer: onde
+      - question: woher
+        answer: de onde
+      - question: wohin
+        answer: para onde
+  - type: fill_blank
+    instruction: Complete com a palavra W correta.
+    items:
+      - question: ___ wohnst du? In Berlin.
+        answer: Wo
+      - question: ___ kommst du? Aus Brasilien.
+        answer: Woher
+      - question: ___ heißt du? Ich heiße Anna.
+        answer: Wie
+      - question: ___ kostet das? Zehn Euro.
+        answer: Wie viel
+      - question: ___ Bücher hast du? Drei.
+        answer: Wie viele
+  - type: multiple_choice
+    instruction: Escolha a pergunta correta.
+    items:
+      - question: "Para perguntar origem, use:"
+        options:
+          - Wo wohnst du?
+          - Woher kommst du?
+          - Wohin gehst du?
+        answer: Woher kommst du?
+      - question: "Para perguntar direção, use:"
+        options:
+          - Wohin gehst du?
+          - Wo bist du?
+          - Wer bist du?
+        answer: Wohin gehst du?
+      - question: "Para perguntar preço, use:"
+        options:
+          - Wie viele kostet das?
+          - Wie viel kostet das?
+          - Warum kostet das?
+        answer: Wie viel kostet das?
+  - type: ordering
+    instruction: Coloque em ordem correta.
+    items:
+      - question: du / wo / wohnst
+        answer: Wo wohnst du?
+      - question: kommst / woher / du
+        answer: Woher kommst du?
+      - question: du / wann / kommst
+        answer: Wann kommst du?
+      - question: heißt / wie / du
+        answer: Wie heißt du?
+  - type: translation
+    instruction: Traduza para alemão.
+    items:
+      - question: Onde você mora?
+        answer: Wo wohnst du?
+      - question: De onde você vem?
+        answer: Woher kommst du?
+      - question: Quando você vem?
+        answer: Wann kommst du?
+      - question: Por que você estuda alemão?
+        answer: Warum lernst du Deutsch?
+  - type: short_answer
+    instruction: Responda em alemão com uma frase curta.
+    items:
+      - question: Wo wohnst du? Use Berlin.
+        answer: Ich wohne in Berlin.
+      - question: Woher kommst du? Use Brasilien.
+        answer: Ich komme aus Brasilien.
+      - question: Wie heißt du? Use Ana.
+        answer: Ich heiße Ana.
+  - type: contrast
+    instruction: Escolha entre wo, woher e wohin.
+    items:
+      - question: ___ bist du? Ich bin hier.
+        answer: Wo
+      - question: ___ kommst du? Aus Brasilien.
+        answer: Woher
+      - question: ___ gehst du? Nach Hause.
+        answer: Wohin

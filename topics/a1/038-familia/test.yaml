@@ -1,0 +1,59 @@
+topic: Família
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual opção completa corretamente? Das ist ___ Bruder.
+    options:
+      - mein
+      - meine
+      - meinen
+    answer: mein
+  - type: multiple_choice
+    question: Qual palavra significa "a irmã"?
+    options:
+      - der Vater
+      - die Schwester
+      - die Eltern
+    answer: die Schwester
+  - type: multiple_choice
+    question: Como dizer "Meus pais"?
+    options:
+      - Mein Eltern
+      - Meine Vater
+      - Meine Eltern
+    answer: Meine Eltern
+  - type: fill_blank
+    question: ___ Mutter heißt Julia.
+    answer: Meine
+  - type: fill_blank
+    question: Ich habe zwei ___.
+    answer: Geschwister
+  - type: translation
+    question: Meu irmão está em casa.
+    answer: Mein Bruder ist zu Hause.
+  - type: translation
+    question: Minha irmã mora aqui.
+    answer: Meine Schwester wohnt hier.
+  - type: multiple_choice
+    question: "`ledig` significa:"
+    options:
+      - casado/casada
+      - divorciado/divorciada
+      - solteiro/solteira
+    answer: solteiro/solteira
+  - type: fill_blank
+    question: Er ist ___. (casado)
+    answer: verheiratet
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Meine Vater ist nett.
+      - Mein Vater ist nett.
+      - Mein Mutter ist nett.
+    answer: Mein Vater ist nett.
+  - type: short_answer
+    question: Escreva uma frase com `meine Mutter`.
+    answer: Meine Mutter ist nett.
+  - type: short_answer
+    question: Escreva uma frase com `mein Vater`.
+    answer: Mein Vater wohnt hier.

@@ -1,0 +1,86 @@
+topic: Revisão geral A1
+level: A1
+exercises:
+  - type: multiple_choice
+    instruction: Escolha a resposta correta para a pergunta.
+    items:
+      - question: Wie heißt du?
+        options:
+          - Ich heiße Carla.
+          - Ich wohne Carla.
+          - Ich komme Carla.
+        answer: Ich heiße Carla.
+      - question: Wo wohnst du?
+        options:
+          - Ich bin Kaffee.
+          - Ich wohne in Recife.
+          - Ich lese gern.
+        answer: Ich wohne in Recife.
+      - question: Was machst du gern?
+        options:
+          - Ich habe 30 Jahre.
+          - Ich bin aus Brasilien.
+          - Ich höre gern Musik.
+        answer: Ich höre gern Musik.
+  - type: fill_blank
+    instruction: Complete com a forma verbal correta.
+    items:
+      - question: Ich ___ aus Brasilien.
+        answer: komme
+      - question: Du ___ in Berlin.
+        answer: wohnst
+      - question: Wir ___ Deutsch.
+        answer: lernen
+      - question: Sie ___ gern Musik.
+        answer: hört
+  - type: fill_blank
+    instruction: Complete com artigo ou possessivo adequado.
+    items:
+      - question: Das ist ___ Mutter.
+        answer: meine
+      - question: Ich habe ___ Bruder.
+        answer: einen
+      - question: ___ Zimmer ist klein.
+        answer: Mein
+      - question: ___ Küche ist sauber.
+        answer: Die
+  - type: transformation
+    instruction: Organize as palavras em uma frase correta.
+    items:
+      - question: heiße / Ich / Lara
+        answer: Ich heiße Lara.
+      - question: gern / lese / Ich
+        answer: Ich lese gern.
+      - question: um sieben Uhr / auf / stehe / Ich
+        answer: Ich stehe um sieben Uhr auf.
+      - question: Deutsch / gelernt / habe / Ich
+        answer: Ich habe Deutsch gelernt.
+  - type: translation
+    instruction: Traduza para o alemão.
+    items:
+      - question: Eu moro em Salvador.
+        answer: Ich wohne in Salvador.
+      - question: Minha irmã é simpática.
+        answer: Meine Schwester ist nett.
+      - question: Nós fazemos compras hoje.
+        answer: Wir kaufen heute ein.
+      - question: Ontem eu cozinhei.
+        answer: Gestern habe ich gekocht.
+  - type: dictation
+    instruction: Escreva a frase em alemão a partir das pistas.
+    items:
+      - question: "nome + origem: Bruno / Brasilien"
+        answer: Ich heiße Bruno und komme aus Brasilien.
+      - question: "hobby: Musik hören"
+        answer: Ich höre gern Musik.
+      - question: "casa: Zimmer / klein"
+        answer: Mein Zimmer ist klein.
+  - type: short_answer
+    instruction: Responda em alemão sobre você com frases simples.
+    items:
+      - question: Wie heißt du?
+        answer: Ich heiße Ana.
+      - question: Woher kommst du?
+        answer: Ich komme aus Brasilien.
+      - question: Was hast du gestern gemacht?
+        answer: Ich habe Deutsch gelernt.

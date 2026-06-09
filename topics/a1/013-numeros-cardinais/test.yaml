@@ -1,0 +1,57 @@
+topic: Números cardinais
+level: A1
+questions:
+  - type: short_answer
+    question: Escreva 0 em alemão.
+    answer: null
+  - type: short_answer
+    question: Escreva 11 em alemão.
+    answer: elf
+  - type: short_answer
+    question: Escreva 20 em alemão.
+    answer: zwanzig
+  - type: short_answer
+    question: Escreva 21 em alemão.
+    answer: einundzwanzig
+  - type: multiple_choice
+    question: Qual forma significa 60?
+    options:
+      - sechzehn
+      - sechzig
+      - sechs
+    answer: sechzig
+  - type: multiple_choice
+    question: Qual frase de idade está correta?
+    options:
+      - Ich habe zwanzig Jahre alt.
+      - Ich bin zwanzig Jahre alt.
+      - Ich ist zwanzig Jahre alt.
+    answer: Ich bin zwanzig Jahre alt.
+  - type: short_answer
+    question: "Traduza: Isso custa dez euros."
+    answer: Das kostet zehn Euro.
+  - type: short_answer
+    question: Escreva 100 em alemão.
+    answer: hundert
+  - type: short_answer
+    question: Escreva 1000 em alemão.
+    answer: tausend
+  - type: short_answer
+    question: Escreva 34 em alemão.
+    answer: vierunddreißig
+  - type: short_answer
+    question: Escreva 72 em alemão.
+    answer: zweiundsiebzig
+  - type: short_answer
+    question: "Traduza: Meu número é cinco seis sete."
+    answer: Meine Nummer ist fünf sechs sieben.
+  - type: multiple_choice
+    question: Qual é o padrão de 28?
+    options:
+      - achtundzwanzig
+      - zwanzigacht
+      - achtzwanzig
+    answer: achtundzwanzig
+  - type: short_answer
+    question: Escreva 200 em alemão.
+    answer: zweihundert

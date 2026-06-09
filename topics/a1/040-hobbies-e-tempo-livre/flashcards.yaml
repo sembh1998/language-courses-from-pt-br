@@ -1,0 +1,31 @@
+topic: Hobbies e tempo livre
+level: A1
+cards:
+  - front: lesen
+    back: ler
+    example: Ich lese gern.
+    example_translation: Eu gosto de ler.
+  - front: Musik hören
+    back: ouvir música
+    example: Du hörst Musik.
+    example_translation: Você ouve música.
+  - front: Geige spielen
+    back: tocar violino
+    example: Sie spielt Geige.
+    example_translation: Ela toca violino.
+  - front: kochen
+    back: cozinhar
+    example: Wir kochen heute.
+    example_translation: Nós cozinhamos hoje.
+  - front: spazieren gehen
+    back: passear; caminhar
+    example: Ich gehe spazieren.
+    example_translation: Eu vou passear.
+  - front: Fußball spielen
+    back: jogar futebol
+    example: Ihr spielt Fußball.
+    example_translation: Vocês jogam futebol.
+  - front: gern
+    back: com gosto; gostar de
+    example: Ich schwimme gern.
+    example_translation: Eu gosto de nadar.

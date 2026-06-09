@@ -1,0 +1,49 @@
+topic: Artigos indefinidos ein, eine
+level: A1
+questions:
+  - type: fill_blank
+    question: ___ Mann
+    answer: ein
+  - type: fill_blank
+    question: ___ Frau
+    answer: eine
+  - type: fill_blank
+    question: ___ Kind
+    answer: ein
+  - type: fill_blank
+    question: ___ Buch
+    answer: ein
+  - type: fill_blank
+    question: ___ Frage
+    answer: eine
+  - type: multiple_choice
+    question: Qual está correto?
+    options: [ein Lampe, eine Lampe, eine Buch]
+    answer: eine Lampe
+  - type: multiple_choice
+    question: Qual artigo indefinido vai com das Auto?
+    options: [ein, eine]
+    answer: ein
+  - type: transformation
+    question: "Troque para indefinido: der Lehrer."
+    answer: ein Lehrer
+  - type: transformation
+    question: "Troque para indefinido: die Schule."
+    answer: eine Schule
+  - type: translation
+    question: "Traduza: um homem."
+    answer: ein Mann
+  - type: translation
+    question: "Traduza: uma mulher."
+    answer: eine Frau
+  - type: correction
+    question: "Corrija: eine Auto ist neu."
+    answer: Ein Auto ist neu.
+  - type: multiple_choice
+    question: ein/eine geralmente significa...
+    options: [o/a, um/uma, meu/minha]
+    answer: um/uma
+  - type: multiple_choice
+    question: Há um plural simples de ein como artigo em alemão A1?
+    options: [sim, não, só para masculino]
+    answer: não

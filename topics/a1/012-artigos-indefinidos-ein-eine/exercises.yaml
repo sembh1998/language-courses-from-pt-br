@@ -1,0 +1,70 @@
+topic: Artigos indefinidos ein, eine
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete com ein ou eine.
+    items:
+      - question: ___ Mann
+        answer: ein
+      - question: ___ Frau
+        answer: eine
+      - question: ___ Kind
+        answer: ein
+      - question: ___ Buch
+        answer: ein
+      - question: ___ Lampe
+        answer: eine
+  - type: multiple_choice
+    instruction: Escolha o artigo indefinido correto.
+    items:
+      - question: ___ Tisch
+        options: [ein, eine]
+        answer: ein
+      - question: ___ Schule
+        options: [ein, eine]
+        answer: eine
+      - question: ___ Auto
+        options: [ein, eine]
+        answer: ein
+  - type: transformation
+    instruction: Troque o artigo definido pelo indefinido.
+    items:
+      - question: der Mann
+        answer: ein Mann
+      - question: die Frau
+        answer: eine Frau
+      - question: das Kind
+        answer: ein Kind
+      - question: die Lampe
+        answer: eine Lampe
+  - type: classification
+    instruction: Classifique como definido ou indefinido.
+    items:
+      - question: der Mann
+        answer: definido
+      - question: ein Mann
+        answer: indefinido
+      - question: eine Frage
+        answer: indefinido
+      - question: das Buch
+        answer: definido
+  - type: correction
+    instruction: Corrija o artigo.
+    items:
+      - question: eine Mann ist hier.
+        answer: Ein Mann ist hier.
+      - question: ein Frau kommt.
+        answer: Eine Frau kommt.
+      - question: eine Buch ist gut.
+        answer: Ein Buch ist gut.
+  - type: translation
+    instruction: Traduza para o alemão.
+    items:
+      - question: um livro
+        answer: ein Buch
+      - question: uma pergunta
+        answer: eine Frage
+      - question: um carro
+        answer: ein Auto
+      - question: Isto é uma lâmpada.
+        answer: Das ist eine Lampe.

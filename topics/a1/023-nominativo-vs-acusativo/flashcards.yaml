@@ -1,0 +1,27 @@
+topic: Nominativo vs Acusativo
+level: A1
+cards:
+- front: der Mann
+  back: o homem como sujeito
+  example: Der Mann sieht den Hund.
+  example_translation: O homem vê o cachorro.
+- front: den Mann
+  back: o homem como objeto direto
+  example: Ich sehe den Mann.
+  example_translation: Eu vejo o homem.
+- front: der Hund
+  back: o cachorro como sujeito
+  example: Der Hund spielt.
+  example_translation: O cachorro brinca.
+- front: den Hund
+  back: o cachorro como objeto direto
+  example: Sie ruft den Hund.
+  example_translation: Ela chama o cachorro.
+- front: ein Apfel
+  back: uma maçã como sujeito masculino
+  example: Ein Apfel ist rot.
+  example_translation: Uma maçã é vermelha.
+- front: einen Apfel
+  back: uma maçã como objeto direto
+  example: Ich esse einen Apfel.
+  example_translation: Eu como uma maçã.

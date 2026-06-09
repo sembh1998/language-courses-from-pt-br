@@ -1,0 +1,87 @@
+topic: "Presente dos verbos regulares"
+level: "A1"
+words:
+  - german: "lernen"
+    translation: "aprender; estudar"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Ich lerne Deutsch."
+    example_translation: "Eu estudo alemão."
+  - german: "machen"
+    translation: "fazer"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Wir machen eine Übung."
+    example_translation: "Nós fazemos um exercício."
+  - german: "wohnen"
+    translation: "morar"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Sie wohnt in Berlin."
+    example_translation: "Ela mora em Berlim."
+  - german: "spielen"
+    translation: "jogar; brincar; tocar instrumento"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Ihr spielt Fußball."
+    example_translation: "Vocês jogam futebol."
+  - german: "ich"
+    translation: "eu"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Ich mache Kaffee."
+    example_translation: "Eu faço café."
+  - german: "du"
+    translation: "você; tu"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Du lernst schnell."
+    example_translation: "Você aprende rápido."
+  - german: "er"
+    translation: "ele"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Er spielt Tennis."
+    example_translation: "Ele joga tênis."
+  - german: "sie"
+    translation: "ela; eles; elas"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Sie wohnt hier."
+    example_translation: "Ela mora aqui."
+  - german: "wir"
+    translation: "nós"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Wir lernen zusammen."
+    example_translation: "Nós estudamos juntos."
+  - german: "ihr"
+    translation: "vocês; vós"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Ihr macht die Aufgabe."
+    example_translation: "Vocês fazem a tarefa."
+  - german: "Sie"
+    translation: "o senhor; a senhora; os senhores; as senhoras"
+    type: "pronoun"
+    gender: null
+    plural: null
+    example: "Sie wohnen in München."
+    example_translation: "O(a) senhor(a) mora em Munique."
+  - german: "zusammen"
+    translation: "juntos; juntas"
+    type: "adverb"
+    gender: null
+    plural: null
+    example: "Wir lernen zusammen."
+    example_translation: "Nós estudamos juntos."

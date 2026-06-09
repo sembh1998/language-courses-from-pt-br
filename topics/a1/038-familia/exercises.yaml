@@ -1,0 +1,62 @@
+topic: Família
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete com `mein` ou `meine`.
+    items:
+      - question: Das ist ___ Vater.
+        answer: mein
+      - question: Das ist ___ Mutter.
+        answer: meine
+      - question: ___ Schwester heißt Lara.
+        answer: Meine
+      - question: ___ Eltern wohnen hier.
+        answer: Meine
+  - type: multiple_choice
+    instruction: Escolha a tradução correta.
+    items:
+      - question: "`der Bruder`"
+        options:
+          - o irmão
+          - a irmã
+          - os pais
+        answer: o irmão
+      - question: "`die Mutter`"
+        options:
+          - o pai
+          - a mãe
+          - a filha
+        answer: a mãe
+      - question: "`die Geschwister`"
+        options:
+          - os avós
+          - os filhos
+          - irmãos e irmãs
+        answer: irmãos e irmãs
+  - type: translation
+    instruction: Traduza para o alemão.
+    items:
+      - question: Meu pai mora em São Paulo.
+        answer: Mein Vater wohnt in São Paulo.
+      - question: Minha mãe é casada.
+        answer: Meine Mutter ist verheiratet.
+      - question: Eu tenho uma irmã.
+        answer: Ich habe eine Schwester.
+      - question: Meus pais estão em casa.
+        answer: Meine Eltern sind zu Hause.
+  - type: fill_blank
+    instruction: Complete com a palavra de família correta.
+    items:
+      - question: Meine ___ ist die Mutter von mir.
+        answer: Mutter
+      - question: Mein ___ ist der Bruder von mir.
+        answer: Bruder
+      - question: Meine ___ sind Vater und Mutter.
+        answer: Eltern
+  - type: short_answer
+    instruction: Responda em alemão com uma frase simples.
+    items:
+      - question: Hast du Geschwister?
+        answer: Ja, ich habe Geschwister.
+      - question: Wie heißt deine Mutter?
+        answer: Meine Mutter heißt Ana.

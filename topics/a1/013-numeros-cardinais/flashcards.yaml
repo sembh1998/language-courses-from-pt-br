@@ -1,0 +1,43 @@
+topic: Números cardinais
+level: A1
+cards:
+  - front: null
+    back: zero
+    example: Die Nummer ist null.
+    example_translation: O número é zero.
+  - front: eins
+    back: um
+    example: Ich habe eins.
+    example_translation: Eu tenho um.
+  - front: zehn
+    back: dez
+    example: Das kostet zehn Euro.
+    example_translation: Isso custa dez euros.
+  - front: zwölf
+    back: doze
+    example: Ich bin zwölf Jahre alt.
+    example_translation: Eu tenho doze anos.
+  - front: zwanzig
+    back: vinte
+    example: Er ist zwanzig.
+    example_translation: Ele tem vinte anos.
+  - front: einundzwanzig
+    back: vinte e um
+    example: Ich wohne in Nummer einundzwanzig.
+    example_translation: Eu moro no número vinte e um.
+  - front: dreißig
+    back: trinta
+    example: Sie ist dreißig Jahre alt.
+    example_translation: Ela tem trinta anos.
+  - front: hundert
+    back: cem
+    example: Ich habe hundert Euro.
+    example_translation: Eu tenho cem euros.
+  - front: tausend
+    back: mil
+    example: Die Zahl ist tausend.
+    example_translation: O número é mil.
+  - front: Wie viel kostet das?
+    back: Quanto custa isso?
+    example: Wie viel kostet das Brot?
+    example_translation: Quanto custa o pão?

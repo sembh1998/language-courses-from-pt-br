@@ -1,0 +1,73 @@
+topic: Casa e quarto
+level: A1
+words:
+  - german: das Haus
+    translation: a casa
+    type: noun
+    gender: neuter
+    plural: die Häuser
+    example: Das Haus ist groß.
+    example_translation: A casa é grande.
+  - german: die Wohnung
+    translation: o apartamento; a moradia
+    type: noun
+    gender: feminine
+    plural: die Wohnungen
+    example: Meine Wohnung ist klein.
+    example_translation: Meu apartamento é pequeno.
+  - german: das Zimmer
+    translation: o quarto; o cômodo
+    type: noun
+    gender: neuter
+    plural: die Zimmer
+    example: Mein Zimmer ist hell.
+    example_translation: Meu quarto é claro.
+  - german: die Küche
+    translation: a cozinha
+    type: noun
+    gender: feminine
+    plural: die Küchen
+    example: Die Küche ist sauber.
+    example_translation: A cozinha está limpa.
+  - german: das Bad
+    translation: o banheiro
+    type: noun
+    gender: neuter
+    plural: die Bäder
+    example: Das Bad ist neu.
+    example_translation: O banheiro é novo.
+  - german: das Bett
+    translation: a cama
+    type: noun
+    gender: neuter
+    plural: die Betten
+    example: Das Bett ist bequem.
+    example_translation: A cama é confortável.
+  - german: der Tisch
+    translation: a mesa
+    type: noun
+    gender: masculine
+    plural: die Tische
+    example: Der Tisch steht im Zimmer.
+    example_translation: A mesa fica no quarto.
+  - german: der Stuhl
+    translation: a cadeira
+    type: noun
+    gender: masculine
+    plural: die Stühle
+    example: Der Stuhl ist alt.
+    example_translation: A cadeira é velha.
+  - german: der Schrank
+    translation: o armário
+    type: noun
+    gender: masculine
+    plural: die Schränke
+    example: Der Schrank ist groß.
+    example_translation: O armário é grande.
+  - german: die Tasche
+    translation: a bolsa; a mochila
+    type: noun
+    gender: feminine
+    plural: die Taschen
+    example: Meine Tasche ist auf dem Tisch.
+    example_translation: Minha bolsa está sobre a mesa.

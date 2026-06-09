@@ -1,0 +1,101 @@
+topic: Verbos com mudança de vogal
+level: A1
+words:
+  - german: geben
+    translation: dar
+    type: verb
+    gender: null
+    plural: null
+    example: Du gibst mir Tee.
+    example_translation: Você me dá chá.
+  - german: nehmen
+    translation: pegar; tomar
+    type: verb
+    gender: null
+    plural: null
+    example: Er nimmt den Bus.
+    example_translation: Ele pega o ônibus.
+  - german: sprechen
+    translation: falar
+    type: verb
+    gender: null
+    plural: null
+    example: Du sprichst Deutsch.
+    example_translation: Você fala alemão.
+  - german: essen
+    translation: comer
+    type: verb
+    gender: null
+    plural: null
+    example: Das Kind isst Brot.
+    example_translation: A criança come pão.
+  - german: lesen
+    translation: ler
+    type: verb
+    gender: null
+    plural: null
+    example: Sie liest eine Nachricht.
+    example_translation: Ela lê uma mensagem.
+  - german: sehen
+    translation: ver
+    type: verb
+    gender: null
+    plural: null
+    example: Er sieht den Hund.
+    example_translation: Ele vê o cachorro.
+  - german: fahren
+    translation: ir de veículo; dirigir
+    type: verb
+    gender: null
+    plural: null
+    example: Du fährst nach Hamburg.
+    example_translation: Você vai para Hamburgo.
+  - german: schlafen
+    translation: dormir
+    type: verb
+    gender: null
+    plural: null
+    example: Das Baby schläft.
+    example_translation: O bebê dorme.
+  - german: tragen
+    translation: carregar; vestir
+    type: verb
+    gender: null
+    plural: null
+    example: Er trägt eine Tasche.
+    example_translation: Ele carrega uma bolsa.
+  - german: laufen
+    translation: correr; andar
+    type: verb
+    gender: null
+    plural: null
+    example: Du läufst schnell.
+    example_translation: Você corre rápido.
+  - german: das Buch
+    translation: o livro
+    type: noun
+    gender: neuter
+    plural: die Bücher
+    example: Sie liest das Buch.
+    example_translation: Ela lê o livro.
+  - german: der Bus
+    translation: o ônibus
+    type: noun
+    gender: masculine
+    plural: die Busse
+    example: Er nimmt den Bus.
+    example_translation: Ele pega o ônibus.
+  - german: nach Hause
+    translation: para casa
+    type: phrase
+    gender: null
+    plural: null
+    example: Du fährst nach Hause.
+    example_translation: Você vai para casa.
+  - german: heute
+    translation: hoje
+    type: adverb
+    gender: null
+    plural: null
+    example: Heute liest Max viel.
+    example_translation: Hoje Max lê muito.

@@ -1,0 +1,79 @@
+topic: Verbos com mudança de vogal
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual forma completa corretamente a frase? Du ___ heute viel.
+    options:
+      - liest
+      - lest
+      - lesen
+    answer: liest
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Er nehmt den Zug.
+      - Er nimmt den Zug.
+      - Er nehmen den Zug.
+    answer: Er nimmt den Zug.
+  - type: multiple_choice
+    question: Qual forma está correta para sie singular com sehen?
+    options:
+      - sie seht
+      - sie sehen
+      - sie sieht
+    answer: sie sieht
+  - type: fill_blank
+    question: "Complete: Das Mädchen ___ eine Banane. (essen)"
+    answer: isst
+  - type: fill_blank
+    question: "Complete: Du ___ eine blaue Jacke. (tragen)"
+    answer: trägst
+  - type: fill_blank
+    question: "Complete: Ich ___ den Lehrer. (fragen)"
+    answer: frage
+  - type: multiple_choice
+    question: Em qual par aparece a mudança e → i?
+    options:
+      - sprechen → du sprichst
+      - lesen → du liest
+      - fahren → du fährst
+    answer: sprechen → du sprichst
+  - type: multiple_choice
+    question: Qual frase NÃO deve ter mudança de vogal?
+    options:
+      - Er fährt schnell.
+      - Du gibst Geld.
+      - Wir lesen Zeitung.
+    answer: Wir lesen Zeitung.
+  - type: fill_blank
+    question: "Complete: Julia ___ sehr gut Deutsch. (sprechen)"
+    answer: spricht
+  - type: fill_blank
+    question: "Complete: Du ___ einen Kaffee. (nehmen)"
+    answer: nimmst
+  - type: translation
+    question: "Traduza: Você vê o carro."
+    answer: Du siehst das Auto.
+  - type: translation
+    question: "Traduza: Ele lê uma mensagem."
+    answer: Er liest eine Nachricht.
+  - type: transformation
+    question: "Reescreva com er: Ich fahre morgen. → Er ___ morgen."
+    answer: Er fährt morgen.
+  - type: transformation
+    question: "Reescreva com du: Ich gebe Maria Tee. → Du ___ Maria Tee."
+    answer: Du gibst Maria Tee.
+  - type: multiple_choice
+    question: Qual é a forma correta de schlafen com er?
+    options:
+      - er schlaft
+      - er schlafen
+      - er schläft
+    answer: er schläft
+  - type: multiple_choice
+    question: Qual frase está correta com ihr?
+    options:
+      - Ihr fahrt nach Bonn.
+      - Ihr fährt nach Bonn.
+      - Ihr fahren nach Bonn.
+    answer: Ihr fahrt nach Bonn.

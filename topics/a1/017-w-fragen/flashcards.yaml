@@ -1,0 +1,43 @@
+topic: W-Fragen
+level: A1
+cards:
+  - front: Wer?
+    back: Quem?
+    example: Wer bist du?
+    example_translation: Quem é você?
+  - front: Was?
+    back: O quê?
+    example: Was machst du?
+    example_translation: O que você faz?
+  - front: Wo?
+    back: Onde?
+    example: Wo wohnst du?
+    example_translation: Onde você mora?
+  - front: Woher?
+    back: De onde?
+    example: Woher kommst du?
+    example_translation: De onde você vem?
+  - front: Wohin?
+    back: Para onde?
+    example: Wohin gehst du?
+    example_translation: Para onde você vai?
+  - front: Wann?
+    back: Quando?
+    example: Wann kommst du?
+    example_translation: Quando você vem?
+  - front: Wie?
+    back: Como?
+    example: Wie heißt du?
+    example_translation: Como você se chama?
+  - front: Warum?
+    back: Por quê?
+    example: Warum lernst du Deutsch?
+    example_translation: Por que você estuda alemão?
+  - front: Wie viel?
+    back: Quanto?
+    example: Wie viel kostet das?
+    example_translation: Quanto custa isso?
+  - front: Wie viele?
+    back: Quantos? Quantas?
+    example: Wie viele Bücher hast du?
+    example_translation: Quantos livros você tem?

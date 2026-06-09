@@ -1,0 +1,55 @@
+topic: Hobbies e tempo livre
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual frase significa "Eu gosto de nadar"?
+    options:
+      - Ich schwimme gern.
+      - Ich gern schwimme.
+      - Ich schwimme Musik.
+    answer: Ich schwimme gern.
+  - type: multiple_choice
+    question: Como dizer "ouvir música"?
+    options:
+      - Geige spielen
+      - Musik hören
+      - spazieren gehen
+    answer: Musik hören
+  - type: multiple_choice
+    question: Qual pergunta está correta?
+    options:
+      - Du liest gern?
+      - Gern liest du?
+      - Liest du gern?
+    answer: Liest du gern?
+  - type: fill_blank
+    question: Ich ___ gern Fußball.
+    answer: spiele
+  - type: fill_blank
+    question: Maria ___ gern. (dançar)
+    answer: tanzt
+  - type: translation
+    question: Nós cozinhamos no fim de semana.
+    answer: Wir kochen am Wochenende.
+  - type: translation
+    question: Ele ouve música.
+    answer: Er hört Musik.
+  - type: multiple_choice
+    question: "`Geige spielen` significa:"
+    options:
+      - tocar violino
+      - ler livros
+      - nadar
+    answer: tocar violino
+  - type: fill_blank
+    question: Wir gehen gern ___.
+    answer: spazieren
+  - type: translation
+    question: Você gosta de ler?
+    answer: Liest du gern?
+  - type: short_answer
+    question: Escreva uma frase com `gern`.
+    answer: Ich koche gern.
+  - type: short_answer
+    question: Escreva uma frase com `Musik`.
+    answer: Ich höre Musik.

@@ -1,0 +1,134 @@
+topic: "Nominativo: sujeito da frase"
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete com o artigo definido correto no nominativo.
+    items:
+      - question: ___ Mann kommt.
+        answer: Der
+      - question: ___ Frau lernt Deutsch.
+        answer: Die
+      - question: ___ Kind spielt.
+        answer: Das
+      - question: ___ Kinder singen.
+        answer: Die
+      - question: ___ Hund schläft.
+        answer: Der
+      - question: ___ Haus ist klein.
+        answer: Das
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta com sujeito no nominativo.
+    items:
+      - question: Qual frase está correta?
+        options:
+          - Der Mann arbeitet.
+          - Den Mann arbeitet.
+          - Dem Mann arbeitet.
+        answer: Der Mann arbeitet.
+      - question: Qual frase está correta?
+        options:
+          - Der Frau liest.
+          - Die Frau liest.
+          - Den Frau liest.
+        answer: Die Frau liest.
+      - question: Qual frase está correta?
+        options:
+          - Der Kind malt.
+          - Die Kind malt.
+          - Das Kind malt.
+        answer: Das Kind malt.
+      - question: Qual frase está correta?
+        options:
+          - Die Autos stehen dort.
+          - Der Autos stehen dort.
+          - Das Autos stehen dort.
+        answer: Die Autos stehen dort.
+      - question: Qual frase está correta?
+        options:
+          - Einen Hund bellt.
+          - Ein Hund bellt.
+          - Eine Hund bellt.
+        answer: Ein Hund bellt.
+      - question: Qual frase está correta?
+        options:
+          - Ein Lehrerin spricht.
+          - Der Lehrerin spricht.
+          - Eine Lehrerin spricht.
+        answer: Eine Lehrerin spricht.
+
+  - type: identify
+    instruction: Identifique o sujeito da frase em alemão.
+    items:
+      - question: Die Katze schläft.
+        answer: Die Katze
+      - question: Wir wohnen in Hamburg.
+        answer: Wir
+      - question: Das Auto ist neu.
+        answer: Das Auto
+      - question: Ein Lehrer kommt heute.
+        answer: Ein Lehrer
+      - question: Sie lernen Deutsch.
+        answer: Sie
+      - question: Der Tisch ist groß.
+        answer: Der Tisch
+
+  - type: fill_blank
+    instruction: Complete com ein, eine ou o pronome correto no nominativo.
+    items:
+      - question: ___ Mann wohnt hier.
+        answer: Ein
+      - question: ___ Frau kommt aus Brasilien.
+        answer: Eine
+      - question: ___ Kind ist müde.
+        answer: Ein
+      - question: Maria lernt Deutsch. ___ ist fleißig.
+        answer: Sie
+      - question: Paul spielt Fußball. ___ ist schnell.
+        answer: Er
+      - question: Ana und Leo wohnen hier. ___ sind Freunde.
+        answer: Sie
+
+  - type: transformation
+    instruction: Reescreva usando o pronome sujeito indicado pela pessoa ou coisa.
+    items:
+      - question: Der Mann kommt. Use o pronome para der Mann.
+        answer: Er kommt.
+      - question: Die Frau lernt. Use o pronome para die Frau.
+        answer: Sie lernt.
+      - question: Das Kind spielt. Use o pronome para das Kind.
+        answer: Es spielt.
+      - question: Die Kinder singen. Use o pronome para die Kinder.
+        answer: Sie singen.
+      - question: Lukas und ich wohnen hier. Use o pronome para Lukas und ich.
+        answer: Wir wohnen hier.
+
+  - type: translation
+    instruction: Traduza para o alemão usando nominativo no sujeito.
+    items:
+      - question: O homem vem.
+        answer: Der Mann kommt.
+      - question: A mulher aprende alemão.
+        answer: Die Frau lernt Deutsch.
+      - question: A criança brinca.
+        answer: Das Kind spielt.
+      - question: Um cachorro dorme.
+        answer: Ein Hund schläft.
+      - question: Uma professora está aqui.
+        answer: Eine Lehrerin ist hier.
+      - question: As crianças cantam.
+        answer: Die Kinder singen.
+
+  - type: error_correction
+    instruction: Corrija o artigo ou pronome para formar uma frase com sujeito no nominativo.
+    items:
+      - question: Den Mann kommt.
+        answer: Der Mann kommt.
+      - question: Der Frau lernt.
+        answer: Die Frau lernt.
+      - question: Die Kind spielt.
+        answer: Das Kind spielt.
+      - question: Einen Lehrer wohnt hier.
+        answer: Ein Lehrer wohnt hier.
+      - question: Ein Katze schläft.
+        answer: Eine Katze schläft.

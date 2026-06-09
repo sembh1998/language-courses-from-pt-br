@@ -1,0 +1,52 @@
+topic: Mögen e möchte
+level: A1
+words:
+- german: mögen
+  translation: gostar
+  type: verb
+  gender: null
+  plural: null
+  example: Ich mag Deutsch.
+  example_translation: Eu gosto de alemão.
+- german: ich mag
+  translation: eu gosto
+  type: phrase
+  gender: null
+  plural: null
+  example: Ich mag Kaffee.
+  example_translation: Eu gosto de café.
+- german: möchte
+  translation: gostaria
+  type: verb form
+  gender: null
+  plural: null
+  example: Ich möchte Wasser.
+  example_translation: Eu gostaria de água.
+- german: bitte
+  translation: por favor
+  type: adverb
+  gender: null
+  plural: null
+  example: Ich möchte bitte Tee.
+  example_translation: Eu gostaria de chá, por favor.
+- german: der Kaffee
+  translation: o café
+  type: noun
+  gender: masculine
+  plural: die Kaffees
+  example: Ich mag Kaffee.
+  example_translation: Eu gosto de café.
+- german: das Wasser
+  translation: a água
+  type: noun
+  gender: neuter
+  plural: null
+  example: Ich möchte Wasser.
+  example_translation: Eu gostaria de água.
+- german: zahlen
+  translation: pagar
+  type: verb
+  gender: null
+  plural: null
+  example: Wir möchten zahlen.
+  example_translation: Nós gostaríamos de pagar.

@@ -1,0 +1,78 @@
+topic: Nicht
+level: A1
+exercises:
+- type: fill_blank
+  instruction: Complete com nicht.
+  items:
+  - question: Ich komme ___.
+    answer: nicht
+    explanation: Negação simples do verbo.
+  - question: Das ist ___ gut.
+    answer: nicht
+    explanation: Nicht nega o adjetivo gut.
+  - question: Wir lernen heute ___.
+    answer: nicht
+    explanation: Aqui nicht vem no fim para negar a ação.
+  - question: Er ist ___ zu Hause.
+    answer: nicht
+    explanation: Nicht nega a expressão de lugar.
+- type: multiple_choice
+  instruction: Escolha a frase correta.
+  items:
+  - question: Como dizer “Eu não entendo”?
+    options:
+    - Ich verstehe nicht.
+    - Ich nicht verstehe.
+    - Nicht ich verstehe.
+    answer: Ich verstehe nicht.
+    explanation: Em frases A1 curtas, nicht costuma vir depois do verbo/objeto.
+  - question: Qual frase nega um adjetivo?
+    options:
+    - Sie nicht kommt.
+    - Das ist nicht teuer.
+    - Ich habe nicht Buch.
+    answer: Das ist nicht teuer.
+    explanation: Nicht vem antes do adjetivo teuer.
+  - question: Qual frase está correta?
+    options:
+    - Wir spielen nicht heute.
+    - Wir nicht spielen heute.
+    - Wir spielen heute nicht.
+    answer: Wir spielen heute nicht.
+    explanation: Para negar a ação inteira, nicht pode vir no fim.
+- type: correction
+  instruction: Corrija a posição de nicht.
+  items:
+  - question: Ich nicht komme.
+    answer: Ich komme nicht.
+    explanation: O verbo conjugado fica na posição 2.
+  - question: Das nicht ist gut.
+    answer: Das ist nicht gut.
+    explanation: Nicht vem antes do adjetivo.
+  - question: Wir nicht trinken Kaffee.
+    answer: Wir trinken nicht Kaffee.
+    explanation: Aqui nega especificamente Kaffee.
+- type: translation
+  instruction: Traduza para o alemão com nicht.
+  items:
+  - question: Ela não mora aqui.
+    answer: Sie wohnt nicht hier.
+    explanation: Nicht nega a informação de lugar.
+  - question: Eu não trabalho hoje.
+    answer: Ich arbeite heute nicht.
+    explanation: Negação da ação no fim.
+  - question: Isso não é pequeno.
+    answer: Das ist nicht klein.
+    explanation: Nicht antes do adjetivo.
+- type: classification
+  instruction: Diga o que nicht está negando.
+  items:
+  - question: Das ist nicht schön.
+    answer: adjetivo
+    explanation: Nicht aparece antes de schön.
+  - question: Ich komme nicht.
+    answer: verbo/frase
+    explanation: Nega a ação de vir.
+  - question: Sie ist nicht hier.
+    answer: lugar
+    explanation: Nega a informação hier.

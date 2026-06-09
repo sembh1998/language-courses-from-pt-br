@@ -1,0 +1,57 @@
+topic: O verbo haben no presente
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete com a forma correta de haben.
+    items:
+      - question: Ich ___ ein Buch.
+        answer: habe
+      - question: Du ___ Zeit.
+        answer: hast
+      - question: Sie ___ eine Schwester.
+        answer: hat
+      - question: Wir ___ eine Frage.
+        answer: haben
+      - question: Ihr ___ Deutschkurs.
+        answer: habt
+  - type: multiple_choice
+    instruction: Escolha a frase correta.
+    items:
+      - question: Qual está correta?
+        options: [Du habe Zeit., Du hast Zeit., Du hat Zeit.]
+        answer: Du hast Zeit.
+      - question: Qual está correta?
+        options: [Er hat ein Auto., Er hast ein Auto., Er haben ein Auto.]
+        answer: Er hat ein Auto.
+      - question: Qual é natural para idade?
+        options: [Ich habe 20 Jahre., Ich bin 20 Jahre alt., Ich hat 20 Jahre.]
+        answer: Ich bin 20 Jahre alt.
+  - type: transformation
+    instruction: Transforme em pergunta.
+    items:
+      - question: Du hast Zeit.
+        answer: Hast du Zeit?
+      - question: Sie hat eine Frage.
+        answer: Hat sie eine Frage?
+      - question: Ihr habt ein Auto.
+        answer: Habt ihr ein Auto?
+  - type: translation
+    instruction: Traduza para o alemão.
+    items:
+      - question: Eu tenho uma pergunta.
+        answer: Ich habe eine Frage.
+      - question: Ele tem um irmão.
+        answer: Er hat einen Bruder.
+      - question: Nós temos tempo.
+        answer: Wir haben Zeit.
+      - question: Eu tenho 25 anos.
+        answer: Ich bin 25 Jahre alt.
+  - type: correction
+    instruction: Corrija a frase.
+    items:
+      - question: Du habe ein Buch.
+        answer: Du hast ein Buch.
+      - question: Er hast Zeit.
+        answer: Er hat Zeit.
+      - question: Ihr haben eine Frage.
+        answer: Ihr habt eine Frage.

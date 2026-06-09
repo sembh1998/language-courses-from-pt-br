@@ -1,0 +1,23 @@
+topic: Dürfen
+level: A1
+cards:
+- front: ich darf
+  back: eu poder / ter permissão
+  example: Ich darf arbeiten.
+  example_translation: Eu uso o modal com trabalhar.
+- front: du darfst
+  back: você poder / ter permissão
+  example: Du darfst lernen.
+  example_translation: Você usa o modal com estudar.
+- front: er/sie/es darf
+  back: ele/ela poder / ter permissão
+  example: Sie darf kommen.
+  example_translation: Ela usa a forma singular.
+- front: wir dürfen
+  back: nós poder / ter permissão
+  example: Wir dürfen gehen.
+  example_translation: Nós usamos a forma plural.
+- front: Dürfen + infinitivo no fim
+  back: modal + verbo principal no final
+  example: Du darfst gehen.
+  example_translation: O verbo principal fica no infinitivo.

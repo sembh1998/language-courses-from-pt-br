@@ -1,0 +1,59 @@
+topic: Revisão geral A1
+level: A1
+words:
+  - german: Ich heiße ...
+    translation: Eu me chamo ...
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich heiße Bruno.
+    example_translation: Eu me chamo Bruno.
+  - german: Ich komme aus Brasilien.
+    translation: Eu venho do Brasil.
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich komme aus Brasilien.
+    example_translation: Eu venho do Brasil.
+  - german: Ich wohne in ...
+    translation: Eu moro em ...
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich wohne in Curitiba.
+    example_translation: Eu moro em Curitiba.
+  - german: Was machst du gern?
+    translation: O que você gosta de fazer?
+    type: phrase
+    gender: null
+    plural: null
+    example: Was machst du gern?
+    example_translation: O que você gosta de fazer?
+  - german: Ich habe eine Schwester.
+    translation: Eu tenho uma irmã.
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich habe eine Schwester.
+    example_translation: Eu tenho uma irmã.
+  - german: Mein Zimmer ist klein.
+    translation: Meu quarto é pequeno.
+    type: phrase
+    gender: null
+    plural: null
+    example: Mein Zimmer ist klein.
+    example_translation: Meu quarto é pequeno.
+  - german: Ich stehe früh auf.
+    translation: Eu me levanto cedo.
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich stehe früh auf.
+    example_translation: Eu me levanto cedo.
+  - german: Ich habe Deutsch gelernt.
+    translation: Eu estudei alemão.
+    type: phrase
+    gender: null
+    plural: null
+    example: Gestern habe ich Deutsch gelernt.
+    example_translation: Ontem eu estudei alemão.

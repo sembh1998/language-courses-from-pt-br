@@ -1,0 +1,45 @@
+topic: Können
+level: A1
+words:
+- german: können
+  translation: poder / conseguir
+  type: modal verb
+  gender: null
+  plural: null
+  example: Ich kann Deutsch sprechen.
+  example_translation: Eu consigo falar alemão.
+- german: ich kann
+  translation: eu posso / consigo
+  type: verb form
+  gender: null
+  plural: null
+  example: Ich kann kommen.
+  example_translation: Eu posso vir.
+- german: du kannst
+  translation: você pode / consegue
+  type: verb form
+  gender: null
+  plural: null
+  example: Du kannst lesen.
+  example_translation: Você consegue ler.
+- german: er kann
+  translation: ele pode / consegue
+  type: verb form
+  gender: null
+  plural: null
+  example: Er kann schwimmen.
+  example_translation: Ele sabe nadar.
+- german: wir können
+  translation: nós podemos / conseguimos
+  type: verb form
+  gender: null
+  plural: null
+  example: Wir können helfen.
+  example_translation: Nós podemos ajudar.
+- german: sprechen
+  translation: falar
+  type: verb
+  gender: null
+  plural: null
+  example: Sie kann Deutsch sprechen.
+  example_translation: Ela sabe falar alemão.

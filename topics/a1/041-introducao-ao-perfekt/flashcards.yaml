@@ -1,0 +1,35 @@
+topic: Introdução ao Perfekt
+level: A1
+cards:
+  - front: lernen - gelernt
+    back: estudar/aprender - estudado/aprendido
+    example: Ich habe Deutsch gelernt.
+    example_translation: Eu estudei alemão.
+  - front: kaufen - gekauft
+    back: comprar - comprado
+    example: Sie hat Milch gekauft.
+    example_translation: Ela comprou leite.
+  - front: hören - gehört
+    back: ouvir - ouvido
+    example: Wir haben Musik gehört.
+    example_translation: Nós ouvimos música.
+  - front: machen - gemacht
+    back: fazer - feito
+    example: Er hat Sport gemacht.
+    example_translation: Ele fez esporte.
+  - front: gehen - ist gegangen
+    back: ir - foi
+    example: Ich bin nach Hause gegangen.
+    example_translation: Eu fui para casa.
+  - front: kommen - ist gekommen
+    back: vir/chegar - veio/chegou
+    example: Sie ist früh gekommen.
+    example_translation: Ela chegou cedo.
+  - front: fahren - ist gefahren
+    back: ir de transporte/viajar - foi/viajou
+    example: Wir sind nach Berlin gefahren.
+    example_translation: Nós fomos para Berlim.
+  - front: haben + Partizip
+    back: auxiliar comum do Perfekt
+    example: Ich habe Tee getrunken.
+    example_translation: Eu tomei chá.

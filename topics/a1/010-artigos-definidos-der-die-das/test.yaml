@@ -1,0 +1,49 @@
+topic: Artigos definidos der, die, das
+level: A1
+questions:
+  - type: fill_blank
+    question: ___ Mann
+    answer: der
+  - type: fill_blank
+    question: ___ Frau
+    answer: die
+  - type: fill_blank
+    question: ___ Kind
+    answer: das
+  - type: fill_blank
+    question: ___ Buch
+    answer: das
+  - type: multiple_choice
+    question: Qual é o artigo de Tisch?
+    options: [der, die, das]
+    answer: der
+  - type: multiple_choice
+    question: Qual é o artigo de Lampe?
+    options: [der, die, das]
+    answer: die
+  - type: multiple_choice
+    question: No plural nominativo, o artigo definido é...
+    options: [der, die, das]
+    answer: die
+  - type: translation
+    question: "Traduza: o livro."
+    answer: das Buch
+  - type: translation
+    question: "Traduza: a escola."
+    answer: die Schule
+  - type: correction
+    question: "Corrija: Der Frau ist hier."
+    answer: Die Frau ist hier.
+  - type: classification
+    question: das Haus é...
+    answer: neuter
+  - type: classification
+    question: der Lehrer é...
+    answer: masculine
+  - type: fill_blank
+    question: ___ Kinder lernen.
+    answer: Die
+  - type: multiple_choice
+    question: Por que aprender substantivos com artigo?
+    options: [Porque o gênero nem sempre coincide com português., Porque alemão não tem gênero., Porque todos são neutros.]
+    answer: Porque o gênero nem sempre coincide com português.

@@ -1,0 +1,66 @@
+topic: Hobbies e tempo livre
+level: A1
+words:
+  - german: lesen
+    translation: ler
+    type: verb
+    gender: null
+    plural: null
+    example: Ich lese gern.
+    example_translation: Eu gosto de ler.
+  - german: Musik hören
+    translation: ouvir música
+    type: phrase
+    gender: null
+    plural: null
+    example: Wir hören Musik.
+    example_translation: Nós ouvimos música.
+  - german: Geige spielen
+    translation: tocar violino
+    type: phrase
+    gender: null
+    plural: null
+    example: Sie spielt Geige.
+    example_translation: Ela toca violino.
+  - german: kochen
+    translation: cozinhar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich koche am Abend.
+    example_translation: Eu cozinho à noite.
+  - german: spazieren gehen
+    translation: passear; caminhar
+    type: phrase
+    gender: null
+    plural: null
+    example: Er geht gern spazieren.
+    example_translation: Ele gosta de passear.
+  - german: Fußball spielen
+    translation: jogar futebol
+    type: phrase
+    gender: null
+    plural: null
+    example: Wir spielen Fußball.
+    example_translation: Nós jogamos futebol.
+  - german: schwimmen
+    translation: nadar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich schwimme gern.
+    example_translation: Eu gosto de nadar.
+  - german: tanzen
+    translation: dançar
+    type: verb
+    gender: null
+    plural: null
+    example: Lena tanzt gern.
+    example_translation: Lena gosta de dançar.
+  - german: am Wochenende
+    translation: no fim de semana
+    type: phrase
+    gender: null
+    plural: null
+    example: Am Wochenende koche ich.
+    example_translation: No fim de semana eu cozinho.

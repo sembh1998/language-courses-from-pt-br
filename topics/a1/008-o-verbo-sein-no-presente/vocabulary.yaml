@@ -1,0 +1,59 @@
+topic: O verbo sein no presente
+level: A1
+words:
+  - german: sein
+    translation: ser; estar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich bin hier.
+    example_translation: Eu estou aqui.
+  - german: ich bin
+    translation: eu sou; eu estou
+    type: verb_form
+    gender: null
+    plural: null
+    example: Ich bin Student.
+    example_translation: Eu sou estudante.
+  - german: du bist
+    translation: você é; você está
+    type: verb_form
+    gender: null
+    plural: null
+    example: Du bist nett.
+    example_translation: Você é simpático.
+  - german: er ist
+    translation: ele é; ele está
+    type: verb_form
+    gender: null
+    plural: null
+    example: Er ist müde.
+    example_translation: Ele está cansado.
+  - german: wir sind
+    translation: nós somos; nós estamos
+    type: verb_form
+    gender: null
+    plural: null
+    example: Wir sind Freunde.
+    example_translation: Nós somos amigos.
+  - german: ihr seid
+    translation: vocês são; vocês estão
+    type: verb_form
+    gender: null
+    plural: null
+    example: Ihr seid hier.
+    example_translation: Vocês estão aqui.
+  - german: sie sind
+    translation: eles/elas são; eles/elas estão
+    type: verb_form
+    gender: null
+    plural: null
+    example: Sie sind zu Hause.
+    example_translation: Eles/elas estão em casa.
+  - german: Sie sind
+    translation: o senhor/a senhora é; está
+    type: verb_form
+    gender: null
+    plural: null
+    example: Sie sind Herr Weber.
+    example_translation: O senhor é o senhor Weber.

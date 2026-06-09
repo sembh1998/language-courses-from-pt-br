@@ -1,0 +1,59 @@
+topic: Dürfen
+level: A1
+questions:
+- question: Qual frase está correta?
+  answer: Ich darf morgen kommen.
+  explanation: Modal em segunda posição.
+  options:
+  - Ich darf morgen kommen.
+  - Ich komme morgen darf.
+  - Ich morgen komme darf.
+- question: 'Complete: Du ___ jetzt gehen.'
+  answer: darfst
+  explanation: Du usa forma com -st.
+  options:
+  - darf
+  - darfst
+  - dürfen
+- question: Qual frase tem infinitivo no fim?
+  answer: Wir dürfen heute lernen.
+  explanation: Lernen fica no fim.
+  options:
+  - Wir lernen heute dürfen.
+  - Wir heute lernen dürfen.
+  - Wir dürfen heute lernen.
+- question: Er ___ viel arbeiten.
+  answer: darf
+  explanation: Er usa forma singular.
+- question: Ich darf nicht ___.
+  answer: gehen
+  explanation: Verbo principal no infinitivo.
+- question: Eu poder / ter permissão trabalhar hoje.
+  answer: Ich darf heute arbeiten.
+  explanation: Tempo pode ficar no meio.
+- question: Você poder / ter permissão vir amanhã.
+  answer: Du darfst morgen kommen.
+  explanation: Infinitivo no fim.
+- question: Deutsch / wir / dürfen / lernen
+  answer: Wir dürfen Deutsch lernen.
+  explanation: Ordem básica com modal.
+- question: 'Forma para wir:'
+  answer: dürfen
+  explanation: Wir usa forma plural.
+  options:
+  - darfst
+  - dürfen
+  - darf
+- question: Sie ___ früh schlafen.
+  answer: darf
+  explanation: Sie ela usa forma singular.
+- question: gehen / ich / jetzt / darf
+  answer: Ich darf jetzt gehen.
+  explanation: Infinitivo no fim.
+- question: 'Depois de modal, o verbo principal fica:'
+  answer: no infinitivo
+  explanation: Regra central dos modais.
+  options:
+  - conjugado
+  - no infinitivo
+  - sempre ausente

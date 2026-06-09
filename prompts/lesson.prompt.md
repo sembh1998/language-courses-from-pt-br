@@ -15,35 +15,47 @@ Strict output rules:
 - Keep the Markdown simple, clean, and AI-friendly.
 - Use German only for German examples.
 - Use `{{LANGUAGE_OF_EXPLANATION}}` for explanations, translations, mistakes, and summary.
+- Use Portuguese section headings and table headers when `{{LANGUAGE_OF_EXPLANATION}}` is Brazilian Portuguese.
+- Do not leave navigation labels such as Goal, Explanation, Examples, Common mistakes, Summary, Level, Translation, or Note in English.
 - Write for `{{TARGET_STUDENT}}`.
 - Keep content appropriate for `{{LEVEL}}`.
+- Before writing, consider the topic difficulty and importance for the target student. For critical or difficult topics, make the lesson fuller with more examples, contrasts, and common mistakes. For simple topics, keep it shorter.
+- Use the roadmap level, topic title, and subtópicos to decide how much explanation the lesson needs. Do not assume every topic is A1.
+- Use page space well. If the topic is foundational, important, or error-prone, add a compact extra section such as `## Prática guiada`, `## Contraste rápido`, or `## Mini-checagem explicada` before the summary. Use this section for level-appropriate examples, guided patterns, short comparisons, or self-check items with answers/explanations.
+- Avoid leaving most of the final lesson page empty when the topic can support more useful explanation or guided practice. Prefer useful examples and contrasts over filler text.
 
 Required structure:
 
 # {{TOPIC}}
 
-Level: {{LEVEL}}
+Nível: {{LEVEL}}
 
-## Goal
+## Objetivo
 
-One short objective for the lesson.
+Um objetivo curto para a lição.
 
-## Explanation
+## Explicação
 
-A simple explanation in `{{LANGUAGE_OF_EXPLANATION}}`.
+Uma explicação simples em `{{LANGUAGE_OF_EXPLANATION}}`.
 
-## Examples
+## Exemplos
 
-| German | Translation | Note |
+| Alemão | Tradução | Observação |
 |---|---|---|
-| German example | Translation | Short note |
+| Exemplo em alemão | Tradução | Observação curta |
 
-## Common mistakes
+## Erros comuns
 
-- Common mistake 1
-- Common mistake 2
-- Common mistake 3
+- Erro comum 1
+- Erro comum 2
+- Erro comum 3
 
-## Summary
+Optional, when useful for the topic importance/difficulty:
 
-A short mini summary in `{{LANGUAGE_OF_EXPLANATION}}`.
+## Prática guiada
+
+Exemplos guiados, contraste rápido, ou mini-checagem explicada em `{{LANGUAGE_OF_EXPLANATION}}`.
+
+## Resumo
+
+Um mini-resumo curto em `{{LANGUAGE_OF_EXPLANATION}}`.

@@ -1,0 +1,87 @@
+topic: "Verbos irregulares importantes no presente"
+level: "A1"
+words:
+  - german: "sprechen"
+    translation: "falar"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Ich spreche Deutsch."
+    example_translation: "Eu falo alemão."
+  - german: "lesen"
+    translation: "ler"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Er liest ein Buch."
+    example_translation: "Ele lê um livro."
+  - german: "sehen"
+    translation: "ver"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Wir sehen einen Film."
+    example_translation: "Nós vemos um filme."
+  - german: "essen"
+    translation: "comer"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Sie isst Brot."
+    example_translation: "Ela come pão."
+  - german: "fahren"
+    translation: "ir de veículo; dirigir"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Du fährst nach Hamburg."
+    example_translation: "Você vai para Hamburgo."
+  - german: "schlafen"
+    translation: "dormir"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Das Kind schläft."
+    example_translation: "A criança dorme."
+  - german: "nehmen"
+    translation: "pegar; tomar"
+    type: "verb"
+    gender: null
+    plural: null
+    example: "Ich nehme den Bus."
+    example_translation: "Eu pego o ônibus."
+  - german: "das Buch"
+    translation: "o livro"
+    type: "noun"
+    gender: "neuter"
+    plural: "die Bücher"
+    example: "Anna liest ein Buch."
+    example_translation: "Anna lê um livro."
+  - german: "der Bus"
+    translation: "o ônibus"
+    type: "noun"
+    gender: "masculine"
+    plural: "die Busse"
+    example: "Tom nimmt den Bus."
+    example_translation: "Tom pega o ônibus."
+  - german: "das Brot"
+    translation: "o pão"
+    type: "noun"
+    gender: "neuter"
+    plural: "die Brote"
+    example: "Mia isst Brot."
+    example_translation: "Mia come pão."
+  - german: "der Film"
+    translation: "o filme"
+    type: "noun"
+    gender: "masculine"
+    plural: "die Filme"
+    example: "Wir sehen einen Film."
+    example_translation: "Nós vemos um filme."
+  - german: "nach Hause"
+    translation: "para casa"
+    type: "phrase"
+    gender: null
+    plural: null
+    example: "Ich fahre nach Hause."
+    example_translation: "Eu vou para casa."

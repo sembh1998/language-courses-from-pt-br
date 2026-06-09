@@ -1,0 +1,65 @@
+topic: Perguntas Sim/Não
+level: A1
+exercises:
+  - type: transformation
+    instruction: Transforme a frase afirmativa em pergunta sim/não.
+    items:
+      - question: Du lernst Deutsch.
+        answer: Lernst du Deutsch?
+      - question: Du wohnst in Berlin.
+        answer: Wohnst du in Berlin?
+      - question: Du kommst heute.
+        answer: Kommst du heute?
+      - question: Du hast Zeit.
+        answer: Hast du Zeit?
+  - type: multiple_choice
+    instruction: Escolha a pergunta correta.
+    items:
+      - question: Você vem?
+        options:
+          - Du kommst?
+          - Kommst du?
+          - Kommt du?
+        answer: Kommst du?
+      - question: Você é Anna?
+        options:
+          - Bist du Anna?
+          - Du bist Anna?
+          - Ist du Anna?
+        answer: Bist du Anna?
+  - type: fill_blank
+    instruction: Complete com Ja, Nein ou Doch.
+    items:
+      - question: Kommst du? ___, ich komme.
+        answer: Ja
+      - question: Lernst du Deutsch? ___, ich lerne nicht Deutsch.
+        answer: Nein
+      - question: Kommst du nicht? ___, ich komme.
+        answer: Doch
+  - type: ordering
+    instruction: Coloque em ordem para formar perguntas.
+    items:
+      - question: du / Deutsch / lernst
+        answer: Lernst du Deutsch?
+      - question: in Berlin / du / wohnst
+        answer: Wohnst du in Berlin?
+      - question: Zeit / du / hast
+        answer: Hast du Zeit?
+  - type: translation
+    instruction: Traduza para alemão.
+    items:
+      - question: Você mora aqui?
+        answer: Wohnst du hier?
+      - question: Você tem tempo?
+        answer: Hast du Zeit?
+      - question: Sim, eu venho.
+        answer: Ja, ich komme.
+      - question: Não, eu não venho.
+        answer: Nein, ich komme nicht.
+  - type: short_answer
+    instruction: Responda em português.
+    items:
+      - question: Em pergunta sim/não, qual posição ocupa o verbo conjugado?
+        answer: posição 1
+      - question: Qual palavra responde positivamente a uma pergunta negativa?
+        answer: doch

@@ -1,0 +1,57 @@
+topic: Ordem básica da frase alemã
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Heute ich lerne Deutsch.
+      - Heute lerne ich Deutsch.
+      - Heute Deutsch ich lerne.
+    answer: Heute lerne ich Deutsch.
+  - type: short_answer
+    question: "Traduza: Eu estudo alemão."
+    answer: Ich lerne Deutsch.
+  - type: ordering
+    question: "Ordene: du / in Berlin / wohnst"
+    answer: Du wohnst in Berlin.
+  - type: ordering
+    question: "Ordene: jetzt / trinke / ich / Wasser"
+    answer: Jetzt trinke ich Wasser.
+  - type: short_answer
+    question: Qual é a posição do verbo conjugado em frase afirmativa simples?
+    answer: posição 2
+  - type: multiple_choice
+    question: Qual frase começa com tempo e mantém o verbo na posição 2?
+    options:
+      - Am Montag ich arbeite.
+      - Am Montag arbeite ich.
+      - Ich am Montag arbeite.
+    answer: Am Montag arbeite ich.
+  - type: short_answer
+    question: "Transforme: Ich lerne Deutsch. Comece com Heute."
+    answer: Heute lerne ich Deutsch.
+  - type: short_answer
+    question: "Transforme: Ich arbeite am Montag. Comece com Am Montag."
+    answer: Am Montag arbeite ich.
+  - type: short_answer
+    question: "Traduza: Maria vem do Brasil."
+    answer: Maria kommt aus Brasilien.
+  - type: short_answer
+    question: "Traduza: Agora eu bebo água."
+    answer: Jetzt trinke ich Wasser.
+  - type: multiple_choice
+    question: Em Heute lerne ich Deutsch, qual elemento está na posição 2?
+    options:
+      - Heute
+      - lerne
+      - ich
+    answer: lerne
+  - type: short_answer
+    question: "Corrija: Heute ich wohne in Berlin."
+    answer: Heute wohne ich in Berlin.
+  - type: short_answer
+    question: "Corrija: Ich Deutsch lerne."
+    answer: Ich lerne Deutsch.
+  - type: short_answer
+    question: "Traduza: Na sexta-feira eu cozinho."
+    answer: Am Freitag koche ich.

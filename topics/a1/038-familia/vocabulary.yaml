@@ -1,0 +1,66 @@
+topic: Família
+level: A1
+words:
+  - german: der Vater
+    translation: o pai
+    type: noun
+    gender: masculine
+    plural: die Väter
+    example: Mein Vater heißt Paulo.
+    example_translation: Meu pai se chama Paulo.
+  - german: die Mutter
+    translation: a mãe
+    type: noun
+    gender: feminine
+    plural: die Mütter
+    example: Meine Mutter ist Lehrerin.
+    example_translation: Minha mãe é professora.
+  - german: der Bruder
+    translation: o irmão
+    type: noun
+    gender: masculine
+    plural: die Brüder
+    example: Mein Bruder wohnt hier.
+    example_translation: Meu irmão mora aqui.
+  - german: die Schwester
+    translation: a irmã
+    type: noun
+    gender: feminine
+    plural: die Schwestern
+    example: Meine Schwester studiert.
+    example_translation: Minha irmã estuda.
+  - german: die Eltern
+    translation: os pais
+    type: noun
+    gender: plural
+    plural: die Eltern
+    example: Meine Eltern sind zu Hause.
+    example_translation: Meus pais estão em casa.
+  - german: die Geschwister
+    translation: irmãos e irmãs
+    type: noun
+    gender: plural
+    plural: die Geschwister
+    example: Ich habe drei Geschwister.
+    example_translation: Eu tenho três irmãos/irmãs.
+  - german: verheiratet
+    translation: casado/casada
+    type: adjective
+    gender: null
+    plural: null
+    example: Er ist verheiratet.
+    example_translation: Ele é casado.
+  - german: ledig
+    translation: solteiro/solteira
+    type: adjective
+    gender: null
+    plural: null
+    example: Ich bin ledig.
+    example_translation: Eu sou solteiro/solteira.
+  - german: geschieden
+    translation: divorciado/divorciada
+    type: adjective
+    gender: null
+    plural: null
+    example: Sie ist geschieden.
+    example_translation: Ela é divorciada.

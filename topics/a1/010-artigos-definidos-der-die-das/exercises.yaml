@@ -1,0 +1,68 @@
+topic: Artigos definidos der, die, das
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete com der, die ou das.
+    items:
+      - question: ___ Mann
+        answer: der
+      - question: ___ Frau
+        answer: die
+      - question: ___ Kind
+        answer: das
+      - question: ___ Buch
+        answer: das
+      - question: ___ Lampe
+        answer: die
+  - type: multiple_choice
+    instruction: Escolha o artigo correto.
+    items:
+      - question: ___ Tisch
+        options: [der, die, das]
+        answer: der
+      - question: ___ Schule
+        options: [der, die, das]
+        answer: die
+      - question: ___ Haus
+        options: [der, die, das]
+        answer: das
+  - type: classification
+    instruction: Classifique o gênero.
+    items:
+      - question: der Lehrer
+        answer: masculine
+      - question: die Frage
+        answer: feminine
+      - question: das Auto
+        answer: neuter
+      - question: die Bücher
+        answer: plural
+  - type: correction
+    instruction: Corrija o artigo.
+    items:
+      - question: die Tisch ist klein.
+        answer: Der Tisch ist klein.
+      - question: der Frau lernt.
+        answer: Die Frau lernt.
+      - question: die Kind spielt.
+        answer: Das Kind spielt.
+  - type: translation
+    instruction: Traduza para o alemão com artigo definido.
+    items:
+      - question: o homem
+        answer: der Mann
+      - question: a casa
+        answer: das Haus
+      - question: a escola
+        answer: die Schule
+      - question: os livros
+        answer: die Bücher
+  - type: fill_blank
+    instruction: Complete as frases.
+    items:
+      - question: ___ Buch ist gut.
+        answer: Das
+      - question: ___ Lampe ist neu.
+        answer: Die
+      - question: ___ Lehrer ist hier.
+        answer: Der

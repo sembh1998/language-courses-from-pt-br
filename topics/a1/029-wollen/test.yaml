@@ -1,0 +1,63 @@
+topic: Wollen
+level: A1
+questions:
+- type: fill_blank
+  question: Ich ___ heute lesen.
+  answer: will
+  explanation: 'Com ich: will.'
+- type: multiple_choice
+  question: Qual frase está correta?
+  options:
+  - Er will Musik hören.
+  - Er will hören Musik.
+  - Er Musik will hören.
+  answer: Er will Musik hören.
+  explanation: Hören fica no final.
+- type: translation
+  question: 'Traduza: Nós queremos comer.'
+  answer: Wir wollen essen.
+  explanation: Wir usa wollen.
+- type: correction
+  question: 'Corrija: Du will lernen.'
+  answer: Du willst lernen.
+  explanation: Du usa willst.
+- type: fill_blank
+  question: Ihr ___ ins Kino gehen.
+  answer: wollt
+  explanation: 'Com ihr: wollt.'
+- type: multiple_choice
+  question: Qual pedido soa mais educado?
+  options:
+  - Ich will ein Wasser.
+  - Ich möchte ein Wasser.
+  - Ich wollt ein Wasser.
+  answer: Ich möchte ein Wasser.
+  explanation: Möchte é mais cortês.
+- type: translation
+  question: 'Traduza: Ela quer trabalhar.'
+  answer: Sie will arbeiten.
+  explanation: Sie singular usa will.
+- type: correction
+  question: 'Corrija: Wir wollen Deutsch lerne.'
+  answer: Wir wollen Deutsch lernen.
+  explanation: 'Infinitivo correto: lernen.'
+- type: multiple_choice
+  question: O que wollen expressa?
+  options:
+  - posse
+  - negação
+  - vontade/intenção
+  answer: vontade/intenção
+  explanation: Wollen significa querer.
+- type: fill_blank
+  question: Max ___ nicht kommen.
+  answer: will
+  explanation: Max equivale a er.
+- type: sentence_transformation
+  question: 'Reescreva com wollen: Ich lerne Deutsch.'
+  answer: Ich will Deutsch lernen.
+  explanation: O verbo lernen vai ao final.
+- type: translation
+  question: 'Traduza: Vocês querem telefonar.'
+  answer: Ihr wollt telefonieren.
+  explanation: Ihr usa wollt.

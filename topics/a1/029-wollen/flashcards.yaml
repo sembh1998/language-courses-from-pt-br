@@ -1,0 +1,27 @@
+topic: Wollen
+level: A1
+cards:
+- front: wollen
+  back: querer
+  example: Ich will Deutsch lernen.
+  example_translation: Eu quero aprender alemão.
+- front: ich will
+  back: eu quero
+  example: Ich will kommen.
+  example_translation: Eu quero vir.
+- front: du willst
+  back: você quer
+  example: Du willst arbeiten.
+  example_translation: Você quer trabalhar.
+- front: er will
+  back: ele quer
+  example: Er will essen.
+  example_translation: Ele quer comer.
+- front: wir wollen
+  back: nós queremos
+  example: Wir wollen reisen.
+  example_translation: Nós queremos viajar.
+- front: möchte
+  back: gostaria de
+  example: Ich möchte Kaffee.
+  example_translation: Eu gostaria de café.

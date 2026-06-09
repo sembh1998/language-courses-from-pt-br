@@ -1,0 +1,23 @@
+topic: Sollen
+level: A1
+cards:
+- front: ich soll
+  back: eu dever / deveria
+  example: Ich soll arbeiten.
+  example_translation: Eu uso o modal com trabalhar.
+- front: du sollst
+  back: você dever / deveria
+  example: Du sollst lernen.
+  example_translation: Você usa o modal com estudar.
+- front: er/sie/es soll
+  back: ele/ela dever / deveria
+  example: Sie soll kommen.
+  example_translation: Ela usa a forma singular.
+- front: wir sollen
+  back: nós dever / deveria
+  example: Wir sollen gehen.
+  example_translation: Nós usamos a forma plural.
+- front: Sollen + infinitivo no fim
+  back: modal + verbo principal no final
+  example: Du sollst lernen.
+  example_translation: O verbo principal fica no infinitivo.

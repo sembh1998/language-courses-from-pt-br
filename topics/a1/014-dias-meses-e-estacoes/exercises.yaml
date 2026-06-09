@@ -1,0 +1,62 @@
+topic: Dias, meses e estações
+level: A1
+exercises:
+  - type: ordering
+    instruction: Coloque os dias na ordem correta, de segunda a domingo.
+    items:
+      - question: Montag, Mittwoch, Dienstag
+        answer: Montag, Dienstag, Mittwoch
+      - question: Freitag, Donnerstag, Samstag
+        answer: Donnerstag, Freitag, Samstag
+      - question: Sonntag, Samstag, Freitag
+        answer: Freitag, Samstag, Sonntag
+  - type: fill_blank
+    instruction: Complete com am ou im.
+    items:
+      - question: ___ Montag lerne ich Deutsch.
+        answer: Am
+      - question: ___ Juli habe ich Geburtstag.
+        answer: Im
+      - question: ___ Winter ist es kalt.
+        answer: Im
+      - question: ___ 3. Mai habe ich Zeit.
+        answer: Am
+  - type: multiple_choice
+    instruction: Escolha a tradução correta.
+    items:
+      - question: der Herbst
+        options:
+          - a primavera
+          - o outono
+          - o inverno
+        answer: o outono
+      - question: Mittwoch
+        options:
+          - quarta-feira
+          - quinta-feira
+          - sábado
+        answer: quarta-feira
+      - question: im Sommer
+        options:
+          - no verão
+          - no domingo
+          - em dezembro
+        answer: no verão
+  - type: translation
+    instruction: Traduza para alemão.
+    items:
+      - question: Hoje é sexta-feira.
+        answer: Heute ist Freitag.
+      - question: No domingo eu estou em casa.
+        answer: Am Sonntag bin ich zu Hause.
+      - question: Meu aniversário é em julho.
+        answer: Mein Geburtstag ist im Juli.
+  - type: short_answer
+    instruction: Responda com uma palavra em alemão.
+    items:
+      - question: Qual mês vem depois de Januar?
+        answer: Februar
+      - question: Qual estação é quente?
+        answer: Sommer
+      - question: Qual estação é fria?
+        answer: Winter

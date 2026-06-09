@@ -1,0 +1,51 @@
+topic: Informações pessoais básicas
+level: A1
+cards:
+  - front: Ich heiße Ana.
+    back: Eu me chamo Ana.
+    example: Ich heiße Ana und ich komme aus Brasilien.
+    example_translation: Eu me chamo Ana e venho do Brasil.
+  - front: Mein Name ist Bruno.
+    back: Meu nome é Bruno.
+    example: Mein Name ist Bruno Silva.
+    example_translation: Meu nome é Bruno Silva.
+  - front: Ich komme aus Brasilien.
+    back: Eu venho do Brasil.
+    example: Ich komme aus Brasilien, aus Rio.
+    example_translation: Eu venho do Brasil, do Rio.
+  - front: Ich wohne in Berlin.
+    back: Eu moro em Berlim.
+    example: Ich wohne in Berlin und lerne Deutsch.
+    example_translation: Eu moro em Berlim e aprendo alemão.
+  - front: Ich bin Brasilianer.
+    back: Eu sou brasileiro.
+    example: Ich bin Brasilianer und wohne in Deutschland.
+    example_translation: Eu sou brasileiro e moro na Alemanha.
+  - front: Ich bin Brasilianerin.
+    back: Eu sou brasileira.
+    example: Ich bin Brasilianerin und komme aus Salvador.
+    example_translation: Eu sou brasileira e venho de Salvador.
+  - front: Ich bin Student.
+    back: Eu sou estudante.
+    example: Ich bin Student und wohne in Köln.
+    example_translation: Eu sou estudante e moro em Colônia.
+  - front: Ich bin Studentin.
+    back: Eu sou estudante.
+    example: Ich bin Studentin und lerne Deutsch.
+    example_translation: Eu sou estudante e aprendo alemão.
+  - front: Ich bin 25 Jahre alt.
+    back: Eu tenho 25 anos.
+    example: Ich bin 25 Jahre alt und komme aus São Paulo.
+    example_translation: Eu tenho 25 anos e venho de São Paulo.
+  - front: Woher kommst du?
+    back: De onde você vem?
+    example: Woher kommst du? Ich komme aus Brasilien.
+    example_translation: De onde você vem? Eu venho do Brasil.
+  - front: Wo wohnst du?
+    back: Onde você mora?
+    example: Wo wohnst du? Ich wohne in Hamburg.
+    example_translation: Onde você mora? Eu moro em Hamburgo.
+  - front: Was bist du von Beruf?
+    back: Qual é a sua profissão?
+    example: Was bist du von Beruf? Ich bin Ingenieurin.
+    example_translation: Qual é a sua profissão? Eu sou engenheira.

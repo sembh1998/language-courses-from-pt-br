@@ -1,0 +1,45 @@
+topic: Kein
+level: A1
+words:
+- german: kein
+  translation: nenhum / não um
+  type: article
+  gender: null
+  plural: null
+  example: Ich habe keinen Hund.
+  example_translation: Eu não tenho cachorro.
+- german: keine
+  translation: nenhuma / não uma
+  type: article
+  gender: null
+  plural: null
+  example: Sie hat keine Tasche.
+  example_translation: Ela não tem bolsa.
+- german: keinen
+  translation: nenhum para masculino acusativo
+  type: article
+  gender: null
+  plural: null
+  example: Wir kaufen keinen Kuchen.
+  example_translation: Nós não compramos bolo.
+- german: ein Hund
+  translation: um cachorro
+  type: noun
+  gender: masculine
+  plural: die Hunde
+  example: Das ist ein Hund.
+  example_translation: Isso é um cachorro.
+- german: eine Tasche
+  translation: uma bolsa
+  type: noun
+  gender: feminine
+  plural: die Taschen
+  example: Ich habe eine Tasche.
+  example_translation: Eu tenho uma bolsa.
+- german: Brot
+  translation: pão
+  type: noun
+  gender: neuter
+  plural: die Brote
+  example: Ich esse kein Brot.
+  example_translation: Eu não como pão.

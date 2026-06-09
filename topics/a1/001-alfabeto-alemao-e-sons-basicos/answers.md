@@ -1,10 +1,10 @@
-# Answers: Alfabeto alemão e sons básicos
+# Respostas: Alfabeto alemão e sons básicos
 
-Level: A1
+Nível: A1
 
-## Exercises answer key
+## Gabarito dos exercícios
 
-| ID | Answer | Note |
+| ID | Resposta | Explicação |
 |---|---|---|
 | 1.1 | o alfabeto | Tradução de "das Alphabet". |
 | 1.2 | a letra | Tradução de "der Buchstabe". |
@@ -22,9 +22,9 @@ Level: A1
 | 4.4 | O-T-T-O | Soletração de Otto. |
 | 5.1 | Wie buchstabiert man das? | Pergunta padrão para soletrar. |
 
-## Test answer key
+## Gabarito do teste
 
-| ID | Answer | Points |
+| ID | Resposta | Pontos |
 |---|---|---|
 | 1 | Ich heiße Ana. | 1 |
 | 2 | Wie buchstabiert man das? | 1 |
@@ -37,9 +37,9 @@ Level: A1
 | 9 | der Buchstabe | 1 |
 | 10 | Eszett | 1 |
 
-## Story questions
+## Perguntas da história
 
-| Question | Answer |
+| Pergunta | Resposta |
 |---|---|
 | Onde Anna está? | Anna está no curso de alemão. |
 | Como Anna soletra o nome dela? | A-N-N-A. |

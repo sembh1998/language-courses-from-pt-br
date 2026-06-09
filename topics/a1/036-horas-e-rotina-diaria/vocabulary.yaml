@@ -1,0 +1,59 @@
+topic: Horas e rotina diária
+level: A1
+words:
+- german: Wie spät ist es?
+  translation: Que horas são?
+  type: phrase
+  gender: null
+  plural: null
+  example: Wie spät ist es? Es ist acht Uhr.
+  example_translation: Que horas são? São oito horas.
+- german: Es ist ... Uhr
+  translation: São ... horas
+  type: phrase
+  gender: null
+  plural: null
+  example: Es ist fünf Uhr.
+  example_translation: São cinco horas.
+- german: um
+  translation: às
+  type: preposition
+  gender: null
+  plural: null
+  example: Ich komme um sieben Uhr.
+  example_translation: Eu venho às sete horas.
+- german: morgens
+  translation: de manhã
+  type: adverb
+  gender: null
+  plural: null
+  example: Morgens trinke ich Kaffee.
+  example_translation: De manhã eu bebo café.
+- german: mittags
+  translation: ao meio-dia
+  type: adverb
+  gender: null
+  plural: null
+  example: Mittags esse ich.
+  example_translation: Ao meio-dia eu como.
+- german: abends
+  translation: à noite
+  type: adverb
+  gender: null
+  plural: null
+  example: Abends lerne ich.
+  example_translation: À noite eu estudo.
+- german: aufstehen
+  translation: levantar
+  type: verb
+  gender: null
+  plural: null
+  example: Ich stehe um sechs Uhr auf.
+  example_translation: Eu levanto às seis horas.
+- german: schlafen
+  translation: dormir
+  type: verb
+  gender: null
+  plural: null
+  example: Ich schlafe um zehn Uhr.
+  example_translation: Eu durmo às dez horas.

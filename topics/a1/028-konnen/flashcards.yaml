@@ -1,0 +1,27 @@
+topic: Können
+level: A1
+cards:
+- front: können
+  back: poder / conseguir
+  example: Ich kann Deutsch sprechen.
+  example_translation: Eu consigo falar alemão.
+- front: ich kann
+  back: eu posso / consigo
+  example: Ich kann kommen.
+  example_translation: Eu posso vir.
+- front: du kannst
+  back: você pode / consegue
+  example: Du kannst lesen.
+  example_translation: Você consegue ler.
+- front: er kann
+  back: ele pode / consegue
+  example: Er kann schwimmen.
+  example_translation: Ele sabe nadar.
+- front: wir können
+  back: nós podemos / conseguimos
+  example: Wir können helfen.
+  example_translation: Nós podemos ajudar.
+- front: sprechen
+  back: falar
+  example: Sie kann Deutsch sprechen.
+  example_translation: Ela sabe falar alemão.

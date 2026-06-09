@@ -1,0 +1,77 @@
+topic: Cumprimentos e despedidas
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual é a tradução de "Hallo"?
+    options:
+      - olá
+      - tchau
+      - boa noite antes de dormir
+    answer: olá
+  - type: multiple_choice
+    question: Qual expressão combina melhor com uma situação formal durante o dia?
+    options:
+      - Tschüss!
+      - Guten Tag!
+      - Gute Nacht!
+    answer: Guten Tag!
+  - type: fill_blank
+    question: "Complete: Guten ___!"
+    answer: Morgen
+  - type: multiple_choice
+    question: Como dizer "tchau" de modo informal?
+    options:
+      - Tschüss
+      - Guten Abend
+      - Auf Wiedersehen
+    answer: Tschüss
+  - type: fill_blank
+    question: "Complete: Auf ___"
+    answer: Wiedersehen
+  - type: multiple_choice
+    question: Qual expressão é usada principalmente antes de dormir?
+    options:
+      - Guten Tag
+      - Gute Nacht
+      - Hallo
+    answer: Gute Nacht
+  - type: translation
+    question: "Traduza para o alemão: Boa noite, senhora Schmidt."
+    answer: Guten Abend, Frau Schmidt.
+  - type: translation
+    question: "Traduza para o alemão: Tchau, até amanhã!"
+    answer: Tschüss, bis morgen!
+  - type: multiple_choice
+    question: Você está saindo de uma consulta formal. O que é mais adequado?
+    options:
+      - Auf Wiedersehen!
+      - Hallo!
+      - Gute Nacht!
+    answer: Auf Wiedersehen!
+  - type: multiple_choice
+    question: '"Guten Abend" é usado principalmente...'
+    options:
+      - de manhã
+      - à noite, ao cumprimentar
+      - somente antes de dormir
+    answer: à noite, ao cumprimentar
+  - type: fill_blank
+    question: "Complete: bis ___"
+    answer: morgen
+  - type: multiple_choice
+    question: Qual par é informal?
+    options:
+      - Hallo / Tschüss
+      - Guten Tag / Auf Wiedersehen
+      - Guten Morgen / Frau Schmidt
+    answer: Hallo / Tschüss
+  - type: translation
+    question: "Traduza para o alemão: Bom dia, senhor Müller."
+    answer: Guten Morgen, Herr Müller.
+  - type: multiple_choice
+    question: Qual frase está mais adequada para cumprimentar uma professora durante o dia?
+    options:
+      - Tschüss, Frau Keller.
+      - Guten Tag, Frau Keller.
+      - Gute Nacht, Frau Keller.
+    answer: Guten Tag, Frau Keller.

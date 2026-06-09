@@ -1,0 +1,45 @@
+topic: Conjunções simples sem inversão
+level: A1
+words:
+- german: und
+  translation: e
+  type: conjunction
+  gender: null
+  plural: null
+  example: Ich lese und ich schreibe.
+  example_translation: Eu leio e escrevo.
+- german: aber
+  translation: mas
+  type: conjunction
+  gender: null
+  plural: null
+  example: Ich komme, aber ich bleibe kurz.
+  example_translation: Eu venho, mas fico pouco.
+- german: oder
+  translation: ou
+  type: conjunction
+  gender: null
+  plural: null
+  example: Tee oder Kaffee?
+  example_translation: Chá ou café?
+- german: denn
+  translation: pois / porque
+  type: conjunction
+  gender: null
+  plural: null
+  example: Ich bleibe, denn ich bin krank.
+  example_translation: Eu fico, pois estou doente.
+- german: sondern
+  translation: mas sim
+  type: conjunction
+  gender: null
+  plural: null
+  example: Nicht Tee, sondern Kaffee.
+  example_translation: Não chá, mas sim café.
+- german: müde
+  translation: cansado
+  type: adjective
+  gender: null
+  plural: null
+  example: Ich bin müde.
+  example_translation: Eu estou cansado.

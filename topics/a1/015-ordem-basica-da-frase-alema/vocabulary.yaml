@@ -1,0 +1,73 @@
+topic: Ordem básica da frase alemã
+level: A1
+words:
+  - german: ich
+    translation: eu
+    type: pronoun
+    gender: null
+    plural: null
+    example: Ich lerne Deutsch.
+    example_translation: Eu estudo alemão.
+  - german: du
+    translation: você, tu
+    type: pronoun
+    gender: null
+    plural: null
+    example: Du wohnst hier.
+    example_translation: Você mora aqui.
+  - german: heute
+    translation: hoje
+    type: adverb
+    gender: null
+    plural: null
+    example: Heute lerne ich.
+    example_translation: Hoje eu estudo.
+  - german: jetzt
+    translation: agora
+    type: adverb
+    gender: null
+    plural: null
+    example: Jetzt trinke ich Wasser.
+    example_translation: Agora eu bebo água.
+  - german: lernen
+    translation: estudar, aprender
+    type: verb
+    gender: null
+    plural: null
+    example: Ich lerne Deutsch.
+    example_translation: Eu estudo alemão.
+  - german: wohnen
+    translation: morar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich wohne in Berlin.
+    example_translation: Eu moro em Berlim.
+  - german: kommen
+    translation: vir
+    type: verb
+    gender: null
+    plural: null
+    example: Maria kommt aus Brasilien.
+    example_translation: Maria vem do Brasil.
+  - german: trinken
+    translation: beber
+    type: verb
+    gender: null
+    plural: null
+    example: Ich trinke Wasser.
+    example_translation: Eu bebo água.
+  - german: Deutsch
+    translation: alemão
+    type: noun
+    gender: neuter
+    plural: null
+    example: Ich lerne Deutsch.
+    example_translation: Eu estudo alemão.
+  - german: in Berlin
+    translation: em Berlim
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich wohne in Berlin.
+    example_translation: Eu moro em Berlim.

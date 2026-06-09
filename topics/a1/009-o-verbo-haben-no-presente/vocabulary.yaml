@@ -1,0 +1,59 @@
+topic: O verbo haben no presente
+level: A1
+words:
+  - german: haben
+    translation: ter
+    type: verb
+    gender: null
+    plural: null
+    example: Wir haben Zeit.
+    example_translation: Nós temos tempo.
+  - german: ich habe
+    translation: eu tenho
+    type: verb_form
+    gender: null
+    plural: null
+    example: Ich habe ein Buch.
+    example_translation: Eu tenho um livro.
+  - german: du hast
+    translation: você tem
+    type: verb_form
+    gender: null
+    plural: null
+    example: Du hast eine Frage.
+    example_translation: Você tem uma pergunta.
+  - german: er hat
+    translation: ele tem
+    type: verb_form
+    gender: null
+    plural: null
+    example: Er hat einen Bruder.
+    example_translation: Ele tem um irmão.
+  - german: wir haben
+    translation: nós temos
+    type: verb_form
+    gender: null
+    plural: null
+    example: Wir haben Deutschkurs.
+    example_translation: Nós temos aula de alemão.
+  - german: ihr habt
+    translation: vocês têm
+    type: verb_form
+    gender: null
+    plural: null
+    example: Ihr habt Zeit.
+    example_translation: Vocês têm tempo.
+  - german: die Frage
+    translation: a pergunta
+    type: noun
+    gender: feminine
+    plural: die Fragen
+    example: Ich habe eine Frage.
+    example_translation: Eu tenho uma pergunta.
+  - german: der Bruder
+    translation: o irmão
+    type: noun
+    gender: masculine
+    plural: die Brüder
+    example: Sie hat einen Bruder.
+    example_translation: Ela tem um irmão.

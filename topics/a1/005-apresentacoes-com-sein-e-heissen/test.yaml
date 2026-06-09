@@ -1,0 +1,81 @@
+topic: Apresentações com sein e heißen
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual frase significa "Eu me chamo Ana"?
+    options:
+      - Ich heiße Ana.
+      - Ich bin heiße Ana.
+      - Ich heißt Ana.
+    answer: Ich heiße Ana.
+  - type: fill_blank
+    question: Ich ___ Bruno.
+    answer: bin
+  - type: fill_blank
+    question: Wie ___ du?
+    answer: heißt
+  - type: multiple_choice
+    question: Qual forma combina com du?
+    options:
+      - du bin
+      - du bist
+      - du ist
+    answer: du bist
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - Er heißt Lukas.
+      - Er heiße Lukas.
+      - Er heißen Lukas.
+    answer: Er heißt Lukas.
+  - type: translation
+    question: "Traduza: Como você se chama?"
+    answer: Wie heißt du?
+  - type: translation
+    question: "Traduza: Ela é Clara."
+    answer: Sie ist Clara.
+  - type: fill_blank
+    question: Sie ___ Lena.
+    answer: ist
+  - type: multiple_choice
+    question: Você fala com uma professora pela primeira vez. Qual pergunta é mais adequada?
+    options:
+      - Wie heißt du?
+      - Wie heißen Sie?
+      - Wer bist du?
+    answer: Wie heißen Sie?
+  - type: correction
+    question: "Corrija: Ich bin heiße Maria."
+    answer: Ich heiße Maria.
+  - type: fill_blank
+    question: Er ___ Thomas.
+    answer: heißt
+  - type: translation
+    question: "Traduza: Esta é a Lena."
+    answer: Das ist Lena.
+  - type: multiple_choice
+    question: Qual pergunta significa "Quem é você?"
+    options:
+      - Wie heißt du?
+      - Wer bist du?
+      - Wer sind Sie?
+    answer: Wer bist du?
+  - type: fill_blank
+    question: Wer ___ Sie?
+    answer: sind
+  - type: transformation
+    question: "Transforme para formal: Wie heißt du?"
+    answer: Wie heißen Sie?
+  - type: correction
+    question: "Corrija: Du ist Paul."
+    answer: Du bist Paul.
+  - type: translation
+    question: "Traduza: Ele se chama Lukas."
+    answer: Er heißt Lukas.
+  - type: multiple_choice
+    question: Qual resposta combina com "Wie heißt du?"
+    options:
+      - Ich heiße Ana.
+      - Ich bin aus Brasilien.
+      - Das ist Ana.
+    answer: Ich heiße Ana.

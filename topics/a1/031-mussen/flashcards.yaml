@@ -1,0 +1,23 @@
+topic: Müssen
+level: A1
+cards:
+- front: ich muss
+  back: eu precisar / ter que
+  example: Ich muss arbeiten.
+  example_translation: Eu uso o modal com trabalhar.
+- front: du musst
+  back: você precisar / ter que
+  example: Du musst lernen.
+  example_translation: Você usa o modal com estudar.
+- front: er/sie/es muss
+  back: ele/ela precisar / ter que
+  example: Sie muss kommen.
+  example_translation: Ela usa a forma singular.
+- front: wir müssen
+  back: nós precisar / ter que
+  example: Wir müssen gehen.
+  example_translation: Nós usamos a forma plural.
+- front: Müssen + infinitivo no fim
+  back: modal + verbo principal no final
+  example: Ich muss arbeiten.
+  example_translation: O verbo principal fica no infinitivo.

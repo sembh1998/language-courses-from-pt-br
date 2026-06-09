@@ -1,0 +1,51 @@
+topic: Apresentações com sein e heißen
+level: A1
+cards:
+  - front: Ich heiße Ana.
+    back: Eu me chamo Ana. / Meu nome é Ana.
+    example: Ich heiße Ana. Und du?
+    example_translation: Eu me chamo Ana. E você?
+  - front: Wie heißt du?
+    back: Como você se chama?
+    example: Hallo, wie heißt du?
+    example_translation: Olá, como você se chama?
+  - front: Ich bin Bruno.
+    back: Eu sou Bruno.
+    example: Ich bin Bruno. Ich bin aus Brasilien.
+    example_translation: Eu sou Bruno. Eu sou do Brasil.
+  - front: Du bist Clara.
+    back: Você é Clara.
+    example: Du bist Clara, richtig?
+    example_translation: Você é Clara, certo?
+  - front: Er ist Lukas.
+    back: Ele é Lukas.
+    example: Er ist Lukas. Er ist mein Freund.
+    example_translation: Ele é Lukas. Ele é meu amigo.
+  - front: Sie ist Lena.
+    back: Ela é Lena.
+    example: Sie ist Lena. Sie ist meine Freundin.
+    example_translation: Ela é Lena. Ela é minha amiga.
+  - front: Du heißt Paul.
+    back: Você se chama Paul.
+    example: Du heißt Paul, oder?
+    example_translation: Você se chama Paul, certo?
+  - front: Er heißt Thomas.
+    back: Ele se chama Thomas.
+    example: Er heißt Thomas und ist aus Berlin.
+    example_translation: Ele se chama Thomas e é de Berlim.
+  - front: Sie heißt Maria.
+    back: Ela se chama Maria.
+    example: Sie heißt Maria und ist nett.
+    example_translation: Ela se chama Maria e é simpática.
+  - front: Wie heißen Sie?
+    back: Como o senhor/a senhora se chama?
+    example: Guten Tag, wie heißen Sie?
+    example_translation: Bom dia, como o senhor/a senhora se chama?
+  - front: Wer bist du?
+    back: Quem é você?
+    example: Wer bist du? Ich bin Ana.
+    example_translation: Quem é você? Eu sou Ana.
+  - front: Das ist Lena.
+    back: Esta é a Lena.
+    example: Ana, das ist Lena.
+    example_translation: Ana, esta é a Lena.

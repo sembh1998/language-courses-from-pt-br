@@ -1,0 +1,87 @@
+topic: Cumprimentos e despedidas
+level: A1
+words:
+  - german: Hallo
+    translation: olá
+    type: phrase
+    gender: null
+    plural: null
+    example: Hallo, Anna!
+    example_translation: Olá, Anna!
+  - german: Guten Morgen
+    translation: bom dia
+    type: phrase
+    gender: null
+    plural: null
+    example: Guten Morgen, Herr Müller.
+    example_translation: Bom dia, senhor Müller.
+  - german: Guten Tag
+    translation: bom dia; boa tarde
+    type: phrase
+    gender: null
+    plural: null
+    example: Guten Tag, Frau Weber.
+    example_translation: Bom dia, senhora Weber.
+  - german: Guten Abend
+    translation: boa noite
+    type: phrase
+    gender: null
+    plural: null
+    example: Guten Abend, Paul.
+    example_translation: Boa noite, Paul.
+  - german: Tschüss
+    translation: tchau
+    type: phrase
+    gender: null
+    plural: null
+    example: Tschüss, bis morgen!
+    example_translation: Tchau, até amanhã!
+  - german: Auf Wiedersehen
+    translation: até logo; adeus
+    type: phrase
+    gender: null
+    plural: null
+    example: Auf Wiedersehen, Frau Schmidt.
+    example_translation: Até logo, senhora Schmidt.
+  - german: Gute Nacht
+    translation: boa noite
+    type: phrase
+    gender: null
+    plural: null
+    example: Gute Nacht, Lena.
+    example_translation: Boa noite, Lena.
+  - german: bis morgen
+    translation: até amanhã
+    type: phrase
+    gender: null
+    plural: null
+    example: Tschüss, bis morgen!
+    example_translation: Tchau, até amanhã!
+  - german: Herr
+    translation: senhor
+    type: noun
+    gender: masculine
+    plural: Herren
+    example: Guten Tag, Herr Müller.
+    example_translation: Bom dia, senhor Müller.
+  - german: Frau
+    translation: senhora; mulher
+    type: noun
+    gender: feminine
+    plural: Frauen
+    example: Guten Abend, Frau Schmidt.
+    example_translation: Boa noite, senhora Schmidt.
+  - german: formal
+    translation: formal
+    type: adjective
+    gender: null
+    plural: null
+    example: Guten Tag ist formal.
+    example_translation: Guten Tag é formal.
+  - german: informell
+    translation: informal
+    type: adjective
+    gender: null
+    plural: null
+    example: Hallo ist informell.
+    example_translation: Hallo é informal.

@@ -1,0 +1,120 @@
+topic: Verbos com mudança de vogal
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete com a forma correta do verbo entre parênteses.
+    items:
+      - question: Du ___ ein Buch. (lesen)
+        answer: liest
+      - question: Er ___ Wasser. (geben)
+        answer: gibt
+      - question: Sie ___ den Bus. (nehmen)
+        answer: nimmt
+      - question: Das Kind ___ Brot. (essen)
+        answer: isst
+      - question: Du ___ nach Hause. (fahren)
+        answer: fährst
+      - question: Er ___ Deutsch. (sprechen)
+        answer: spricht
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta.
+    items:
+      - question: Qual frase usa corretamente o verbo lesen?
+        options:
+          - Du liest die E-Mail.
+          - Du lest die E-Mail.
+          - Du lesen die E-Mail.
+        answer: Du liest die E-Mail.
+      - question: Qual frase usa corretamente o verbo fahren?
+        options:
+          - Er fahrt nach Köln.
+          - Er fährt nach Köln.
+          - Er fahren nach Köln.
+        answer: Er fährt nach Köln.
+      - question: Qual frase usa corretamente o verbo nehmen?
+        options:
+          - Sie nehmt den Kaffee.
+          - Sie nehmen den Kaffee.
+          - Sie nimmt den Kaffee.
+        answer: Sie nimmt den Kaffee.
+      - question: Qual frase usa corretamente o verbo geben?
+        options:
+          - Ich gebe dir Tee.
+          - Ich gibst dir Tee.
+          - Ich gibt dir Tee.
+        answer: Ich gebe dir Tee.
+      - question: Qual frase usa corretamente o verbo schlafen?
+        options:
+          - Das Baby schlafen.
+          - Das Baby schläft.
+          - Das Baby schlaft.
+        answer: Das Baby schläft.
+      - question: Qual frase usa corretamente o verbo sprechen?
+        options:
+          - Du sprecht langsam.
+          - Du sprechen langsam.
+          - Du sprichst langsam.
+        answer: Du sprichst langsam.
+
+  - type: transformation
+    instruction: Reescreva a frase trocando o pronome por du. Mantenha o sentido.
+    items:
+      - question: Ich lese den Text. → Du ___ den Text.
+        answer: Du liest den Text.
+      - question: Ich fahre nach Berlin. → Du ___ nach Berlin.
+        answer: Du fährst nach Berlin.
+      - question: Ich gebe Max ein Buch. → Du ___ Max ein Buch.
+        answer: Du gibst Max ein Buch.
+      - question: Ich spreche Deutsch. → Du ___ Deutsch.
+        answer: Du sprichst Deutsch.
+      - question: Ich nehme den Apfel. → Du ___ den Apfel.
+        answer: Du nimmst den Apfel.
+
+  - type: categorization
+    instruction: Indique o tipo de mudança de vogal do verbo.
+    items:
+      - question: geben → du gibst
+        answer: e → i
+      - question: lesen → du liest
+        answer: e → ie
+      - question: fahren → du fährst
+        answer: a → ä
+      - question: sehen → er sieht
+        answer: e → ie
+      - question: schlafen → sie schläft
+        answer: a → ä
+      - question: sprechen → du sprichst
+        answer: e → i
+
+  - type: fill_blank
+    instruction: "Complete com a forma correta. Atenção: nem todos os pronomes mudam a vogal."
+    items:
+      - question: Ich ___ gern Pizza. (essen)
+        answer: esse
+      - question: Wir ___ nach München. (fahren)
+        answer: fahren
+      - question: Ihr ___ den Text. (lesen)
+        answer: lest
+      - question: Sie ___ viel. (sprechen, plural)
+        answer: sprechen
+      - question: Er ___ eine Tasche. (tragen)
+        answer: trägt
+      - question: Du ___ das Haus. (sehen)
+        answer: siehst
+
+  - type: translation
+    instruction: Traduza para o alemão usando o verbo correto no presente.
+    items:
+      - question: Você lê um livro.
+        answer: Du liest ein Buch.
+      - question: Ele pega o ônibus.
+        answer: Er nimmt den Bus.
+      - question: Ela dorme.
+        answer: Sie schläft.
+      - question: Você fala alemão.
+        answer: Du sprichst Deutsch.
+      - question: Ele vai para casa.
+        answer: Er fährt nach Hause.
+      - question: Ela vê o professor.
+        answer: Sie sieht den Lehrer.

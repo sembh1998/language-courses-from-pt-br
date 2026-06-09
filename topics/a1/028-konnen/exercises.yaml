@@ -1,0 +1,78 @@
+topic: Können
+level: A1
+exercises:
+- type: fill_blank
+  instruction: Complete com kann ou können.
+  items:
+  - question: Ich ___ Deutsch sprechen.
+    answer: kann
+    explanation: 'Com ich: kann.'
+  - question: Wir ___ heute kommen.
+    answer: können
+    explanation: 'Com wir: können.'
+  - question: Er ___ gut schwimmen.
+    answer: kann
+    explanation: 'Com er: kann.'
+  - question: Sie ___ mir helfen.
+    answer: können
+    explanation: 'Com sie plural: können.'
+- type: multiple_choice
+  instruction: Escolha a frase correta.
+  items:
+  - question: Qual frase usa verbo principal no final?
+    options:
+    - Ich kann Deutsch sprechen.
+    - Ich kann sprechen Deutsch.
+    - Ich Deutsch kann sprechen.
+    answer: Ich kann Deutsch sprechen.
+    explanation: Com modal, o verbo principal vai ao final.
+  - question: Qual é a forma para du?
+    options:
+    - du kann
+    - du können
+    - du kannst
+    answer: du kannst
+    explanation: A forma de du é kannst.
+  - question: Qual frase expressa capacidade?
+    options:
+    - Wir können kochen.
+    - Wir kochen können.
+    - Wir kann kochen.
+    answer: Wir können kochen.
+    explanation: Wir usa können e infinitivo final.
+- type: correction
+  instruction: Corrija a frase.
+  items:
+  - question: Ich kann Deutsch spreche.
+    answer: Ich kann Deutsch sprechen.
+    explanation: O verbo final fica no infinitivo.
+  - question: Du kann kommen.
+    answer: Du kannst kommen.
+    explanation: 'Com du: kannst.'
+  - question: Wir können helfen dir.
+    answer: Wir können dir helfen.
+    explanation: O infinitivo helfen fica no final.
+- type: translation
+  instruction: Traduza para o alemão.
+  items:
+  - question: Eu consigo ler alemão.
+    answer: Ich kann Deutsch lesen.
+    explanation: Modal kann + infinitivo final.
+  - question: Vocês podem vir hoje.
+    answer: Ihr könnt heute kommen.
+    explanation: 'Com ihr: könnt.'
+  - question: Ela sabe nadar.
+    answer: Sie kann schwimmen.
+    explanation: Capacidade com kann.
+- type: sentence_transformation
+  instruction: Reescreva usando können.
+  items:
+  - question: Ich spreche Deutsch.
+    answer: Ich kann Deutsch sprechen.
+    explanation: O verbo principal vai para o final no infinitivo.
+  - question: Wir helfen morgen.
+    answer: Wir können morgen helfen.
+    explanation: Können conjugado; helfen no final.
+  - question: Er kocht gut.
+    answer: Er kann gut kochen.
+    explanation: 'Capacidade: kann + kochen.'

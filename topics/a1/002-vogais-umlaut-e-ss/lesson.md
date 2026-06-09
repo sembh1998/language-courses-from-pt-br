@@ -1,12 +1,12 @@
 # Vogais, Umlaut e ß
 
-Level: A1
+Nível: A1
 
-## Goal
+## Objetivo
 
 Reconhecer as vogais alemãs, os sons com Umlaut e a diferença básica entre ß e ss.
 
-## Explanation
+## Explicação
 
 O alemão usa as vogais básicas **a, e, i, o, u** e também as vogais com Umlaut: **ä, ö, ü**. O Umlaut não é decoração: ele muda o som da vogal e pode mudar a palavra.
 
@@ -16,9 +16,9 @@ Para falantes de português, **ä** costuma lembrar um som de **e** aberto. Os s
 
 Quando não for possível digitar Umlaut, é comum escrever **ae**, **oe**, **ue**: **Mädchen** pode aparecer como **Maedchen**, **schön** como **schoen**, e **grün** como **gruen**. Mesmo assim, a forma padrão usa **ä, ö, ü**.
 
-## Examples
+## Exemplos
 
-| German | Translation | Note |
+| Alemão | Tradução | Observação |
 |---|---|---|
 | A, E, I, O, U sind Vokale. | A, E, I, O, U são vogais. | Vogais básicas. |
 | Das Mädchen lernt Deutsch. | A menina aprende alemão. | **ä** tem som próximo de **e**. |
@@ -31,7 +31,7 @@ Quando não for possível digitar Umlaut, é comum escrever **ae**, **oe**, **ue
 | Der Fuß tut weh. | O pé dói. | **ß** depois de vogal longa. |
 | Der Kuss ist kurz. | O beijo é curto. | **ss** depois de vogal curta. |
 
-## Common mistakes
+## Erros comuns
 
 - Tratar **ä, ö, ü** como se fossem apenas **a, o, u**. O som muda.
 - Escrever **ss** e **ß** sem regra. Em geral: vogal curta + **ss**, vogal longa ou ditongo + **ß**.
@@ -39,6 +39,6 @@ Quando não for possível digitar Umlaut, é comum escrever **ae**, **oe**, **ue
 - Pronunciar **ö** como **o** português. O som fica entre **e** e **o**.
 - Ignorar a duração da vogal. Em alemão, vogal longa e vogal curta podem diferenciar palavras.
 
-## Summary
+## Resumo
 
 As vogais alemãs básicas são **a, e, i, o, u**. As formas **ä, ö, ü** são Umlaute e mudam o som. A letra **ß** representa som de **s** forte depois de vogal longa ou ditongo, enquanto **ss** aparece normalmente depois de vogal curta. Para A1, foque em reconhecer essas marcas na escrita e repetir os exemplos frequentes.

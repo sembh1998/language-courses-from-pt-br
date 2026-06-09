@@ -1,0 +1,51 @@
+topic: "Nominativo: sujeito da frase"
+level: A1
+cards:
+  - front: der Mann
+    back: o homem; artigo masculino no nominativo
+    example: Der Mann kommt.
+    example_translation: O homem vem.
+  - front: die Frau
+    back: a mulher; artigo feminino no nominativo
+    example: Die Frau lernt.
+    example_translation: A mulher aprende.
+  - front: das Kind
+    back: a criança; artigo neutro no nominativo
+    example: Das Kind spielt.
+    example_translation: A criança brinca.
+  - front: die Kinder
+    back: as crianças; artigo plural no nominativo
+    example: Die Kinder spielen.
+    example_translation: As crianças brincam.
+  - front: ein Mann
+    back: um homem; indefinido masculino no nominativo
+    example: Ein Mann wohnt hier.
+    example_translation: Um homem mora aqui.
+  - front: eine Frau
+    back: uma mulher; indefinido feminino no nominativo
+    example: Eine Frau arbeitet hier.
+    example_translation: Uma mulher trabalha aqui.
+  - front: ein Kind
+    back: uma criança; indefinido neutro no nominativo
+    example: Ein Kind malt.
+    example_translation: Uma criança pinta.
+  - front: ich
+    back: eu; pronome sujeito
+    example: Ich bin Ana.
+    example_translation: Eu sou Ana.
+  - front: er
+    back: ele; pronome sujeito masculino
+    example: Er kommt aus Deutschland.
+    example_translation: Ele vem da Alemanha.
+  - front: sie
+    back: ela ou eles/elas; pronome sujeito
+    example: Sie lernt Deutsch.
+    example_translation: Ela aprende alemão.
+  - front: es
+    back: ele/ela para neutro; pronome sujeito
+    example: Es ist klein.
+    example_translation: Ele/ela é pequeno(a).
+  - front: wir
+    back: nós; pronome sujeito
+    example: Wir lernen zusammen.
+    example_translation: Nós aprendemos juntos.

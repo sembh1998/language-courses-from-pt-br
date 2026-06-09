@@ -1,0 +1,55 @@
+topic: W-Fragen
+level: A1
+questions:
+  - type: short_answer
+    question: "Traduza: Wer?"
+    answer: quem
+  - type: short_answer
+    question: "Traduza: Was?"
+    answer: o quê
+  - type: short_answer
+    question: "Traduza: Wo?"
+    answer: onde
+  - type: short_answer
+    question: "Traduza: Woher?"
+    answer: de onde
+  - type: short_answer
+    question: "Traduza: Wohin?"
+    answer: para onde
+  - type: short_answer
+    question: "Complete: ___ wohnst du?"
+    answer: Wo
+  - type: short_answer
+    question: "Complete: ___ kommst du? Aus Brasilien."
+    answer: Woher
+  - type: short_answer
+    question: "Complete: ___ heißt du?"
+    answer: Wie
+  - type: short_answer
+    question: "Complete: ___ kostet das?"
+    answer: Wie viel
+  - type: short_answer
+    question: "Complete: ___ Bücher hast du?"
+    answer: Wie viele
+  - type: multiple_choice
+    question: Qual frase tem ordem correta?
+    options:
+      - Wo du wohnst?
+      - Wo wohnst du?
+      - Wohnst wo du?
+    answer: Wo wohnst du?
+  - type: short_answer
+    question: "Traduza: Quando você vem?"
+    answer: Wann kommst du?
+  - type: short_answer
+    question: "Traduza: Por que você estuda alemão?"
+    answer: Warum lernst du Deutsch?
+  - type: short_answer
+    question: "Traduza: Para onde você vai?"
+    answer: Wohin gehst du?
+  - type: short_answer
+    question: "Responda: Woher kommst du? Use Brasilien."
+    answer: Ich komme aus Brasilien.
+  - type: short_answer
+    question: "Corrija: Wie du heißt?"
+    answer: Wie heißt du?

@@ -1,0 +1,43 @@
+topic: Dias, meses e estações
+level: A1
+cards:
+  - front: der Montag
+    back: a segunda-feira
+    example: Heute ist Montag.
+    example_translation: Hoje é segunda-feira.
+  - front: der Dienstag
+    back: a terça-feira
+    example: Am Dienstag lerne ich Deutsch.
+    example_translation: Na terça-feira eu estudo alemão.
+  - front: der Freitag
+    back: a sexta-feira
+    example: Freitag ist gut.
+    example_translation: Sexta-feira é bom.
+  - front: der Sonntag
+    back: o domingo
+    example: Am Sonntag bin ich zu Hause.
+    example_translation: No domingo eu estou em casa.
+  - front: der Januar
+    back: janeiro
+    example: Im Januar ist es kalt.
+    example_translation: Em janeiro faz frio.
+  - front: der Mai
+    back: maio
+    example: Im Mai ist es schön.
+    example_translation: Em maio está bonito.
+  - front: der Sommer
+    back: o verão
+    example: Im Sommer ist es warm.
+    example_translation: No verão faz calor.
+  - front: der Herbst
+    back: o outono
+    example: Der Herbst ist schön.
+    example_translation: O outono é bonito.
+  - front: am Montag
+    back: na segunda-feira
+    example: Am Montag arbeite ich.
+    example_translation: Na segunda-feira eu trabalho.
+  - front: im Juli
+    back: em julho
+    example: Ich komme im Juli.
+    example_translation: Eu venho em julho.

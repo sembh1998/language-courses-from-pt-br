@@ -1,0 +1,143 @@
+topic: Apresentações com sein e heißen
+level: A1
+words:
+  - german: ich bin
+    translation: eu sou; eu estou
+    type: verb phrase
+    gender: null
+    plural: null
+    example: Ich bin Ana.
+    example_translation: Eu sou Ana.
+  - german: du bist
+    translation: você é; você está
+    type: verb phrase
+    gender: null
+    plural: null
+    example: Du bist Paul.
+    example_translation: Você é Paul.
+  - german: er ist
+    translation: ele é; ele está
+    type: verb phrase
+    gender: null
+    plural: null
+    example: Er ist Lukas.
+    example_translation: Ele é Lukas.
+  - german: sie ist
+    translation: ela é; ela está
+    type: verb phrase
+    gender: null
+    plural: null
+    example: Sie ist Lena.
+    example_translation: Ela é Lena.
+  - german: Sie sind
+    translation: o senhor/a senhora é; o senhor/a senhora está
+    type: verb phrase
+    gender: null
+    plural: null
+    example: Sie sind Herr Müller.
+    example_translation: O senhor é o senhor Müller.
+  - german: ich heiße
+    translation: eu me chamo; meu nome é
+    type: verb phrase
+    gender: null
+    plural: null
+    example: Ich heiße Maria.
+    example_translation: Eu me chamo Maria.
+  - german: du heißt
+    translation: você se chama
+    type: verb phrase
+    gender: null
+    plural: null
+    example: Du heißt Bruno.
+    example_translation: Você se chama Bruno.
+  - german: er heißt
+    translation: ele se chama
+    type: verb phrase
+    gender: null
+    plural: null
+    example: Er heißt Thomas.
+    example_translation: Ele se chama Thomas.
+  - german: sie heißt
+    translation: ela se chama
+    type: verb phrase
+    gender: null
+    plural: null
+    example: Sie heißt Clara.
+    example_translation: Ela se chama Clara.
+  - german: Sie heißen
+    translation: o senhor/a senhora se chama
+    type: verb phrase
+    gender: null
+    plural: null
+    example: Wie heißen Sie?
+    example_translation: Como o senhor/a senhora se chama?
+  - german: Wie heißt du?
+    translation: como você se chama?
+    type: question
+    gender: null
+    plural: null
+    example: Hallo, wie heißt du?
+    example_translation: Olá, como você se chama?
+  - german: Wie heißen Sie?
+    translation: como o senhor/a senhora se chama?
+    type: question
+    gender: null
+    plural: null
+    example: Guten Tag, wie heißen Sie?
+    example_translation: Bom dia, como o senhor/a senhora se chama?
+  - german: Wer bist du?
+    translation: quem é você?
+    type: question
+    gender: null
+    plural: null
+    example: Wer bist du? Ich bin Ana.
+    example_translation: Quem é você? Eu sou Ana.
+  - german: Wer sind Sie?
+    translation: quem é o senhor/a senhora?
+    type: question
+    gender: null
+    plural: null
+    example: Entschuldigung, wer sind Sie?
+    example_translation: Com licença, quem é o senhor/a senhora?
+  - german: und du?
+    translation: e você?
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich heiße Ana. Und du?
+    example_translation: Eu me chamo Ana. E você?
+  - german: Das ist
+    translation: este é; esta é; isso é
+    type: phrase
+    gender: null
+    plural: null
+    example: Das ist Lena.
+    example_translation: Esta é a Lena.
+  - german: mein Freund
+    translation: meu amigo
+    type: noun phrase
+    gender: masculine
+    plural: meine Freunde
+    example: Er ist mein Freund.
+    example_translation: Ele é meu amigo.
+  - german: meine Freundin
+    translation: minha amiga
+    type: noun phrase
+    gender: feminine
+    plural: meine Freundinnen
+    example: Sie ist meine Freundin.
+    example_translation: Ela é minha amiga.
+  - german: aus Brasilien
+    translation: do Brasil
+    type: phrase
+    gender: null
+    plural: null
+    example: Ich bin aus Brasilien.
+    example_translation: Eu sou do Brasil.
+  - german: sehr angenehm
+    translation: muito prazer
+    type: phrase
+    gender: null
+    plural: null
+    example: Sehr angenehm, ich heiße Keller.
+    example_translation: Muito prazer, eu me chamo Keller.

@@ -1,0 +1,70 @@
+topic: Padrões de gênero dos substantivos
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete com der, die ou das usando o padrão.
+    items:
+      - question: ___ Montag
+        answer: der
+      - question: ___ Sommer
+        answer: der
+      - question: ___ Wohnung
+        answer: die
+      - question: ___ Krankheit
+        answer: die
+      - question: ___ Mädchen
+        answer: das
+  - type: classification
+    instruction: Identifique o padrão.
+    items:
+      - question: die Zeitung
+        answer: -ung
+      - question: die Freiheit
+        answer: -heit
+      - question: die Möglichkeit
+        answer: -keit
+      - question: das Brötchen
+        answer: -chen
+      - question: das Lernen
+        answer: infinitivo substantivado
+  - type: multiple_choice
+    instruction: Escolha o artigo provável pelo padrão.
+    items:
+      - question: ___ Pünktlichkeit
+        options: [der, die, das]
+        answer: die
+      - question: ___ Essen
+        options: [der, die, das]
+        answer: das
+      - question: ___ Winter
+        options: [der, die, das]
+        answer: der
+  - type: correction
+    instruction: Corrija o artigo.
+    items:
+      - question: der Wohnung ist klein.
+        answer: Die Wohnung ist klein.
+      - question: die Mädchen lernt.
+        answer: Das Mädchen lernt.
+      - question: der Möglichkeit ist gut.
+        answer: Die Möglichkeit ist gut.
+  - type: translation
+    instruction: Traduza para o alemão.
+    items:
+      - question: a segunda-feira
+        answer: der Montag
+      - question: o apartamento
+        answer: die Wohnung
+      - question: a menina
+        answer: das Mädchen
+      - question: aprender é importante
+        answer: Das Lernen ist wichtig.
+  - type: fill_blank
+    instruction: Complete as frases.
+    items:
+      - question: ___ Zeitung ist neu.
+        answer: Die
+      - question: ___ Januar ist kalt.
+        answer: Der
+      - question: ___ Brötchen ist frisch.
+        answer: Das

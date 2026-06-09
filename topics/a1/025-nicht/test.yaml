@@ -1,0 +1,63 @@
+topic: Nicht
+level: A1
+questions:
+- type: fill_blank
+  question: Ich verstehe ___.
+  answer: nicht
+  explanation: Negação do verbo verstehen.
+- type: multiple_choice
+  question: Qual frase nega corretamente “morar aqui”?
+  options:
+  - Er wohnt hier nicht.
+  - Er nicht wohnt hier.
+  - Er wohnt nicht hier.
+  answer: Er wohnt nicht hier.
+  explanation: O verbo fica na posição 2, e nicht nega o lugar.
+- type: translation
+  question: 'Traduza: Nós não cantamos.'
+  answer: Wir singen nicht.
+  explanation: Negação simples da ação.
+- type: correction
+  question: 'Corrija: Das ist schön nicht.'
+  answer: Das ist nicht schön.
+  explanation: Nicht vem antes do adjetivo.
+- type: fill_blank
+  question: Sie wohnt ___ in Berlin.
+  answer: nicht
+  explanation: Nega o local Berlin.
+- type: multiple_choice
+  question: Qual frase nega “rápido”?
+  options:
+  - Ich laufe nicht.
+  - Ich laufe nicht schnell.
+  - Nicht ich laufe schnell.
+  answer: Ich laufe nicht schnell.
+  explanation: Nicht antes do advérbio schnell.
+- type: translation
+  question: 'Traduza: Ele não está em casa.'
+  answer: Er ist nicht zu Hause.
+  explanation: Nicht antes da expressão zu Hause.
+- type: fill_blank
+  question: Das Auto ist ___ neu.
+  answer: nicht
+  explanation: Nega o adjetivo neu.
+- type: correction
+  question: 'Corrija: Wir nicht lernen Deutsch.'
+  answer: Wir lernen nicht Deutsch.
+  explanation: Verbo conjugado deve ficar na posição 2.
+- type: multiple_choice
+  question: Qual é a função de nicht?
+  options:
+  - negar um substantivo com ein
+  - negar apenas plural
+  - negar verbo, adjetivo, advérbio ou frase
+  answer: negar verbo, adjetivo, advérbio ou frase
+  explanation: Kein nega substantivos; nicht tem uso mais amplo.
+- type: translation
+  question: 'Traduza: Eu não compro isso.'
+  answer: Ich kaufe das nicht.
+  explanation: Nicht nega a ação com objeto definido.
+- type: fill_blank
+  question: Heute regnet es ___.
+  answer: nicht
+  explanation: Nicht fecha a negação da frase.

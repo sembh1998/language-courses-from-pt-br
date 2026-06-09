@@ -1,0 +1,57 @@
+topic: O verbo sein no presente
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete com a forma correta de sein.
+    items:
+      - question: Ich ___ Ana.
+        answer: bin
+      - question: Du ___ müde.
+        answer: bist
+      - question: Er ___ Lehrer.
+        answer: ist
+      - question: Wir ___ hier.
+        answer: sind
+      - question: Ihr ___ Freunde.
+        answer: seid
+  - type: multiple_choice
+    instruction: Escolha a forma correta.
+    items:
+      - question: Sie ___ Frau Klein.
+        options: [ist, sind, seid]
+        answer: sind
+      - question: Es ___ klein.
+        options: [bist, ist, bin]
+        answer: ist
+      - question: Ich ___ nicht krank.
+        options: [bin, bist, sind]
+        answer: bin
+  - type: transformation
+    instruction: Transforme em pergunta sim/não.
+    items:
+      - question: Du bist Student.
+        answer: Bist du Student?
+      - question: Er ist hier.
+        answer: Ist er hier?
+      - question: Ihr seid müde.
+        answer: Seid ihr müde?
+  - type: transformation
+    instruction: Transforme em frase negativa com nicht.
+    items:
+      - question: Ich bin müde.
+        answer: Ich bin nicht müde.
+      - question: Wir sind laut.
+        answer: Wir sind nicht laut.
+      - question: Sie ist krank.
+        answer: Sie ist nicht krank.
+  - type: translation
+    instruction: Traduza para o alemão.
+    items:
+      - question: Eu estou aqui.
+        answer: Ich bin hier.
+      - question: Vocês são amigos.
+        answer: Ihr seid Freunde.
+      - question: Ela é professora.
+        answer: Sie ist Lehrerin.
+      - question: O senhor está cansado?
+        answer: Sind Sie müde?

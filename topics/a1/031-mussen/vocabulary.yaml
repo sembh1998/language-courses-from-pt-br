@@ -1,0 +1,52 @@
+topic: Müssen
+level: A1
+words:
+- german: müssen
+  translation: precisar / ter que
+  type: verb
+  gender: null
+  plural: null
+  example: Ich muss arbeiten.
+  example_translation: Exemplo com precisar / ter que.
+- german: ich muss
+  translation: eu precisar / ter que
+  type: verb form
+  gender: null
+  plural: null
+  example: Ich muss heute lernen.
+  example_translation: Eu tenho essa ideia modal hoje.
+- german: du musst
+  translation: você precisar / ter que
+  type: verb form
+  gender: null
+  plural: null
+  example: Du musst gehen.
+  example_translation: Você pode/deve/precisa ir conforme o modal.
+- german: wir müssen
+  translation: nós precisar / ter que
+  type: verb form
+  gender: null
+  plural: null
+  example: Wir müssen arbeiten.
+  example_translation: Nós usamos o modal no plural.
+- german: arbeiten
+  translation: trabalhar
+  type: verb
+  gender: null
+  plural: null
+  example: Ich muss arbeiten.
+  example_translation: Eu tenho que/devo/posso trabalhar.
+- german: gehen
+  translation: ir
+  type: verb
+  gender: null
+  plural: null
+  example: Du musst gehen.
+  example_translation: Você tem permissão/deve/precisa ir.
+- german: lernen
+  translation: estudar
+  type: verb
+  gender: null
+  plural: null
+  example: Wir müssen lernen.
+  example_translation: Nós estudamos com o modal.

@@ -1,0 +1,73 @@
+topic: Introdução aos verbos separáveis
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete com o prefixo separável correto.
+    items:
+      - question: Ich stehe um sieben Uhr ___.
+        answer: auf
+      - question: Wir kaufen am Samstag ___.
+        answer: ein
+      - question: Lisa ruft ihren Vater ___.
+        answer: an
+      - question: Tom sieht am Abend ___.
+        answer: fern
+  - type: multiple_choice
+    instruction: Escolha a frase correta.
+    items:
+      - question: Como dizer "Eu me levanto cedo"?
+        options:
+          - Ich stehe früh auf.
+          - Ich aufstehe früh.
+          - Ich stehe auf früh.
+        answer: Ich stehe früh auf.
+      - question: Como dizer "Você vem junto?"?
+        options:
+          - Du mitkommst?
+          - Kommst du mit?
+          - Mit kommst du?
+        answer: Kommst du mit?
+      - question: Qual frase usa corretamente `fernsehen`?
+        options:
+          - Wir fernsehen heute.
+          - Wir sehen fern heute.
+          - Wir sehen heute fern.
+        answer: Wir sehen heute fern.
+  - type: transformation
+    instruction: Transforme o infinitivo em uma frase simples no presente.
+    items:
+      - question: ich / aufstehen / um sechs Uhr
+        answer: Ich stehe um sechs Uhr auf.
+      - question: du / einkaufen / heute
+        answer: Du kaufst heute ein.
+      - question: er / anrufen / Maria
+        answer: Er ruft Maria an.
+      - question: wir / mitkommen / morgen
+        answer: Wir kommen morgen mit.
+  - type: fill_blank
+    instruction: Complete com a forma conjugada do verbo.
+    items:
+      - question: Ich ___ dich später an.
+        answer: rufe
+      - question: Du ___ gern fern.
+        answer: siehst
+      - question: Sie ___ um acht Uhr auf.
+        answer: steht
+      - question: Wir ___ im Supermarkt ein.
+        answer: kaufen
+  - type: translation
+    instruction: Traduza para o alemão usando um verbo separável.
+    items:
+      - question: Eu ligo para Anna.
+        answer: Ich rufe Anna an.
+      - question: Nós fazemos compras hoje.
+        answer: Wir kaufen heute ein.
+      - question: Ele se levanta tarde.
+        answer: Er steht spät auf.
+  - type: short_answer
+    instruction: Responda em alemão com uma frase curta.
+    items:
+      - question: Wann stehst du auf?
+        answer: Ich stehe um sieben Uhr auf.
+      - question: Rufst du gern Freunde an?
+        answer: Ja, ich rufe gern Freunde an.

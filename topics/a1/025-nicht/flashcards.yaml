@@ -1,0 +1,27 @@
+topic: Nicht
+level: A1
+cards:
+- front: nicht
+  back: não
+  example: Ich komme nicht.
+  example_translation: Eu não venho.
+- front: kommen
+  back: vir
+  example: Er kommt nicht.
+  example_translation: Ele não vem.
+- front: lernen
+  back: aprender
+  example: Wir lernen nicht heute.
+  example_translation: Nós não estudamos hoje.
+- front: gut
+  back: bom / bem
+  example: Das ist nicht gut.
+  example_translation: Isso não é bom.
+- front: heute
+  back: hoje
+  example: Ich arbeite heute nicht.
+  example_translation: Eu não trabalho hoje.
+- front: zu Hause
+  back: em casa
+  example: Sie ist nicht zu Hause.
+  example_translation: Ela não está em casa.

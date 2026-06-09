@@ -1,0 +1,87 @@
+topic: Números cardinais
+level: A1
+words:
+  - german: null
+    translation: zero
+    type: number
+    gender: null
+    plural: null
+    example: Meine Nummer beginnt mit null.
+    example_translation: Meu número começa com zero.
+  - german: eins
+    translation: um
+    type: number
+    gender: null
+    plural: null
+    example: Ich habe eins.
+    example_translation: Eu tenho um.
+  - german: zwei
+    translation: dois
+    type: number
+    gender: null
+    plural: null
+    example: Ich habe zwei Bücher.
+    example_translation: Eu tenho dois livros.
+  - german: drei
+    translation: três
+    type: number
+    gender: null
+    plural: null
+    example: Drei Personen kommen.
+    example_translation: Três pessoas vêm.
+  - german: zehn
+    translation: dez
+    type: number
+    gender: null
+    plural: null
+    example: Das kostet zehn Euro.
+    example_translation: Isso custa dez euros.
+  - german: zwölf
+    translation: doze
+    type: number
+    gender: null
+    plural: null
+    example: Ich bin zwölf Jahre alt.
+    example_translation: Eu tenho doze anos.
+  - german: zwanzig
+    translation: vinte
+    type: number
+    gender: null
+    plural: null
+    example: Sie ist zwanzig Jahre alt.
+    example_translation: Ela tem vinte anos.
+  - german: einundzwanzig
+    translation: vinte e um
+    type: number
+    gender: null
+    plural: null
+    example: Die Hausnummer ist einundzwanzig.
+    example_translation: O número da casa é vinte e um.
+  - german: hundert
+    translation: cem
+    type: number
+    gender: null
+    plural: null
+    example: Ich habe hundert Euro.
+    example_translation: Eu tenho cem euros.
+  - german: tausend
+    translation: mil
+    type: number
+    gender: null
+    plural: null
+    example: Berlin hat viele tausend Straßen.
+    example_translation: Berlim tem muitos milhares de ruas.
+  - german: der Preis
+    translation: o preço
+    type: noun
+    gender: masculine
+    plural: die Preise
+    example: Der Preis ist neun Euro.
+    example_translation: O preço é nove euros.
+  - german: die Telefonnummer
+    translation: o número de telefone
+    type: noun
+    gender: feminine
+    plural: die Telefonnummern
+    example: Meine Telefonnummer ist kurz.
+    example_translation: Meu número de telefone é curto.

@@ -1,0 +1,59 @@
+topic: Pronomes pessoais no nominativo
+level: A1
+words:
+  - german: ich
+    translation: eu
+    type: pronoun
+    gender: null
+    plural: null
+    example: Ich lerne Deutsch.
+    example_translation: Eu aprendo alemão.
+  - german: du
+    translation: você; tu
+    type: pronoun
+    gender: null
+    plural: null
+    example: Du kommst aus Brasilien.
+    example_translation: Você vem do Brasil.
+  - german: er
+    translation: ele
+    type: pronoun
+    gender: null
+    plural: null
+    example: Er wohnt in Berlin.
+    example_translation: Ele mora em Berlim.
+  - german: sie
+    translation: ela; eles; elas
+    type: pronoun
+    gender: null
+    plural: null
+    example: Sie ist Lehrerin.
+    example_translation: Ela é professora.
+  - german: es
+    translation: ele; ela; isso; isto
+    type: pronoun
+    gender: null
+    plural: null
+    example: Es ist klein.
+    example_translation: Ele/isso é pequeno.
+  - german: wir
+    translation: nós
+    type: pronoun
+    gender: null
+    plural: null
+    example: Wir wohnen hier.
+    example_translation: Nós moramos aqui.
+  - german: ihr
+    translation: vocês; vós
+    type: pronoun
+    gender: null
+    plural: null
+    example: Ihr seid Freunde.
+    example_translation: Vocês são amigos.
+  - german: Sie
+    translation: o senhor; a senhora; vocês formal
+    type: pronoun
+    gender: null
+    plural: null
+    example: Sie sind Herr Meier.
+    example_translation: O senhor é o senhor Meier.

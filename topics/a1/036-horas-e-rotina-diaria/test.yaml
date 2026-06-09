@@ -1,0 +1,65 @@
+topic: Horas e rotina diária
+level: A1
+questions:
+- question: 'Pergunta correta para horas:'
+  answer: Wie spät ist es?
+  explanation: Forma fixa.
+  options:
+  - Wie spät ist es?
+  - Was spät ist es?
+  - Wie ist Uhr?
+- question: 'Complete: Ich komme ___ vier Uhr.'
+  answer: um
+  explanation: Atividade usa um.
+  options:
+  - am
+  - um
+  - im
+- question: 'Tradução de abends:'
+  answer: à noite
+  explanation: Abends é à noite.
+  options:
+  - amanhã
+  - de manhã
+  - à noite
+- question: Es ist ___ Uhr. (7)
+  answer: sieben
+  explanation: Hora cheia.
+- question: ___ trinke ich Kaffee.
+  answer: Morgens
+  explanation: Café de manhã; mornings = morgens.
+- question: São duas horas.
+  answer: Es ist zwei Uhr.
+  explanation: Estrutura de horas.
+- question: Eu estudo às quatro horas.
+  answer: Ich lerne um vier Uhr.
+  explanation: Um + horário.
+- question: um neun Uhr / ich / arbeite
+  answer: Ich arbeite um neun Uhr.
+  explanation: Verbo em segunda posição.
+- question: Qual significa amanhã?
+  answer: morgen
+  explanation: Morgen sem s é amanhã.
+  options:
+  - morgens
+  - abends
+  - morgen
+- question: Wie ___ ist es?
+  answer: spät
+  explanation: Pergunta fixa.
+- question: De manhã eu corro.
+  answer: Morgens laufe ich.
+  explanation: Morgens inicia a frase.
+- question: es / ist / elf Uhr
+  answer: Es ist elf Uhr.
+  explanation: Ordem correta.
+- question: 'Para horário de atividade, use:'
+  answer: um
+  explanation: Um antes da hora.
+  options:
+  - bis
+  - für
+  - um
+- question: Nachts ___ ich.
+  answer: schlafe
+  explanation: Dormir combina com nachts.

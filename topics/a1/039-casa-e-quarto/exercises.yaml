@@ -1,0 +1,62 @@
+topic: Casa e quarto
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete com o artigo correto.
+    items:
+      - question: ___ Haus ist groß.
+        answer: Das
+      - question: ___ Küche ist klein.
+        answer: Die
+      - question: ___ Tisch ist neu.
+        answer: Der
+      - question: ___ Bad ist sauber.
+        answer: Das
+  - type: multiple_choice
+    instruction: Escolha a tradução correta.
+    items:
+      - question: "`das Zimmer`"
+        options:
+          - o quarto/cômodo
+          - a cozinha
+          - a cama
+        answer: o quarto/cômodo
+      - question: "`die Wohnung`"
+        options:
+          - a casa
+          - o apartamento
+          - o banheiro
+        answer: o apartamento
+      - question: "`der Schrank`"
+        options:
+          - a cadeira
+          - a mesa
+          - o armário
+        answer: o armário
+  - type: translation
+    instruction: Traduza para o alemão.
+    items:
+      - question: Minha casa é pequena.
+        answer: Mein Haus ist klein.
+      - question: A cozinha é bonita.
+        answer: Die Küche ist schön.
+      - question: A cama é nova.
+        answer: Das Bett ist neu.
+      - question: A mesa está no quarto.
+        answer: Der Tisch ist im Zimmer.
+  - type: fill_blank
+    instruction: Complete com vocabulário de casa.
+    items:
+      - question: Ich schlafe im ___.
+        answer: Bett
+      - question: Ich koche in der ___.
+        answer: Küche
+      - question: Ich dusche im ___.
+        answer: Bad
+  - type: short_answer
+    instruction: Responda em alemão com uma frase curta.
+    items:
+      - question: Wie ist dein Zimmer?
+        answer: Mein Zimmer ist klein.
+      - question: Wo wohnst du?
+        answer: Ich wohne in einer Wohnung.

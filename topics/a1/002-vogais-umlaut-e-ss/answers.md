@@ -1,10 +1,10 @@
-# Answers: Vogais, Umlaut e ß
+# Respostas: Vogais, Umlaut e ß
 
-Level: A1
+Nível: A1
 
-## Exercises answer key
+## Gabarito dos exercícios
 
-| ID | Answer | Note |
+| ID | Resposta | Explicação |
 |---|---|---|
 | 1.1 | Mädchen | A palavra contém ä. |
 | 1.2 | Straße | A palavra contém ß. |
@@ -29,9 +29,9 @@ Level: A1
 | 5.3 | bonito | Tradução de schön. |
 | 5.4 | verde | Tradução de grün. |
 
-## Test answer key
+## Gabarito do teste
 
-| ID | Answer | Points |
+| ID | Resposta | Pontos |
 |---|---|---|
 | 1 | ä, ö, ü | 1 |
 | 2 | ß | 1 |
@@ -44,9 +44,9 @@ Level: A1
 | 9 | der Fuß | 1 |
 | 10 | heiße | 1 |
 
-## Story questions
+## Perguntas da história
 
-| Question | Answer |
+| Pergunta | Resposta |
 |---|---|
 | Onde Lisa está? | Lisa está no curso de alemão. |
 | Quais são as vogais básicas no texto? | A, E, I, O, U. |

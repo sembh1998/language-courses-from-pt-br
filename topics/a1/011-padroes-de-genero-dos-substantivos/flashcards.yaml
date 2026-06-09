@@ -1,0 +1,39 @@
+topic: Padrões de gênero dos substantivos
+level: A1
+cards:
+  - front: der Montag
+    back: a segunda-feira
+    example: Der Montag ist lang.
+    example_translation: A segunda-feira é longa.
+  - front: der Sommer
+    back: o verão
+    example: Der Sommer ist warm.
+    example_translation: O verão é quente.
+  - front: die Wohnung
+    back: o apartamento
+    example: Die Wohnung ist klein.
+    example_translation: O apartamento é pequeno.
+  - front: die Zeitung
+    back: o jornal
+    example: Die Zeitung ist neu.
+    example_translation: O jornal é novo.
+  - front: die Krankheit
+    back: a doença
+    example: Die Krankheit ist ernst.
+    example_translation: A doença é séria.
+  - front: die Möglichkeit
+    back: a possibilidade
+    example: Die Möglichkeit ist gut.
+    example_translation: A possibilidade é boa.
+  - front: das Mädchen
+    back: a menina
+    example: Das Mädchen spielt.
+    example_translation: A menina brinca.
+  - front: das Brötchen
+    back: o pãozinho
+    example: Das Brötchen ist frisch.
+    example_translation: O pãozinho está fresco.
+  - front: das Lernen
+    back: o aprendizado; aprender
+    example: Das Lernen ist wichtig.
+    example_translation: Aprender é importante.

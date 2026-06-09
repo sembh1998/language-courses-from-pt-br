@@ -1,0 +1,52 @@
+topic: Preposições com acusativo
+level: A1
+words:
+- german: für
+  translation: para
+  type: preposition
+  gender: null
+  plural: null
+  example: Das ist für den Vater.
+  example_translation: Isso é para o pai.
+- german: ohne
+  translation: sem
+  type: preposition
+  gender: null
+  plural: null
+  example: Ich gehe ohne Tasche.
+  example_translation: Eu vou sem bolsa.
+- german: gegen
+  translation: contra
+  type: preposition
+  gender: null
+  plural: null
+  example: Wir spielen gegen Berlin.
+  example_translation: Nós jogamos contra Berlim.
+- german: durch
+  translation: por / através de
+  type: preposition
+  gender: null
+  plural: null
+  example: Ich gehe durch den Park.
+  example_translation: Eu vou pelo parque.
+- german: um
+  translation: às / em torno de
+  type: preposition
+  gender: null
+  plural: null
+  example: Ich komme um acht Uhr.
+  example_translation: Eu venho às oito horas.
+- german: bis
+  translation: até
+  type: preposition
+  gender: null
+  plural: null
+  example: Der Zug fährt bis Köln.
+  example_translation: O trem vai até Colônia.
+- german: den
+  translation: o / um artigo masculino acusativo
+  type: article
+  gender: null
+  plural: null
+  example: Ich sehe den Mann.
+  example_translation: Eu vejo o homem.

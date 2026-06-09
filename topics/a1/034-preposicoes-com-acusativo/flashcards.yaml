@@ -1,0 +1,27 @@
+topic: Preposições com acusativo
+level: A1
+cards:
+- front: für + acusativo
+  back: para
+  example: Das ist für den Bruder.
+  example_translation: Isso é para o irmão.
+- front: ohne + acusativo
+  back: sem
+  example: Sie geht ohne einen Mantel.
+  example_translation: Ela vai sem um casaco.
+- front: durch + acusativo
+  back: por / através de
+  example: Wir gehen durch den Park.
+  example_translation: Nós vamos pelo parque.
+- front: gegen + acusativo
+  back: contra
+  example: Ich spiele gegen den Freund.
+  example_translation: Eu jogo contra o amigo.
+- front: um + hora
+  back: às
+  example: Ich komme um acht Uhr.
+  example_translation: Eu venho às oito horas.
+- front: der → den
+  back: masculino no acusativo
+  example: für den Vater
+  example_translation: para o pai

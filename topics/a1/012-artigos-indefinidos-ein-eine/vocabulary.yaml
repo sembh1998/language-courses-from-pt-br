@@ -1,0 +1,59 @@
+topic: Artigos indefinidos ein, eine
+level: A1
+words:
+  - german: ein Mann
+    translation: um homem
+    type: noun_phrase
+    gender: masculine
+    plural: Männer
+    example: Ein Mann ist hier.
+    example_translation: Um homem está aqui.
+  - german: eine Frau
+    translation: uma mulher
+    type: noun_phrase
+    gender: feminine
+    plural: Frauen
+    example: Eine Frau lernt Deutsch.
+    example_translation: Uma mulher aprende alemão.
+  - german: ein Kind
+    translation: uma criança
+    type: noun_phrase
+    gender: neuter
+    plural: Kinder
+    example: Ein Kind spielt.
+    example_translation: Uma criança brinca.
+  - german: ein Buch
+    translation: um livro
+    type: noun_phrase
+    gender: neuter
+    plural: Bücher
+    example: Das ist ein Buch.
+    example_translation: Isto é um livro.
+  - german: eine Lampe
+    translation: uma lâmpada
+    type: noun_phrase
+    gender: feminine
+    plural: Lampen
+    example: Das ist eine Lampe.
+    example_translation: Isto é uma lâmpada.
+  - german: ein Tisch
+    translation: uma mesa
+    type: noun_phrase
+    gender: masculine
+    plural: Tische
+    example: Das ist ein Tisch.
+    example_translation: Isto é uma mesa.
+  - german: eine Frage
+    translation: uma pergunta
+    type: noun_phrase
+    gender: feminine
+    plural: Fragen
+    example: Ich habe eine Frage.
+    example_translation: Eu tenho uma pergunta.
+  - german: ein Auto
+    translation: um carro
+    type: noun_phrase
+    gender: neuter
+    plural: Autos
+    example: Ich habe ein Auto.
+    example_translation: Eu tenho um carro.

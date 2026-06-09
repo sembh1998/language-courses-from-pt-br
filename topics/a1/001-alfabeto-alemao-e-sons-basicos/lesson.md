@@ -1,12 +1,12 @@
 # Alfabeto alemão e sons básicos
 
-Level: A1
+Nível: A1
 
-## Goal
+## Objetivo
 
 Aprender os nomes das letras em alemão, soletrar nomes simples e reconhecer sons básicos diferentes do português.
 
-## Explanation
+## Explicação
 
 O alfabeto alemão tem as mesmas 26 letras básicas do português, mas os nomes das letras e alguns sons são diferentes. Além disso, o alemão usa letras especiais: ä, ö, ü e ß. Em formulários, hotéis, e-mails e apresentações, é muito comum precisar soletrar o nome.
 
@@ -14,9 +14,9 @@ Em alemão, a pergunta mais comum para pedir soletração é: **Wie buchstabiert
 
 Algumas diferenças importantes para falantes de português: **w** soa como **v**, **v** muitas vezes soa como **f**, **j** soa como **i** em "ia", **z** soa como **ts**, e **ei** soa como "ai". Neste primeiro tema, o objetivo é reconhecer e repetir, não falar perfeito.
 
-## Examples
+## Exemplos
 
-| German | Translation | Note |
+| Alemão | Tradução | Observação |
 |---|---|---|
 | Ich heiße Ana. | Eu me chamo Ana. | Frase simples para apresentação. |
 | Wie buchstabiert man Ana? | Como se soletra Ana? | Pergunta para soletrar. |
@@ -27,7 +27,7 @@ Algumas diferenças importantes para falantes de português: **w** soa como **v*
 | Das ist ein V. | Isto é um V. | A letra V se chama "fau" em alemão. |
 | Das ist ein Z. | Isto é um Z. | Z tem som de "ts". |
 
-## Common mistakes
+## Erros comuns
 
 - Pronunciar **w** como em português. Em alemão, **w** normalmente soa como **v**.
 - Pronunciar **j** como em português. Em alemão, **j** soa como **i** em "ia".
@@ -35,6 +35,6 @@ Algumas diferenças importantes para falantes de português: **w** soa como **v*
 - Esquecer que **ä, ö, ü** não são apenas enfeites: elas mudam o som da vogal.
 - Ler **z** como em português. Em alemão, **z** soa como **ts**.
 
-## Summary
+## Resumo
 
 O alfabeto alemão é parecido com o alfabeto do português, mas os nomes das letras e vários sons mudam. Para A1, foque em reconhecer letras, soletrar nomes simples e lembrar das diferenças principais: **w = som de v**, **v = muitas vezes som de f**, **j = som de i**, **z = som de ts**, e **ä, ö, ü, ß** são sinais importantes da escrita alemã.

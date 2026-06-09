@@ -1,0 +1,81 @@
+topic: Horas e rotina diária
+level: A1
+exercises:
+- type: fill_blank
+  instruction: Complete as horas.
+  items:
+  - question: Es ist ___ Uhr. (5)
+    answer: fünf
+    explanation: Horas cheias usam número + Uhr.
+  - question: Ich komme ___ acht Uhr.
+    answer: um
+    explanation: Atividade em hora usa um.
+  - question: ___ spät ist es?
+    answer: Wie
+    explanation: 'Pergunta fixa: Wie spät ist es?'
+  - question: Abends ___ ich Deutsch.
+    answer: lerne
+    explanation: Verbo em segunda posição após abends.
+- type: multiple_choice
+  instruction: Escolha a opção correta.
+  items:
+  - question: Que horas são?
+    answer: Wie spät ist es?
+    explanation: Pergunta padrão.
+    options:
+    - Wie spät ist es?
+    - Wie alt ist es?
+    - Was Uhr ist es?
+  - question: Às seis horas.
+    answer: um sechs Uhr
+    explanation: Um marca horário de atividade.
+    options:
+    - am sechs Uhr
+    - um sechs Uhr
+    - in sechs Uhr
+  - question: De manhã.
+    answer: morgens
+    explanation: Morgens significa de manhã.
+    options:
+    - morgen
+    - am Abend
+    - morgens
+- type: translation
+  instruction: Traduza para o alemão.
+  items:
+  - question: São nove horas.
+    answer: Es ist neun Uhr.
+    explanation: Resposta de hora cheia.
+  - question: Eu trabalho às oito horas.
+    answer: Ich arbeite um acht Uhr.
+    explanation: Um + hora.
+  - question: À noite eu leio.
+    answer: Abends lese ich.
+    explanation: Abends pode iniciar a frase.
+- type: rewrite
+  instruction: Organize a frase.
+  items:
+  - question: um sieben Uhr / ich / frühstücke
+    answer: Ich frühstücke um sieben Uhr.
+    explanation: Sujeito + verbo + horário.
+  - question: morgens / ich / Kaffee / trinke
+    answer: Morgens trinke ich Kaffee.
+    explanation: Após morgens, verbo vem em segunda posição.
+  - question: ist / es / zehn Uhr
+    answer: Es ist zehn Uhr.
+    explanation: Ordem fixa para hora.
+- type: fill_blank
+  instruction: Complete com palavras de rotina.
+  items:
+  - question: ___ stehe ich auf.
+    answer: Morgens
+    explanation: Levantar combina com manhã.
+  - question: Mittags ___ ich Suppe.
+    answer: esse
+    explanation: Comer sopa ao meio-dia.
+  - question: Abends gehe ich nach ___.
+    answer: Hause
+    explanation: 'Expressão: nach Hause.'
+  - question: Ich schlafe ___ elf Uhr.
+    answer: um
+    explanation: Horário de dormir usa um.

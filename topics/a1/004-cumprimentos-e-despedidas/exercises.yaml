@@ -1,0 +1,126 @@
+topic: Cumprimentos e despedidas
+level: A1
+exercises:
+  - type: multiple_choice
+    instruction: Escolha a tradução correta.
+    items:
+      - question: Hallo
+        options:
+          - olá
+          - tchau
+          - até amanhã
+        answer: olá
+      - question: Tschüss
+        options:
+          - boa noite ao dormir
+          - tchau
+          - bom dia formal
+        answer: tchau
+      - question: Auf Wiedersehen
+        options:
+          - até logo; adeus
+          - olá informal
+          - até amanhã
+        answer: até logo; adeus
+      - question: Guten Abend
+        options:
+          - bom dia
+          - boa noite
+          - tchau
+        answer: boa noite
+
+  - type: fill_blank
+    instruction: Complete com o cumprimento ou despedida mais natural.
+    items:
+      - question: "De manhã, você diz: ___ Morgen!"
+        answer: Guten
+      - question: "Durante o dia, em uma loja: ___ Tag!"
+        answer: Guten
+      - question: "À noite, ao chegar: ___ Abend!"
+        answer: Guten
+      - question: "Antes de dormir: Gute ___!"
+        answer: Nacht
+      - question: "Para dizer 'até amanhã': bis ___"
+        answer: morgen
+
+  - type: multiple_choice
+    instruction: Escolha a opção adequada ao contexto.
+    items:
+      - question: Você encontra um amigo na escola.
+        options:
+          - Hallo!
+          - Auf Wiedersehen!
+          - Gute Nacht!
+        answer: Hallo!
+      - question: Você sai de uma consulta formal.
+        options:
+          - Tschüss!
+          - Auf Wiedersehen!
+          - Guten Morgen!
+        answer: Auf Wiedersehen!
+      - question: Você cumprimenta uma professora à noite.
+        options:
+          - Guten Abend, Frau Keller.
+          - Gute Nacht, Frau Keller.
+          - Tschüss, Frau Keller.
+        answer: Guten Abend, Frau Keller.
+      - question: Você se despede de um amigo e vai vê-lo amanhã.
+        options:
+          - Hallo, bis morgen!
+          - Tschüss, bis morgen!
+          - Guten Tag, bis morgen!
+        answer: Tschüss, bis morgen!
+
+  - type: fill_blank
+    instruction: Complete os mini-diálogos.
+    items:
+      - question: '"Guten Morgen, Herr Müller." "___ Morgen!"'
+        answer: Guten
+      - question: '"Hallo, Anna!" "___, Paul!"'
+        answer: Hallo
+      - question: '"Auf Wiedersehen, Frau Weber." "Auf ___!"'
+        answer: Wiedersehen
+      - question: '"Tschüss, Lena." "___!"'
+        answer: Tschüss
+
+  - type: multiple_choice
+    instruction: Decida se a expressão é mais formal ou informal.
+    items:
+      - question: Guten Tag
+        options:
+          - formal ou neutro
+          - apenas informal
+          - despedida antes de dormir
+        answer: formal ou neutro
+      - question: Tschüss
+        options:
+          - formal
+          - informal
+          - cumprimento de manhã
+        answer: informal
+      - question: Auf Wiedersehen
+        options:
+          - informal
+          - formal
+          - cumprimento ao chegar
+        answer: formal
+      - question: Hallo
+        options:
+          - informal ou neutro
+          - apenas formal
+          - somente antes de dormir
+        answer: informal ou neutro
+
+  - type: translation
+    instruction: Traduza para o alemão.
+    items:
+      - question: Olá, Anna!
+        answer: Hallo, Anna!
+      - question: Bom dia, senhor Müller.
+        answer: Guten Morgen, Herr Müller.
+      - question: Boa noite, senhora Schmidt.
+        answer: Guten Abend, Frau Schmidt.
+      - question: Tchau, até amanhã!
+        answer: Tschüss, bis morgen!
+      - question: Até logo, senhora Weber.
+        answer: Auf Wiedersehen, Frau Weber.

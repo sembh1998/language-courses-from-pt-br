@@ -1,0 +1,59 @@
+topic: Pronomes no acusativo
+level: A1
+words:
+- german: mich
+  translation: me
+  type: pronoun
+  gender: null
+  plural: null
+  example: Anna sieht mich.
+  example_translation: Anna me vê.
+- german: dich
+  translation: te / você
+  type: pronoun
+  gender: null
+  plural: null
+  example: Ich rufe dich.
+  example_translation: Eu chamo você.
+- german: ihn
+  translation: o / ele
+  type: pronoun
+  gender: null
+  plural: null
+  example: Wir hören ihn.
+  example_translation: Nós o ouvimos.
+- german: sie
+  translation: a / ela
+  type: pronoun
+  gender: null
+  plural: null
+  example: Tom kennt sie.
+  example_translation: Tom a conhece.
+- german: es
+  translation: o/a para neutro
+  type: pronoun
+  gender: null
+  plural: null
+  example: Ich brauche es.
+  example_translation: Eu preciso dele/dela.
+- german: uns
+  translation: nos
+  type: pronoun
+  gender: null
+  plural: null
+  example: Der Lehrer fragt uns.
+  example_translation: O professor nos pergunta.
+- german: euch
+  translation: vocês
+  type: pronoun
+  gender: null
+  plural: null
+  example: Ich sehe euch.
+  example_translation: Eu vejo vocês.
+- german: Sie
+  translation: o senhor / a senhora / vocês formal
+  type: pronoun
+  gender: null
+  plural: null
+  example: Ich begrüße Sie.
+  example_translation: Eu cumprimento o senhor/a senhora.

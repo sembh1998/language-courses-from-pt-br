@@ -1,0 +1,75 @@
+topic: Nominativo vs Acusativo
+level: A1
+questions:
+- type: fill_blank
+  question: ___ Vater liest.
+  answer: Der
+  explanation: Vater é sujeito masculino.
+- type: fill_blank
+  question: Nina sieht ___ Bruder.
+  answer: den
+  explanation: Bruder é objeto direto masculino.
+- type: classification
+  question: Wir kaufen den Tisch. -> den Tisch
+  answer: acusativo
+  explanation: É aquilo que compramos.
+- type: classification
+  question: Die Katze schläft. -> Die Katze
+  answer: nominativo
+  explanation: É o sujeito.
+- type: multiple_choice
+  question: Qual frase está correta?
+  options:
+  - Der Arzt sieht den Hund.
+  - Den Arzt sieht der Hund.
+  - Der Arzt sieht der Hund.
+  answer: Der Arzt sieht den Hund.
+  explanation: Arzt é sujeito; Hund é objeto masculino.
+- type: correction
+  question: 'Corrija: Ich höre der Lehrer.'
+  answer: Ich höre den Lehrer.
+  explanation: Lehrer é objeto direto masculino.
+- type: translation
+  question: 'Traduza: O menino vê o trem.'
+  answer: Der Junge sieht den Zug.
+  explanation: Junge é sujeito; Zug é objeto masculino.
+- type: multiple_choice
+  question: 'Qual opção completa: ___ Student braucht das Buch.'
+  options:
+  - Den
+  - Dem
+  - Der
+  answer: Der
+  explanation: Student é sujeito.
+- type: fill_blank
+  question: Mia ruft ___ Kellner.
+  answer: den
+  explanation: Kellner recebe a ação.
+- type: translation
+  question: 'Traduza: A criança tem a bola.'
+  answer: Das Kind hat den Ball.
+  explanation: Kind é sujeito neutro; Ball é objeto masculino.
+- type: correction
+  question: 'Corrija: Den Mann trinkt Kaffee.'
+  answer: Der Mann trinkt Kaffee.
+  explanation: Mann é sujeito da frase.
+- type: multiple_choice
+  question: Em qual frase Frau é objeto?
+  options:
+  - Die Frau arbeitet.
+  - Der Mann sieht die Frau.
+  - Die Frau sieht den Mann.
+  answer: Der Mann sieht die Frau.
+  explanation: Frau recebe a ação de sehen.
+- type: fill_blank
+  question: ___ Bus kommt.
+  answer: Der
+  explanation: Bus é sujeito masculino.
+- type: classification
+  question: Lukas sucht den Schlüssel. -> Lukas
+  answer: nominativo
+  explanation: Lukas faz a ação.
+- type: translation
+  question: 'Traduza: Eu encontro o professor.'
+  answer: Ich finde den Lehrer.
+  explanation: Lehrer é objeto masculino no acusativo.

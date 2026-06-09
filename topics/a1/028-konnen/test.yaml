@@ -1,0 +1,63 @@
+topic: Können
+level: A1
+questions:
+- type: fill_blank
+  question: Du ___ gut singen.
+  answer: kannst
+  explanation: 'Com du: kannst.'
+- type: multiple_choice
+  question: Qual frase está correta?
+  options:
+  - Sie Auto kann fahren.
+  - Sie kann fahren Auto.
+  - Sie kann Auto fahren.
+  answer: Sie kann Auto fahren.
+  explanation: Infinitivo fahren no final.
+- type: translation
+  question: 'Traduza: Nós podemos ajudar.'
+  answer: Wir können helfen.
+  explanation: Wir usa können.
+- type: correction
+  question: 'Corrija: Er können lesen.'
+  answer: Er kann lesen.
+  explanation: 'Com er: kann.'
+- type: fill_blank
+  question: Ich ___ nicht kommen.
+  answer: kann
+  explanation: Ich usa kann; nicht nega a frase.
+- type: multiple_choice
+  question: Qual é o infinitivo final correto?
+  options:
+  - Ich kann gut kochen.
+  - Ich kann koche gut.
+  - Ich gut kochen kann.
+  answer: Ich kann gut kochen.
+  explanation: Kochen fica no final.
+- type: translation
+  question: 'Traduza: Ela consegue trabalhar hoje.'
+  answer: Sie kann heute arbeiten.
+  explanation: Arbeiten fica no final.
+- type: fill_blank
+  question: Ihr ___ Deutsch lernen.
+  answer: könnt
+  explanation: 'Com ihr: könnt.'
+- type: correction
+  question: 'Corrija: Wir kann spielen.'
+  answer: Wir können spielen.
+  explanation: Wir usa können.
+- type: multiple_choice
+  question: O que können expressa aqui? Ich kann schwimmen.
+  options:
+  - posse
+  - capacidade
+  - origem
+  answer: capacidade
+  explanation: Significa saber/conseguir nadar.
+- type: sentence_transformation
+  question: 'Reescreva: Ich lerne Deutsch.'
+  answer: Ich kann Deutsch lernen.
+  explanation: Adiciona capacidade/possibilidade com kann.
+- type: fill_blank
+  question: Max ___ Fahrrad fahren.
+  answer: kann
+  explanation: Max equivale a er.

@@ -1,0 +1,48 @@
+topic: O verbo haben no presente
+level: A1
+questions:
+  - type: fill_blank
+    question: Ich ___ ein Auto.
+    answer: habe
+  - type: fill_blank
+    question: Du ___ eine Frage.
+    answer: hast
+  - type: fill_blank
+    question: Er ___ Zeit.
+    answer: hat
+  - type: fill_blank
+    question: Wir ___ ein Buch.
+    answer: haben
+  - type: fill_blank
+    question: Ihr ___ eine Schwester.
+    answer: habt
+  - type: multiple_choice
+    question: haben significa...
+    options: [ser, ter, vir]
+    answer: ter
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options: [Sie hat eine Frage., Sie hast eine Frage., Sie habe eine Frage.]
+    answer: Sie hat eine Frage.
+  - type: transformation
+    question: "Faça pergunta: Du hast Zeit."
+    answer: Hast du Zeit?
+  - type: translation
+    question: "Traduza: Nós temos uma pergunta."
+    answer: Wir haben eine Frage.
+  - type: translation
+    question: "Traduza: Ela tem um irmão."
+    answer: Sie hat einen Bruder.
+  - type: multiple_choice
+    question: Como dizer idade corretamente?
+    options: [Ich bin 30 Jahre alt., Ich habe 30 Jahre., Ich hat 30 Jahre.]
+    answer: Ich bin 30 Jahre alt.
+  - type: correction
+    question: "Corrija: Ihr haben Zeit."
+    answer: Ihr habt Zeit.
+  - type: fill_blank
+    question: Sie ___ Zeit. (formal)
+    answer: haben
+  - type: transformation
+    question: "Negue: Ich habe Zeit."
+    answer: Ich habe keine Zeit.

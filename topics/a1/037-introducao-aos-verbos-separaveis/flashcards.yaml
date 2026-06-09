@@ -1,0 +1,31 @@
+topic: Introdução aos verbos separáveis
+level: A1
+cards:
+  - front: aufstehen
+    back: levantar-se
+    example: Ich stehe um sieben Uhr auf.
+    example_translation: Eu me levanto às sete horas.
+  - front: einkaufen
+    back: fazer compras
+    example: Sie kauft Brot ein.
+    example_translation: Ela compra pão.
+  - front: anrufen
+    back: ligar para alguém
+    example: Rufst du Leo an?
+    example_translation: Você liga para Leo?
+  - front: mitkommen
+    back: vir junto
+    example: Wir kommen mit.
+    example_translation: Nós vamos junto.
+  - front: fernsehen
+    back: assistir TV
+    example: Ihr seht gern fern.
+    example_translation: Vocês gostam de assistir TV.
+  - front: Ich stehe ... auf.
+    back: Eu me levanto ...
+    example: Ich stehe um acht Uhr auf.
+    example_translation: Eu me levanto às oito horas.
+  - front: Kommst du mit?
+    back: Você vem junto?
+    example: Kommst du ins Kino mit?
+    example_translation: Você vem junto ao cinema?
