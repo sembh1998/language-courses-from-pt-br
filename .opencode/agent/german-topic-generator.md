@@ -67,7 +67,7 @@ After generation:
 - Generate audio with `.venv/bin/python scripts/generate-audio.py --course courses/de-from-pt-br <ordem>` when
   the local environment exists (`.venv/`).
 - Export Anki cards with `.venv/bin/python scripts/export-anki.py --course courses/de-from-pt-br <ordem>` when
-  the topic has flashcards.
+  the topic has flashcards. This writes `courses/de-from-pt-br/output/exports/topics/<topic-folder>.apkg`; do not use the course-wide export unless explicitly requested.
 - Sync roadmap status with `python3 scripts/sync-roadmap.py courses/de-from-pt-br`; never edit roadmap status columns by hand.
 - If the topic completes a block of 10 (orders 010, 020, 030, ...), remind the
   user to generate the cumulative review in `courses/de-from-pt-br/reviews/<start>-<end>/`.

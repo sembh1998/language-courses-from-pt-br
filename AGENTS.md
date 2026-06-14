@@ -41,7 +41,7 @@
 - Concatenate topics: `scripts/concat-topics.sh --course courses/<course-id> 1 10` for a range, or pass explicit topic numbers/folders.
 - Install Python deps for audio/Anki: `uv venv .venv && uv pip install --python .venv/bin/python -r requirements.txt`.
 - Generate audio: `.venv/bin/python scripts/generate-audio.py --course courses/<course-id> <topic-order-or-folder>`; it downloads Piper voices under `.cache/piper-voices/` and converts WAV to MP3 when `ffmpeg` exists.
-- Export Anki: `.venv/bin/python scripts/export-anki.py --course courses/<course-id> <topic-order...>`; run audio generation first if card audio should be embedded.
+- Export Anki: `.venv/bin/python scripts/export-anki.py --course courses/<course-id> <topic-order...>`; run audio generation first if card audio should be embedded. With topic args, the default output is separated under `output/exports/topics/` for one topic or `output/exports/selected/` for multiple topics. With no topic args, it writes the course-wide package from `course.yaml`.
 
 ## Reviews
 

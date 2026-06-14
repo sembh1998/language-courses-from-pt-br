@@ -173,19 +173,45 @@ courses/<course-id>/output/audio/<topic-folder>/
 
 ## Anki Export
 
-Export all flashcards for a course:
+Export all flashcards for a course into the course-wide package:
 
 ```sh
 .venv/bin/python scripts/export-anki.py --course courses/de-from-pt-br
 ```
 
-Export selected topics:
+Output:
+
+```txt
+courses/<course-id>/output/exports/<course-output>.apkg
+```
+
+Export one topic into its own package. This is the safest command for independent topic-generation agents because it does not overwrite the course-wide package:
+
+```sh
+.venv/bin/python scripts/export-anki.py --course courses/de-from-pt-br 104
+```
+
+Output:
+
+```txt
+courses/<course-id>/output/exports/topics/<topic-folder>.apkg
+```
+
+Export selected topics together into a separate package:
 
 ```sh
 .venv/bin/python scripts/export-anki.py --course courses/de-from-pt-br 99 100
 ```
 
-Deck metadata and default output names come from `course.yaml`. Exports go under:
+Output:
+
+```txt
+courses/<course-id>/output/exports/selected/<course-output-stem>-099-100.apkg
+```
+
+Use `--output` only when you intentionally want a custom file path.
+
+Deck metadata and course-wide output names come from `course.yaml`. Exports go under:
 
 ```txt
 courses/<course-id>/output/exports/

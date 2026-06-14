@@ -8,6 +8,7 @@ If scripts/generate-audio.py already produced clips under
 
 Usage:
   .venv/bin/python scripts/export-anki.py                 # all German topics
+  .venv/bin/python scripts/export-anki.py --course it-from-pt-br 22
   .venv/bin/python scripts/export-anki.py --course it-from-pt-br 22 104
   .venv/bin/python scripts/export-anki.py --output meu-deck.apkg 99 100 101
   .venv/bin/python scripts/export-anki.py --csv           # also write CSVs
@@ -128,11 +129,30 @@ def export_csv(topic_dir: Path, out_root: Path, cards: list[dict]) -> Path:
     return out_path
 
 
+def default_output_path(out_root: Path, config: dict[str, str], topic_dirs: list[Path], selected_topics: bool) -> Path:
+    if not selected_topics:
+        return out_root / config["anki_output"]
+
+    if len(topic_dirs) == 1:
+        return out_root / "topics" / f"{topic_dirs[0].name}.apkg"
+
+    output_stem = Path(config["anki_output"]).stem
+    topic_ids = "-".join(topic.name.split("-", 1)[0] for topic in topic_dirs)
+    return out_root / "selected" / f"{output_stem}-{topic_ids}.apkg"
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Exporta flashcards para Anki.")
     parser.add_argument("topics", nargs="*", help="Números de ordem ou pastas de tópicos (vazio = todos)")
     parser.add_argument("--course", default=None, help="ID ou pasta do curso (padrão: courses/de-from-pt-br)")
-    parser.add_argument("--output", default=None, help="Arquivo .apkg de saída (padrão: <course>/output/exports/<course>.apkg)")
+    parser.add_argument(
+        "--output",
+        default=None,
+        help=(
+            "Arquivo .apkg de saída. Padrão: sem tópicos = <course>/output/exports/<course>.apkg; "
+            "um tópico = output/exports/topics/<topic>.apkg; vários tópicos = output/exports/selected/<course>-<ids>.apkg"
+        ),
+    )
     parser.add_argument("--csv", action="store_true", help="Também exporta CSVs por tópico (sem áudio)")
     args = parser.parse_args()
 
@@ -200,7 +220,8 @@ def main() -> int:
         return 1
 
     out_root.mkdir(parents=True, exist_ok=True)
-    output_path = Path(args.output) if args.output else out_root / config["anki_output"]
+    output_path = Path(args.output) if args.output else default_output_path(out_root, config, topic_dirs, bool(args.topics))
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     package = genanki.Package(decks)
     package.media_files = sorted(set(media_files))
     package.write_to_file(str(output_path))
