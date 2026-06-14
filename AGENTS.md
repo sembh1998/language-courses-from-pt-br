@@ -1,244 +1,49 @@
 # Agent Instructions
 
-This is a multi-course language-learning content generator for Brazilian Portuguese speakers. Course-specific content lives under `courses/<course-id>/`; shared tooling lives at the repository root.
-
-Default course: `courses/de-from-pt-br`.
-
-Available course shells:
-
-- `courses/de-from-pt-br`: German from Brazilian Portuguese.
-- `courses/it-from-pt-br`: Italian from Brazilian Portuguese.
-- `courses/en-from-pt-br`: English from Brazilian Portuguese.
-
-Before generating content, identify the target course. If the user does not specify a course, use `courses/de-from-pt-br`.
-
-## Course Source Of Truth
-
-For the selected course, use these files and folders:
-
-- Roadmap: `courses/<course-id>/roadmap.tsv`.
-- Prompts: `courses/<course-id>/prompts/`.
-- Topics: `courses/<course-id>/topics/`.
-- Reviews: `courses/<course-id>/reviews/`.
-- Outputs: `courses/<course-id>/output/`.
-- Course metadata and voices: `courses/<course-id>/course.yaml`.
-
-Before generating a topic, locate the exact roadmap row in the selected course roadmap and use that row as the source of truth.
-
-## Fast Roadmap Lookup
-
-When the user requests a topic by number, do not read the whole roadmap first. Search directly for the tab-delimited `Ordem` column in `courses/<course-id>/roadmap.tsv` and inspect only the matching row.
-
-Preferred lookup pattern for topic number `<N>`:
-
-```regex
-^([^\t]*\t)<N>\t
-```
-
-Examples:
-
-- Topic 19: search `^([^\t]*\t)19\t` in the selected course roadmap.
-- Topic 091 or 91: search `^([^\t]*\t)0?91\t` if the user may include or omit leading zeros.
-
-Only read a larger portion of the roadmap if the direct search fails, returns multiple ambiguous rows, or the user identifies the topic by title/level instead of `Ordem`.
-
-Important columns:
-
-- `Nível`: CEFR level or module group.
-- `Ordem`: global topic order.
-- `Bloco`: learning block/category.
-- `Tópico Principal`: topic title.
-- `Subtópicos / Conteúdo`: required scope for the topic.
-- `Status`: generation status.
-- `Material Gerado`: whether core topic files exist.
-- `Flashcards`: whether flashcards were generated or skipped.
-- `Exercícios`: whether exercises were generated.
-- `Teste`: whether test content was generated.
-- `Revisado`: whether a human reviewed it.
-
-## Topic Selection
-
-When asked to generate a topic:
-
-1. Select the course, defaulting to `courses/de-from-pt-br` if unspecified.
-2. Locate the selected row in `courses/<course-id>/roadmap.tsv`, preferably by direct search on `Ordem` when a topic number is provided.
-3. Find the selected topic by `Ordem`, `Nível`, or `Tópico Principal`.
-4. Use the roadmap row to determine level, block, title, and required subtópicos.
-5. Create the topic folder under `courses/<course-id>/topics/<level>/<order-topic-slug>/`.
-6. Generate only the files required by this project.
-
-Example folder names:
-
-- `courses/de-from-pt-br/topics/a1/001-alfabeto-alemao-e-sons-basicos/`.
-- `courses/it-from-pt-br/topics/a1/001-alfabeto-italiano-e-pronuncia-basica/`.
-- `courses/en-from-pt-br/topics/a1/001-alfabeto-ingles-e-sons-basicos/`.
-
-Use three digits for `Ordem` so folders sort correctly.
-
-Folder slugs must be unique across the selected course `topics/` tree. Derive the slug from `Tópico Principal`; when several roadmap rows share the same title, disambiguate using `Subtópicos / Conteúdo`.
-
-## Topic Learning Load Evaluation
-
-Before generating a topic, evaluate its learning load from the roadmap row. Use the course language, topic title, level, block, and subtópicos to decide how much practice the student needs.
-
-Evaluate two dimensions:
-
-- `Difficulty`: how hard the topic is for the target student at that CEFR level.
-- `Importance`: how critical the topic is for future learning in the target language.
-
-Use this evaluation to scale the amount of content inside the required files, without creating extra source files unless explicitly requested.
-
-Guidelines:
-
-- Low difficulty and low/medium importance: short lesson, 1 short story, 3-4 exercise groups, 8-10 test questions.
-- Medium difficulty or medium/high importance: fuller lesson, 1-2 short stories or story sections, 4-6 exercise groups, 10-14 test questions.
-- High difficulty or high importance: detailed lesson, 2-3 short stories or guided contexts, 6-8 exercise groups, 14-20 test questions.
-
-Treat these as flexible targets, not rigid quotas. If a topic is foundational or error-prone, add more examples, contrastive explanations, guided practice, and review questions so the student can learn it well before moving on.
-
-For critical topics, prefer more varied practice over longer prose: recognition, translation, fill-in-the-blank, sentence transformation, short production, and review questions where appropriate for the level.
-
-For `lesson.md`, scale the explanation by CEFR level, importance, and difficulty. Important or error-prone topics should not end with a mostly empty final page if more useful guidance would help the student. Add compact guided practice, contrastive examples, mini-checks with explanations, or extra example tables where appropriate. Keep this level-appropriate: A1/A2 should stay short, clear, and patterned; B1/B2 can include more sentence-level contrast and usage notes; C1/C2 can include nuance, register, and exceptions.
-
-For `story.md`, scale the story by CEFR level, importance, and difficulty. A1/A2 stories should use more short, transparent sentences and guided completion. B1/B2 stories can use richer connected paragraphs, reasons, opinions, and reformulation. C1/C2 stories can use denser prose, register nuance, and analytical questions.
-
-## Content Quality Rules
-
-- Use Brazilian Portuguese for headings, section subtitles, instructions, table headers, notes, and explanations.
-- Keep the target language only where the learner should read or produce it.
-- Do not copy exercise items into `test.yaml`. The test may assess the same skill, but it must use new sentences, contexts, names, and examples.
-- Multiple-choice items should usually have exactly three options.
-- Distribute correct multiple-choice answers across option positions 1, 2, and 3. Avoid making the correct answer mostly option 1 or 2.
-- In `answers.md`, include a short explanation for every exercise and test answer, not only the answer or points.
-
-## Required Topic Files
-
-Each generated topic folder must contain:
-
-```txt
-lesson.md
-vocabulary.yaml
-flashcards.yaml
-exercises.yaml
-test.yaml
-story.md
-answers.md
-```
-
-Exception: if flashcards are not useful for the selected topic, still create `flashcards.yaml`, but make it explicit that flashcards were intentionally skipped.
-
-Use this shape when skipping flashcards:
-
-```yaml
-topic: Topic Title
-level: A1
-cards: []
-note: Flashcards skipped because this topic is better practiced through exercises and examples.
-```
-
-## Flashcard Evaluation
-
-Before generating `flashcards.yaml`, decide whether flashcards are useful for the selected topic.
-
-Flashcards are usually useful for:
-
-- Vocabulary topics.
-- Fixed phrases.
-- Verb forms.
-- Articles and gender patterns.
-- Irregular forms.
-- Idioms and expressions.
-- Prepositions with required forms or cases.
-
-Flashcards are often not enough or may be skipped for:
-
-- Broad review topics.
-- Writing tasks.
-- Debate or speaking practice.
-- Complex syntax topics that require full sentence production.
-- Pronunciation topics that need audio or guided reading more than memorization.
-
-If flashcards are useful, generate concise cards with a target-language front, Brazilian Portuguese back, target-language example, and translation.
-
-If flashcards are weak for the topic, skip them with `cards: []` and focus the learning value in `lesson.md`, `exercises.yaml`, `story.md`, and `test.yaml`.
-
-## Content Generation Rules
-
-- Do not generate PDFs directly with AI.
-- Markdown and YAML are the source of truth.
-- Typst is only for rendering printable PDFs.
-- Keep files small, editable, and reusable.
-- Use the prompt files in the selected course `prompts/` folder as contracts for output format.
-- Keep YAML valid and simple.
-- Keep Markdown clean and predictable.
-- Prefer Brazilian Portuguese for explanations unless asked otherwise.
-- Generate content appropriate to the roadmap level.
-- Do not invent roadmap topics outside the selected course roadmap unless explicitly asked.
-
-## After Generation
-
-After generating a topic:
-
-1. Validate YAML files parse successfully.
-2. Run `python3 scripts/validate-content.py <topic-folder>` and fix all content QA issues. New topics must pass with zero issues; the selected course `qa-baseline.txt` only covers legacy topics and must not receive new entries.
-3. Compile PDFs with `scripts/compile-topic.sh --course courses/<course-id> <topic-folder>` if Typst is available.
-4. Generate audio with `.venv/bin/python scripts/generate-audio.py --course courses/<course-id> <ordem>` if the local environment is set up.
-5. Export the Anki deck with `.venv/bin/python scripts/export-anki.py --course courses/<course-id> <ordem>` if the topic has flashcards.
-6. Update roadmap status by running `python3 scripts/sync-roadmap.py courses/<course-id>`. Do not edit roadmap status columns by hand.
-7. Report which files were created.
-8. Report whether flashcards were generated or intentionally skipped, and why.
-
-## Audio Generation
-
-The project uses Piper TTS. Voices are configured per course in `course.yaml`:
-
-- `target_voice`: voice for the target language.
-- `source_voice`: voice for Brazilian Portuguese explanations/translations.
-
-Setup one time:
-
-```sh
-uv venv .venv
-uv pip install --python .venv/bin/python -r requirements.txt
-```
-
-Generate audio for a topic:
-
-```sh
-.venv/bin/python scripts/generate-audio.py --course courses/de-from-pt-br 104
-```
-
-Outputs per topic under `courses/<course-id>/output/audio/<topic-folder>/`:
-
-- `cards/*.wav` or `cards/*.mp3`: one clip per flashcard front and example, consumed by the Anki exporter.
-- `vocab-review.wav` or `vocab-review.mp3`: passive-listening track.
-- `story.wav` or `story.mp3`: the `## História em alemão` section read aloud for the German course.
-
-Audio rules for generated content:
-
-- `story.md` must always contain a `## História em alemão` section for the German course. For other courses, keep this heading until the audio extractor is generalized.
-- Keep flashcard `front` and `example` fields as clean target-language text with no Markdown or parenthetical Portuguese so TTS clips sound natural.
-
-## Anki Export
-
-Export flashcards to a single `.apkg` with one subdeck per topic:
-
-```sh
-.venv/bin/python scripts/export-anki.py --course courses/de-from-pt-br
-.venv/bin/python scripts/export-anki.py --course courses/de-from-pt-br 99 100
-```
-
-The deck embeds audio clips automatically when `courses/<course-id>/output/audio/<topic>/cards/` exists, so run `generate-audio.py` before exporting when audio is wanted.
-
-Each note produces two cards: target language to PT-BR recognition and PT-BR to target language production.
-
-## Cumulative Reviews
-
-Spaced review is required for retention. After every block of 10 topics is completed (001-010, 011-020, 021-030, ...), generate a cumulative review:
-
-1. Create the folder `courses/<course-id>/reviews/<start>-<end>/`.
-2. Generate `test.yaml` using `courses/<course-id>/prompts/review.prompt.md`, mixing all topics of the block with fresh sentences and interleaved questions.
-3. Generate `answers.md` with a `## Gabarito do teste` table that includes an explanation column, following the same rules as topic answer keys.
-4. Compile with `scripts/compile-review.sh --course courses/<course-id> <start>-<end>`.
-
-Review tests must never copy items from the original exercises or tests of the covered topics.
+## Repo Shape
+
+- This repo generates language-learning source content for Brazilian Portuguese speakers; Markdown/YAML under `courses/<course-id>/` is the source of truth, not PDFs/audio/Anki exports.
+- Default course is `courses/de-from-pt-br`; scripts also support `it-from-pt-br`, `en-from-pt-br`, and `fr-from-pt-br` via `--course` or a course path.
+- Course-local truth lives in `course.yaml`, `roadmap.tsv`, `prompts/`, `topics/`, `reviews/`, `qa-baseline.txt`, and `output/`; shared scripts/templates/schemas are at repo root.
+- Before creating content, read the exact row in the selected `roadmap.tsv` and the relevant course prompt files; do not invent topics outside the roadmap unless explicitly asked.
+
+## Roadmap Lookup
+
+- For a topic number, search the tab-delimited `Ordem` column directly instead of reading the whole roadmap: `^([^\t]*\t)<N>\t`; use `^([^\t]*\t)0?<N>\t` when leading zeroes are ambiguous.
+- Important roadmap columns: `Nível`, `Ordem`, `Bloco`, `Tópico Principal`, `Subtópicos / Conteúdo`, `Status`, `Material Gerado`, `Flashcards`, `Exercícios`, `Teste`, `Revisado`.
+- Topic folders are `courses/<course-id>/topics/<level>/<three-digit-order>-<slug>/`; keep slugs unique inside the selected course.
+- Never edit roadmap status columns by hand; after source files exist, run `python3 scripts/sync-roadmap.py courses/<course-id>` or `python3 scripts/sync-roadmap.py --check courses/<course-id>`.
+
+## Required Topic Sources
+
+- Every topic folder must contain exactly these source files: `lesson.md`, `vocabulary.yaml`, `flashcards.yaml`, `exercises.yaml`, `test.yaml`, `story.md`, `answers.md`.
+- Use Brazilian Portuguese for explanations, headings, labels, instructions, and answer explanations; use the target language only where the learner should read or produce it.
+- Follow `courses/<course-id>/prompts/*.prompt.md` as the output contract and keep YAML field names compatible with the scripts; target vocabulary field is configured by `course.yaml` `target_word_field`.
+- `story.md` must contain the heading configured by `course.yaml` `story_heading` so `scripts/generate-audio.py` can extract the target-language story.
+- `answers.md` must include `## Gabarito dos exercícios` and `## Gabarito do teste` tables with an `Explicação` or `Observação` column; empty explanations fail validation.
+
+## Content QA Rules
+
+- Do not copy exercise items into `test.yaml`; `scripts/validate-content.py` checks for reused questions/answers.
+- Multiple-choice items should have three options; distribute correct answers across positions 1, 2, and 3.
+- Avoid English UI labels/headings in generated Markdown such as `Story`, `German Story`, `Line-by-line translation`, `Vocabulary notes`, or `Comprehension questions`.
+- If flashcards are not useful, still create `flashcards.yaml` with `cards: []` and a short `note` explaining the intentional skip; `sync-roadmap.py` records this as `Pulado`.
+- Scale lesson/story/exercises/test volume to roadmap level plus topic difficulty/importance; prefer varied practice over long prose for foundational or error-prone topics.
+
+## Commands
+
+- Scaffold empty topic files: `scripts/generate-topic.sh courses/<course-id>/topics/<level>/<order-slug>`.
+- Validate one topic: `python3 scripts/validate-content.py courses/<course-id>/topics/<level>/<order-slug>`.
+- Validate default German topics: `python3 scripts/validate-content.py`; legacy issues can be filtered with `--baseline courses/<course-id>/qa-baseline.txt`, but new topics should pass with zero unbaselined issues.
+- Compile one topic PDF set: `scripts/compile-topic.sh --course courses/<course-id> <topic-order-or-folder>`; this needs Typst and Ghostscript (`gs`) and writes to `courses/<course-id>/output/pdf/<topic-folder>/`.
+- Compile a course: `scripts/compile-all.sh courses/<course-id>`.
+- Compile a review: `scripts/compile-review.sh --course courses/<course-id> 001-010`.
+- Concatenate topics: `scripts/concat-topics.sh --course courses/<course-id> 1 10` for a range, or pass explicit topic numbers/folders.
+- Install Python deps for audio/Anki: `uv venv .venv && uv pip install --python .venv/bin/python -r requirements.txt`.
+- Generate audio: `.venv/bin/python scripts/generate-audio.py --course courses/<course-id> <topic-order-or-folder>`; it downloads Piper voices under `.cache/piper-voices/` and converts WAV to MP3 when `ffmpeg` exists.
+- Export Anki: `.venv/bin/python scripts/export-anki.py --course courses/<course-id> <topic-order...>`; run audio generation first if card audio should be embedded.
+
+## Reviews
+
+- After each completed 10-topic block, create `courses/<course-id>/reviews/<start>-<end>/` with `test.yaml` from `prompts/review.prompt.md` and `answers.md` with a `## Gabarito do teste` table.
+- Review tests must mix the block with fresh sentences and must not copy topic exercise/test items.
