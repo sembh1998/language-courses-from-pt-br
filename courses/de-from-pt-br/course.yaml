@@ -1,0 +1,14 @@
+id: de-from-pt-br
+target_language: German
+target_language_pt: alemão
+target_locale: de_DE
+source_language: Brazilian Portuguese
+source_language_pt: português brasileiro
+source_locale: pt_BR
+target_voice: de_DE-karlsson-low
+source_voice: pt_BR-cadu-medium
+anki_deck_name: Alemão
+anki_model_name: Alemão PT-BR (com áudio)
+anki_output: alemao.apkg
+story_heading: "## História em alemão"
+target_word_field: german

@@ -1,0 +1,14 @@
+id: it-from-pt-br
+target_language: Italian
+target_language_pt: italiano
+target_locale: it_IT
+source_language: Brazilian Portuguese
+source_language_pt: português brasileiro
+source_locale: pt_BR
+target_voice: it_IT-riccardo-x_low
+source_voice: pt_BR-cadu-medium
+anki_deck_name: Italiano
+anki_model_name: Italiano PT-BR (com áudio)
+anki_output: italiano.apkg
+story_heading: "## História em italiano"
+target_word_field: italian

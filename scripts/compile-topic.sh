@@ -1,11 +1,27 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+course_dir="courses/de-from-pt-br"
+if [ "${1:-}" = "--course" ]; then
+  if [ "$#" -lt 3 ]; then
+    printf 'Usage: %s [--course <course-folder>] <topic-folder|topic-order>\n' "$0" >&2
+    exit 1
+  fi
+  course_dir="${2%/}"
+  shift 2
+fi
+
 if [ "$#" -ne 1 ]; then
-  printf 'Usage: %s <topic-folder|topic-order>\n' "$0" >&2
+  printf 'Usage: %s [--course <course-folder>] <topic-folder|topic-order>\n' "$0" >&2
   printf 'Examples:\n' >&2
   printf '  %s 18\n' "$0" >&2
-  printf '  %s topics/a1/018-presente-dos-verbos-regulares\n' "$0" >&2
+  printf '  %s --course courses/it-from-pt-br 18\n' "$0" >&2
+  printf '  %s courses/de-from-pt-br/topics/a1/018-presente-dos-verbos-regulares\n' "$0" >&2
+  exit 1
+fi
+
+if [ ! -d "$course_dir" ]; then
+  printf 'Error: course folder not found: %s\n' "$course_dir" >&2
   exit 1
 fi
 
@@ -14,11 +30,11 @@ topic_arg="${1%/}"
 if [[ "$topic_arg" =~ ^[0-9]+$ ]]; then
   topic_order="$(printf '%03d' "$topic_arg")"
   shopt -s nullglob
-  matches=(topics/*/"$topic_order"-*)
+  matches=("$course_dir"/topics/*/"$topic_order"-*)
   shopt -u nullglob
 
   if [ "${#matches[@]}" -eq 0 ]; then
-    printf 'Error: no topic found for order %s under topics/*/%s-*\n' "$topic_arg" "$topic_order" >&2
+    printf 'Error: no topic found for order %s under %s/topics/*/%s-*\n' "$topic_arg" "$course_dir" "$topic_order" >&2
     exit 1
   fi
 
@@ -40,7 +56,7 @@ fi
 
 topic_name="$(basename "$topic_dir")"
 topic_input="$(realpath --relative-to=templates "$topic_dir")"
-out_dir="output/pdf/$topic_name"
+out_dir="$course_dir/output/pdf/$topic_name"
 
 typst_cmd=(typst)
 if ! command -v typst >/dev/null 2>&1; then

@@ -1,5 +1,5 @@
 ---
-description: Generates German learning topic materials from roadmap.tsv for Brazilian Portuguese learners.
+description: Generates German learning topic materials from courses/de-from-pt-br/roadmap.tsv for Brazilian Portuguese learners.
 mode: subagent
 permission:
   edit: ask
@@ -11,16 +11,17 @@ You generate German learning materials for Brazilian Portuguese speakers in this
 Follow the project source of truth exactly:
 
 - Read `AGENTS.md` before generating or changing topic content.
-- Read `roadmap.tsv` before generating any topic.
-- Select topics only by `Ordem`, `Nível`, or `Tópico Principal` from `roadmap.tsv`.
+- Use `courses/de-from-pt-br` as the course root.
+- Read `courses/de-from-pt-br/roadmap.tsv` before generating any topic.
+- Select topics only by `Ordem`, `Nível`, or `Tópico Principal` from that roadmap.
 - Do not invent roadmap topics unless the user explicitly asks for that.
-- Never edit `roadmap.tsv` by hand; status updates go through `python3 scripts/sync-roadmap.py`.
+- Never edit roadmap status columns by hand; status updates go through `python3 scripts/sync-roadmap.py courses/de-from-pt-br`.
 
 For each generated topic:
 
 - Use the roadmap row to determine level, block, title, and required subtópicos.
-- Create the topic folder as `topics/<level>/<three-digit-order-topic-slug>/`.
-- Slugs must be unique across `topics/`; disambiguate with the subtópicos when
+- Create the topic folder as `courses/de-from-pt-br/topics/<level>/<three-digit-order-topic-slug>/`.
+- Slugs must be unique across `courses/de-from-pt-br/topics/`; disambiguate with the subtópicos when
   roadmap titles repeat.
 - Generate exactly these source files unless the user explicitly asks otherwise:
   - `lesson.md`
@@ -30,7 +31,7 @@ For each generated topic:
   - `test.yaml`
   - `story.md`
   - `answers.md`
-- Use the files in `prompts/` as output-format contracts.
+- Use the files in `courses/de-from-pt-br/prompts/` as output-format contracts.
 - `story.md` must contain a `## História em alemão` section with the German
   story as plain paragraphs (the TTS pipeline extracts exactly that section).
 - Keep flashcard `front` and `example` fields clean German text without
@@ -62,15 +63,14 @@ After generation:
 - Validate all YAML files parse successfully.
 - Run `python3 scripts/validate-content.py <topic-folder>` and fix every
   reported issue; new topics must pass with zero issues.
-- Compile PDFs with `scripts/compile-topic.sh <topic-folder>` if Typst is available.
-- Generate audio with `.venv/bin/python scripts/generate-audio.py <ordem>` when
+- Compile PDFs with `scripts/compile-topic.sh --course courses/de-from-pt-br <topic-folder>` if Typst is available.
+- Generate audio with `.venv/bin/python scripts/generate-audio.py --course courses/de-from-pt-br <ordem>` when
   the local environment exists (`.venv/`).
-- Export Anki cards with `.venv/bin/python scripts/export-anki.py <ordem>` when
+- Export Anki cards with `.venv/bin/python scripts/export-anki.py --course courses/de-from-pt-br <ordem>` when
   the topic has flashcards.
-- Sync roadmap status with `python3 scripts/sync-roadmap.py`; never edit
-  `roadmap.tsv` by hand.
+- Sync roadmap status with `python3 scripts/sync-roadmap.py courses/de-from-pt-br`; never edit roadmap status columns by hand.
 - If the topic completes a block of 10 (orders 010, 020, 030, ...), remind the
-  user to generate the cumulative review in `reviews/<start>-<end>/`.
+  user to generate the cumulative review in `courses/de-from-pt-br/reviews/<start>-<end>/`.
 - Report the files created.
 - Report whether flashcards were generated or intentionally skipped, and why.
 

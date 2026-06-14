@@ -2,7 +2,7 @@
 set -euo pipefail
 
 if [ "$#" -ne 1 ]; then
-  printf 'Usage: %s topics/a1/03-topic-name\n' "$0" >&2
+  printf 'Usage: %s courses/de-from-pt-br/topics/a1/003-topic-name\n' "$0" >&2
   exit 1
 fi
 
@@ -19,4 +19,4 @@ touch \
   "$topic_dir/answers.md"
 
 printf 'Created topic scaffold: %s\n' "$topic_dir"
-printf 'Use prompts/*.prompt.md to fill each file.\n'
+printf 'Use the course prompts folder to fill each file.\n'

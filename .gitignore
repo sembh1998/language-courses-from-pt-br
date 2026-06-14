@@ -10,6 +10,14 @@ output/audio/*
 !output/exports/.gitkeep
 !output/audio/.gitkeep
 
+# Course-specific generated outputs.
+courses/*/output/pdf/*
+courses/*/output/exports/*
+courses/*/output/audio/*
+!courses/*/output/pdf/.gitkeep
+!courses/*/output/exports/.gitkeep
+!courses/*/output/audio/.gitkeep
+
 # Local environment and caches.
 .venv/
 .cache/

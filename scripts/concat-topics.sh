@@ -1,11 +1,26 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+course_dir="courses/de-from-pt-br"
+if [ "${1:-}" = "--course" ]; then
+  if [ "$#" -lt 3 ]; then
+    printf 'Usage: %s [--course <course-folder>] <topic-order|topic-folder> [topic-order|topic-folder ...]\n' "$0" >&2
+    exit 1
+  fi
+  course_dir="${2%/}"
+  shift 2
+fi
+
 if [ "$#" -lt 1 ]; then
-  printf 'Usage: %s <topic-order|topic-folder> [topic-order|topic-folder ...]\n' "$0" >&2
+  printf 'Usage: %s [--course <course-folder>] <topic-order|topic-folder> [topic-order|topic-folder ...]\n' "$0" >&2
   printf 'Examples:\n' >&2
   printf '  %s 18 26     # topics 18 through 26\n' "$0" >&2
   printf '  %s 18 20 26  # only topics 18, 20, and 26\n' "$0" >&2
+  exit 1
+fi
+
+if [ ! -d "$course_dir" ]; then
+  printf 'Error: course folder not found: %s\n' "$course_dir" >&2
   exit 1
 fi
 
@@ -22,11 +37,11 @@ resolve_topic_dir() {
     topic_order="$(printf '%03d' "$topic_arg")"
 
     shopt -s nullglob
-    local matches=(topics/*/"$topic_order"-*)
+    local matches=("$course_dir"/topics/*/"$topic_order"-*)
     shopt -u nullglob
 
     if [ "${#matches[@]}" -eq 0 ]; then
-      printf 'Error: no topic found for order %s under topics/*/%s-*\n' "$topic_arg" "$topic_order" >&2
+      printf 'Error: no topic found for order %s under %s/topics/*/%s-*\n' "$topic_arg" "$course_dir" "$topic_order" >&2
       return 1
     fi
 
@@ -74,10 +89,10 @@ for topic_arg in "${topic_args[@]}"; do
   topic_dirs+=("$topic_dir")
 
   topic_name="$(basename "$topic_dir")"
-  combined_pdf="output/pdf/$topic_name/combined.pdf"
+  combined_pdf="$course_dir/output/pdf/$topic_name/combined.pdf"
 
   if [ ! -f "$combined_pdf" ]; then
-    scripts/compile-topic.sh "$topic_dir"
+    scripts/compile-topic.sh --course "$course_dir" "$topic_dir"
   fi
 
   if [ ! -f "$combined_pdf" ]; then
@@ -89,7 +104,7 @@ for topic_arg in "${topic_args[@]}"; do
   output_parts+=("${topic_name%%-*}")
 done
 
-out_dir="output/pdf/concat"
+out_dir="$course_dir/output/pdf/concat"
 mkdir -p "$out_dir"
 
 out_name="$(IFS=-; printf '%s' "${output_parts[*]}")-combined.pdf"

@@ -11,7 +11,7 @@ import yaml
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_TOPICS_ROOT = REPO_ROOT / "topics"
+DEFAULT_TOPICS_ROOT = REPO_ROOT / "courses" / "de-from-pt-br" / "topics"
 YAML_SOURCE_FILES = (
     "vocabulary.yaml",
     "flashcards.yaml",
@@ -50,6 +50,16 @@ COMMAND_PREFIX_RE = re.compile(
 
 def issue(issues: list[str], path: Path, message: str) -> None:
     issues.append(f"{path.relative_to(REPO_ROOT)}: {message}")
+
+
+def baseline_keys(item: str) -> set[str]:
+    """Return equivalent issue keys for pre/post multi-course baseline paths."""
+    keys = {item}
+    if item.startswith("courses/"):
+        parts = item.split("/", 3)
+        if len(parts) == 4:
+            keys.add(f"{parts[2]}/{parts[3]}")
+    return keys
 
 
 def normalize_text(value: object) -> str:
@@ -287,8 +297,8 @@ def main(argv: list[str]) -> int:
             for line in baseline_path.read_text(encoding="utf-8").splitlines()
             if line.strip() and not line.startswith("#")
         }
-        ignored = [item for item in issues if item in known]
-        issues = [item for item in issues if item not in known]
+        ignored = [item for item in issues if baseline_keys(item) & known]
+        issues = [item for item in issues if not (baseline_keys(item) & known)]
         if ignored:
             print(f"({len(ignored)} problema(s) conhecidos ignorados pela baseline)")
 

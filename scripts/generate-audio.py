@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
 """Generate TTS audio for topics with Piper.
 
-Voices:
-- German: de_DE-karlsson-low
-- Brazilian Portuguese: pt_BR-cadu-medium
+Voices are read from <course>/course.yaml.
 
-Outputs, per topic, under output/audio/<topic-folder>/:
+Outputs, per topic, under <course>/output/audio/<topic-folder>/:
 - cards/<hash>.wav      one clip per flashcard front and example (German),
                         referenced by scripts/export-anki.py
 - vocab-review.wav      passive-listening track: German word, Portuguese
@@ -13,9 +11,9 @@ Outputs, per topic, under output/audio/<topic-folder>/:
 - story.wav             the German story read aloud
 
 Usage:
-  .venv/bin/python scripts/generate-audio.py            # all topics
-  .venv/bin/python scripts/generate-audio.py 22 104     # by roadmap order
-  .venv/bin/python scripts/generate-audio.py topics/b2/104-partizip-i-como-adjetivo
+  .venv/bin/python scripts/generate-audio.py                         # all German topics
+  .venv/bin/python scripts/generate-audio.py --course it-from-pt-br 22
+  .venv/bin/python scripts/generate-audio.py courses/de-from-pt-br/topics/b2/104-partizip-i-como-adjetivo
   .venv/bin/python scripts/generate-audio.py --force 104
 """
 from __future__ import annotations
@@ -33,22 +31,21 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import (
-    GERMAN_VOICE,
-    PORTUGUESE_VOICE,
     VOICES_DIR,
     audio_filename,
+    load_course_config,
+    resolve_course_root,
     resolve_topic_dirs,
     topic_audio_dir,
 )
 
 TARGET_RATE = 22050
-STORY_HEADING = "## História em alemão"
 
 
-def ensure_voices() -> None:
+def ensure_voices(voices: tuple[str, str]) -> None:
     missing = [
         voice
-        for voice in (GERMAN_VOICE, PORTUGUESE_VOICE)
+        for voice in voices
         if not (VOICES_DIR / f"{voice}.onnx").exists()
     ]
     if not missing:
@@ -121,23 +118,23 @@ def load_yaml(path: Path) -> dict:
         return {}
 
 
-def german_story_text(story_path: Path) -> str:
+def target_story_text(story_path: Path, story_heading: str) -> str:
     if not story_path.exists():
         return ""
     text = story_path.read_text(encoding="utf-8")
-    start = text.find(STORY_HEADING)
+    start = text.find(story_heading)
     if start == -1:
         return ""
-    start += len(STORY_HEADING)
+    start += len(story_heading)
     end = text.find("\n## ", start)
     section = text[start:end] if end != -1 else text[start:]
     section = re.sub(r"[„“”«»]", "", section)
     return " ".join(section.split())
 
 
-def generate_card_clips(synth: Synthesizer, topic_dir: Path, force: bool) -> int:
+def generate_card_clips(synth: Synthesizer, topic_dir: Path, course_root: Path, target_voice: str, force: bool) -> int:
     cards = load_yaml(topic_dir / "flashcards.yaml").get("cards") or []
-    out_dir = topic_audio_dir(topic_dir) / "cards"
+    out_dir = topic_audio_dir(topic_dir, course_root) / "cards"
     written = 0
     for card in cards:
         if not isinstance(card, dict):
@@ -146,19 +143,27 @@ def generate_card_clips(synth: Synthesizer, topic_dir: Path, force: bool) -> int
             text = str(card.get(field) or "").strip()
             if not text:
                 continue
-            path = out_dir / audio_filename(text, GERMAN_VOICE)
+            path = out_dir / audio_filename(text, target_voice)
             if output_exists(path) and not force:
                 continue
-            write_wav(path, synth.samples(text, GERMAN_VOICE))
+            write_wav(path, synth.samples(text, target_voice))
             written += 1
     return written
 
 
-def generate_vocab_review(synth: Synthesizer, topic_dir: Path, force: bool) -> bool:
+def generate_vocab_review(
+    synth: Synthesizer,
+    topic_dir: Path,
+    course_root: Path,
+    target_voice: str,
+    source_voice: str,
+    target_word_field: str,
+    force: bool,
+) -> bool:
     words = load_yaml(topic_dir / "vocabulary.yaml").get("words") or []
     if not words:
         return False
-    out_path = topic_audio_dir(topic_dir) / "vocab-review.wav"
+    out_path = topic_audio_dir(topic_dir, course_root) / "vocab-review.wav"
     if output_exists(out_path) and not force:
         return False
 
@@ -166,19 +171,19 @@ def generate_vocab_review(synth: Synthesizer, topic_dir: Path, force: bool) -> b
     for word in words:
         if not isinstance(word, dict):
             continue
-        german = str(word.get("german") or "").strip()
+        target_word = str(word.get(target_word_field) or word.get("target") or word.get("german") or "").strip()
         translation = str(word.get("translation") or "").strip()
         example = str(word.get("example") or "").strip()
         example_translation = str(word.get("example_translation") or "").strip()
-        if not german:
+        if not target_word:
             continue
-        parts.extend((synth.samples(german, GERMAN_VOICE), silence(0.7)))
+        parts.extend((synth.samples(target_word, target_voice), silence(0.7)))
         if translation:
-            parts.extend((synth.samples(translation, PORTUGUESE_VOICE), silence(0.5)))
+            parts.extend((synth.samples(translation, source_voice), silence(0.5)))
         if example:
-            parts.extend((synth.samples(example, GERMAN_VOICE), silence(0.6)))
+            parts.extend((synth.samples(example, target_voice), silence(0.6)))
         if example_translation:
-            parts.extend((synth.samples(example_translation, PORTUGUESE_VOICE),))
+            parts.extend((synth.samples(example_translation, source_voice),))
         parts.append(silence(1.2))
 
     if not parts:
@@ -187,22 +192,23 @@ def generate_vocab_review(synth: Synthesizer, topic_dir: Path, force: bool) -> b
     return True
 
 
-def generate_story_audio(synth: Synthesizer, topic_dir: Path, force: bool) -> bool:
-    text = german_story_text(topic_dir / "story.md")
+def generate_story_audio(synth: Synthesizer, topic_dir: Path, course_root: Path, target_voice: str, force: bool) -> bool:
+    config = load_course_config(course_root)
+    text = target_story_text(topic_dir / "story.md", config["story_heading"])
     if not text:
         return False
-    out_path = topic_audio_dir(topic_dir) / "story.wav"
+    out_path = topic_audio_dir(topic_dir, course_root) / "story.wav"
     if output_exists(out_path) and not force:
         return False
-    write_wav(out_path, synth.samples(text, GERMAN_VOICE))
+    write_wav(out_path, synth.samples(text, target_voice))
     return True
 
 
-def convert_to_mp3(topic_dir: Path) -> None:
+def convert_to_mp3(topic_dir: Path, course_root: Path) -> None:
     """Convert WAV files to MP3 in place when ffmpeg is available."""
     if not shutil.which("ffmpeg"):
         return
-    for wav_path in topic_audio_dir(topic_dir).rglob("*.wav"):
+    for wav_path in topic_audio_dir(topic_dir, course_root).rglob("*.wav"):
         mp3_path = wav_path.with_suffix(".mp3")
         subprocess.run(
             ["ffmpeg", "-y", "-loglevel", "error", "-i", str(wav_path), "-b:a", "64k", str(mp3_path)],
@@ -214,31 +220,46 @@ def convert_to_mp3(topic_dir: Path) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser(description="Gera áudio TTS por tópico com Piper.")
     parser.add_argument("topics", nargs="*", help="Números de ordem ou pastas de tópicos (vazio = todos)")
+    parser.add_argument("--course", default=None, help="ID ou pasta do curso (padrão: courses/de-from-pt-br)")
     parser.add_argument("--force", action="store_true", help="Regenera arquivos existentes")
     parser.add_argument("--skip-cards", action="store_true", help="Não gera clipes de flashcards")
     parser.add_argument("--skip-vocab", action="store_true", help="Não gera a faixa de revisão de vocabulário")
     parser.add_argument("--skip-story", action="store_true", help="Não gera o áudio da história")
     args = parser.parse_args()
 
-    ensure_voices()
+    course_root = resolve_course_root(args.course)
+    config = load_course_config(course_root)
+    target_voice = config["target_voice"]
+    source_voice = config["source_voice"]
+    target_word_field = config["target_word_field"]
+
+    ensure_voices((target_voice, source_voice))
     synth = Synthesizer()
-    topic_dirs = resolve_topic_dirs(args.topics)
+    topic_dirs = resolve_topic_dirs(args.topics, course_root)
 
     for topic_dir in topic_dirs:
         results: list[str] = []
         if not args.skip_cards:
-            clips = generate_card_clips(synth, topic_dir, args.force)
+            clips = generate_card_clips(synth, topic_dir, course_root, target_voice, args.force)
             if clips:
                 results.append(f"{clips} clipe(s) de flashcards")
-        if not args.skip_vocab and generate_vocab_review(synth, topic_dir, args.force):
+        if not args.skip_vocab and generate_vocab_review(
+            synth,
+            topic_dir,
+            course_root,
+            target_voice,
+            source_voice,
+            target_word_field,
+            args.force,
+        ):
             results.append("vocab-review")
-        if not args.skip_story and generate_story_audio(synth, topic_dir, args.force):
+        if not args.skip_story and generate_story_audio(synth, topic_dir, course_root, target_voice, args.force):
             results.append("story")
-        convert_to_mp3(topic_dir)
+        convert_to_mp3(topic_dir, course_root)
         status = ", ".join(results) if results else "nada a fazer"
         print(f"{topic_dir.name}: {status}")
 
-    print(f"Áudio gerado em output/audio/ para {len(topic_dirs)} tópico(s).")
+    print(f"Áudio gerado em {course_root / 'output' / 'audio'} para {len(topic_dirs)} tópico(s).")
     return 0
 
 

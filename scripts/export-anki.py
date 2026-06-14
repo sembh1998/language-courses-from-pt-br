@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """Export flashcards.yaml files to an Anki deck (.apkg) with optional audio.
 
-Builds one subdeck per topic: "Alemão::B2::104 partizip i como adjetivo".
-Each note creates two cards: DE -> PT (recognition) and PT -> DE (production).
+Builds one subdeck per topic from the selected course.
+Each note creates two cards: target language -> PT and PT -> target language.
 If scripts/generate-audio.py already produced clips under
-output/audio/<topic>/cards/, they are embedded in the deck automatically.
+<course>/output/audio/<topic>/cards/, they are embedded in the deck automatically.
 
 Usage:
-  .venv/bin/python scripts/export-anki.py                 # all topics
-  .venv/bin/python scripts/export-anki.py 22 104          # by roadmap order
+  .venv/bin/python scripts/export-anki.py                 # all German topics
+  .venv/bin/python scripts/export-anki.py --course it-from-pt-br 22 104
   .venv/bin/python scripts/export-anki.py --output meu-deck.apkg 99 100 101
   .venv/bin/python scripts/export-anki.py --csv           # also write CSVs
 """
@@ -24,14 +24,14 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import (
-    EXPORTS_ROOT,
-    GERMAN_VOICE,
     audio_filename,
+    exports_root,
+    load_course_config,
+    resolve_course_root,
     resolve_topic_dirs,
     topic_audio_dir,
 )
 
-DECK_ROOT_NAME = "Alemão"
 MODEL_ID = 1735201001
 
 
@@ -39,7 +39,7 @@ def stable_id(name: str) -> int:
     return int(hashlib.sha1(name.encode("utf-8")).hexdigest()[:10], 16)
 
 
-def build_model():
+def build_model(model_name: str):
     import genanki
 
     css = """
@@ -49,7 +49,7 @@ def build_model():
 """
     return genanki.Model(
         MODEL_ID,
-        "Alemão PT-BR (com áudio)",
+        model_name,
         fields=[
             {"name": "Front"},
             {"name": "Back"},
@@ -82,19 +82,19 @@ def build_model():
     )
 
 
-def find_audio(topic_dir: Path, text: str) -> Path | None:
-    base = topic_audio_dir(topic_dir) / "cards"
+def find_audio(topic_dir: Path, course_root: Path, text: str, target_voice: str) -> Path | None:
+    base = topic_audio_dir(topic_dir, course_root) / "cards"
     for extension in ("mp3", "wav"):
-        candidate = base / audio_filename(text, GERMAN_VOICE, extension)
+        candidate = base / audio_filename(text, target_voice, extension)
         if candidate.exists():
             return candidate
     return None
 
 
-def deck_name_for(topic_dir: Path) -> str:
+def deck_name_for(topic_dir: Path, deck_root_name: str) -> str:
     level = topic_dir.parent.name.upper()
     title = topic_dir.name.replace("-", " ")
-    return f"{DECK_ROOT_NAME}::{level}::{title}"
+    return f"{deck_root_name}::{level}::{title}"
 
 
 def load_cards(topic_dir: Path) -> list[dict]:
@@ -110,8 +110,8 @@ def load_cards(topic_dir: Path) -> list[dict]:
     return [card for card in cards if isinstance(card, dict) and card.get("front")]
 
 
-def export_csv(topic_dir: Path, cards: list[dict]) -> Path:
-    out_dir = EXPORTS_ROOT / "anki-csv"
+def export_csv(topic_dir: Path, out_root: Path, cards: list[dict]) -> Path:
+    out_dir = out_root / "anki-csv"
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path = out_dir / f"{topic_dir.name}.csv"
     with out_path.open("w", encoding="utf-8", newline="") as handle:
@@ -131,7 +131,8 @@ def export_csv(topic_dir: Path, cards: list[dict]) -> Path:
 def main() -> int:
     parser = argparse.ArgumentParser(description="Exporta flashcards para Anki.")
     parser.add_argument("topics", nargs="*", help="Números de ordem ou pastas de tópicos (vazio = todos)")
-    parser.add_argument("--output", default=None, help="Arquivo .apkg de saída (padrão: output/exports/alemao.apkg)")
+    parser.add_argument("--course", default=None, help="ID ou pasta do curso (padrão: courses/de-from-pt-br)")
+    parser.add_argument("--output", default=None, help="Arquivo .apkg de saída (padrão: <course>/output/exports/<course>.apkg)")
     parser.add_argument("--csv", action="store_true", help="Também exporta CSVs por tópico (sem áudio)")
     args = parser.parse_args()
 
@@ -141,8 +142,14 @@ def main() -> int:
         print("Erro: genanki não instalado. Rode: uv pip install --python .venv/bin/python -r requirements.txt")
         return 2
 
-    topic_dirs = resolve_topic_dirs(args.topics)
-    model = build_model()
+    course_root = resolve_course_root(args.course)
+    config = load_course_config(course_root)
+    out_root = exports_root(course_root)
+    target_voice = config["target_voice"]
+    deck_root_name = config["anki_deck_name"]
+
+    topic_dirs = resolve_topic_dirs(args.topics, course_root)
+    model = build_model(config["anki_model_name"])
     decks = []
     media_files: list[str] = []
     total_notes = 0
@@ -154,7 +161,7 @@ def main() -> int:
             skipped.append(topic_dir.name)
             continue
 
-        deck_name = deck_name_for(topic_dir)
+        deck_name = deck_name_for(topic_dir, deck_root_name)
         deck = genanki.Deck(stable_id(deck_name), deck_name)
 
         for card in cards:
@@ -170,7 +177,7 @@ def main() -> int:
                 text = fields[text_field].strip()
                 if not text:
                     continue
-                audio_path = find_audio(topic_dir, text)
+                audio_path = find_audio(topic_dir, course_root, text, target_voice)
                 if audio_path:
                     fields[audio_field] = f"[sound:{audio_path.name}]"
                     media_files.append(str(audio_path))
@@ -186,14 +193,14 @@ def main() -> int:
 
         decks.append(deck)
         if args.csv:
-            export_csv(topic_dir, cards)
+            export_csv(topic_dir, out_root, cards)
 
     if not decks:
         print("Nenhum flashcard encontrado para exportar.")
         return 1
 
-    EXPORTS_ROOT.mkdir(parents=True, exist_ok=True)
-    output_path = Path(args.output) if args.output else EXPORTS_ROOT / "alemao.apkg"
+    out_root.mkdir(parents=True, exist_ok=True)
+    output_path = Path(args.output) if args.output else out_root / config["anki_output"]
     package = genanki.Package(decks)
     package.media_files = sorted(set(media_files))
     package.write_to_file(str(output_path))
@@ -203,7 +210,7 @@ def main() -> int:
     if skipped:
         print(f"- Sem flashcards (pulados): {', '.join(skipped)}")
     if args.csv:
-        print(f"- CSVs em {EXPORTS_ROOT / 'anki-csv'}")
+        print(f"- CSVs em {out_root / 'anki-csv'}")
     return 0
 
 

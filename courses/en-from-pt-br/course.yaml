@@ -1,0 +1,14 @@
+id: en-from-pt-br
+target_language: English
+target_language_pt: inglês
+target_locale: en_US
+source_language: Brazilian Portuguese
+source_language_pt: português brasileiro
+source_locale: pt_BR
+target_voice: en_US-lessac-low
+source_voice: pt_BR-cadu-medium
+anki_deck_name: Inglês
+anki_model_name: Inglês PT-BR (com áudio)
+anki_output: ingles.apkg
+story_heading: "## História em inglês"
+target_word_field: english

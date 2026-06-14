@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Sync roadmap.tsv status columns with the topic folders on disk.
+"""Sync a course roadmap.tsv status columns with topic folders on disk.
 
-For every roadmap row whose topic folder exists under topics/ with all seven
+For every roadmap row whose topic folder exists under <course>/topics/ with all seven
 required files, sets:
 - Status: Concluído
 - Material Gerado: Sim
@@ -12,8 +12,9 @@ required files, sets:
 Never touches the Revisado column and never downgrades rows.
 
 Usage:
-  python3 scripts/sync-roadmap.py            # apply changes
-  python3 scripts/sync-roadmap.py --check    # exit 1 if out of sync (CI)
+  python3 scripts/sync-roadmap.py                         # default German course
+  python3 scripts/sync-roadmap.py courses/it-from-pt-br   # selected course
+  python3 scripts/sync-roadmap.py --check                 # exit 1 if out of sync (CI)
 """
 from __future__ import annotations
 
@@ -24,9 +25,10 @@ from pathlib import Path
 
 import yaml
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import resolve_course_root, topics_root
+
 REPO_ROOT = Path(__file__).resolve().parents[1]
-ROADMAP = REPO_ROOT / "roadmap.tsv"
-TOPICS_ROOT = REPO_ROOT / "topics"
 REQUIRED_FILES = (
     "lesson.md",
     "vocabulary.yaml",
@@ -46,9 +48,9 @@ COLUMNS = {
 ORDER_COLUMN = 1
 
 
-def topics_on_disk() -> dict[int, Path]:
+def topics_on_disk(root: Path) -> dict[int, Path]:
     found: dict[int, Path] = {}
-    for folder in TOPICS_ROOT.glob("*/[0-9][0-9][0-9]-*"):
+    for folder in root.glob("*/[0-9][0-9][0-9]-*"):
         if not folder.is_dir():
             continue
         match = re.match(r"^(\d{3})-", folder.name)
@@ -76,12 +78,17 @@ def flashcards_status(folder: Path) -> str:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Sincroniza roadmap.tsv com as pastas em topics/.")
+    parser = argparse.ArgumentParser(description="Sincroniza roadmap.tsv com as pastas topics/ de um curso.")
+    parser.add_argument("course", nargs="?", help="ID ou pasta do curso (padrão: courses/de-from-pt-br)")
     parser.add_argument("--check", action="store_true", help="Não escreve; sai com erro se houver divergência")
     args = parser.parse_args()
 
-    lines = ROADMAP.read_text(encoding="utf-8").splitlines()
-    disk = topics_on_disk()
+    course_root = resolve_course_root(args.course)
+    roadmap = course_root / "roadmap.tsv"
+    topics = topics_root(course_root)
+
+    lines = roadmap.read_text(encoding="utf-8").splitlines()
+    disk = topics_on_disk(topics)
     changes: list[str] = []
 
     for index, line in enumerate(lines[1:], start=1):
@@ -114,18 +121,18 @@ def main() -> int:
             lines[index] = "\t".join(cells)
 
     if not changes:
-        print("roadmap.tsv já está sincronizado.")
+        print(f"{roadmap.relative_to(REPO_ROOT)} já está sincronizado.")
         return 0
 
     if args.check:
-        print(f"roadmap.tsv está desatualizado ({len(changes)} linha(s)):")
+        print(f"{roadmap.relative_to(REPO_ROOT)} está desatualizado ({len(changes)} linha(s)):")
         for change in changes:
             print(f"- {change}")
-        print("Rode: python3 scripts/sync-roadmap.py")
+        print(f"Rode: python3 scripts/sync-roadmap.py {course_root.relative_to(REPO_ROOT)}")
         return 1
 
-    ROADMAP.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"roadmap.tsv atualizado ({len(changes)} linha(s)):")
+    roadmap.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"{roadmap.relative_to(REPO_ROOT)} atualizado ({len(changes)} linha(s)):")
     for change in changes:
         print(f"- {change}")
     return 0
