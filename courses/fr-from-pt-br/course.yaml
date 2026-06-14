@@ -1,0 +1,14 @@
+id: fr-from-pt-br
+target_language: French
+target_language_pt: francês
+target_locale: fr_FR
+source_language: Brazilian Portuguese
+source_language_pt: português brasileiro
+source_locale: pt_BR
+target_voice: fr_FR-siwis-low
+source_voice: pt_BR-cadu-medium
+anki_deck_name: Francês
+anki_model_name: Francês PT-BR (com áudio)
+anki_output: frances.apkg
+story_heading: "## História em francês"
+target_word_field: french
