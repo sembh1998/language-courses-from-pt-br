@@ -1,1 +1,161 @@
 Nível	Ordem	Bloco	Tópico Principal	Subtópicos / Conteúdo	Status	Prioridade	Material Gerado	Flashcards	Exercícios	Teste	Revisado
+A1	1	Primeiros passos profissionais	Sons, alfabeto e nomes técnicos	Alfabeto inglês; soletrar nome, e-mail, GitHub e nomes de arquivos; sons difíceis para brasileiros; letras em siglas como API, UI, URL, SQL; pedir repetição: Can you spell that?		Alta					
+A1	2	Primeiros passos profissionais	Cumprimentos e apresentações	Hello, hi, good morning; apresentar-se como software engineer/developer; dizer nome, país, cidade, empresa e função; Nice to meet you; cumprimentos em chat e chamada		Alta					
+A1	3	Primeiros passos profissionais	Verbo to be no trabalho	I am, you are, he is; contrações; frases sobre cargo, time e localização; perguntas simples: Are you a developer? Is she a QA engineer?		Alta					
+A1	4	Primeiros passos profissionais	Pronomes pessoais e possessivos	I, you, he, she, it, we, they; my, your, his, her, our, their; referir-se a colegas, times, repositórios e ferramentas; it para sistema, app, bug e feature		Alta					
+A1	5	Primeiros passos profissionais	Artigos e substantivos básicos	A/an/the; singular e plural; objetos do ambiente de trabalho: laptop, keyboard, screen, meeting, ticket, branch; plurais regulares e irregulares frequentes		Alta					
+A1	6	Primeiros passos profissionais	Números, datas e horários	Números 0-1000; horários de reunião; datas de sprint; versões simples; timezone básico; marcar stand-up: at 9, on Monday, in June		Alta					
+A1	7	Primeiros passos profissionais	Vocabulário essencial de software	Code, app, website, server, database, user, password, login, file, folder, error, test; reconhecer palavras transparentes e falsos cognatos iniciais		Alta					
+A1	8	Primeiros passos profissionais	Comandos simples e imperativos	Open, close, click, type, run, save, send, check, create, delete; instruções curtas em ferramentas; please e polite commands		Alta					
+A1	9	Rotina e ambiente	Presente simples: rotina de trabalho	I work, I write code, I test, I deploy; hábitos diários; do/does em perguntas; negativas: I don't use Windows		Alta					
+A1	10	Rotina e ambiente	Rotina de um desenvolvedor	Daily stand-up, code review, lunch break, focus time; advérbios de frequência: always, usually, often, sometimes, never; descrever uma semana simples		Alta					
+A1	11	Rotina e ambiente	There is/there are no escritório e no sistema	Descrever ambiente físico e digital: There is a bug; There are three files; perguntas e negativas; quantidade com some/any		Alta					
+A1	12	Rotina e ambiente	Preposições de lugar e interface	In, on, at, under, next to, between; localização em tela e arquivos: in the folder, on the page, at the top, next to the button		Alta					
+A1	13	Rotina e ambiente	Adjetivos básicos para tecnologia	Fast, slow, new, old, easy, hard, simple, complex, safe, public, private; ordem simples de adjetivos; descrever ferramentas e problemas		Alta					
+A1	14	Rotina e ambiente	Perguntas WH essenciais	What, where, when, who, why, how; perguntas sobre tarefas, reuniões e bugs; respostas curtas e completas		Alta					
+A1	15	Rotina e ambiente	E-mails e mensagens muito simples	Assunto curto; Hi/Hello; Thanks; Best regards; pedir informação simples; avisar disponibilidade; mensagens de Slack/Teams		Alta					
+A1	16	Rotina e ambiente	Can/can't para habilidades e permissões	I can fix it; Can you join?; We can't deploy now; habilidades técnicas; pedir ajuda; permissões em sistemas		Alta					
+A1	17	Ferramentas e ações	Presente contínuo: o que está acontecendo agora	I am debugging; The build is running; They are testing; diferença inicial entre rotina e ação atual; status em stand-up		Alta					
+A1	18	Ferramentas e ações	Verbos de ação em desenvolvimento	Write, read, review, merge, push, pull, build, test, fix, update, install; frases afirmativas, negativas e perguntas simples		Alta					
+A1	19	Ferramentas e ações	Vocabulário de computador e ferramentas	Laptop, monitor, terminal, browser, editor, IDE, repository, ticket, board, pipeline; nomes contáveis e incontáveis básicos		Alta					
+A1	20	Ferramentas e ações	Arquivos, pastas e caminhos	File names, extensions, paths, root folder, config file; dizer onde algo está; comandos de localização; preposições com diretórios		Alta					
+A1	21	Ferramentas e ações	Problemas simples e suporte	It doesn't work; I have an error; The page is slow; login problem; password reset; pedir ajuda com clareza básica		Alta					
+A1	22	Ferramentas e ações	Likes, preferences e escolhas de ferramentas	I like, I prefer, I use; comparações muito simples: better/easier; falar de linguagem, editor, sistema operacional e framework preferido		Média					
+A1	23	Ferramentas e ações	Countable e uncountable em contexto técnico	A file, an issue, some code, information, data, software; much/many; evitar erros com informations/softwares		Alta					
+A1	24	Ferramentas e ações	This, that, these, those na interface	Apontar elementos em tela, documentos e código; demonstrativos com bug, line, file, button, logs; frases de pair programming		Média					
+A1	25	Comunicação básica em time	Stand-up A1: yesterday, today, blockers	Modelo simples: Yesterday I worked on... Today I will... I have a blocker; vocabulário de tarefas; perguntas de acompanhamento		Alta					
+A1	26	Comunicação básica em time	Pedir repetição, esclarecimento e ajuda	Sorry? Can you repeat? Can you speak slowly? What does X mean? I don't understand this error; estratégias de sobrevivência em reuniões		Alta					
+A1	27	Comunicação básica em time	Reuniões simples e calendário	Join a meeting, schedule, cancel, invite, link, agenda; aceitar/recusar convite; dizer que está atrasado ou disponível		Alta					
+A1	28	Comunicação básica em time	Modal would like e pedidos educados	I would like to ask; Could you help? Can I ask a question? diferenças de tom entre can, could e would like no nível inicial		Alta					
+A1	29	Comunicação básica em time	Instruções de setup simples	Install Node, open terminal, run command, clone repository; sequência com first, then, next, finally; vocabulário de ambiente local		Alta					
+A1	30	Comunicação básica em time	Leitura de documentação básica	Reconhecer títulos, listas, passos, warnings e notes; skim para comandos; vocabulário: overview, requirements, installation, usage		Alta					
+A1	31	Fundamentos gramaticais aplicados	Have/has e partes de sistemas	The app has a login page; We have two services; perguntas e negativas; falar de recursos, componentes e problemas		Alta					
+A1	32	Fundamentos gramaticais aplicados	Possessivo com 's e relações de equipe	Ana's branch, the user's password, the team's backlog; possessivo versus of; nomes de times e produtos		Média					
+A1	33	Fundamentos gramaticais aplicados	Conjunções básicas: and, but, or, because	Conectar frases simples; explicar causa de bug; contrastar ferramentas; escolhas técnicas básicas		Alta					
+A1	34	Fundamentos gramaticais aplicados	Adverbs básicos e intensidade	Very, really, quite, too; quickly, slowly, correctly; descrever execução, testes e problemas; posição na frase		Média					
+A1	35	Fundamentos gramaticais aplicados	Comparativos simples	Faster, slower, easier, harder, better, worse; comparar ferramentas, telas e soluções; than em frases profissionais		Alta					
+A1	36	Fundamentos gramaticais aplicados	Vocabulário de cargos e times	Developer, engineer, designer, product manager, QA, DevOps, support, customer, stakeholder; explicar quem faz o quê em frases simples		Alta					
+A1	37	Fundamentos gramaticais aplicados	Leitura de mensagens de erro simples	Error, warning, failed, missing, invalid, required, not found; identificar ação sugerida; explicar erro em uma frase		Alta					
+A1	38	Fundamentos gramaticais aplicados	Escrever perfil profissional básico	Mini bio para LinkedIn/GitHub; cargo, stack, interesses, localização; frases curtas e corretas		Média					
+A1	39	Fundamentos gramaticais aplicados	Revisão integrada A1 para software engineers	Integração de to be, present simple, can, imperatives, vocabulário técnico essencial; simulação de onboarding inicial		Alta					
+A1	40	Fundamentos gramaticais aplicados	Projeto A1: primeiro dia em um time internacional	Apresentar-se, ler instruções de setup, pedir ajuda, escrever update simples e entender uma mensagem de erro curta		Alta					
+A2	41	Passado e relato de trabalho	Past simple: tarefas concluídas	Regular and irregular verbs frequentes: fixed, created, wrote, sent, ran, found; yesterday/last week; relatar progresso		Alta					
+A2	42	Passado e relato de trabalho	Past simple com perguntas e negativas	Did you test it? I didn't deploy; investigar ações passadas; conversar sobre incidentes simples e tarefas atrasadas		Alta					
+A2	43	Passado e relato de trabalho	Past continuous para contexto	The server was restarting; I was debugging when...; descrever cenário de bug; contraste com past simple		Média					
+A2	44	Passado e relato de trabalho	Sequenciadores para narrar problemas	First, then, after that, before, while, finally; explicar reprodução de bug; ordem de ações em tickets		Alta					
+A2	45	Passado e relato de trabalho	Vocabulário de bugs e debugging	Bug, issue, crash, freeze, log, stack trace, reproduce, expected, actual, steps; escrever bug report A2		Alta					
+A2	46	Passado e relato de trabalho	Descrever mudanças em código	Added, removed, updated, renamed, refactored; arquivos e funções; resumo simples de pull request		Alta					
+A2	47	Passado e relato de trabalho	Git e versionamento básico	Commit, branch, merge, conflict, pull request, review, main; pedir revisão; explicar alteração em inglês simples		Alta					
+A2	48	Passado e relato de trabalho	Pronúncia de -ed e verbos técnicos	Worked, fixed, tested, deployed, merged; sons /t/, /d/, /id/; clareza em stand-up e gravações		Média					
+A2	49	Planos e organização	Future com going to	I'm going to fix; We're going to deploy; planos de sprint; intenção versus previsão; comunicar próximos passos		Alta					
+A2	50	Planos e organização	Will para decisões, promessas e previsões	I'll check it; It will take two days; build will fail; diferença entre will e going to no trabalho		Alta					
+A2	51	Planos e organização	Present continuous para agenda	I'm meeting the PM at 3; We're deploying tomorrow; reuniões, entrevistas e pair programming agendados		Média					
+A2	52	Planos e organização	Prazos, estimativas e prioridade	Deadline, estimate, priority, urgent, low impact, high impact; dizer duração: It takes two hours; by/until; due on		Alta					
+A2	53	Planos e organização	Scrum e Kanban em inglês simples	Sprint, backlog, task, story, epic, done, in progress, blocked; mover tickets; explicar status e impedimentos		Alta					
+A2	54	Planos e organização	Should/shouldn't para recomendações	You should add tests; We shouldn't deploy now; conselhos simples de engenharia; tom educado em review		Alta					
+A2	55	Planos e organização	Have to/don't have to e must/mustn't	Obrigação, necessidade e regras; security rules, code style, deployment checklist; diferença de força entre must e have to		Alta					
+A2	56	Planos e organização	Convites e combinações em reuniões	Would you like to...? Let's... Shall we...? Accepting and declining; marcar pair session; reagendar call		Média					
+A2	57	Produto e usuário	Vocabulário de produto digital	Feature, release, user, customer, feedback, requirement, dashboard, notification, settings; falar de valor para usuário		Alta					
+A2	58	Produto e usuário	Descrever telas e fluxos	Login screen, form, button, dropdown, checkbox, modal; user flow; instruções de navegação; from/to, into, through		Alta					
+A2	59	Produto e usuário	Comparativos e superlativos aplicados	Faster than, the easiest, more reliable, the most important; comparar soluções, bibliotecas e prioridades		Alta					
+A2	60	Produto e usuário	Adjetivos com -ed e -ing	Confusing/confused, interesting/interested, frustrating/frustrated; descrever UX, bugs e reações de usuários		Média					
+A2	61	Produto e usuário	Quantificadores para dados e tarefas	Some, any, a few, a lot of, enough, too much, too many; falar de tickets, bugs, traffic, memory, data		Alta					
+A2	62	Produto e usuário	Preposições de tempo e prazo	At, on, in, from, until, by, during; releases, sprints, meetings, maintenance windows; evitar confusão comum PT-BR		Alta					
+A2	63	Produto e usuário	User stories e acceptance criteria básicos	As a user, I want... so that...; given/when/then inicial; critérios simples; vocabulário de produto		Alta					
+A2	64	Produto e usuário	Falar com suporte e clientes internos	Perguntar problema, confirmar entendimento, explicar status; linguagem simples e empática; avoid blame		Média					
+A2	65	Documentação e colaboração	Markdown e documentação técnica básica	Headings, lists, code blocks, links, notes; escrever README curto; install, usage, examples, troubleshooting		Alta					
+A2	66	Documentação e colaboração	Conectores básicos para instruções	Because, so, but, although, if; conectar decisões e passos; explicar motivo de alteração		Alta					
+A2	67	Documentação e colaboração	Zero e first conditional iniciais	If the build fails, check the logs; If you need access, ask DevOps; regras, procedimentos e consequências simples		Alta					
+A2	68	Documentação e colaboração	Phrasal verbs técnicos frequentes A2	Set up, log in, sign up, turn on, shut down, back up, clean up; significado literal e técnico; separabilidade básica		Alta					
+A2	69	Documentação e colaboração	Code review educado A2	Could you add...? Please check... Looks good; sugestões simples; aprovar, pedir mudança e agradecer revisão		Alta					
+A2	70	Documentação e colaboração	Mensagens de commit e changelog simples	Imperative commit style: add, fix, update; release notes curtas; past simple versus imperative em commits		Alta					
+A2	71	Documentação e colaboração	E-mails profissionais A2	Pedir acesso, confirmar reunião, enviar resumo, acompanhar tarefa; subject lines; abertura e fechamento adequados		Média					
+A2	72	Documentação e colaboração	Listening: reuniões curtas e sotaques básicos	Identificar tarefas, datas, nomes e decisões; pedir confirmação; anotar action items simples		Alta					
+A2	73	Infraestrutura e qualidade	Vocabulário de web e APIs básico	Client, server, request, response, endpoint, status code, JSON, token; explicar chamada simples de API		Alta					
+A2	74	Infraestrutura e qualidade	Testes em inglês básico	Unit test, integration test, expected result, actual result, pass, fail; escrever descrição simples de teste		Alta					
+A2	75	Infraestrutura e qualidade	Ambientes e deploy	Local, development, staging, production; deploy, rollback, release, hotfix; explicar onde um bug acontece		Alta					
+A2	76	Infraestrutura e qualidade	Segurança básica para desenvolvedores	Password, permission, access, secret, private key, vulnerability; must/mustn't; pedir acesso com segurança		Alta					
+A2	77	Infraestrutura e qualidade	Dados e banco de dados básico	Table, row, column, query, record, field, index; descrever dados simples; countable/uncountable com data		Alta					
+A2	78	Infraestrutura e qualidade	Erro, causa e solução A2	The issue happens because...; To fix it, we need to...; causa, efeito e proposta simples; vocabulário de troubleshooting		Alta					
+A2	79	Infraestrutura e qualidade	Revisão integrada A2 para software engineers	Passado, futuro, modais de obrigação, documentação, bugs, Git, produto e reuniões; simulação de sprint completa		Alta					
+A2	80	Infraestrutura e qualidade	Projeto A2: bug report, PR e release simples	Abrir ticket, descrever reprodução, resumir PR, responder review e comunicar release em inglês claro		Alta					
+B1	81	Autonomia em reuniões	Revisão e expansão dos tempos verbais	Present simple/continuous, past simple/continuous, future forms; escolher tempo adequado em status updates e planejamento		Alta					
+B1	82	Autonomia em reuniões	Present perfect para experiência e mudanças	I have fixed, we have deployed, have you ever used...?; experiências profissionais; mudanças recentes sem tempo específico		Alta					
+B1	83	Autonomia em reuniões	Present perfect versus past simple	I fixed it yesterday versus I have fixed it; incidentes recentes, histórico de bugs e progresso de sprint		Alta					
+B1	84	Autonomia em reuniões	Gerúndio e infinitivo em contexto técnico	Need to, want to, enjoy working, avoid breaking, start using; padrões comuns em decisões e preferências técnicas		Alta					
+B1	85	Autonomia em reuniões	Falar de bloqueios com nuance	I'm blocked by..., I'm waiting for..., I need clarification; explicar dependências, riscos e próximos passos		Alta					
+B1	86	Autonomia em reuniões	Facilitar stand-ups e syncs	Abrir reunião, passar a palavra, resumir ações, checar entendimento; frases de facilitação para engenheiros		Alta					
+B1	87	Autonomia em reuniões	Interromper e participar educadamente	Can I add something? Sorry to interrupt; agreeing/disagreeing politely; tomar turno em call internacional		Alta					
+B1	88	Autonomia em reuniões	Tomada de notas e action items	Capturar decisões, owners, deadlines e follow-ups; linguagem de ata curta; confirmar responsabilidades		Média					
+B1	89	Comunicação técnica escrita	Escrever documentação B1	Objetivo, contexto, pré-requisitos, passos, troubleshooting e exemplos; clareza, voz ativa e consistência		Alta					
+B1	90	Comunicação técnica escrita	Explicar código em pull requests	What changed, why it changed, how to test; trade-offs simples; checklist e evidências de teste		Alta					
+B1	91	Comunicação técnica escrita	Code review B1: sugestões e justificativas	Would it be better to...? Have you considered...?; justificar performance, legibilidade, segurança e manutenção		Alta					
+B1	92	Comunicação técnica escrita	Reportar bugs com precisão	Environment, version, severity, expected behavior, actual behavior, reproduction steps, screenshots/logs; evitar ambiguidade		Alta					
+B1	93	Comunicação técnica escrita	Escrever mensagens de incidentes simples	Impact, current status, workaround, next update; comunicar problema sem pânico; atualização para stakeholders		Alta					
+B1	94	Comunicação técnica escrita	Conectores B1 para raciocínio técnico	However, therefore, although, because of, due to, as a result, in order to; estruturar causa, contraste e finalidade		Alta					
+B1	95	Comunicação técnica escrita	Voz passiva inicial em tecnologia	The bug was fixed; The service was deployed; The data is stored; foco em processo/resultado em documentação		Alta					
+B1	96	Comunicação técnica escrita	Paráfrase e simplificação técnica	Explicar termos difíceis com palavras simples; in other words, basically, what this means is; comunicação com não técnicos		Alta					
+B1	97	Arquitetura e sistemas	Vocabulário de arquitetura básica	Frontend, backend, database, cache, queue, service, component, module, dependency; descrever sistema em alto nível		Alta					
+B1	98	Arquitetura e sistemas	APIs e contratos em inglês	Endpoint, payload, header, authentication, authorization, schema, rate limit; discutir mudanças e compatibilidade básica		Alta					
+B1	99	Arquitetura e sistemas	Banco de dados e queries B1	Query, transaction, constraint, migration, index, join; explicar problemas de dados e alterações de schema		Alta					
+B1	100	Arquitetura e sistemas	Cloud e infraestrutura B1	Instance, container, region, storage, network, load balancer, environment variable; explicar deploy e configuração		Alta					
+B1	101	Arquitetura e sistemas	Observabilidade e logs	Metric, log, trace, alert, dashboard, latency, throughput; descrever investigação de produção		Alta					
+B1	102	Arquitetura e sistemas	Performance B1	Slow request, bottleneck, memory usage, CPU, response time, optimization; comparar antes/depois; propor melhoria		Alta					
+B1	103	Arquitetura e sistemas	Segurança B1	Authentication, authorization, encryption, token, permission, vulnerability, injection; explicar risco e mitigação básica		Alta					
+B1	104	Arquitetura e sistemas	Test strategy B1	Unit, integration, end-to-end, regression, flaky tests, coverage; discutir pirâmide de testes e prioridades		Alta					
+B1	105	Opiniões e decisões	Expressar opinião técnica com equilíbrio	I think, I believe, in my opinion, from my perspective; hedging com maybe, probably, it seems; evitar tom absoluto		Alta					
+B1	106	Opiniões e decisões	Concordar, discordar e negociar solução	I agree, I'm not sure, I see your point, the concern is...; discordância profissional e foco em critérios		Alta					
+B1	107	Opiniões e decisões	Comparar alternativas técnicas	Pros and cons, trade-off, simpler, safer, more maintainable; escolher biblioteca, arquitetura ou abordagem		Alta					
+B1	108	Opiniões e decisões	Conditionals 0, 1 e 2 em engenharia	If we cache it, it will be faster; If we had more time, we could...; hipóteses, regras e planos		Alta					
+B1	109	Opiniões e decisões	Modal verbs para possibilidade e certeza	May, might, could, must, can't; diagnosticar bugs: It might be a cache issue; The token must be expired		Alta					
+B1	110	Opiniões e decisões	Risco, impacto e esforço	Low/high risk, impact, effort, confidence, dependency; matriz simples; priorização em planejamento		Alta					
+B1	111	Opiniões e decisões	Estimativas e incerteza	It should take, roughly, about, at least, no more than; explicar incertezas sem prometer demais		Alta					
+B1	112	Opiniões e decisões	Design review e feedback de produto	Usability, accessibility, edge case, empty state, error state; comentar telas e fluxos com clareza		Média					
+B1	113	Carreira e colaboração	Entrevista técnica B1: trajetória	Tell me about yourself; descrever experiência, projetos, responsabilidades e stack; falar de conquistas sem exagero		Alta					
+B1	114	Carreira e colaboração	Entrevista técnica B1: comportamento	STAR method; conflitos, prazos, aprendizado, colaboração; responder perguntas comportamentais comuns		Alta					
+B1	115	Carreira e colaboração	Pair programming em inglês	Think aloud, suggest next steps, ask for control, explain reasoning; frases para navegar código junto		Alta					
+B1	116	Carreira e colaboração	Mentoria e pedir feedback	Could you give me feedback? What should I improve?; receber crítica, pedir exemplos, combinar plano de crescimento		Média					
+B1	117	Carreira e colaboração	Cross-functional collaboration	Falar com produto, design, QA, support e DevOps; adaptar linguagem ao público; alinhar expectativas		Alta					
+B1	118	Carreira e colaboração	Apresentações técnicas curtas	Estrutura: problem, context, solution, result; slides simples; sinalizadores de fala; lidar com perguntas		Alta					
+B1	119	Carreira e colaboração	Revisão integrada B1 para software engineers	Reuniões, documentação, PRs, incidentes simples, arquitetura básica, entrevistas e tomada de decisão		Alta					
+B1	120	Carreira e colaboração	Projeto B1: conduzir uma feature end-to-end	Discutir requisito, propor solução, escrever PR, responder review, documentar e apresentar resultado		Alta					
+B2	121	Comunicação avançada e nuance	Complex sentence patterns para engenharia	Relative clauses, noun clauses, participle clauses iniciais; frases complexas para documentação e decisões técnicas		Alta					
+B2	122	Comunicação avançada e nuance	Hedging avançado e diplomacia	It appears that, it is likely, I would argue, one concern might be; reduzir atrito em decisões difíceis		Alta					
+B2	123	Comunicação avançada e nuance	Discourse markers B2	Moreover, nevertheless, in contrast, consequently, from a practical standpoint; organizar explicações longas		Alta					
+B2	124	Comunicação avançada e nuance	Precisão lexical em tecnologia	Issue versus problem; effective versus efficient; scalable versus extensible; robust, resilient, reliable; evitar falsos cognatos		Alta					
+B2	125	Comunicação avançada e nuance	Colocações técnicas e linguagem natural	Run tests, ship features, raise concerns, meet requirements, handle requests, reduce latency; soar menos traduzido		Alta					
+B2	126	Comunicação avançada e nuance	Reformular sob pressão	Let me rephrase; what I'm trying to say is; to be more precise; corrigir-se em reuniões e entrevistas		Alta					
+B2	127	Comunicação avançada e nuance	Humor, tom e small talk profissional	Small talk remoto, cultura de time, limites de informalidade; responder naturalmente sem over-sharing		Baixa					
+B2	128	Comunicação avançada e nuance	Pronúncia B2 para inteligibilidade	Word stress em technical vocabulary; sentence stress; connected speech; apresentações e reuniões com clareza		Média					
+B2	129	Arquitetura, design e trade-offs	Explicar arquitetura de sistemas	High-level design, components, data flow, boundaries, integration points; narrar diagrama arquitetural em inglês		Alta					
+B2	130	Arquitetura, design e trade-offs	Design documents e RFCs	Problem statement, goals, non-goals, proposed solution, alternatives, risks, rollout plan; estrutura de RFC técnico		Alta					
+B2	131	Arquitetura, design e trade-offs	Trade-offs avançados	Latency versus consistency; simplicity versus flexibility; build versus buy; short-term versus long-term; defender escolha		Alta					
+B2	132	Arquitetura, design e trade-offs	Escalabilidade e confiabilidade	Availability, reliability, redundancy, failover, throughput, load, capacity planning; discutir crescimento do sistema		Alta					
+B2	133	Arquitetura, design e trade-offs	Sistemas distribuídos em inglês B2	Replication, consistency, partition, idempotency, retry, timeout, eventual consistency; explicar conceitos sem aula excessiva		Alta					
+B2	134	Arquitetura, design e trade-offs	APIs públicas e breaking changes	Versioning, backward compatibility, deprecation, migration guide, contract testing; comunicar mudança para consumidores		Alta					
+B2	135	Arquitetura, design e trade-offs	Segurança e privacidade B2	Threat model, attack surface, least privilege, data retention, compliance, audit log; discutir riscos e controles		Alta					
+B2	136	Arquitetura, design e trade-offs	Performance deep dive	Profiling, caching strategy, concurrency, resource contention, benchmark, regression; apresentar diagnóstico e plano		Alta					
+B2	137	Incidentes e operações	Incident response B2	Severity, mitigation, root cause, timeline, escalation, communication cadence; linguagem para incident commander		Alta					
+B2	138	Incidentes e operações	Postmortems sem culpa	Blameless language, contributing factors, detection gap, action items, prevention; escrever análise madura de incidente		Alta					
+B2	139	Incidentes e operações	Comunicação com stakeholders em crise	Impact summary, customer-facing wording, confidence level, next update, workaround; equilibrar transparência e precisão		Alta					
+B2	140	Incidentes e operações	Runbooks e procedimentos operacionais	Prerequisites, decision points, rollback steps, verification, escalation path; escrever instruções seguras para produção		Alta					
+B2	141	Incidentes e operações	SLOs, SLIs e métricas de confiabilidade	Error budget, availability target, latency percentile, alert fatigue; discutir operação com linguagem clara		Alta					
+B2	142	Incidentes e operações	Change management e rollout	Canary, feature flag, gradual rollout, rollback criteria, monitoring plan; comunicar plano de mudança		Alta					
+B2	143	Incidentes e operações	Retrospectivas de equipe	What went well, what didn't, lessons learned, experiments, ownership; facilitar discussão produtiva		Média					
+B2	144	Incidentes e operações	Conflitos técnicos e alinhamento	Address concerns, de-escalate, find common ground, disagree and commit; lidar com discordância forte em inglês		Alta					
+B2	145	Liderança técnica e influência	Mentoria técnica B2	Give actionable feedback, explain principles, ask guiding questions, calibrate expectations; mentorar júnior em inglês		Média					
+B2	146	Liderança técnica e influência	Liderar reuniões técnicas	Frame the problem, keep scope, park topics, summarize decisions, assign owners; facilitar design review e planning		Alta					
+B2	147	Liderança técnica e influência	Negociar escopo e prazo	Clarify constraints, propose trade-offs, push back respectfully, define minimum viable scope; conversar com PM/stakeholders		Alta					
+B2	148	Liderança técnica e influência	Argumentação baseada em dados	According to the metrics, the trend suggests, the sample size is limited; usar evidência sem exagerar conclusão		Alta					
+B2	149	Liderança técnica e influência	Escrever decisões técnicas formais	ADR format, context, decision, consequences, alternatives; registrar decisões com clareza e rastreabilidade		Alta					
+B2	150	Liderança técnica e influência	Apresentações técnicas B2	Narrativa, transições, visual aids, Q&A, handling objections; apresentar arquitetura, incidente ou proposta		Alta					
+B2	151	Liderança técnica e influência	Comunicação assíncrona avançada	Long-form updates, decision logs, project status, risk register; escrever para times distribuídos e fusos horários		Alta					
+B2	152	Liderança técnica e influência	Feedback de performance e carreira	Strengths, growth areas, expectations, promotion readiness; conversas profissionais com nuance e respeito		Média					
+B2	153	Carreira internacional e entrevistas	Entrevista técnica B2: system design	Clarifying questions, requirements, constraints, high-level design, bottlenecks, trade-offs; conduzir resposta estruturada		Alta					
+B2	154	Carreira internacional e entrevistas	Entrevista técnica B2: coding discussion	Think aloud, explain complexity, discuss edge cases, test approach, refactor; comunicar raciocínio durante live coding		Alta					
+B2	155	Carreira internacional e entrevistas	Entrevista comportamental B2 avançada	Leadership, ambiguity, failure, conflict, impact; respostas STAR com nuance, métricas e aprendizado		Alta					
+B2	156	Carreira internacional e entrevistas	Currículo, LinkedIn e cover letter B2	Action verbs, measurable impact, concise achievements, tailoring to job description; evitar tradução literal do português		Média					
+B2	157	Carreira internacional e entrevistas	Negociação de oferta e expectativas	Compensation, benefits, remote policy, growth path, start date; perguntas educadas e negociação profissional		Média					
+B2	158	Carreira internacional e entrevistas	Networking e comunidade técnica	Reach out, follow up, contribute to open source, ask for referral; mensagens naturais e éticas		Baixa					
+B2	159	Carreira internacional e entrevistas	Revisão integrada B2 para software engineers	Arquitetura, incidentes, liderança técnica, negociação, entrevistas, documentação avançada e comunicação assíncrona		Alta					
+B2	160	Carreira internacional e entrevistas	Projeto B2: atuar como engineer em time global	Escrever RFC, defender trade-offs, liderar design review, responder incidente, produzir postmortem e apresentar resultado		Alta					
