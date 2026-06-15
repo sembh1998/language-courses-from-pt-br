@@ -1,0 +1,119 @@
+topic: "Revisão 031-040: sistemas, time e onboarding"
+level: "A1"
+questions:
+  - id: 1
+    type: "multiple_choice"
+    question: "Qual opção completa corretamente: The checkout service ___ two alerts today."
+    options:
+      - "has"
+      - "have"
+      - "does has"
+    answer: "has"
+  - id: 2
+    type: "multiple_choice"
+    question: "Qual frase usa possessivo corretamente para falar da branch da Marina?"
+    options:
+      - "The Marina branch is ready."
+      - "Marina's branch is ready."
+      - "Marina branch's is ready."
+    answer: "Marina's branch is ready."
+  - id: 3
+    type: "multiple_choice"
+    question: "Qual palavra completa uma causa: The preview is empty ___ the data file is missing."
+    options:
+      - "or"
+      - "but"
+      - "because"
+    answer: "because"
+  - id: 4
+    type: "multiple_choice"
+    question: "Qual frase tem a ordem natural em inglês?"
+    options:
+      - "The report is quite clear."
+      - "The report quite is clear."
+      - "The report is clear quite."
+    answer: "The report is quite clear."
+  - id: 5
+    type: "multiple_choice"
+    question: "Qual opção completa: This dashboard is ___ than the old dashboard."
+    options:
+      - "easy"
+      - "easier"
+      - "easiest"
+    answer: "easier"
+  - id: 6
+    type: "multiple_choice"
+    question: "Quem normalmente conversa com usuários e organiza prioridades do produto?"
+    options:
+      - "QA"
+      - "DevOps"
+      - "a product manager"
+    answer: "a product manager"
+  - id: 7
+    type: "multiple_choice"
+    question: "Em 'Session expired', qual é a ideia principal?"
+    options:
+      - "A sessão expirou."
+      - "A sessão é nova."
+      - "A sessão é obrigatória."
+    answer: "A sessão expirou."
+  - id: 8
+    type: "multiple_choice"
+    question: "Qual frase é adequada para uma mini bio profissional?"
+    options:
+      - "I with Python work."
+      - "I am a backend developer."
+      - "Developer backend I am."
+    answer: "I am a backend developer."
+  - id: 9
+    type: "multiple_choice"
+    question: "No primeiro dia, qual mensagem pede ajuda de forma simples?"
+    options:
+      - "The repo is private."
+      - "Open the editor."
+      - "Can you help me with the VPN?"
+    answer: "Can you help me with the VPN?"
+  - id: 10
+    type: "fill_in_the_blank"
+    question: "Complete: We ___ a staging server for tests."
+    answer: "have"
+  - id: 11
+    type: "fill_in_the_blank"
+    question: "Complete com possessivo: The ___ notes are in the wiki. (designer)"
+    answer: "designer's"
+  - id: 12
+    type: "fill_in_the_blank"
+    question: "Complete: The upload runs ___ after the fix."
+    answer: "quickly"
+  - id: 13
+    type: "fill_in_the_blank"
+    question: "Complete com a palavra que falta: This error is worse ___ the last warning."
+    answer: "than"
+  - id: 14
+    type: "translation"
+    question: "Traduza para o inglês: A API tem um erro, mas o app funciona."
+    answer: "The API has an error, but the app works."
+  - id: 15
+    type: "translation"
+    question: "Traduza para o inglês: Eu trabalho com JavaScript e gosto de testes."
+    answer: "I work with JavaScript and I like tests."
+  - id: 16
+    type: "correction"
+    question: "Corrija a frase: Does the platform has a status page?"
+    answer: "Does the platform have a status page?"
+  - id: 17
+    type: "ordering"
+    question: "Ordene as palavras: is / build / the / too / slow"
+    answer: "The build is too slow."
+  - id: 18
+    type: "short_answer"
+    question: "Explique em português a mensagem: Invalid workspace ID."
+    answer: "O ID do workspace é inválido; é preciso verificar ou corrigir esse ID."
+  - id: 19
+    type: "short_production"
+    question: "Escreva uma mensagem curta em inglês para o Slack: diga que você é novo no time e precisa de ajuda com o setup."
+    answer: "Resposta possível: Hello, I am new here. Can you help me with setup?"
+  - id: 20
+    type: "short_production"
+    question: "Escreva uma frase em inglês comparando uma automação nova e um processo manual com 'easier than'."
+    answer: "Resposta possível: The new automation is easier than the manual process."

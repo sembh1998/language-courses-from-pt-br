@@ -1,0 +1,107 @@
+topic: "Revisão 001-010: primeiros passos profissionais"
+level: "A1"
+questions:
+  - id: 1
+    type: "multiple_choice"
+    question: "Em uma chamada, você não entendeu o nome do repositório. Qual frase pede soletração de forma adequada?"
+    options:
+      - "Can you spell that, please?"
+      - "Can you save that, please?"
+      - "Can you deploy that, please?"
+    answer: "Can you spell that, please?"
+  - id: 2
+    type: "multiple_choice"
+    question: "Qual opção completa corretamente a apresentação: Hello, I ___ a backend developer."
+    options:
+      - "are"
+      - "am"
+      - "is"
+    answer: "am"
+  - id: 3
+    type: "multiple_choice"
+    question: "Qual frase usa possessivo corretamente para falar do time?"
+    options:
+      - "We are on my product team."
+      - "She are on her product team."
+      - "They are on their product team."
+    answer: "They are on their product team."
+  - id: 4
+    type: "multiple_choice"
+    question: "Qual frase está correta para falar de um objeto de trabalho?"
+    options:
+      - "I have a laptop."
+      - "I have an laptop."
+      - "I have laptop."
+    answer: "I have a laptop."
+  - id: 5
+    type: "multiple_choice"
+    question: "Qual frase informa horário de reunião corretamente?"
+    options:
+      - "The sync is in 10."
+      - "The sync is at 10."
+      - "The sync is on 10."
+    answer: "The sync is at 10."
+  - id: 6
+    type: "multiple_choice"
+    question: "Em um guia de setup, qual instrução é um imperativo simples e educado?"
+    options:
+      - "Please open the terminal."
+      - "You opening the terminal."
+      - "The terminal opens you."
+    answer: "Please open the terminal."
+  - id: 7
+    type: "fill_in_the_blank"
+    question: "Complete: My email is bia ___ studio dot com."
+    answer: "at"
+  - id: 8
+    type: "fill_in_the_blank"
+    question: "Complete com o verbo correto: He ___ on the data team."
+    answer: "is"
+  - id: 9
+    type: "fill_in_the_blank"
+    question: "Complete com o plural: There are two ___ in the backlog. (ticket)"
+    answer: "tickets"
+  - id: 10
+    type: "fill_in_the_blank"
+    question: "Complete: Version 4.2 is version four ___ two."
+    answer: "point"
+  - id: 11
+    type: "fill_in_the_blank"
+    question: "Complete com o presente simples: Ana ___ code every day."
+    answer: "writes"
+  - id: 12
+    type: "translation"
+    question: "Traduza para o inglês: Eu sou desenvolvedor no Brasil."
+    answer: "I am a developer in Brazil."
+  - id: 13
+    type: "translation"
+    question: "Traduza para o inglês: Nosso aplicativo tem um erro."
+    answer: "Our app has an error."
+  - id: 14
+    type: "translation"
+    question: "Traduza para o inglês: A reunião é na segunda-feira."
+    answer: "The meeting is on Monday."
+  - id: 15
+    type: "correction"
+    question: "Corrija a frase: She are a QA engineer."
+    answer: "She is a QA engineer."
+  - id: 16
+    type: "correction"
+    question: "Corrija a frase: I don't uses Windows at work."
+    answer: "I don't use Windows at work."
+  - id: 17
+    type: "ordering"
+    question: "Ordene as palavras: usually / We / review / pull requests / on Friday"
+    answer: "We usually review pull requests on Friday."
+  - id: 18
+    type: "short_answer"
+    question: "Responda em inglês, de forma curta e positiva: Are you a software engineer?"
+    answer: "Yes, I am."
+  - id: 19
+    type: "short_answer"
+    question: "Como você soletra UI em inglês?"
+    answer: "U-I"
+  - id: 20
+    type: "short_production"
+    question: "Escreva uma frase curta em inglês sobre sua rotina de trabalho usando often."
+    answer: "Resposta possível: I often test the app in the morning."
