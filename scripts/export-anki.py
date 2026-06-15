@@ -7,7 +7,7 @@ If scripts/generate-audio.py already produced clips under
 <course>/output/audio/<topic>/cards/, they are embedded in the deck automatically.
 
 Usage:
-  .venv/bin/python scripts/export-anki.py                 # all German topics
+  .venv/bin/python scripts/export-anki.py                 # all German topics, nested by level/topic
   .venv/bin/python scripts/export-anki.py --course it-from-pt-br 22
   .venv/bin/python scripts/export-anki.py --course it-from-pt-br 22 104
   .venv/bin/python scripts/export-anki.py --output meu-deck.apkg 99 100 101
@@ -92,9 +92,11 @@ def find_audio(topic_dir: Path, course_root: Path, text: str, target_voice: str)
     return None
 
 
-def deck_name_for(topic_dir: Path, deck_root_name: str) -> str:
+def deck_name_for(topic_dir: Path, deck_root_name: str, selected_topics: bool) -> str:
     level = topic_dir.parent.name.upper()
     title = topic_dir.name.replace("-", " ")
+    if selected_topics:
+        return f"{deck_root_name} - {level} - {title}"
     return f"{deck_root_name}::{level}::{title}"
 
 
@@ -149,8 +151,9 @@ def main() -> int:
         "--output",
         default=None,
         help=(
-            "Arquivo .apkg de saída. Padrão: sem tópicos = <course>/output/exports/<course>.apkg; "
-            "um tópico = output/exports/topics/<topic>.apkg; vários tópicos = output/exports/selected/<course>-<ids>.apkg"
+            "Arquivo .apkg de saída. Padrão: sem tópicos = <course>/output/exports/<course>.apkg "
+            "com subdecks por nível/tópico; um tópico = output/exports/topics/<topic>.apkg; "
+            "vários tópicos = output/exports/selected/<course>-<ids>.apkg com decks independentes por tópico"
         ),
     )
     parser.add_argument("--csv", action="store_true", help="Também exporta CSVs por tópico (sem áudio)")
@@ -169,6 +172,7 @@ def main() -> int:
     deck_root_name = config["anki_deck_name"]
 
     topic_dirs = resolve_topic_dirs(args.topics, course_root)
+    selected_topics = bool(args.topics)
     model = build_model(config["anki_model_name"])
     decks = []
     media_files: list[str] = []
@@ -181,7 +185,7 @@ def main() -> int:
             skipped.append(topic_dir.name)
             continue
 
-        deck_name = deck_name_for(topic_dir, deck_root_name)
+        deck_name = deck_name_for(topic_dir, deck_root_name, selected_topics)
         deck = genanki.Deck(stable_id(deck_name), deck_name)
 
         for card in cards:
@@ -220,7 +224,7 @@ def main() -> int:
         return 1
 
     out_root.mkdir(parents=True, exist_ok=True)
-    output_path = Path(args.output) if args.output else default_output_path(out_root, config, topic_dirs, bool(args.topics))
+    output_path = Path(args.output) if args.output else default_output_path(out_root, config, topic_dirs, selected_topics)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     package = genanki.Package(decks)
     package.media_files = sorted(set(media_files))
