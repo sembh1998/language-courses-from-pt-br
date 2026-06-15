@@ -3,7 +3,7 @@
 ## Repo Shape
 
 - This repo generates language-learning source content for Brazilian Portuguese speakers; Markdown/YAML under `courses/<course-id>/` is the source of truth, not PDFs/audio/Anki exports.
-- Default course is `courses/de-from-pt-br`; scripts also support `it-from-pt-br`, `en-from-pt-br`, and `fr-from-pt-br` via `--course` or a course path.
+- Default course is `courses/de-from-pt-br`; scripts also support `it-from-pt-br`, `en-from-pt-br`, `fr-from-pt-br`, and `es-from-pt-br` via `--course` or a course path.
 - Course-local truth lives in `course.yaml`, `roadmap.tsv`, `prompts/`, `topics/`, `reviews/`, `qa-baseline.txt`, and `output/`; shared scripts/templates/schemas are at repo root.
 - Before creating content, read the exact row in the selected `roadmap.tsv` and the relevant course prompt files; do not invent topics outside the roadmap unless explicitly asked.
 

@@ -11,7 +11,8 @@ courses/
 ├── de-from-pt-br/   # German from Brazilian Portuguese
 ├── it-from-pt-br/   # Italian from Brazilian Portuguese
 ├── en-from-pt-br/   # English from Brazilian Portuguese
-└── fr-from-pt-br/   # French from Brazilian Portuguese
+├── fr-from-pt-br/   # French from Brazilian Portuguese
+└── es-from-pt-br/   # Spanish from Brazilian Portuguese
 ```
 
 Each course contains:
@@ -36,7 +37,8 @@ learning-languages-from-pt-br/
 │   ├── de-from-pt-br/
 │   ├── it-from-pt-br/
 │   ├── en-from-pt-br/
-│   └── fr-from-pt-br/
+│   ├── fr-from-pt-br/
+│   └── es-from-pt-br/
 ├── schemas/
 ├── scripts/
 ├── templates/
@@ -79,9 +81,10 @@ courses/de-from-pt-br/prompts/
 courses/it-from-pt-br/prompts/
 courses/en-from-pt-br/prompts/
 courses/fr-from-pt-br/prompts/
+courses/es-from-pt-br/prompts/
 ```
 
-Italian, English, and French currently have starter prompt folders and roadmaps ready to be filled.
+Italian, English, French, and Spanish currently have starter prompt folders and roadmaps ready to be filled.
 
 ## Validate Content
 
@@ -106,6 +109,7 @@ python3 scripts/sync-roadmap.py courses/de-from-pt-br
 python3 scripts/sync-roadmap.py courses/it-from-pt-br
 python3 scripts/sync-roadmap.py courses/en-from-pt-br
 python3 scripts/sync-roadmap.py courses/fr-from-pt-br
+python3 scripts/sync-roadmap.py courses/es-from-pt-br
 ```
 
 Check without writing:

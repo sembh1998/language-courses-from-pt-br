@@ -1,0 +1,14 @@
+id: es-from-pt-br
+target_language: Spanish
+target_language_pt: espanhol
+target_locale: es_ES
+source_language: Brazilian Portuguese
+source_language_pt: português brasileiro
+source_locale: pt_BR
+target_voice: es_ES-carlfm-x_low
+source_voice: pt_BR-cadu-medium
+anki_deck_name: Espanhol
+anki_model_name: Espanhol PT-BR (com áudio)
+anki_output: espanhol.apkg
+story_heading: "## História em espanhol"
+target_word_field: spanish
