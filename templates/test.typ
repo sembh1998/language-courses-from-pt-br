@@ -1,9 +1,12 @@
 #import "theme.typ": *
 
 #let topic = sys.inputs.at("topic", default: "topics/a1/001-alfabeto-alemao-e-sons-basicos")
+#let course-label = sys.inputs.at("course-label", default: "Alemão para PT-BR")
+#let target-language-pt = sys.inputs.at("target-language-pt", default: "alemão")
+#let lesson-number = sys.inputs.at("lesson-number", default: none)
 #let test = yaml(topic + "/test.yaml")
 
-#show: doc => workbook(doc, title: test.topic + " - Teste", kind: "Teste", accent: blue, margin: (x: 1.05cm, y: 1.05cm), body-size: 9.1pt)
+#show: doc => workbook(doc, title: test.topic + " - Teste", kind: "Teste", accent: blue, course-label: course-label, lesson-number: lesson-number, margin: (x: 1.05cm, y: 1.05cm), body-size: 9.1pt)
 
 #let test-question(question, number) = block(
   width: 100%,
@@ -30,7 +33,7 @@
   ]
 ]
 
-#hero(test.topic + " - Teste", kind: "Teste", level: test.level, accent: blue)
+#hero(test.topic + " - Teste", kind: "Teste", level: test.level, accent: blue, course-label: course-label, lesson-number: lesson-number)
 
 #v(0.35em)
 #block(width: 100%, fill: blue-soft, stroke: 0.55pt + blue, radius: 6pt, inset: 6pt)[

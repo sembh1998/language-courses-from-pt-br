@@ -13,6 +13,7 @@
 
 #let ui-font = "Lato"
 #let body-font = ("Noto Serif", "Libertinus Serif")
+#let code-font = ("Noto Sans Mono", "DejaVu Sans Mono")
 
 #let icon(label, fill: teal) = rect(
   width: 23pt,
@@ -56,17 +57,24 @@
   #v(0.1em)
 ]
 
-#let hero(title, kind: "Lesson", level: none, accent: teal) = block(
+#let hero(title, kind: "Lesson", level: none, accent: teal, course-label: "Alemão para PT-BR", lesson-number: none) = block(
   width: 100%,
   fill: surface,
   stroke: 0.65pt + sand,
   radius: 8pt,
   inset: 9pt,
-)[
+)[ 
+  #if lesson-number != none [
+    #place(top + right)[
+      #text(font: ui-font, size: 7.4pt, weight: "bold", fill: muted)[LIÇÃO]
+      #h(3pt)
+      #text(font: ui-font, size: 13pt, weight: "black", fill: teal)[#lesson-number]
+    ]
+  ]
   #grid(columns: (auto, 1fr), gutter: 8pt, align: horizon)[
     #icon(kind.first(), fill: accent)
     #block(width: 100%)[
-      #text(font: ui-font, size: 7.5pt, weight: "bold", fill: muted)[CADERNO DE ALEMÃO]
+      #text(font: ui-font, size: 7.5pt, weight: "bold", fill: muted)[#course-label]
       #v(0.08em)
       #text(font: ui-font, size: 17.2pt, weight: "black", fill: ink)[#title]
       #v(0.16em)
@@ -89,14 +97,14 @@
   #label
 ]
 
-#let workbook(body, title: "Caderno de alemão", kind: "Lição", accent: teal, margin: (x: 1.65cm, y: 1.7cm), body-size: 10.5pt) = {
+#let workbook(body, title: "Caderno de alemão", kind: "Lição", accent: teal, course-label: "Alemão para PT-BR", lesson-number: none, margin: (x: 1.65cm, y: 1.7cm), body-size: 10.5pt) = {
   set document(title: title)
   set page(
     paper: "a4",
     margin: margin,
     fill: paper,
     header: align(right)[
-      #text(font: ui-font, size: 7pt, weight: "bold", fill: muted)[Alemão para PT-BR]
+      #text(font: ui-font, size: 7pt, weight: "bold", fill: muted)[#course-label]
     ],
     footer: [
       #line(length: 100%, stroke: 0.4pt + sand)
@@ -112,7 +120,7 @@
 
   show heading: it => {
     if it.level == 1 {
-      hero(it.body, kind: kind, accent: accent)
+      hero(it.body, kind: kind, accent: accent, course-label: course-label, lesson-number: lesson-number)
       v(0.45em)
     } else if it.level == 2 {
       section-heading(it.body, accent: accent)
@@ -124,6 +132,14 @@
   }
 
   show strong: set text(fill: blue, weight: "bold")
+  show raw.where(block: false): it => box(
+    fill: rgb("#f7f3ea"),
+    stroke: 0.35pt + rgb("#8f8a80"),
+    radius: 1.8pt,
+    inset: (x: 2pt, y: 0.6pt),
+  )[
+    #text(font: code-font, size: body-size * 0.88, weight: "regular", fill: ink)[#it.text]
+  ]
   show table.cell.where(y: 0): set table.cell(fill: amber-soft)
   show table.cell.where(y: 0): set text(font: ui-font, weight: "bold", fill: ink)
 

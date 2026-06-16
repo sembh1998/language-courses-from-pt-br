@@ -57,6 +57,16 @@ fi
 topic_name="$(basename "$topic_dir")"
 topic_input="$(realpath --relative-to=templates "$topic_dir")"
 out_dir="$course_dir/output/pdf/$topic_name"
+topic_order_prefix="${topic_name%%-*}"
+topic_number="$topic_order_prefix"
+if [[ "$topic_order_prefix" =~ ^[0-9]+$ ]]; then
+  topic_number="$(printf '%d' "$((10#$topic_order_prefix))")"
+fi
+target_language_pt="$(awk -F': ' '$1 == "target_language_pt" { gsub(/^"|"$/, "", $2); print $2; exit }' "$course_dir/course.yaml")"
+if [ -z "$target_language_pt" ]; then
+  target_language_pt="alemão"
+fi
+course_label="${target_language_pt^} para PT-BR"
 
 typst_cmd=(typst)
 if ! command -v typst >/dev/null 2>&1; then
@@ -78,11 +88,11 @@ fi
 
 mkdir -p "$out_dir"
 
-"${typst_cmd[@]}" compile --root . templates/lesson.typ "$out_dir/lesson.pdf" --input topic="$topic_input"
-"${typst_cmd[@]}" compile --root . templates/flashcards.typ "$out_dir/flashcards.pdf" --input topic="$topic_input"
-"${typst_cmd[@]}" compile --root . templates/exercises.typ "$out_dir/exercises.pdf" --input topic="$topic_input"
-"${typst_cmd[@]}" compile --root . templates/test.typ "$out_dir/test.pdf" --input topic="$topic_input"
-"${typst_cmd[@]}" compile --root . templates/story.typ "$out_dir/story.pdf" --input topic="$topic_input"
+"${typst_cmd[@]}" compile --root . templates/lesson.typ "$out_dir/lesson.pdf" --input topic="$topic_input" --input course-label="$course_label" --input target-language-pt="$target_language_pt" --input lesson-number="$topic_number"
+"${typst_cmd[@]}" compile --root . templates/flashcards.typ "$out_dir/flashcards.pdf" --input topic="$topic_input" --input course-label="$course_label" --input target-language-pt="$target_language_pt" --input lesson-number="$topic_number"
+"${typst_cmd[@]}" compile --root . templates/exercises.typ "$out_dir/exercises.pdf" --input topic="$topic_input" --input course-label="$course_label" --input target-language-pt="$target_language_pt" --input lesson-number="$topic_number"
+"${typst_cmd[@]}" compile --root . templates/test.typ "$out_dir/test.pdf" --input topic="$topic_input" --input course-label="$course_label" --input target-language-pt="$target_language_pt" --input lesson-number="$topic_number"
+"${typst_cmd[@]}" compile --root . templates/story.typ "$out_dir/story.pdf" --input topic="$topic_input" --input course-label="$course_label" --input target-language-pt="$target_language_pt" --input lesson-number="$topic_number"
 
 gs \
   -dBATCH \

@@ -1,9 +1,12 @@
 #import "theme.typ": *
 
 #let topic = sys.inputs.at("topic", default: "topics/a1/001-alfabeto-alemao-e-sons-basicos")
+#let course-label = sys.inputs.at("course-label", default: "Alemão para PT-BR")
+#let target-language-pt = sys.inputs.at("target-language-pt", default: "alemão")
+#let lesson-number = sys.inputs.at("lesson-number", default: none)
 #let data = yaml(topic + "/exercises.yaml")
 
-#show: doc => workbook(doc, title: "Exercícios de alemão", kind: "Prática", accent: teal, margin: (x: 1.05cm, y: 1.05cm), body-size: 9.1pt)
+#show: doc => workbook(doc, title: "Exercícios de " + target-language-pt, kind: "Prática", accent: teal, course-label: course-label, lesson-number: lesson-number, margin: (x: 1.05cm, y: 1.05cm), body-size: 9.1pt)
 
 #let exercise-title(kind) = if kind == "multiple_choice" {
   "Múltipla escolha"
@@ -120,7 +123,7 @@
   ]
 ]
 
-#hero("Exercícios", kind: "Prática", level: data.level, accent: teal)
+#hero("Exercícios", kind: "Prática", level: data.level, accent: teal, course-label: course-label, lesson-number: lesson-number)
 
 #v(0.25em)
 #pill(data.topic, fill: amber-soft, stroke: amber)

@@ -1,11 +1,14 @@
 #import "theme.typ": *
 
 #let topic = sys.inputs.at("topic", default: "topics/a1/001-alfabeto-alemao-e-sons-basicos")
+#let course-label = sys.inputs.at("course-label", default: "Alemão para PT-BR")
+#let target-language-pt = sys.inputs.at("target-language-pt", default: "alemão")
+#let lesson-number = sys.inputs.at("lesson-number", default: none)
 #let data = yaml(topic + "/flashcards.yaml")
 #let topic-title = data.at("topic", default: "Tópico")
 #let topic-level = data.at("level", default: "A1")
 
-#show: doc => workbook(doc, title: "Cartões de estudo de alemão", kind: "Cartões", accent: rose, margin: (x: 1.05cm, y: 1.05cm), body-size: 9.2pt)
+#show: doc => workbook(doc, title: "Cartões de estudo de " + target-language-pt, kind: "Cartões", accent: rose, course-label: course-label, lesson-number: lesson-number, margin: (x: 1.05cm, y: 1.05cm), body-size: 9.2pt)
 
 #let card-number(n) = pill("#" + str(n), fill: blue-soft, stroke: blue, text-fill: blue)
 
@@ -28,7 +31,7 @@
   #text(size: 7pt, style: "italic", fill: muted)[#card.example_translation]]
 ]
 
-#hero("Cartões de estudo", kind: "Cartões", level: topic-level, accent: rose)
+#hero("Cartões de estudo", kind: "Cartões", level: topic-level, accent: rose, course-label: course-label, lesson-number: lesson-number)
 
 #v(0.25em)
 #pill(topic-title, fill: amber-soft, stroke: amber)
