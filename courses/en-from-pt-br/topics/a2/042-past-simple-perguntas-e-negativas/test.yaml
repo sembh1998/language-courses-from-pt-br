@@ -1,0 +1,45 @@
+topic: Past simple com perguntas e negativas
+level: A2
+questions:
+- type: multiple_choice
+  question: Durante a retrospectiva, como perguntar se a equipe implantou o patch?
+  answer: Did the team deploy the patch?
+  options:
+  - Did the team deploy the patch?
+  - Did the team deployed the patch?
+  - The team did deployed the patch?
+- type: transformation
+  question: 'Passe para a negativa: I sent the customer an update.'
+  answer: I didn't send the customer an update.
+- type: fill_blank
+  question: 'Complete: Why ___ the scheduled job fail?'
+  answer: did
+- type: correction
+  question: 'Corrija: Did you ran the migration?'
+  answer: Did you run the migration?
+- type: multiple_choice
+  question: Como informar corretamente que não encontramos o registro ausente?
+  answer: We didn't find the missing record.
+  options:
+  - We didn't found the missing record.
+  - We didn't find the missing record.
+  - We not found the missing record.
+- type: translation
+  question: 'Traduza para o inglês: Quando o problema começou?'
+  answer: When did the problem start?
+- type: short_answer
+  question: Did the release finish? Responda negativamente.
+  answer: No, it didn't.
+- type: multiple_choice
+  question: Qual pergunta investiga corretamente o local?
+  answer: Where did you see the error?
+  options:
+  - Where you did see the error?
+  - Where did you saw the error?
+  - Where did you see the error?
+- type: transformation
+  question: 'Transforme em pergunta: The alert started after midnight.'
+  answer: Did the alert start after midnight?
+- type: production
+  question: Escreva uma pergunta e uma resposta negativa sobre um deploy.
+  answer: Did you deploy the change? No, I didn't.

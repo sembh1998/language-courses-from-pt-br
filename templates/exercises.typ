@@ -10,28 +10,32 @@
 
 #let exercise-title(kind) = if kind == "multiple_choice" {
   "Múltipla escolha"
-} else if kind == "fill_blank" {
+} else if kind == "fill_blank" or kind == "fill_in_the_blank" or kind == "complete" or kind == "complete lacunas" or kind == "complete lacuna" {
   "Complete as lacunas"
 } else if kind == "short_answer" {
   "Resposta curta"
-} else if kind == "translation" {
+} else if kind == "translation" or kind == "tradução" or kind == "traducao" {
   "Tradução"
 } else if kind == "matching" {
   "Associação"
-} else if kind == "ordering" {
+} else if kind == "ordering" or kind == "word_order" or kind == "order_sentence" or kind == "sentence_building" {
   "Ordenação"
-} else if kind == "transformation" {
+} else if kind == "transformation" or kind == "sentence_transformation" or kind == "transform" or kind == "transformação" or kind == "transformacao" or kind == "rewrite" {
   "Transformação"
-} else if kind == "correction" {
+} else if kind == "correction" or kind == "error_correction" or kind == "correção" {
   "Correção"
-} else if kind == "classification" {
+} else if kind == "classification" or kind == "categorization" or kind == "classify" or kind == "sorting" {
   "Classificação"
-} else if kind == "production" {
+} else if kind == "production" or kind == "short_production" or kind == "produção curta" or kind == "producao_curta" or kind == "writing" {
   "Produção"
 } else if kind == "contrast" {
   "Contraste"
+} else if kind == "identification" or kind == "identify" or kind == "reconhecimento" {
+  "Identificação"
+} else if kind == "dictation" {
+  "Ditado"
 } else {
-  kind.replace("_", " ")
+  "Exercício"
 }
 
 #let exercise-instruction(exercise) = if "instruction" in exercise {
@@ -42,10 +46,10 @@
   "Resolva os itens abaixo."
 }
 
-#let exercise-heading(exercise) = if "type" in exercise {
-  exercise-title(exercise.type)
-} else if "title" in exercise {
+#let exercise-heading(exercise) = if "title" in exercise {
   exercise.title
+} else if "type" in exercise {
+  exercise-title(exercise.type)
 } else {
   "Exercício"
 }

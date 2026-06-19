@@ -1,0 +1,79 @@
+topic: Partizip II como adjetivo
+level: B2
+exercises:
+- type: fill_blank
+  title: Formação e declinação
+  instruction: Complete com o Partizip II e a terminação adjetival correta.
+  items:
+  - question: Das ___ Essen riecht wunderbar. (kochen)
+    answer: gekochte
+  - question: Wir prüfen die ___ Verträge. (unterschreiben)
+    answer: unterschriebenen
+  - question: Sie arbeitet mit einem ___ Computer. (reparieren)
+    answer: reparierten
+  - question: Ein sorgfältig ___ Bericht überzeugt die Leitung. (vorbereiten)
+    answer: vorbereiteter
+- type: multiple_choice
+  title: Escolha contextual
+  instruction: Escolha a forma que completa corretamente a frase.
+  items:
+  - question: Wir mussten vor der ___ Tür warten.
+    answer: geschlossenen
+    options:
+    - geschlossenen
+    - schließenden
+    - geschlossen
+  - question: Die ___ Gäste gingen direkt zum Empfang.
+    answer: angekommenen
+    options:
+    - ankommenden
+    - angekommenen
+    - angekommene
+  - question: Das Unternehmen analysiert die stark ___ Kosten.
+    answer: gesunkenen
+    options:
+    - sinkenden
+    - gesunkene
+    - gesunkenen
+  - question: Er öffnete das gestern ___ Paket.
+    answer: gelieferte
+    options:
+    - gelieferte
+    - liefernde
+    - geliefert
+- type: transformation
+  title: Relativa para atributo
+  instruction: Transforme a oração relativa em um atributo com Partizip II.
+  items:
+  - question: Die Datei, die versehentlich gelöscht wurde, konnte wiederhergestellt werden.
+    answer: Die versehentlich gelöschte Datei konnte wiederhergestellt werden.
+  - question: Der Bericht, der gestern veröffentlicht wurde, enthält neue Zahlen.
+    answer: Der gestern veröffentlichte Bericht enthält neue Zahlen.
+  - question: Die Mitarbeiter, die bereits angekommen sind, warten im Saal.
+    answer: Die bereits angekommenen Mitarbeiter warten im Saal.
+  - question: Wir besprechen die Maßnahmen, die vom Ausschuss beschlossen wurden.
+    answer: Wir besprechen die vom Ausschuss beschlossenen Maßnahmen.
+- type: contrast
+  title: Partizip I ou Partizip II
+  instruction: Escolha o particípio adequado e escreva a expressão completa.
+  items:
+  - question: A água que está fervendo agora. (kochen)
+    answer: das kochende Wasser
+  - question: A água que foi fervida antes do uso. (kochen)
+    answer: das gekochte Wasser
+  - question: Os preços que estão diminuindo. (sinken)
+    answer: die sinkenden Preise
+  - question: Os preços que já diminuíram. (sinken)
+    answer: die gesunkenen Preise
+- type: translation
+  title: Produção controlada
+  instruction: Traduza para o alemão usando o Partizip II como adjetivo.
+  items:
+  - question: A mensagem escrita contém todos os detalhes.
+    answer: Die geschriebene Nachricht enthält alle Details.
+  - question: Nós trabalhamos com os dados atualizados.
+    answer: Wir arbeiten mit den aktualisierten Daten.
+  - question: O documento desaparecido estava no arquivo.
+    answer: Das verschwundene Dokument war im Archiv.
+  - question: A medida aprovada ontem entra em vigor hoje.
+    answer: Die gestern beschlossene Maßnahme tritt heute in Kraft.

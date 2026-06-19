@@ -66,7 +66,27 @@ def topics_on_disk(root: Path) -> dict[int, Path]:
 
 
 def is_complete(folder: Path) -> bool:
-    return all((folder / name).exists() and (folder / name).stat().st_size > 0 for name in REQUIRED_FILES)
+    if not all((folder / name).exists() and (folder / name).stat().st_size > 0 for name in REQUIRED_FILES):
+        return False
+    required_roots = {
+        "vocabulary.yaml": "words",
+        "flashcards.yaml": "cards",
+        "exercises.yaml": "exercises",
+        "test.yaml": "questions",
+    }
+    try:
+        for name, root_key in required_roots.items():
+            data = yaml.safe_load((folder / name).read_text(encoding="utf-8")) or {}
+            if not isinstance(data, dict) or not isinstance(data.get(root_key), list):
+                return False
+    except Exception:  # noqa: BLE001 - malformed content is incomplete.
+        return False
+
+    answers = (folder / "answers.md").read_text(encoding="utf-8")
+    if "## Gabarito dos exercícios" not in answers or "## Gabarito do teste" not in answers:
+        return False
+
+    return True
 
 
 def flashcards_status(folder: Path) -> str:
@@ -118,7 +138,7 @@ def main() -> int:
                 cells[column] = desired[key]
         if row_changes:
             changes.append(f"ordem {order:03d} ({folder.name}): " + "; ".join(row_changes))
-            lines[index] = "\t".join(cells)
+            lines[index] = "\t".join(cells).rstrip("\t")
 
     if not changes:
         print(f"{roadmap.relative_to(REPO_ROOT)} já está sincronizado.")

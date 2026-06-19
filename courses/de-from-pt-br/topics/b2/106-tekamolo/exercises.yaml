@@ -1,0 +1,91 @@
+topic: TeKaMoLo
+level: B2
+exercises:
+- type: classification
+  title: Identifique os blocos
+  instruction: Classifique o trecho destacado como temporal, causal, modal ou local.
+  items:
+  - question: Wir arbeiten **morgen** im Labor.
+    answer: temporal
+  - question: Die Sitzung fällt **wegen einer Störung** aus.
+    answer: causal
+  - question: Sie löste das Problem **mit viel Geduld**.
+    answer: modal
+  - question: Der Workshop findet **in Berlin** statt.
+    answer: local
+- type: ordering
+  title: Ordem neutra
+  instruction: Organize os blocos segundo TeKaMoLo e mantenha o verbo na posição adequada.
+  items:
+  - question: Wir fahren / ins Rechenzentrum / morgen / wegen der Wartung / mit einem Mietwagen.
+    answer: Wir fahren morgen wegen der Wartung mit einem Mietwagen ins Rechenzentrum.
+  - question: Das Team arbeitet / im Büro / heute / aus Sicherheitsgründen / besonders vorsichtig.
+    answer: Das Team arbeitet heute aus Sicherheitsgründen besonders vorsichtig im Büro.
+  - question: Wir liefern / nach München / am Freitag / wegen der Frist / per Kurier.
+    answer: Wir liefern am Freitag wegen der Frist per Kurier nach München.
+  - question: Die Entwickler testen / auf dem Server / nachts / wegen der geringeren Last / automatisch.
+    answer: Die Entwickler testen nachts wegen der geringeren Last automatisch auf dem Server.
+- type: multiple_choice
+  title: Frases naturais
+  instruction: Escolha a frase mais neutra e natural no contexto apresentado.
+  items:
+  - question: Sem foco especial, qual frase organiza quatro adjuntos adequadamente?
+    answer: Wir arbeiten morgen wegen der Frist konzentriert im Büro.
+    options:
+    - Wir arbeiten morgen wegen der Frist konzentriert im Büro.
+    - Wir arbeiten im Büro konzentriert wegen der Frist morgen.
+    - Wir morgen arbeiten wegen der Frist konzentriert im Büro.
+  - question: Qual frase enfatiza corretamente a causa?
+    answer: Wegen des Ausfalls arbeiten wir heute von zu Hause aus.
+    options:
+    - Wegen des Ausfalls wir arbeiten heute von zu Hause aus.
+    - Wegen des Ausfalls arbeiten wir heute von zu Hause aus.
+    - Wir wegen des Ausfalls heute arbeiten von zu Hause aus.
+  - question: Qual frase posiciona naturalmente os pronomes?
+    answer: Ich habe es ihm gestern im Büro erklärt.
+    options:
+    - Ich habe gestern im Büro es ihm erklärt.
+    - Ich es ihm habe gestern im Büro erklärt.
+    - Ich habe es ihm gestern im Büro erklärt.
+  - question: Qual subordinada está correta?
+    answer: weil wir morgen wegen des Termins mit dem Zug nach Köln fahren
+    options:
+    - weil wir morgen wegen des Termins mit dem Zug nach Köln fahren
+    - weil wir fahren morgen wegen des Termins mit dem Zug nach Köln
+    - weil morgen wir wegen des Termins fahren mit dem Zug nach Köln
+- type: transformation
+  title: Mudança de foco
+  instruction: Coloque o elemento indicado no início e faça a inversão necessária.
+  items:
+  - question: Wir treffen uns morgen im Hauptbüro. Dê foco a morgen.
+    answer: Morgen treffen wir uns im Hauptbüro.
+  - question: Das Team fährt nächste Woche aus Kostengründen mit dem Zug nach Hamburg. Dê foco à causa.
+    answer: Aus Kostengründen fährt das Team nächste Woche mit dem Zug nach Hamburg.
+  - question: Wir prüfen die Anlage morgen mit einem Spezialgerät vor Ort. Dê foco ao local.
+    answer: Vor Ort prüfen wir die Anlage morgen mit einem Spezialgerät.
+  - question: Sie löste das Problem gestern mit großer Geduld im Labor. Dê foco ao modo.
+    answer: Mit großer Geduld löste sie das Problem gestern im Labor.
+- type: correction
+  title: Revisão de ordem
+  instruction: Corrija a frase preservando o sentido neutro.
+  items:
+  - question: Morgen wir besprechen den Vorfall im Büro.
+    answer: Morgen besprechen wir den Vorfall im Büro.
+  - question: Wir fahren nach Berlin mit dem Zug morgen.
+    answer: Wir fahren morgen mit dem Zug nach Berlin.
+  - question: Weil wir morgen arbeiten im Büro, können wir uns treffen.
+    answer: Weil wir morgen im Büro arbeiten, können wir uns treffen.
+  - question: Ich habe gestern im Büro es ihm gezeigt.
+    answer: Ich habe es ihm gestern im Büro gezeigt.
+- type: translation
+  title: Aplicação em contexto
+  instruction: Traduza para o alemão com uma ordem natural.
+  items:
+  - question: Nós enviaremos os documentos amanhã, por causa do prazo, por serviço de entrega para Bonn.
+    answer: Wir schicken die Unterlagen morgen wegen der Frist per Kurier nach Bonn.
+  - question: Por motivos de segurança, trabalhamos hoje cuidadosamente no laboratório.
+    answer: Aus Sicherheitsgründen arbeiten wir heute sorgfältig im Labor.
+  - question: Eu expliquei isso a ela ontem no escritório.
+    answer: Ich habe es ihr gestern im Büro erklärt.
+  - question: A reunião acontecerá na próxima semana on-line.
+    answer: Die Besprechung findet nächste Woche online statt.

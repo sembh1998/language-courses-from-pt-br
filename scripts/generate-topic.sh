@@ -10,6 +10,7 @@ topic_dir="$1"
 mkdir -p "$topic_dir"
 
 touch \
+  "$topic_dir/content.json" \
   "$topic_dir/lesson.md" \
   "$topic_dir/vocabulary.yaml" \
   "$topic_dir/flashcards.yaml" \
@@ -19,4 +20,4 @@ touch \
   "$topic_dir/answers.md"
 
 printf 'Created topic scaffold: %s\n' "$topic_dir"
-printf 'Use the course prompts folder to fill each file.\n'
+printf 'Generate content.json, then run scripts/compile-content.py for this topic.\n'

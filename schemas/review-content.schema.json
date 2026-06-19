@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fonte estruturada de uma revisão cumulativa",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "topic",
+    "level",
+    "questions"
+  ],
+  "properties": {
+    "topic": {
+      "type": "string",
+      "minLength": 1
+    },
+    "level": {
+      "type": "string",
+      "pattern": "^(A1|A2|B1|B2|C1|C2)$"
+    },
+    "questions": {
+      "type": "array",
+      "minItems": 20,
+      "maxItems": 30,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "type",
+          "question",
+          "answer",
+          "explanation"
+        ],
+        "properties": {
+          "type": {
+            "enum": [
+              "multiple_choice",
+              "fill_blank",
+              "translation",
+              "matching",
+              "short_answer",
+              "ordering",
+              "transformation",
+              "correction",
+              "classification",
+              "production",
+              "contrast",
+              "identification",
+              "dictation"
+            ]
+          },
+          "question": {
+            "type": "string",
+            "minLength": 1
+          },
+          "answer": {
+            "type": [
+              "string",
+              "number"
+            ]
+          },
+          "explanation": {
+            "type": "string",
+            "minLength": 1
+          },
+          "distractors": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "points": {
+            "type": "number",
+            "minimum": 0
+          }
+        },
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "type": {
+                  "const": "multiple_choice"
+                }
+              }
+            },
+            "then": {
+              "required": [
+                "distractors"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -113,3 +113,25 @@ def topic_audio_dir(topic_dir: Path, course_root: Path | None = None) -> Path:
         except StopIteration:
             course_root = DEFAULT_COURSE_ROOT
     return audio_root(course_root) / topic_dir.name
+
+
+def extract_story_text(story_path: Path, story_heading: str) -> str:
+    """Extract target-language story prose, including optional scene headings.
+
+    Story files historically used level-two headings for scenes. Stopping at the
+    next ``##`` therefore dropped every sentence in those files. The first
+    translation heading is the actual boundary of the target-language section.
+    """
+    if not story_path.exists():
+        return ""
+    text = story_path.read_text(encoding="utf-8")
+    start = text.find(story_heading)
+    if start == -1:
+        return ""
+    start += len(story_heading)
+    translation = re.search(r"^##\s+Tradu", text[start:], flags=re.MULTILINE | re.IGNORECASE)
+    end = start + translation.start() if translation else len(text)
+    section = text[start:end]
+    section = re.sub(r"^#{1,6}\s+.*$", " ", section, flags=re.MULTILINE)
+    section = re.sub(r"[„“”«»]", "", section)
+    return " ".join(section.split())

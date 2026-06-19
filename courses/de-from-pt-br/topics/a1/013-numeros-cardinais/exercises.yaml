@@ -4,15 +4,15 @@ exercises:
   - type: matching
     instruction: Combine o número com a palavra alemã.
     items:
-      - question: 0
-        answer: null
-      - question: 8
+      - question: "0"
+        answer: "null"
+      - question: "8"
         answer: acht
-      - question: 12
+      - question: "12"
         answer: zwölf
-      - question: 20
+      - question: "20"
         answer: zwanzig
-      - question: 100
+      - question: "100"
         answer: hundert
   - type: fill_blank
     instruction: Complete com o número em alemão.

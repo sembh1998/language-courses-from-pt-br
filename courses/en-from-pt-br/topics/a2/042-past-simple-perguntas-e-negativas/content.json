@@ -1,0 +1,590 @@
+{
+  "topic": "Past simple com perguntas e negativas",
+  "level": "A2",
+  "lesson": {
+    "objective": "Fazer perguntas e formar negativas no past simple com did e didn't para investigar incidentes, confirmar tarefas e explicar ações que não aconteceram.",
+    "explanation": "Em perguntas no **past simple**, use `did + sujeito + verbo na forma base`:\n`Did you test the fix?`, `Did the alert start yesterday?` O auxiliar `did`\ncarrega a informação de passado, por isso o verbo principal não fica no\npassado.\n\nEm negativas, use `didn't + verbo na forma base`: `I didn't deploy the\nchange`, `The backup didn't finish`. A forma completa `did not` é comum em\ntextos mais formais ou quando se quer enfatizar a negação.\n\nRespostas curtas repetem o auxiliar: `Yes, I did.` / `No, I didn't.` Para\nperguntas com palavra interrogativa, coloque a palavra antes de `did`: `When\ndid the error start?`, `Why did the job fail?`, `Where did you find the file?`\n\nMesmo com verbos irregulares, use a forma base depois de `did`: `Did you run\nthe tests?`, não `Did you ran the tests?`; `She didn't write the report`, não\n`She didn't wrote the report`.\n\nEm uma investigação simples, combine perguntas factuais e negativas claras:\n`Did the deployment finish?` — `No, it didn't. The final step didn't run.`\nIsso ajuda a separar o que aconteceu do que não aconteceu.\n",
+    "examples": [
+      {
+        "target": "Did you test the new endpoint?",
+        "translation": "Você testou o novo endpoint?",
+        "note": "Did + sujeito + verbo base."
+      },
+      {
+        "target": "I didn't deploy the change.",
+        "translation": "Eu não fiz o deploy da alteração.",
+        "note": "Didn't é seguido por deploy, não deployed."
+      },
+      {
+        "target": "When did the alert start?",
+        "translation": "Quando o alerta começou?",
+        "note": "A palavra interrogativa vem antes de did."
+      },
+      {
+        "target": "Did the backup finish? No, it didn't.",
+        "translation": "O backup terminou? Não, não terminou.",
+        "note": "Resposta curta com o auxiliar."
+      },
+      {
+        "target": "Why did the pipeline fail?",
+        "translation": "Por que o pipeline falhou?",
+        "note": "Fail volta à forma base após did."
+      }
+    ],
+    "common_mistakes": [
+      "Usar o passado depois de did: `Did you tested?` deve ser `Did you test?`.",
+      "Usar o passado depois de didn't: `I didn't sent` deve ser `I didn't send`.",
+      "Omitir did em perguntas com verbos comuns: `You tested it?` pode ocorrer na fala, mas a forma didática neutra é `Did you test it?`.",
+      "Responder `Yes, I tested` quando basta uma resposta curta: use `Yes, I did`.",
+      "Misturar didn't com outro marcador negativo: evite `I didn't do nothing` no inglês-padrão."
+    ],
+    "guided_practice": "Transforme:\n\n- Afirmação: `You ran the tests.`  \n  Pergunta: `Did you run the tests?`\n\n- Afirmação: `She sent the report.`  \n  Negativa: `She didn't send the report.`\n\n- Informação desejada: momento do erro  \n  Pergunta: `When did the error start?`\n\nObserve que `ran` volta para `run` e `sent` volta para `send` depois do auxiliar.\n",
+    "summary": "Perguntas usam did e negativas usam didn't; em ambos os casos, o verbo principal fica na forma base. Palavras interrogativas vêm antes de did e respostas curtas repetem o auxiliar."
+  },
+  "vocabulary": [
+    {
+      "id": "did-you",
+      "target": "Did you...?",
+      "translation": "Você fez...?",
+      "type": "pattern",
+      "gender": null,
+      "plural": null,
+      "example": "Did you check the server logs?",
+      "example_translation": "Você verificou os logs do servidor?"
+    },
+    {
+      "id": "didnt",
+      "target": "didn't",
+      "translation": "não fez, não aconteceu",
+      "type": "auxiliary",
+      "gender": null,
+      "plural": null,
+      "example": "The deployment didn't finish.",
+      "example_translation": "O deploy não terminou."
+    },
+    {
+      "id": "yes-i-did",
+      "target": "Yes, I did.",
+      "translation": "Sim.",
+      "type": "phrase",
+      "gender": null,
+      "plural": null,
+      "example": "Did you update the ticket? Yes, I did.",
+      "example_translation": "Você atualizou o ticket? Sim."
+    },
+    {
+      "id": "no-i-didnt",
+      "target": "No, I didn't.",
+      "translation": "Não.",
+      "type": "phrase",
+      "gender": null,
+      "plural": null,
+      "example": "Did you restart the service? No, I didn't.",
+      "example_translation": "Você reiniciou o serviço? Não."
+    },
+    {
+      "id": "when-did",
+      "target": "When did...?",
+      "translation": "Quando...?",
+      "type": "pattern",
+      "gender": null,
+      "plural": null,
+      "example": "When did the problem start?",
+      "example_translation": "Quando o problema começou?"
+    },
+    {
+      "id": "why-did",
+      "target": "Why did...?",
+      "translation": "Por que...?",
+      "type": "pattern",
+      "gender": null,
+      "plural": null,
+      "example": "Why did the build fail?",
+      "example_translation": "Por que o build falhou?"
+    },
+    {
+      "id": "where-did",
+      "target": "Where did...?",
+      "translation": "Onde...?",
+      "type": "pattern",
+      "gender": null,
+      "plural": null,
+      "example": "Where did you find the file?",
+      "example_translation": "Onde você encontrou o arquivo?"
+    },
+    {
+      "id": "investigate",
+      "target": "investigate",
+      "translation": "investigar",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "We investigated the incident yesterday.",
+      "example_translation": "Investigamos o incidente ontem."
+    },
+    {
+      "id": "finish",
+      "target": "finish",
+      "translation": "terminar",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "The backup didn't finish.",
+      "example_translation": "O backup não terminou."
+    },
+    {
+      "id": "restart",
+      "target": "restart",
+      "translation": "reiniciar",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "Did the operator restart the service?",
+      "example_translation": "O operador reiniciou o serviço?"
+    },
+    {
+      "id": "happen",
+      "target": "happen",
+      "translation": "acontecer",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "What happened after the alert?",
+      "example_translation": "O que aconteceu depois do alerta?"
+    },
+    {
+      "id": "delayed",
+      "target": "delayed",
+      "translation": "atrasado",
+      "type": "adjective",
+      "gender": null,
+      "plural": null,
+      "example": "The task was delayed because the test didn't pass.",
+      "example_translation": "A tarefa atrasou porque o teste não passou."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "transformation",
+      "title": "Afirmação para pergunta",
+      "instruction": "Transforme a afirmação em uma pergunta no past simple.",
+      "items": [
+        {
+          "type": "transformation",
+          "question": "You tested the payment flow.",
+          "answer": "Did you test the payment flow?",
+          "explanation": "Did marca o passado e test volta à forma base."
+        },
+        {
+          "type": "transformation",
+          "question": "Marta sent the report.",
+          "answer": "Did Marta send the report?",
+          "explanation": "Sent volta para send depois de did."
+        },
+        {
+          "type": "transformation",
+          "question": "The pipeline finished at noon.",
+          "answer": "Did the pipeline finish at noon?",
+          "explanation": "Finished volta para finish depois do auxiliar."
+        },
+        {
+          "type": "transformation",
+          "question": "They found the missing file.",
+          "answer": "Did they find the missing file?",
+          "explanation": "Found volta para find depois de did."
+        }
+      ]
+    },
+    {
+      "type": "transformation",
+      "title": "Afirmação para negativa",
+      "instruction": "Reescreva a frase na negativa usando didn't.",
+      "items": [
+        {
+          "type": "transformation",
+          "question": "I deployed the change.",
+          "answer": "I didn't deploy the change.",
+          "explanation": "Depois de didn't, deploy permanece na forma base."
+        },
+        {
+          "type": "transformation",
+          "question": "She wrote the incident summary.",
+          "answer": "She didn't write the incident summary.",
+          "explanation": "Wrote volta para write."
+        },
+        {
+          "type": "transformation",
+          "question": "We ran the end-to-end tests.",
+          "answer": "We didn't run the end-to-end tests.",
+          "explanation": "Ran volta para run após didn't."
+        },
+        {
+          "type": "transformation",
+          "question": "The backup finished successfully.",
+          "answer": "The backup didn't finish successfully.",
+          "explanation": "Finished volta para finish."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "title": "Forma correta",
+      "instruction": "Escolha a pergunta ou negativa gramaticalmente correta.",
+      "items": [
+        {
+          "type": "multiple_choice",
+          "question": "Qual pergunta está correta?",
+          "answer": "Did you check the logs?",
+          "distractors": [
+            "Did you checked the logs?",
+            "You did check the logs?"
+          ],
+          "explanation": "A forma neutra usa did antes do sujeito e check na forma base."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual negativa está correta?",
+          "answer": "The job didn't run.",
+          "distractors": [
+            "The job didn't ran.",
+            "The job not run."
+          ],
+          "explanation": "Didn't é seguido por run."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual pergunta com why está correta?",
+          "answer": "Why did the service stop?",
+          "distractors": [
+            "Why the service did stop?",
+            "Why did the service stopped?"
+          ],
+          "explanation": "Why vem antes de did e stop fica na forma base."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual resposta curta está correta?",
+          "answer": "No, we didn't.",
+          "distractors": [
+            "No, we didn't tested.",
+            "No, we not did."
+          ],
+          "explanation": "A resposta curta termina com didn't sem repetir o verbo principal."
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "title": "Investigação de incidente",
+      "instruction": "Complete com did, didn't ou a forma base correta do verbo.",
+      "items": [
+        {
+          "type": "fill_blank",
+          "question": "When ___ the alert start?",
+          "answer": "did",
+          "explanation": "Perguntas no passado usam did antes do sujeito."
+        },
+        {
+          "type": "fill_blank",
+          "question": "The final step ___ finish.",
+          "answer": "didn't",
+          "explanation": "Didn't forma a negativa no passado."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Did the operator ___ the service? (restart)",
+          "answer": "restart",
+          "explanation": "Depois de did, o verbo fica na forma base."
+        },
+        {
+          "type": "fill_blank",
+          "question": "We didn't ___ any new errors. (find)",
+          "answer": "find",
+          "explanation": "Depois de didn't, found volta para find."
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "title": "Perguntas e negativas no trabalho",
+      "instruction": "Traduza para o inglês.",
+      "items": [
+        {
+          "type": "translation",
+          "question": "Você executou os testes ontem?",
+          "answer": "Did you run the tests yesterday?",
+          "explanation": "Run fica na forma base depois de did."
+        },
+        {
+          "type": "translation",
+          "question": "Eu não enviei o relatório.",
+          "answer": "I didn't send the report.",
+          "explanation": "Send fica na forma base depois de didn't."
+        },
+        {
+          "type": "translation",
+          "question": "Por que o build falhou?",
+          "answer": "Why did the build fail?",
+          "explanation": "Why + did + sujeito + fail."
+        },
+        {
+          "type": "translation",
+          "question": "Onde você encontrou esse erro?",
+          "answer": "Where did you find this error?",
+          "explanation": "Where vem antes de did, e find permanece na forma base."
+        }
+      ]
+    },
+    {
+      "type": "short_answer",
+      "title": "Respostas curtas",
+      "instruction": "Responda de forma curta conforme a indicação.",
+      "items": [
+        {
+          "type": "short_answer",
+          "question": "Did you update the ticket? Responda afirmativamente.",
+          "answer": "Yes, I did.",
+          "explanation": "A resposta curta afirmativa repete did."
+        },
+        {
+          "type": "short_answer",
+          "question": "Did the backup finish? Responda negativamente.",
+          "answer": "No, it didn't.",
+          "explanation": "A resposta curta negativa usa didn't."
+        },
+        {
+          "type": "short_answer",
+          "question": "Did they deploy the patch? Responda afirmativamente.",
+          "answer": "Yes, they did.",
+          "explanation": "O pronome they é seguido por did."
+        }
+      ]
+    }
+  ],
+  "test": [
+    {
+      "type": "multiple_choice",
+      "question": "Durante a retrospectiva, como perguntar se a equipe implantou o patch?",
+      "answer": "Did the team deploy the patch?",
+      "distractors": [
+        "Did the team deployed the patch?",
+        "The team did deployed the patch?"
+      ],
+      "explanation": "Did é seguido por deploy na forma base.",
+      "points": 1
+    },
+    {
+      "type": "transformation",
+      "question": "Passe para a negativa: I sent the customer an update.",
+      "answer": "I didn't send the customer an update.",
+      "explanation": "Sent volta para send depois de didn't.",
+      "points": 2
+    },
+    {
+      "type": "fill_blank",
+      "question": "Complete: Why ___ the scheduled job fail?",
+      "answer": "did",
+      "explanation": "A pergunta no passado usa did.",
+      "points": 1
+    },
+    {
+      "type": "correction",
+      "question": "Corrija: Did you ran the migration?",
+      "answer": "Did you run the migration?",
+      "explanation": "O verbo principal volta à forma base depois de did.",
+      "points": 1
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Como informar corretamente que não encontramos o registro ausente?",
+      "answer": "We didn't find the missing record.",
+      "distractors": [
+        "We didn't found the missing record.",
+        "We not found the missing record."
+      ],
+      "explanation": "Didn't é seguido por find.",
+      "points": 1
+    },
+    {
+      "type": "translation",
+      "question": "Traduza para o inglês: Quando o problema começou?",
+      "answer": "When did the problem start?",
+      "explanation": "When precede did, e start permanece na forma base.",
+      "points": 2
+    },
+    {
+      "type": "short_answer",
+      "question": "Did the release finish? Responda negativamente.",
+      "answer": "No, it didn't.",
+      "explanation": "Resposta curta negativa com it e didn't.",
+      "points": 1
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Qual pergunta investiga corretamente o local?",
+      "answer": "Where did you see the error?",
+      "distractors": [
+        "Where you did see the error?",
+        "Where did you saw the error?"
+      ],
+      "explanation": "Where + did + sujeito + verbo base.",
+      "points": 1
+    },
+    {
+      "type": "transformation",
+      "question": "Transforme em pergunta: The alert started after midnight.",
+      "answer": "Did the alert start after midnight?",
+      "explanation": "Started volta para start depois de did.",
+      "points": 2
+    },
+    {
+      "type": "production",
+      "question": "Escreva uma pergunta e uma resposta negativa sobre um deploy.",
+      "answer": "Did you deploy the change? No, I didn't.",
+      "explanation": "Resposta-modelo com did na pergunta e didn't na resposta curta.",
+      "points": 2
+    }
+  ],
+  "story": {
+    "sections": [
+      {
+        "heading": "The missing update",
+        "sentences": [
+          {
+            "target": "On Thursday morning, the support team received several reports about an old dashboard.",
+            "translation": "Na manhã de quinta-feira, a equipe de suporte recebeu vários relatos sobre um painel antigo."
+          },
+          {
+            "target": "The dashboard didn't show the latest sales data.",
+            "translation": "O painel não mostrou os dados de vendas mais recentes."
+          },
+          {
+            "target": "Nina asked, \"Did the nightly import finish?\"",
+            "translation": "Nina perguntou: “A importação noturna terminou?”"
+          },
+          {
+            "target": "Her colleague answered, \"No, it didn't. The final job didn't run.\"",
+            "translation": "O colega respondeu: “Não. A tarefa final não foi executada.”"
+          },
+          {
+            "target": "Nina then asked, \"When did the previous step finish?\"",
+            "translation": "Nina então perguntou: “Quando a etapa anterior terminou?”"
+          },
+          {
+            "target": "The logs showed that it finished at 2:14 a.m.",
+            "translation": "Os logs mostraram que ela terminou às 2h14."
+          }
+        ]
+      },
+      {
+        "heading": "A simple investigation",
+        "sentences": [
+          {
+            "target": "The team checked the scheduler, but they didn't find a configuration error.",
+            "translation": "A equipe verificou o agendador, mas não encontrou um erro de configuração."
+          },
+          {
+            "target": "Nina asked another question: \"Did anyone restart the worker yesterday?\"",
+            "translation": "Nina fez outra pergunta: “Alguém reiniciou o worker ontem?”"
+          },
+          {
+            "target": "One engineer said, \"Yes, I did, but I didn't restart the scheduler.\"",
+            "translation": "Um engenheiro disse: “Sim, mas eu não reiniciei o agendador.”"
+          },
+          {
+            "target": "They discovered that the worker started before the scheduler was ready.",
+            "translation": "Eles descobriram que o worker iniciou antes de o agendador estar pronto."
+          },
+          {
+            "target": "The team restarted both services and ran the import again.",
+            "translation": "A equipe reiniciou os dois serviços e executou a importação novamente."
+          },
+          {
+            "target": "This time, the job finished and the dashboard displayed the correct data.",
+            "translation": "Dessa vez, a tarefa terminou e o painel exibiu os dados corretos."
+          }
+        ]
+      }
+    ],
+    "vocabulary_notes": [
+      {
+        "target": "didn't show",
+        "note": "não mostrou; negativa no past simple"
+      },
+      {
+        "target": "Did the nightly import finish?",
+        "note": "pergunta sobre uma ação concluída"
+      },
+      {
+        "target": "didn't run",
+        "note": "não executou; run fica na forma base"
+      },
+      {
+        "target": "When did the previous step finish?",
+        "note": "pergunta pelo momento em que algo aconteceu"
+      },
+      {
+        "target": "Did anyone restart the worker?",
+        "note": "pergunta para identificar uma ação passada"
+      },
+      {
+        "target": "Yes, I did.",
+        "note": "resposta curta afirmativa"
+      }
+    ],
+    "questions": [
+      {
+        "question": "What problem did the dashboard have?",
+        "answer": "It didn't show the latest sales data.",
+        "explanation": "A segunda frase descreve o problema."
+      },
+      {
+        "question": "Did the nightly import finish?",
+        "answer": "No, it didn't.",
+        "explanation": "A tarefa final não foi executada."
+      },
+      {
+        "question": "When did the previous step finish?",
+        "answer": "It finished at 2:14 a.m.",
+        "explanation": "O horário aparece nos logs."
+      },
+      {
+        "question": "Did the team find a configuration error?",
+        "answer": "No, they didn't.",
+        "explanation": "O texto afirma que a equipe não encontrou esse erro."
+      },
+      {
+        "question": "Who restarted the worker?",
+        "answer": "One engineer restarted the worker.",
+        "explanation": "Um engenheiro confirmou a ação."
+      },
+      {
+        "question": "What didn't the engineer restart?",
+        "answer": "He didn't restart the scheduler.",
+        "explanation": "A negativa identifica a ação que não aconteceu."
+      }
+    ],
+    "practice": [
+      {
+        "question": "Transforme em pergunta: The worker started before the scheduler.",
+        "answer": "Did the worker start before the scheduler?",
+        "explanation": "Started volta para start."
+      },
+      {
+        "question": "Transforme em negativa: They found a configuration error.",
+        "answer": "They didn't find a configuration error.",
+        "explanation": "Found volta para find."
+      },
+      {
+        "question": "Responda afirmativamente: Did the final import finish?",
+        "answer": "Yes, it did.",
+        "explanation": "A resposta curta usa it did."
+      },
+      {
+        "question": "Faça uma pergunta com why sobre a falha da tarefa.",
+        "answer": "Why did the job fail?",
+        "explanation": "Why vem antes de did e fail fica na forma base."
+      }
+    ]
+  }
+}

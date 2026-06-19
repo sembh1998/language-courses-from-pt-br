@@ -1,0 +1,87 @@
+topic: Past simple com perguntas e negativas
+level: A2
+words:
+- english: Did you...?
+  translation: Você fez...?
+  type: pattern
+  gender: null
+  plural: null
+  example: Did you check the server logs?
+  example_translation: Você verificou os logs do servidor?
+- english: didn't
+  translation: não fez, não aconteceu
+  type: auxiliary
+  gender: null
+  plural: null
+  example: The deployment didn't finish.
+  example_translation: O deploy não terminou.
+- english: Yes, I did.
+  translation: Sim.
+  type: phrase
+  gender: null
+  plural: null
+  example: Did you update the ticket? Yes, I did.
+  example_translation: Você atualizou o ticket? Sim.
+- english: No, I didn't.
+  translation: Não.
+  type: phrase
+  gender: null
+  plural: null
+  example: Did you restart the service? No, I didn't.
+  example_translation: Você reiniciou o serviço? Não.
+- english: When did...?
+  translation: Quando...?
+  type: pattern
+  gender: null
+  plural: null
+  example: When did the problem start?
+  example_translation: Quando o problema começou?
+- english: Why did...?
+  translation: Por que...?
+  type: pattern
+  gender: null
+  plural: null
+  example: Why did the build fail?
+  example_translation: Por que o build falhou?
+- english: Where did...?
+  translation: Onde...?
+  type: pattern
+  gender: null
+  plural: null
+  example: Where did you find the file?
+  example_translation: Onde você encontrou o arquivo?
+- english: investigate
+  translation: investigar
+  type: verb
+  gender: null
+  plural: null
+  example: We investigated the incident yesterday.
+  example_translation: Investigamos o incidente ontem.
+- english: finish
+  translation: terminar
+  type: verb
+  gender: null
+  plural: null
+  example: The backup didn't finish.
+  example_translation: O backup não terminou.
+- english: restart
+  translation: reiniciar
+  type: verb
+  gender: null
+  plural: null
+  example: Did the operator restart the service?
+  example_translation: O operador reiniciou o serviço?
+- english: happen
+  translation: acontecer
+  type: verb
+  gender: null
+  plural: null
+  example: What happened after the alert?
+  example_translation: O que aconteceu depois do alerta?
+- english: delayed
+  translation: atrasado
+  type: adjective
+  gender: null
+  plural: null
+  example: The task was delayed because the test didn't pass.
+  example_translation: A tarefa atrasou porque o teste não passou.

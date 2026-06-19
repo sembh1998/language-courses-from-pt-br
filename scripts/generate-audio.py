@@ -19,7 +19,6 @@ Usage:
 from __future__ import annotations
 
 import argparse
-import re
 import shutil
 import subprocess
 import sys
@@ -33,6 +32,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import (
     VOICES_DIR,
     audio_filename,
+    extract_story_text,
     load_course_config,
     resolve_course_root,
     resolve_topic_dirs,
@@ -118,20 +118,6 @@ def load_yaml(path: Path) -> dict:
         return {}
 
 
-def target_story_text(story_path: Path, story_heading: str) -> str:
-    if not story_path.exists():
-        return ""
-    text = story_path.read_text(encoding="utf-8")
-    start = text.find(story_heading)
-    if start == -1:
-        return ""
-    start += len(story_heading)
-    end = text.find("\n## ", start)
-    section = text[start:end] if end != -1 else text[start:]
-    section = re.sub(r"[„“”«»]", "", section)
-    return " ".join(section.split())
-
-
 def generate_card_clips(synth: Synthesizer, topic_dir: Path, course_root: Path, target_voice: str, force: bool) -> int:
     cards = load_yaml(topic_dir / "flashcards.yaml").get("cards") or []
     out_dir = topic_audio_dir(topic_dir, course_root) / "cards"
@@ -194,7 +180,7 @@ def generate_vocab_review(
 
 def generate_story_audio(synth: Synthesizer, topic_dir: Path, course_root: Path, target_voice: str, force: bool) -> bool:
     config = load_course_config(course_root)
-    text = target_story_text(topic_dir / "story.md", config["story_heading"])
+    text = extract_story_text(topic_dir / "story.md", config["story_heading"])
     if not text:
         return False
     out_path = topic_audio_dir(topic_dir, course_root) / "story.wav"

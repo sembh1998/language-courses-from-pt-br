@@ -1,0 +1,51 @@
+topic: Past simple com perguntas e negativas
+level: A2
+cards:
+- front: Did you...?
+  back: Você fez...?
+  example: Did you check the server logs?
+  example_translation: Você verificou os logs do servidor?
+- front: didn't
+  back: não fez, não aconteceu
+  example: The deployment didn't finish.
+  example_translation: O deploy não terminou.
+- front: Yes, I did.
+  back: Sim.
+  example: Did you update the ticket? Yes, I did.
+  example_translation: Você atualizou o ticket? Sim.
+- front: No, I didn't.
+  back: Não.
+  example: Did you restart the service? No, I didn't.
+  example_translation: Você reiniciou o serviço? Não.
+- front: When did...?
+  back: Quando...?
+  example: When did the problem start?
+  example_translation: Quando o problema começou?
+- front: Why did...?
+  back: Por que...?
+  example: Why did the build fail?
+  example_translation: Por que o build falhou?
+- front: Where did...?
+  back: Onde...?
+  example: Where did you find the file?
+  example_translation: Onde você encontrou o arquivo?
+- front: investigate
+  back: investigar
+  example: We investigated the incident yesterday.
+  example_translation: Investigamos o incidente ontem.
+- front: finish
+  back: terminar
+  example: The backup didn't finish.
+  example_translation: O backup não terminou.
+- front: restart
+  back: reiniciar
+  example: Did the operator restart the service?
+  example_translation: O operador reiniciou o serviço?
+- front: happen
+  back: acontecer
+  example: What happened after the alert?
+  example_translation: O que aconteceu depois do alerta?
+- front: delayed
+  back: atrasado
+  example: The task was delayed because the test didn't pass.
+  example_translation: A tarefa atrasou porque o teste não passou.

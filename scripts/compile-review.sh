@@ -46,9 +46,17 @@ fi
 review_name="revisao-$(basename "$review_dir")"
 review_input="$(realpath --relative-to=templates "$review_dir")"
 out_dir="$course_dir/output/pdf/$review_name"
+target_language_pt="$(awk -F': ' '$1 == "target_language_pt" { gsub(/^"|"$/, "", $2); print $2; exit }' "$course_dir/course.yaml")"
+if [ -z "$target_language_pt" ]; then
+  target_language_pt="alemão"
+fi
+course_label="${target_language_pt^} para PT-BR"
 
 mkdir -p "$out_dir"
 
-typst compile --root . templates/test.typ "$out_dir/test.pdf" --input topic="$review_input"
+typst compile --root . templates/test.typ "$out_dir/test.pdf" \
+  --input topic="$review_input" \
+  --input course-label="$course_label" \
+  --input target-language-pt="$target_language_pt"
 
 printf 'Compiled review test to %s\n' "$out_dir/test.pdf"

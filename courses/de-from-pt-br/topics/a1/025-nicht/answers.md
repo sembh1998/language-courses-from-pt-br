@@ -28,7 +28,7 @@ Nível: A1
 | ID | Resposta | Explicação | Pontos |
 |---|---|---|---|
 | 1 | nicht | Negação do verbo verstehen. | 1 |
-| 2 | Er arbeitet nicht. | Verbo na posição 2; nicht depois. | 1 |
+| 2 | Er wohnt nicht hier. | O verbo fica na posição 2, e nicht nega o lugar. | 1 |
 | 3 | Wir singen nicht. | Negação simples da ação. | 1 |
 | 4 | Das ist nicht schön. | Nicht vem antes do adjetivo. | 1 |
 | 5 | nicht | Nega o local Berlin. | 1 |

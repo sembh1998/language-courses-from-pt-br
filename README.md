@@ -4,6 +4,9 @@ A local content-generation system for language-learning materials for Brazilian 
 
 The repository is now multi-course: course-specific roadmaps, prompts, topics, reviews, and outputs live under `courses/<course-id>/`; shared scripts, schemas, and Typst templates stay at the repository root.
 
+New model generation uses schema-validated JSON; deterministic compilers produce
+the learner-facing Markdown and YAML files.
+
 ## Courses
 
 ```txt
@@ -48,7 +51,7 @@ learning-languages-from-pt-br/
 
 ## Topic Files
 
-Each generated topic folder should contain exactly these source files:
+Each compiled topic folder contains these learner-facing source files:
 
 ```txt
 lesson.md
@@ -59,6 +62,19 @@ test.yaml
 story.md
 answers.md
 ```
+
+New topics also use:
+
+```txt
+content.json
+```
+
+`content.json` is the semantic source of truth. A deterministic compiler creates
+the seven files above, so answers, explanations, story translations, IDs,
+points, flashcards, and multiple-choice positions are not regenerated in
+separate model calls. JSON prevents YAML coercions such as `on` becoming a
+boolean or `null` becoming an empty value. Legacy `content.yaml` remains
+supported.
 
 Example topic folder:
 
@@ -74,7 +90,32 @@ Choose a topic from the selected course roadmap, then scaffold the topic folder:
 scripts/generate-topic.sh courses/de-from-pt-br/topics/a1/001-alfabeto-alemao-e-sons-basicos
 ```
 
-Use the prompt files in the selected course:
+Build a compact context containing only the course profile, exact roadmap row,
+selected CEFR guidance, and structured contract:
+
+```sh
+python3 scripts/build-context.py --course courses/de-from-pt-br 105
+```
+
+Ask the model for only `content.json`, preferably with
+`schemas/content.schema.json` as the API response schema. Save it in the topic
+folder, then compile:
+
+```sh
+python3 scripts/compile-content.py --course courses/de-from-pt-br 105
+python3 scripts/validate-content.py courses/de-from-pt-br/topics/b2/105-topic-slug
+```
+
+The JSON may be compact rather than pretty-printed. This limits formatting-token
+overhead while retaining strict parsing and schema validation.
+
+Verify that compiled files are current without modifying them:
+
+```sh
+python3 scripts/compile-content.py --check --course courses/de-from-pt-br 105
+```
+
+The older per-file prompt contracts remain available for legacy topics:
 
 ```txt
 courses/de-from-pt-br/prompts/
@@ -85,6 +126,26 @@ courses/es-from-pt-br/prompts/
 ```
 
 Italian, English, French, and Spanish currently have starter prompt folders and roadmaps ready to be filled.
+
+## Structured Reviews
+
+Build compact context for a completed ten-topic block:
+
+```sh
+python3 scripts/build-review-context.py --course courses/en-from-pt-br 041-050
+```
+
+Save the model output as `reviews/041-050/review.json`, preferably using
+`schemas/review-content.schema.json`, then compile and validate:
+
+```sh
+python3 scripts/compile-review-content.py --course courses/en-from-pt-br 041-050
+python3 scripts/validate-reviews.py courses/en-from-pt-br
+```
+
+Legacy missing review blocks can be recorded explicitly in
+`review-baseline.txt`; newly completed blocks must receive a real review rather
+than a new baseline entry.
 
 ## Validate Content
 

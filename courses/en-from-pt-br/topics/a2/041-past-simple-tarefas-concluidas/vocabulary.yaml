@@ -1,0 +1,88 @@
+topic: 'Past simple: tarefas concluídas'
+level: A2
+words:
+- english: fixed
+  translation: corrigiu, consertou
+  type: verb
+  gender: null
+  plural: null
+  example: I fixed the broken link yesterday.
+  example_translation: Eu corrigi o link quebrado ontem.
+- english: created
+  translation: criou
+  type: verb
+  gender: null
+  plural: null
+  example: We created a backup before the update.
+  example_translation: Criamos um backup antes da atualização.
+- english: deployed
+  translation: implantou, fez deploy
+  type: verb
+  gender: null
+  plural: null
+  example: The team deployed the new version on Tuesday.
+  example_translation: A equipe implantou a nova versão na terça-feira.
+- english: wrote
+  translation: escreveu
+  type: verb
+  gender: null
+  plural: null
+  example: Paula wrote a clear incident summary.
+  example_translation: Paula escreveu um resumo claro do incidente.
+- english: sent
+  translation: enviou
+  type: verb
+  gender: null
+  plural: null
+  example: I sent the report to the product manager.
+  example_translation: Enviei o relatório ao gerente de produto.
+- english: ran
+  translation: executou, rodou
+  type: verb
+  gender: null
+  plural: null
+  example: We ran the integration tests last night.
+  example_translation: Executamos os testes de integração ontem à noite.
+- english: found
+  translation: encontrou
+  type: verb
+  gender: null
+  plural: null
+  example: The engineer found the cause in the logs.
+  example_translation: O engenheiro encontrou a causa nos logs.
+- english: made
+  translation: fez
+  type: verb
+  gender: null
+  plural: null
+  example: She made a small change to the config.
+  example_translation: Ela fez uma pequena alteração na configuração.
+- english: read
+  translation: leu
+  type: verb
+  gender: null
+  plural: null
+  example: I read the documentation before the meeting.
+  example_translation: Eu li a documentação antes da reunião.
+  note: No passado, a pronúncia é semelhante a “red”.
+- english: reviewed
+  translation: revisou
+  type: verb
+  gender: null
+  plural: null
+  example: The reviewer checked the code and approved it.
+  example_translation: O revisor verificou o código e o aprovou.
+- english: yesterday
+  translation: ontem
+  type: adverb
+  gender: null
+  plural: null
+  example: Yesterday, we completed the migration.
+  example_translation: Ontem, concluímos a migração.
+- english: last week
+  translation: na semana passada
+  type: phrase
+  gender: null
+  plural: null
+  example: Last week, I prepared the demo.
+  example_translation: Na semana passada, preparei a demonstração.

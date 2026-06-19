@@ -1,0 +1,89 @@
+topic: Past simple com perguntas e negativas
+level: A2
+exercises:
+- type: transformation
+  title: Afirmação para pergunta
+  instruction: Transforme a afirmação em uma pergunta no past simple.
+  items:
+  - question: You tested the payment flow.
+    answer: Did you test the payment flow?
+  - question: Marta sent the report.
+    answer: Did Marta send the report?
+  - question: The pipeline finished at noon.
+    answer: Did the pipeline finish at noon?
+  - question: They found the missing file.
+    answer: Did they find the missing file?
+- type: transformation
+  title: Afirmação para negativa
+  instruction: Reescreva a frase na negativa usando didn't.
+  items:
+  - question: I deployed the change.
+    answer: I didn't deploy the change.
+  - question: She wrote the incident summary.
+    answer: She didn't write the incident summary.
+  - question: We ran the end-to-end tests.
+    answer: We didn't run the end-to-end tests.
+  - question: The backup finished successfully.
+    answer: The backup didn't finish successfully.
+- type: multiple_choice
+  title: Forma correta
+  instruction: Escolha a pergunta ou negativa gramaticalmente correta.
+  items:
+  - question: Qual pergunta está correta?
+    answer: Did you check the logs?
+    options:
+    - Did you check the logs?
+    - Did you checked the logs?
+    - You did check the logs?
+  - question: Qual negativa está correta?
+    answer: The job didn't run.
+    options:
+    - The job didn't ran.
+    - The job didn't run.
+    - The job not run.
+  - question: Qual pergunta com why está correta?
+    answer: Why did the service stop?
+    options:
+    - Why the service did stop?
+    - Why did the service stopped?
+    - Why did the service stop?
+  - question: Qual resposta curta está correta?
+    answer: No, we didn't.
+    options:
+    - No, we didn't.
+    - No, we didn't tested.
+    - No, we not did.
+- type: fill_blank
+  title: Investigação de incidente
+  instruction: Complete com did, didn't ou a forma base correta do verbo.
+  items:
+  - question: When ___ the alert start?
+    answer: did
+  - question: The final step ___ finish.
+    answer: didn't
+  - question: Did the operator ___ the service? (restart)
+    answer: restart
+  - question: We didn't ___ any new errors. (find)
+    answer: find
+- type: translation
+  title: Perguntas e negativas no trabalho
+  instruction: Traduza para o inglês.
+  items:
+  - question: Você executou os testes ontem?
+    answer: Did you run the tests yesterday?
+  - question: Eu não enviei o relatório.
+    answer: I didn't send the report.
+  - question: Por que o build falhou?
+    answer: Why did the build fail?
+  - question: Onde você encontrou esse erro?
+    answer: Where did you find this error?
+- type: short_answer
+  title: Respostas curtas
+  instruction: Responda de forma curta conforme a indicação.
+  items:
+  - question: Did you update the ticket? Responda afirmativamente.
+    answer: Yes, I did.
+  - question: Did the backup finish? Responda negativamente.
+    answer: No, it didn't.
+  - question: Did they deploy the patch? Responda afirmativamente.
+    answer: Yes, they did.

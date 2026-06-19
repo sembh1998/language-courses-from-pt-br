@@ -1,0 +1,11 @@
+# Revisões legadas ausentes. Novos blocos completos não devem ser adicionados aqui.
+revisão ausente: 001-010
+revisão ausente: 011-020
+revisão ausente: 021-030
+revisão ausente: 031-040
+revisão ausente: 041-050
+revisão ausente: 051-060
+revisão ausente: 061-070
+revisão ausente: 071-080
+revisão ausente: 081-090
+revisão ausente: 091-100

@@ -1,0 +1,51 @@
+topic: TeKaMoLo
+level: B2
+cards:
+- front: heute
+  back: hoje
+  example: Wir besprechen das Problem heute im Büro.
+  example_translation: Discutimos o problema hoje no escritório.
+- front: aufgrund der Verzögerung
+  back: por causa do atraso
+  example: Aufgrund der Verzögerung ändern wir den Plan.
+  example_translation: Por causa do atraso, mudamos o plano.
+- front: mit großer Sorgfalt
+  back: com muito cuidado
+  example: Die Techniker prüfen das System mit großer Sorgfalt.
+  example_translation: Os técnicos verificam o sistema com muito cuidado.
+- front: vor Ort
+  back: no local
+  example: Morgen arbeitet ein Spezialist vor Ort.
+  example_translation: Amanhã, um especialista trabalha no local.
+- front: aus Kostengründen
+  back: por motivos de custo
+  example: Wir reisen aus Kostengründen mit dem Zug.
+  example_translation: Viajamos de trem por motivos de custo.
+- front: per Kurier
+  back: por serviço de entrega
+  example: Die Unterlagen werden per Kurier geschickt.
+  example_translation: Os documentos são enviados por serviço de entrega.
+- front: nächste Woche
+  back: na próxima semana
+  example: Das Team fährt nächste Woche nach Bremen.
+  example_translation: A equipe vai para Bremen na próxima semana.
+- front: wegen des Streiks
+  back: por causa da greve
+  example: Wegen des Streiks beginnt die Sitzung später.
+  example_translation: Por causa da greve, a reunião começa mais tarde.
+- front: online
+  back: on-line
+  example: Wir führen das Gespräch heute online.
+  example_translation: Realizamos a conversa hoje on-line.
+- front: das Mittelfeld
+  back: o campo médio da oração
+  example: Im Mittelfeld stehen oft mehrere Ergänzungen.
+  example_translation: No campo médio, muitas vezes aparecem vários complementos.
+- front: hervorheben
+  back: destacar, enfatizar
+  example: Der erste Satzteil kann eine Information hervorheben.
+  example_translation: O primeiro componente da frase pode destacar uma informação.
+- front: die Reihenfolge
+  back: a sequência, a ordem
+  example: Diese Reihenfolge klingt in einem neutralen Kontext natürlich.
+  example_translation: Essa sequência soa natural em um contexto neutro.

@@ -5,7 +5,7 @@ questions:
     question: Qual opção completa corretamente? The client call is ___ 11.
     options:
       - at
-      - on
+      - "on"
       - in
     answer: at
   - type: fill_blank
@@ -71,7 +71,7 @@ questions:
     answer: The sprint starts on Wednesday.
   - type: fill_blank
     question: The release is ___ November 18.
-    answer: on
+    answer: "on"
   - type: translation
     question: "Traduza: Estou em UTC."
     answer: I am in UTC.

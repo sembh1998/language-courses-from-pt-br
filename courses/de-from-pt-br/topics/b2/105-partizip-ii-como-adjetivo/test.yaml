@@ -1,0 +1,51 @@
+topic: Partizip II como adjetivo
+level: B2
+questions:
+- type: multiple_choice
+  question: Qual frase descreve corretamente um resultado concluído?
+  answer: Das reparierte Gerät ist wieder einsatzbereit.
+  options:
+  - Das reparierte Gerät ist wieder einsatzbereit.
+  - Das reparierende Gerät ist wieder einsatzbereit.
+  - Das repariert Gerät ist wieder einsatzbereit.
+- type: fill_blank
+  question: 'Complete: Die gestern ___ Entscheidung wurde heute erklärt. (treffen)'
+  answer: getroffene
+- type: transformation
+  question: 'Transforme: Das Paket, das beim Transport beschädigt wurde, kam zurück.'
+  answer: Das beim Transport beschädigte Paket kam zurück.
+- type: multiple_choice
+  question: Qual expressão corresponde a "os custos que já caíram"?
+  answer: die gesunkenen Kosten
+  options:
+  - die sinkenden Kosten
+  - die gesunkenen Kosten
+  - die gesunkene Kosten
+- type: correction
+  question: 'Corrija: Wir lesen den gestern veröffentlicht Bericht.'
+  answer: Wir lesen den gestern veröffentlichten Bericht.
+- type: translation
+  question: 'Traduza para o alemão usando um atributo com particípio II: Os convidados que chegaram já estão no salão.'
+  answer: Die angekommenen Gäste sind schon im Saal.
+- type: multiple_choice
+  question: Qual forma do verbo reparieren está correta como particípio?
+  answer: repariert
+  options:
+  - gerepariert
+  - reparieren
+  - repariert
+- type: transformation
+  question: 'Reescreva como relativa: die vom Team entwickelte Lösung'
+  answer: die Lösung, die vom Team entwickelt wurde
+- type: fill_blank
+  question: 'Complete: Sie sprach mit den neu ___ Kollegen. (einstellen)'
+  answer: eingestellten
+- type: short_answer
+  question: Explique em português a diferença entre die steigenden Preise e die gestiegenen Preise.
+  answer: Die steigenden Preise são preços que estão subindo; die gestiegenen Preise são preços que já subiram.
+- type: ordering
+  question: 'Ordene: veröffentlichte / die / gestern / Studie'
+  answer: die gestern veröffentlichte Studie
+- type: production
+  question: Escreva uma frase formal com die beschlossene Maßnahme.
+  answer: Die beschlossene Maßnahme wird im nächsten Monat umgesetzt.

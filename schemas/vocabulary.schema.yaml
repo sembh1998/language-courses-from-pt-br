@@ -1,10 +1,61 @@
-topic: string
-level: string
-words:
-  - german: string
-    translation: string
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: Vocabulário de um tópico
+type: object
+required: [topic, level, words]
+properties:
+  topic:
     type: string
-    gender: string | null
-    plural: string | null
-    example: string
-    example_translation: string
+    minLength: 1
+  level:
+    type: string
+    pattern: "^(A1|A2|B1|B2|C1|C2)$"
+  words:
+    type: array
+    items:
+      type: object
+      required: [translation, example, example_translation]
+      anyOf:
+        - required: [target]
+        - required: [german]
+        - required: [english]
+        - required: [italian]
+        - required: [french]
+        - required: [spanish]
+      properties:
+        target:
+          type: string
+          minLength: 1
+        german:
+          type: string
+          minLength: 1
+        english:
+          type: string
+          minLength: 1
+        italian:
+          type: string
+          minLength: 1
+        french:
+          type: string
+          minLength: 1
+        spanish:
+          type: string
+          minLength: 1
+        translation:
+          type: string
+          minLength: 1
+        type:
+          type: [string, "null"]
+        gender:
+          type: [string, "null"]
+        plural:
+          type: [string, "null"]
+        example:
+          type: string
+          minLength: 1
+        example_translation:
+          type: string
+          minLength: 1
+        note:
+          type: string
+      additionalProperties: true
+additionalProperties: true

@@ -1,0 +1,87 @@
+topic: TeKaMoLo
+level: B2
+words:
+- german: heute
+  translation: hoje
+  type: adverb
+  gender: null
+  plural: null
+  example: Wir besprechen das Problem heute im Büro.
+  example_translation: Discutimos o problema hoje no escritório.
+- german: aufgrund der Verzögerung
+  translation: por causa do atraso
+  type: phrase
+  gender: null
+  plural: null
+  example: Aufgrund der Verzögerung ändern wir den Plan.
+  example_translation: Por causa do atraso, mudamos o plano.
+- german: mit großer Sorgfalt
+  translation: com muito cuidado
+  type: phrase
+  gender: null
+  plural: null
+  example: Die Techniker prüfen das System mit großer Sorgfalt.
+  example_translation: Os técnicos verificam o sistema com muito cuidado.
+- german: vor Ort
+  translation: no local
+  type: phrase
+  gender: null
+  plural: null
+  example: Morgen arbeitet ein Spezialist vor Ort.
+  example_translation: Amanhã, um especialista trabalha no local.
+- german: aus Kostengründen
+  translation: por motivos de custo
+  type: phrase
+  gender: null
+  plural: null
+  example: Wir reisen aus Kostengründen mit dem Zug.
+  example_translation: Viajamos de trem por motivos de custo.
+- german: per Kurier
+  translation: por serviço de entrega
+  type: phrase
+  gender: null
+  plural: null
+  example: Die Unterlagen werden per Kurier geschickt.
+  example_translation: Os documentos são enviados por serviço de entrega.
+- german: nächste Woche
+  translation: na próxima semana
+  type: phrase
+  gender: null
+  plural: null
+  example: Das Team fährt nächste Woche nach Bremen.
+  example_translation: A equipe vai para Bremen na próxima semana.
+- german: wegen des Streiks
+  translation: por causa da greve
+  type: phrase
+  gender: null
+  plural: null
+  example: Wegen des Streiks beginnt die Sitzung später.
+  example_translation: Por causa da greve, a reunião começa mais tarde.
+- german: online
+  translation: on-line
+  type: adverb
+  gender: null
+  plural: null
+  example: Wir führen das Gespräch heute online.
+  example_translation: Realizamos a conversa hoje on-line.
+- german: das Mittelfeld
+  translation: o campo médio da oração
+  type: noun
+  gender: neuter
+  plural: die Mittelfelder
+  example: Im Mittelfeld stehen oft mehrere Ergänzungen.
+  example_translation: No campo médio, muitas vezes aparecem vários complementos.
+- german: hervorheben
+  translation: destacar, enfatizar
+  type: verb
+  gender: null
+  plural: null
+  example: Der erste Satzteil kann eine Information hervorheben.
+  example_translation: O primeiro componente da frase pode destacar uma informação.
+- german: die Reihenfolge
+  translation: a sequência, a ordem
+  type: noun
+  gender: feminine
+  plural: die Reihenfolgen
+  example: Diese Reihenfolge klingt in einem neutralen Kontext natürlich.
+  example_translation: Essa sequência soa natural em um contexto neutro.

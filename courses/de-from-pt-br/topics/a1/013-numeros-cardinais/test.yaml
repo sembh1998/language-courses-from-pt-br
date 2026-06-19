@@ -3,7 +3,7 @@ level: A1
 questions:
   - type: short_answer
     question: Escreva 0 em alemão.
-    answer: null
+    answer: "null"
   - type: short_answer
     question: Escreva 11 em alemão.
     answer: elf

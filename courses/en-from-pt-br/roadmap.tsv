@@ -39,8 +39,8 @@ A1	37	Fundamentos gramaticais aplicados	Leitura de mensagens de erro simples	Err
 A1	38	Fundamentos gramaticais aplicados	Escrever perfil profissional básico	Mini bio para LinkedIn/GitHub; cargo, stack, interesses, localização; frases curtas e corretas	Concluído	Média	Sim	Sim	Sim	Sim	
 A1	39	Fundamentos gramaticais aplicados	Revisão integrada A1 para software engineers	Integração de to be, present simple, can, imperatives, vocabulário técnico essencial; simulação de onboarding inicial	Concluído	Alta	Sim	Sim	Sim	Sim	
 A1	40	Fundamentos gramaticais aplicados	Projeto A1: primeiro dia em um time internacional	Apresentar-se, ler instruções de setup, pedir ajuda, escrever update simples e entender uma mensagem de erro curta	Concluído	Alta	Sim	Sim	Sim	Sim	
-A2	41	Passado e relato de trabalho	Past simple: tarefas concluídas	Regular and irregular verbs frequentes: fixed, created, wrote, sent, ran, found; yesterday/last week; relatar progresso		Alta					
-A2	42	Passado e relato de trabalho	Past simple com perguntas e negativas	Did you test it? I didn't deploy; investigar ações passadas; conversar sobre incidentes simples e tarefas atrasadas		Alta					
+A2	41	Passado e relato de trabalho	Past simple: tarefas concluídas	Regular and irregular verbs frequentes: fixed, created, wrote, sent, ran, found; yesterday/last week; relatar progresso	Concluído	Alta	Sim	Sim	Sim	Sim
+A2	42	Passado e relato de trabalho	Past simple com perguntas e negativas	Did you test it? I didn't deploy; investigar ações passadas; conversar sobre incidentes simples e tarefas atrasadas	Concluído	Alta	Sim	Sim	Sim	Sim
 A2	43	Passado e relato de trabalho	Past continuous para contexto	The server was restarting; I was debugging when...; descrever cenário de bug; contraste com past simple		Média					
 A2	44	Passado e relato de trabalho	Sequenciadores para narrar problemas	First, then, after that, before, while, finally; explicar reprodução de bug; ordem de ações em tickets		Alta					
 A2	45	Passado e relato de trabalho	Vocabulário de bugs e debugging	Bug, issue, crash, freeze, log, stack trace, reproduce, expected, actual, steps; escrever bug report A2		Alta					

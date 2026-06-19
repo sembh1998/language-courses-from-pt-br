@@ -33,23 +33,21 @@ from common import (
     topic_audio_dir,
 )
 
-MODEL_ID = 1735201001
-
-
 def stable_id(name: str) -> int:
     return int(hashlib.sha1(name.encode("utf-8")).hexdigest()[:10], 16)
 
 
-def build_model(model_name: str):
+def build_model(model_name: str, target_language_pt: str):
     import genanki
 
+    target_label = target_language_pt.capitalize()
     css = """
 .card { font-family: sans-serif; font-size: 24px; text-align: center; color: #222; background: #fdfdfb; }
 .example { font-size: 18px; color: #555; margin-top: 14px; }
 .translation { font-size: 16px; color: #888; font-style: italic; }
 """
     return genanki.Model(
-        MODEL_ID,
+        stable_id(f"model:{model_name}"),
         model_name,
         fields=[
             {"name": "Front"},
@@ -61,7 +59,7 @@ def build_model(model_name: str):
         ],
         templates=[
             {
-                "name": "DE → PT",
+                "name": f"{target_label} → PT",
                 "qfmt": "{{Front}}<br>{{FrontAudio}}",
                 "afmt": (
                     "{{FrontSide}}<hr id=answer>{{Back}}"
@@ -70,7 +68,7 @@ def build_model(model_name: str):
                 ),
             },
             {
-                "name": "PT → DE",
+                "name": f"PT → {target_label}",
                 "qfmt": "{{Back}}",
                 "afmt": (
                     "{{FrontSide}}<hr id=answer>{{Front}} {{FrontAudio}}"
@@ -173,7 +171,7 @@ def main() -> int:
 
     topic_dirs = resolve_topic_dirs(args.topics, course_root)
     selected_topics = bool(args.topics)
-    model = build_model(config["anki_model_name"])
+    model = build_model(config["anki_model_name"], config["target_language_pt"])
     decks = []
     media_files: list[str] = []
     total_notes = 0

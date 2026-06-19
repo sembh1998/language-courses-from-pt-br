@@ -1,0 +1,51 @@
+topic: 'Past simple: tarefas concluídas'
+level: A2
+cards:
+- front: fixed
+  back: corrigiu, consertou
+  example: I fixed the broken link yesterday.
+  example_translation: Eu corrigi o link quebrado ontem.
+- front: created
+  back: criou
+  example: We created a backup before the update.
+  example_translation: Criamos um backup antes da atualização.
+- front: deployed
+  back: implantou, fez deploy
+  example: The team deployed the new version on Tuesday.
+  example_translation: A equipe implantou a nova versão na terça-feira.
+- front: wrote
+  back: escreveu
+  example: Paula wrote a clear incident summary.
+  example_translation: Paula escreveu um resumo claro do incidente.
+- front: sent
+  back: enviou
+  example: I sent the report to the product manager.
+  example_translation: Enviei o relatório ao gerente de produto.
+- front: ran
+  back: executou, rodou
+  example: We ran the integration tests last night.
+  example_translation: Executamos os testes de integração ontem à noite.
+- front: found
+  back: encontrou
+  example: The engineer found the cause in the logs.
+  example_translation: O engenheiro encontrou a causa nos logs.
+- front: made
+  back: fez
+  example: She made a small change to the config.
+  example_translation: Ela fez uma pequena alteração na configuração.
+- front: read
+  back: leu
+  example: I read the documentation before the meeting.
+  example_translation: Eu li a documentação antes da reunião.
+- front: reviewed
+  back: revisou
+  example: The reviewer checked the code and approved it.
+  example_translation: O revisor verificou o código e o aprovou.
+- front: yesterday
+  back: ontem
+  example: Yesterday, we completed the migration.
+  example_translation: Ontem, concluímos a migração.
+- front: last week
+  back: na semana passada
+  example: Last week, I prepared the demo.
+  example_translation: Na semana passada, preparei a demonstração.

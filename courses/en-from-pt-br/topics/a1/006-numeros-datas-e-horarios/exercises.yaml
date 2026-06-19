@@ -35,11 +35,11 @@ exercises:
       - question: The meeting is ___ 10:30.
         answer: at
       - question: The sprint starts ___ Monday.
-        answer: on
+        answer: "on"
       - question: The release is ___ July.
         answer: in
       - question: The demo is ___ June 10.
-        answer: on
+        answer: "on"
       - question: The call is ___ noon.
         answer: at
       - question: The update is ___ 2026.

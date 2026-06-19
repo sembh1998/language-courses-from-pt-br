@@ -1,0 +1,579 @@
+{
+  "topic": "Partizip II como adjetivo",
+  "level": "B2",
+  "lesson": {
+    "objective": "Usar o Partizip II como adjetivo antes de substantivos, decliná-lo corretamente e interpretar seu valor de resultado, conclusão ou passividade em contextos cotidianos e formais.",
+    "explanation": "O **Partizip II** pode aparecer antes de um substantivo e funcionar como um\nadjetivo. Nesse caso, recebe as terminações normais da declinação adjetival:\n`das gekochte Essen`, `eine geschriebene Nachricht`, `mit den reparierten Geräten`.\n\nA forma do particípio depende do verbo: `kochen → gekocht`, `schreiben →\ngeschrieben`, `reparieren → repariert`. Depois, acrescenta-se a terminação\nexigida pelo artigo, gênero, número e caso: `gekocht + e`, `geschrieben + e`,\n`repariert + en`.\n\nSemanticamente, o Partizip II atributivo apresenta com frequência o\n**resultado de uma ação concluída**: `die geschlossene Tür` é a porta que foi\nfechada e agora está fechada. Com verbos transitivos, o substantivo costuma\ncorresponder ao objeto da ação: `die Firma repariert das Gerät → das reparierte\nGerät`.\n\nCom verbos intransitivos que formam o Perfekt com `sein`, também aparecem\nleituras ativas e concluídas: `die angekommenen Gäste` são os convidados que\nchegaram; `das verschwundene Dokument` é o documento que desapareceu.\n\nEm textos densos, o particípio pode receber complementos: `die gestern vom\nVorstand beschlossene Maßnahme`. Esses atributos estendidos são comuns em\nnotícias, relatórios e linguagem administrativa. Para compreendê-los, encontre\nprimeiro o substantivo principal e depois reconstrua uma oração relativa:\n`die Maßnahme, die gestern vom Vorstand beschlossen wurde`.\n",
+    "examples": [
+      {
+        "target": "das gekochte Essen",
+        "translation": "a comida cozida",
+        "note": "Resultado de kochen; neutro com artigo definido recebe -e."
+      },
+      {
+        "target": "die geschriebene Nachricht",
+        "translation": "a mensagem escrita",
+        "note": "O substantivo é o objeto da ação de escrever."
+      },
+      {
+        "target": "ein reparierter Drucker",
+        "translation": "uma impressora consertada",
+        "note": "Masculino nominativo com ein recebe -er."
+      },
+      {
+        "target": "mit den aktualisierten Daten",
+        "translation": "com os dados atualizados",
+        "note": "Dativo plural com artigo definido recebe -en."
+      },
+      {
+        "target": "die gestern veröffentlichte Studie",
+        "translation": "o estudo publicado ontem",
+        "note": "Atributo estendido típico da escrita formal."
+      }
+    ],
+    "common_mistakes": [
+      "Esquecer a terminação adjetival: `das gekocht Essen` deve ser `das gekochte Essen`.",
+      "Confundir Partizip I e II: `das kochende Wasser` ferve agora; `das gekochte Wasser` foi fervido.",
+      "Formar o particípio de verbos em -ieren com ge-: `repariert`, não `gerepariert`.",
+      "Interpretar todo Partizip II como passivo: `die angekommenen Gäste` tem valor ativo e concluído.",
+      "Perder o substantivo principal em atributos longos: comece pelo substantivo e reconstrua a oração relativa."
+    ],
+    "guided_practice": "Transforme mentalmente as relativas em atributos:\n\n1. `die Datei, die gelöscht wurde` → **die gelöschte Datei**\n2. `ein Bericht, der sorgfältig vorbereitet wurde` → **ein sorgfältig vorbereiteter Bericht**\n3. `die Gäste, die bereits angekommen sind` → **die bereits angekommenen Gäste**\n\nContraste:\n\n- `die sinkenden Kosten`: custos que estão diminuindo — Partizip I, ação em curso.\n- `die gesunkenen Kosten`: custos que diminuíram — Partizip II, mudança concluída.\n",
+    "summary": "O Partizip II funciona como adjetivo quando precede um substantivo e recebe terminação de declinação. Em geral expressa resultado, conclusão ou passividade; com certos verbos intransitivos, expressa uma ação ativa já concluída."
+  },
+  "vocabulary": [
+    {
+      "id": "gekocht",
+      "target": "gekocht",
+      "translation": "cozido",
+      "type": "adjective",
+      "gender": null,
+      "plural": null,
+      "example": "Das gekochte Gemüse steht schon auf dem Tisch.",
+      "example_translation": "Os legumes cozidos já estão sobre a mesa."
+    },
+    {
+      "id": "geschrieben",
+      "target": "geschrieben",
+      "translation": "escrito",
+      "type": "adjective",
+      "gender": null,
+      "plural": null,
+      "example": "Die geschriebene Nachricht war sehr präzise.",
+      "example_translation": "A mensagem escrita era muito precisa."
+    },
+    {
+      "id": "repariert",
+      "target": "repariert",
+      "translation": "consertado",
+      "type": "adjective",
+      "gender": null,
+      "plural": null,
+      "example": "Der reparierte Drucker funktioniert wieder.",
+      "example_translation": "A impressora consertada voltou a funcionar."
+    },
+    {
+      "id": "geschlossen",
+      "target": "geschlossen",
+      "translation": "fechado",
+      "type": "adjective",
+      "gender": null,
+      "plural": null,
+      "example": "Wir standen vor einer geschlossenen Tür.",
+      "example_translation": "Ficamos diante de uma porta fechada."
+    },
+    {
+      "id": "veroeffentlicht",
+      "target": "veröffentlicht",
+      "translation": "publicado",
+      "type": "adjective",
+      "gender": null,
+      "plural": null,
+      "example": "Die veröffentlichte Studie löste eine Debatte aus.",
+      "example_translation": "O estudo publicado provocou um debate."
+    },
+    {
+      "id": "aktualisiert",
+      "target": "aktualisiert",
+      "translation": "atualizado",
+      "type": "adjective",
+      "gender": null,
+      "plural": null,
+      "example": "Bitte verwenden Sie die aktualisierten Daten.",
+      "example_translation": "Por favor, use os dados atualizados."
+    },
+    {
+      "id": "beschlossen",
+      "target": "beschlossen",
+      "translation": "decidido, aprovado",
+      "type": "adjective",
+      "gender": null,
+      "plural": null,
+      "example": "Die beschlossene Maßnahme gilt ab Montag.",
+      "example_translation": "A medida aprovada vale a partir de segunda-feira."
+    },
+    {
+      "id": "angekommen",
+      "target": "angekommen",
+      "translation": "chegado",
+      "type": "adjective",
+      "gender": null,
+      "plural": null,
+      "example": "Die angekommenen Gäste warteten in der Lobby.",
+      "example_translation": "Os convidados que chegaram esperavam no saguão."
+    },
+    {
+      "id": "verschwunden",
+      "target": "verschwunden",
+      "translation": "desaparecido",
+      "type": "adjective",
+      "gender": null,
+      "plural": null,
+      "example": "Das verschwundene Dokument wurde im Archiv gefunden.",
+      "example_translation": "O documento desaparecido foi encontrado no arquivo."
+    },
+    {
+      "id": "gesunken",
+      "target": "gesunken",
+      "translation": "reduzido, que caiu",
+      "type": "adjective",
+      "gender": null,
+      "plural": null,
+      "example": "Die gesunkenen Kosten entlasten das Projekt.",
+      "example_translation": "Os custos reduzidos aliviam o projeto."
+    },
+    {
+      "id": "beschaedigt",
+      "target": "beschädigt",
+      "translation": "danificado",
+      "type": "adjective",
+      "gender": null,
+      "plural": null,
+      "example": "Das beschädigte Paket wurde zurückgeschickt.",
+      "example_translation": "O pacote danificado foi devolvido."
+    },
+    {
+      "id": "vorbereitet",
+      "target": "vorbereitet",
+      "translation": "preparado",
+      "type": "adjective",
+      "gender": null,
+      "plural": null,
+      "example": "Ein gut vorbereiteter Vortrag wirkt überzeugend.",
+      "example_translation": "Uma apresentação bem preparada parece convincente."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "title": "Formação e declinação",
+      "instruction": "Complete com o Partizip II e a terminação adjetival correta.",
+      "items": [
+        {
+          "type": "fill_blank",
+          "question": "Das ___ Essen riecht wunderbar. (kochen)",
+          "answer": "gekochte",
+          "explanation": "Gekocht recebe -e depois de das no nominativo neutro."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Wir prüfen die ___ Verträge. (unterschreiben)",
+          "answer": "unterschriebenen",
+          "explanation": "Plural acusativo com die exige a terminação -en."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Sie arbeitet mit einem ___ Computer. (reparieren)",
+          "answer": "reparierten",
+          "explanation": "Dativo masculino com einem exige -en; reparieren forma repariert sem ge-."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Ein sorgfältig ___ Bericht überzeugt die Leitung. (vorbereiten)",
+          "answer": "vorbereiteter",
+          "explanation": "Masculino nominativo com ein recebe a terminação forte -er."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "title": "Escolha contextual",
+      "instruction": "Escolha a forma que completa corretamente a frase.",
+      "items": [
+        {
+          "type": "multiple_choice",
+          "question": "Wir mussten vor der ___ Tür warten.",
+          "answer": "geschlossenen",
+          "distractors": [
+            "schließenden",
+            "geschlossen"
+          ],
+          "explanation": "Dativo feminino com der exige -en; a porta já estava fechada."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Die ___ Gäste gingen direkt zum Empfang.",
+          "answer": "angekommenen",
+          "distractors": [
+            "ankommenden",
+            "angekommene"
+          ],
+          "explanation": "Plural com artigo definido recebe -en; angekommen indica chegada concluída."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Das Unternehmen analysiert die stark ___ Kosten.",
+          "answer": "gesunkenen",
+          "distractors": [
+            "sinkenden",
+            "gesunkene"
+          ],
+          "explanation": "Gesunken descreve uma redução já ocorrida; plural acusativo com die recebe -en."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Er öffnete das gestern ___ Paket.",
+          "answer": "gelieferte",
+          "distractors": [
+            "liefernde",
+            "geliefert"
+          ],
+          "explanation": "Das Paket é neutro acusativo com artigo definido, por isso gelieferte."
+        }
+      ]
+    },
+    {
+      "type": "transformation",
+      "title": "Relativa para atributo",
+      "instruction": "Transforme a oração relativa em um atributo com Partizip II.",
+      "items": [
+        {
+          "type": "transformation",
+          "question": "Die Datei, die versehentlich gelöscht wurde, konnte wiederhergestellt werden.",
+          "answer": "Die versehentlich gelöschte Datei konnte wiederhergestellt werden.",
+          "explanation": "A relativa passiva vira gelöschte antes de Datei."
+        },
+        {
+          "type": "transformation",
+          "question": "Der Bericht, der gestern veröffentlicht wurde, enthält neue Zahlen.",
+          "answer": "Der gestern veröffentlichte Bericht enthält neue Zahlen.",
+          "explanation": "O advérbio gestern permanece antes do particípio no atributo estendido."
+        },
+        {
+          "type": "transformation",
+          "question": "Die Mitarbeiter, die bereits angekommen sind, warten im Saal.",
+          "answer": "Die bereits angekommenen Mitarbeiter warten im Saal.",
+          "explanation": "Ankommen forma o Perfekt com sein e permite um atributo ativo concluído."
+        },
+        {
+          "type": "transformation",
+          "question": "Wir besprechen die Maßnahmen, die vom Ausschuss beschlossen wurden.",
+          "answer": "Wir besprechen die vom Ausschuss beschlossenen Maßnahmen.",
+          "explanation": "O agente com von fica antes de beschlossenen no atributo estendido."
+        }
+      ]
+    },
+    {
+      "type": "contrast",
+      "title": "Partizip I ou Partizip II",
+      "instruction": "Escolha o particípio adequado e escreva a expressão completa.",
+      "items": [
+        {
+          "type": "contrast",
+          "question": "A água que está fervendo agora. (kochen)",
+          "answer": "das kochende Wasser",
+          "explanation": "Partizip I descreve uma ação ativa em andamento."
+        },
+        {
+          "type": "contrast",
+          "question": "A água que foi fervida antes do uso. (kochen)",
+          "answer": "das gekochte Wasser",
+          "explanation": "Partizip II descreve o resultado da ação concluída."
+        },
+        {
+          "type": "contrast",
+          "question": "Os preços que estão diminuindo. (sinken)",
+          "answer": "die sinkenden Preise",
+          "explanation": "Sinkend apresenta o processo atual de queda."
+        },
+        {
+          "type": "contrast",
+          "question": "Os preços que já diminuíram. (sinken)",
+          "answer": "die gesunkenen Preise",
+          "explanation": "Gesunken apresenta uma mudança já concluída."
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "title": "Produção controlada",
+      "instruction": "Traduza para o alemão usando o Partizip II como adjetivo.",
+      "items": [
+        {
+          "type": "translation",
+          "question": "A mensagem escrita contém todos os detalhes.",
+          "answer": "Die geschriebene Nachricht enthält alle Details.",
+          "explanation": "Geschrieben recebe -e com die no nominativo feminino."
+        },
+        {
+          "type": "translation",
+          "question": "Nós trabalhamos com os dados atualizados.",
+          "answer": "Wir arbeiten mit den aktualisierten Daten.",
+          "explanation": "Mit exige dativo, e o plural com den recebe -en."
+        },
+        {
+          "type": "translation",
+          "question": "O documento desaparecido estava no arquivo.",
+          "answer": "Das verschwundene Dokument war im Archiv.",
+          "explanation": "Verschwunden tem leitura ativa concluída e recebe -e com das."
+        },
+        {
+          "type": "translation",
+          "question": "A medida aprovada ontem entra em vigor hoje.",
+          "answer": "Die gestern beschlossene Maßnahme tritt heute in Kraft.",
+          "explanation": "Gestern precede o Partizip II em um atributo estendido."
+        }
+      ]
+    }
+  ],
+  "test": [
+    {
+      "type": "multiple_choice",
+      "question": "Qual frase descreve corretamente um resultado concluído?",
+      "answer": "Das reparierte Gerät ist wieder einsatzbereit.",
+      "distractors": [
+        "Das reparierende Gerät ist wieder einsatzbereit.",
+        "Das repariert Gerät ist wieder einsatzbereit."
+      ],
+      "explanation": "Reparierte expressa o resultado do conserto e recebe -e antes de Gerät.",
+      "points": 1
+    },
+    {
+      "type": "fill_blank",
+      "question": "Complete: Die gestern ___ Entscheidung wurde heute erklärt. (treffen)",
+      "answer": "getroffene",
+      "explanation": "Treffen forma getroffen; feminino nominativo com die recebe -e.",
+      "points": 1
+    },
+    {
+      "type": "transformation",
+      "question": "Transforme: Das Paket, das beim Transport beschädigt wurde, kam zurück.",
+      "answer": "Das beim Transport beschädigte Paket kam zurück.",
+      "explanation": "A relativa passiva vira um atributo estendido com beschädigte.",
+      "points": 2
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Qual expressão corresponde a \"os custos que já caíram\"?",
+      "answer": "die gesunkenen Kosten",
+      "distractors": [
+        "die sinkenden Kosten",
+        "die gesunkene Kosten"
+      ],
+      "explanation": "Gesunken indica mudança concluída, e o plural com die recebe -en.",
+      "points": 1
+    },
+    {
+      "type": "correction",
+      "question": "Corrija: Wir lesen den gestern veröffentlicht Bericht.",
+      "answer": "Wir lesen den gestern veröffentlichten Bericht.",
+      "explanation": "Masculino acusativo com den exige a terminação -en.",
+      "points": 1
+    },
+    {
+      "type": "translation",
+      "question": "Traduza para o alemão usando um atributo com particípio II: Os convidados que chegaram já estão no salão.",
+      "answer": "Die angekommenen Gäste sind schon im Saal.",
+      "explanation": "Angekommen descreve uma ação ativa concluída; plural com die recebe -en.",
+      "points": 2
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Qual forma do verbo reparieren está correta como particípio?",
+      "answer": "repariert",
+      "distractors": [
+        "gerepariert",
+        "reparieren"
+      ],
+      "explanation": "Verbos terminados em -ieren formam o Partizip II sem ge-.",
+      "points": 1
+    },
+    {
+      "type": "transformation",
+      "question": "Reescreva como relativa: die vom Team entwickelte Lösung",
+      "answer": "die Lösung, die vom Team entwickelt wurde",
+      "explanation": "O atributo passivo é expandido para uma oração relativa com wurde.",
+      "points": 2
+    },
+    {
+      "type": "fill_blank",
+      "question": "Complete: Sie sprach mit den neu ___ Kollegen. (einstellen)",
+      "answer": "eingestellten",
+      "explanation": "Dativo plural com den exige -en.",
+      "points": 1
+    },
+    {
+      "type": "short_answer",
+      "question": "Explique em português a diferença entre die steigenden Preise e die gestiegenen Preise.",
+      "answer": "Die steigenden Preise são preços que estão subindo; die gestiegenen Preise são preços que já subiram.",
+      "explanation": "O Partizip I marca processo em curso, enquanto o Partizip II marca mudança concluída.",
+      "points": 2
+    },
+    {
+      "type": "ordering",
+      "question": "Ordene: veröffentlichte / die / gestern / Studie",
+      "answer": "die gestern veröffentlichte Studie",
+      "explanation": "O complemento temporal fica antes do particípio e do substantivo principal.",
+      "points": 1
+    },
+    {
+      "type": "production",
+      "question": "Escreva uma frase formal com die beschlossene Maßnahme.",
+      "answer": "Die beschlossene Maßnahme wird im nächsten Monat umgesetzt.",
+      "explanation": "Resposta-modelo com atributo de Partizip II em contexto formal.",
+      "points": 2
+    }
+  ],
+  "story": {
+    "sections": [
+      {
+        "heading": "Ein unerwarteter Fund",
+        "sentences": [
+          {
+            "target": "Am Montag prüfte Lara die am Wochenende aktualisierten Projektdaten.",
+            "translation": "Na segunda-feira, Lara verificou os dados do projeto atualizados no fim de semana."
+          },
+          {
+            "target": "Dabei bemerkte sie mehrere falsch berechnete Werte in einer bereits veröffentlichten Tabelle.",
+            "translation": "Durante isso, ela percebeu vários valores calculados incorretamente em uma tabela já publicada."
+          },
+          {
+            "target": "Das vom externen Team gelieferte Material enthielt außerdem eine beschädigte Datei.",
+            "translation": "O material fornecido pela equipe externa também continha um arquivo danificado."
+          },
+          {
+            "target": "Lara informierte sofort die für den Bericht verantwortliche Kollegin.",
+            "translation": "Lara informou imediatamente a colega responsável pelo relatório."
+          },
+          {
+            "target": "Gemeinsam rekonstruierten sie die versehentlich gelöschten Formeln.",
+            "translation": "Juntas, elas reconstruíram as fórmulas apagadas por engano."
+          },
+          {
+            "target": "Die korrigierte Tabelle wurde noch am selben Nachmittag intern verteilt.",
+            "translation": "A tabela corrigida foi distribuída internamente ainda naquela tarde."
+          }
+        ]
+      },
+      {
+        "heading": "Die Entscheidung",
+        "sentences": [
+          {
+            "target": "Am nächsten Morgen diskutierte das Team die neu gewonnenen Erkenntnisse.",
+            "translation": "Na manhã seguinte, a equipe discutiu as conclusões recém-obtidas."
+          },
+          {
+            "target": "Der sorgfältig vorbereitete Vorschlag überzeugte schließlich auch die Projektleitung.",
+            "translation": "A proposta cuidadosamente preparada acabou convencendo também a direção do projeto."
+          },
+          {
+            "target": "Die gestern beschlossene Maßnahme verlangte eine zusätzliche Qualitätskontrolle.",
+            "translation": "A medida aprovada ontem exigia um controle de qualidade adicional."
+          },
+          {
+            "target": "Alle zukünftig veröffentlichten Tabellen sollten automatisch geprüft werden.",
+            "translation": "Todas as tabelas publicadas futuramente deveriam ser verificadas automaticamente."
+          },
+          {
+            "target": "Die bereits entstandenen Kosten blieben jedoch überschaubar.",
+            "translation": "Os custos já gerados, porém, permaneceram administráveis."
+          },
+          {
+            "target": "Am Ende war Lara mit der gemeinsam gefundenen Lösung zufrieden.",
+            "translation": "No fim, Lara ficou satisfeita com a solução encontrada em conjunto."
+          }
+        ]
+      }
+    ],
+    "vocabulary_notes": [
+      {
+        "target": "falsch berechnete Werte",
+        "note": "valores que foram calculados incorretamente"
+      },
+      {
+        "target": "versehentlich gelöscht",
+        "note": "apagado por engano"
+      },
+      {
+        "target": "neu gewonnene Erkenntnisse",
+        "note": "conclusões ou conhecimentos recém-obtidos"
+      },
+      {
+        "target": "die beschlossene Maßnahme",
+        "note": "a medida que foi aprovada"
+      },
+      {
+        "target": "die entstandenen Kosten",
+        "note": "os custos que surgiram ou foram gerados"
+      },
+      {
+        "target": "die gefundene Lösung",
+        "note": "a solução encontrada"
+      }
+    ],
+    "questions": [
+      {
+        "question": "Was bemerkte Lara in der veröffentlichten Tabelle?",
+        "answer": "Sie bemerkte mehrere falsch berechnete Werte.",
+        "explanation": "A segunda frase apresenta os valores calculados incorretamente."
+      },
+      {
+        "question": "Welches Problem hatte die vom externen Team gelieferte Datei?",
+        "answer": "Die Datei war beschädigt.",
+        "explanation": "O material externo continha um arquivo danificado."
+      },
+      {
+        "question": "Was rekonstruierten Lara und ihre Kollegin?",
+        "answer": "Sie rekonstruierten die versehentlich gelöschten Formeln.",
+        "explanation": "As fórmulas haviam sido apagadas por engano."
+      },
+      {
+        "question": "Welche zusätzliche Maßnahme beschloss das Team?",
+        "answer": "Das Team beschloss eine zusätzliche Qualitätskontrolle.",
+        "explanation": "A decisão exigiu um controle de qualidade adicional."
+      },
+      {
+        "question": "Warum blieben die Kosten überschaubar?",
+        "answer": "Der Text nennt keinen genauen Grund; er sagt nur, dass die bereits entstandenen Kosten überschaubar blieben.",
+        "explanation": "A resposta distingue informação explícita de inferência."
+      },
+      {
+        "question": "Nenne zwei Partizip-II-Attribute aus dem Text.",
+        "answer": "Zum Beispiel die aktualisierten Projektdaten und die gefundene Lösung.",
+        "explanation": "Há várias respostas possíveis retiradas da história."
+      }
+    ],
+    "practice": [
+      {
+        "question": "Transforme: die Tabelle, die bereits veröffentlicht wurde",
+        "answer": "die bereits veröffentlichte Tabelle",
+        "explanation": "A relativa passiva vira um atributo com Partizip II."
+      },
+      {
+        "question": "Complete: die versehentlich ___ Formeln (löschen)",
+        "answer": "gelöschten",
+        "explanation": "Plural com artigo definido exige -en."
+      },
+      {
+        "question": "Reescreva como relativa: der sorgfältig vorbereitete Vorschlag",
+        "answer": "der Vorschlag, der sorgfältig vorbereitet wurde",
+        "explanation": "O atributo é expandido para uma relativa passiva."
+      },
+      {
+        "question": "Explique o valor temporal de die bereits entstandenen Kosten.",
+        "answer": "Indica custos que já surgiram antes do momento narrado.",
+        "explanation": "Bereits reforça a leitura de resultado anterior."
+      }
+    ]
+  }
+}

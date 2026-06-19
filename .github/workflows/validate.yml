@@ -8,14 +8,54 @@ on:
 jobs:
   content-qa:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        course:
+          - de-from-pt-br
+          - en-from-pt-br
+          - es-from-pt-br
+          - fr-from-pt-br
+          - it-from-pt-br
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Install PyYAML
-        run: pip install PyYAML
+      - name: Install validation dependencies
+        run: pip install PyYAML jsonschema
+      - name: Structured compiler smoke test
+        if: matrix.course == 'de-from-pt-br'
+        run: python3 scripts/smoke-test-structured.py
       - name: Content QA
-        run: python3 scripts/validate-content.py --baseline qa-baseline.txt
+        run: |
+          course="courses/${{ matrix.course }}"
+          if find "$course/topics" -name lesson.md -print -quit | grep -q .; then
+            python3 scripts/validate-content.py "$course/topics" --baseline "$course/qa-baseline.txt"
+          else
+            echo "No generated topics yet for $course"
+          fi
+      - name: Structured source is compiled
+        run: |
+          course="courses/${{ matrix.course }}"
+          if find "$course/topics" \( -name content.json -o -name content.yaml \) -print -quit | grep -q .; then
+            python3 scripts/compile-content.py --check --course "$course"
+          else
+            echo "No structured topic sources yet for $course"
+          fi
+          if find "$course/reviews" \( -name review.json -o -name review.yaml \) -print -quit | grep -q .; then
+            python3 scripts/compile-review-content.py --check --course "$course"
+          else
+            echo "No structured review sources yet for $course"
+          fi
+      - name: Review QA
+        run: |
+          course="courses/${{ matrix.course }}"
+          baseline="$course/review-baseline.txt"
+          if [ -f "$baseline" ]; then
+            python3 scripts/validate-reviews.py "$course" --baseline "$baseline"
+          else
+            python3 scripts/validate-reviews.py "$course"
+          fi
       - name: Roadmap sync check
-        run: python3 scripts/sync-roadmap.py --check
+        run: python3 scripts/sync-roadmap.py --check "courses/${{ matrix.course }}"

@@ -1,7 +1,7 @@
 topic: Números cardinais
 level: A1
 cards:
-  - front: null
+  - front: "null"
     back: zero
     example: Die Nummer ist null.
     example_translation: O número é zero.

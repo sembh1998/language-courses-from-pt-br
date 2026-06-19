@@ -1,0 +1,560 @@
+{
+  "topic": "Past simple: tarefas concluídas",
+  "level": "A2",
+  "lesson": {
+    "objective": "Relatar tarefas profissionais concluídas usando o past simple com verbos regulares e irregulares frequentes, marcadores de tempo e uma sequência clara de ações.",
+    "explanation": "Use o **past simple** para ações concluídas em um momento passado: `I fixed the\nbug yesterday`, `We sent the report last Friday`. O marcador de tempo ajuda a\nmostrar que a ação terminou: `yesterday`, `last week`, `two hours ago`, `on\nMonday`.\n\nVerbos regulares recebem **-ed**: `fix → fixed`, `create → created`, `deploy →\ndeployed`. Observe ajustes de escrita: `plan → planned`, `study → studied`,\n`close → closed`. A pronúncia de **-ed** varia, mas a forma escrita permanece a\nmesma.\n\nVerbos irregulares têm formas próprias e precisam ser aprendidos em contexto:\n`write → wrote`, `send → sent`, `run → ran`, `find → found`, `make → made`,\n`read → read`. Em `read`, a escrita não muda, mas no passado a pronúncia é\nsemelhante a “red”.\n\nPara um update curto, use sujeito + verbo no passado + complemento: `Ana wrote\nthe migration notes.` Para organizar várias ações, use `first`, `then`, `after\nthat` e `finally`: `First, I ran the tests. Then, I fixed two errors.`\n\nNão use `did` em frases afirmativas comuns: `I sent the file`, não `I did sent\nthe file`. Perguntas e negativas com `did` serão tratadas no próximo tópico.\n",
+    "examples": [
+      {
+        "target": "I fixed the login bug yesterday.",
+        "translation": "Eu corrigi o bug de login ontem.",
+        "note": "Verbo regular com -ed e marcador de tempo."
+      },
+      {
+        "target": "We created a new test last week.",
+        "translation": "Nós criamos um novo teste na semana passada.",
+        "note": "Create termina em e, então recebe apenas -d."
+      },
+      {
+        "target": "Marta wrote the release notes.",
+        "translation": "Marta escreveu as notas da versão.",
+        "note": "Write tem a forma irregular wrote."
+      },
+      {
+        "target": "The team ran the full test suite on Friday.",
+        "translation": "A equipe executou a suíte completa de testes na sexta-feira.",
+        "note": "Run muda para ran no passado."
+      },
+      {
+        "target": "First, I found the cause. Then, I updated the config.",
+        "translation": "Primeiro, encontrei a causa. Depois, atualizei a configuração.",
+        "note": "Sequência de duas tarefas concluídas."
+      }
+    ],
+    "common_mistakes": [
+      "Usar o infinitivo em uma afirmação passada: `Yesterday I fix the bug` deve ser `Yesterday I fixed the bug`.",
+      "Regularizar um verbo irregular: use `wrote`, não `writed`; `sent`, não `sended`.",
+      "Usar did com o verbo no passado em afirmações: `I did sent` não é a forma neutra; use `I sent`.",
+      "Esquecer a duplicação em planned: `plan → planned`.",
+      "Misturar presente e passado no mesmo relato sem motivo."
+    ],
+    "guided_practice": "Transforme para o passado:\n\n- `I fix the issue every day.` → `I fixed the issue yesterday.`\n- `We run the tests every morning.` → `We ran the tests this morning.`\n- `She writes the update.` → `She wrote the update yesterday.`\n\nMini-update:\n\n`First, I reviewed the ticket. Then, I found the problem. Finally, I sent the fix.`\n",
+    "summary": "O past simple relata ações concluídas. Verbos regulares usam -ed; verbos irregulares têm formas próprias. Marcadores de tempo e conectores ajudam a transformar ações isoladas em um update profissional claro."
+  },
+  "vocabulary": [
+    {
+      "id": "fixed",
+      "target": "fixed",
+      "translation": "corrigiu, consertou",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "I fixed the broken link yesterday.",
+      "example_translation": "Eu corrigi o link quebrado ontem."
+    },
+    {
+      "id": "created",
+      "target": "created",
+      "translation": "criou",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "We created a backup before the update.",
+      "example_translation": "Criamos um backup antes da atualização."
+    },
+    {
+      "id": "deployed",
+      "target": "deployed",
+      "translation": "implantou, fez deploy",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "The team deployed the new version on Tuesday.",
+      "example_translation": "A equipe implantou a nova versão na terça-feira."
+    },
+    {
+      "id": "wrote",
+      "target": "wrote",
+      "translation": "escreveu",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "Paula wrote a clear incident summary.",
+      "example_translation": "Paula escreveu um resumo claro do incidente."
+    },
+    {
+      "id": "sent",
+      "target": "sent",
+      "translation": "enviou",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "I sent the report to the product manager.",
+      "example_translation": "Enviei o relatório ao gerente de produto."
+    },
+    {
+      "id": "ran",
+      "target": "ran",
+      "translation": "executou, rodou",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "We ran the integration tests last night.",
+      "example_translation": "Executamos os testes de integração ontem à noite."
+    },
+    {
+      "id": "found",
+      "target": "found",
+      "translation": "encontrou",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "The engineer found the cause in the logs.",
+      "example_translation": "O engenheiro encontrou a causa nos logs."
+    },
+    {
+      "id": "made",
+      "target": "made",
+      "translation": "fez",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "She made a small change to the config.",
+      "example_translation": "Ela fez uma pequena alteração na configuração."
+    },
+    {
+      "id": "read-past",
+      "target": "read",
+      "translation": "leu",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "I read the documentation before the meeting.",
+      "example_translation": "Eu li a documentação antes da reunião.",
+      "note": "No passado, a pronúncia é semelhante a “red”."
+    },
+    {
+      "id": "reviewed",
+      "target": "reviewed",
+      "translation": "revisou",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "The reviewer checked the code and approved it.",
+      "example_translation": "O revisor verificou o código e o aprovou."
+    },
+    {
+      "id": "yesterday",
+      "target": "yesterday",
+      "translation": "ontem",
+      "type": "adverb",
+      "gender": null,
+      "plural": null,
+      "example": "Yesterday, we completed the migration.",
+      "example_translation": "Ontem, concluímos a migração."
+    },
+    {
+      "id": "last-week",
+      "target": "last week",
+      "translation": "na semana passada",
+      "type": "phrase",
+      "gender": null,
+      "plural": null,
+      "example": "Last week, I prepared the demo.",
+      "example_translation": "Na semana passada, preparei a demonstração."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "title": "Verbos regulares",
+      "instruction": "Complete com a forma correta no past simple.",
+      "items": [
+        {
+          "type": "fill_blank",
+          "question": "Yesterday, I ___ the payment bug. (fix)",
+          "answer": "fixed",
+          "explanation": "Fix é regular e recebe -ed."
+        },
+        {
+          "type": "fill_blank",
+          "question": "We ___ a new staging environment last week. (create)",
+          "answer": "created",
+          "explanation": "Create já termina em e e recebe apenas -d."
+        },
+        {
+          "type": "fill_blank",
+          "question": "The team ___ the release carefully. (plan)",
+          "answer": "planned",
+          "explanation": "Plan duplica a consoante final antes de -ed."
+        },
+        {
+          "type": "fill_blank",
+          "question": "Ana ___ the old branch after the merge. (delete)",
+          "answer": "deleted",
+          "explanation": "Delete recebe -d e forma deleted."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "title": "Verbos irregulares",
+      "instruction": "Escolha a forma correta no passado.",
+      "items": [
+        {
+          "type": "multiple_choice",
+          "question": "Bruno ___ the weekly update yesterday.",
+          "answer": "wrote",
+          "distractors": [
+            "writed",
+            "write"
+          ],
+          "explanation": "O passado irregular de write é wrote."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "We ___ the full test suite before lunch.",
+          "answer": "ran",
+          "distractors": [
+            "runned",
+            "run"
+          ],
+          "explanation": "O passado irregular de run é ran."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "The analyst ___ the error in an old log file.",
+          "answer": "found",
+          "distractors": [
+            "finded",
+            "find"
+          ],
+          "explanation": "O passado irregular de find é found."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "I ___ the screenshots to the support team.",
+          "answer": "sent",
+          "distractors": [
+            "sended",
+            "send"
+          ],
+          "explanation": "O passado irregular de send é sent."
+        }
+      ]
+    },
+    {
+      "type": "transformation",
+      "title": "Presente para passado",
+      "instruction": "Reescreva a frase como uma tarefa concluída no momento indicado.",
+      "items": [
+        {
+          "type": "transformation",
+          "question": "I review the pull request every morning. Use: yesterday morning.",
+          "answer": "I reviewed the pull request yesterday morning.",
+          "explanation": "Review é regular e recebe -ed; o marcador indica passado concluído."
+        },
+        {
+          "type": "transformation",
+          "question": "She writes the release notes. Use: last Friday.",
+          "answer": "She wrote the release notes last Friday.",
+          "explanation": "Write muda para wrote."
+        },
+        {
+          "type": "transformation",
+          "question": "They run the security scan. Use: two hours ago.",
+          "answer": "They ran the security scan two hours ago.",
+          "explanation": "Run muda para ran e ago posiciona a ação no passado."
+        },
+        {
+          "type": "transformation",
+          "question": "We make a backup. Use: before the deployment.",
+          "answer": "We made a backup before the deployment.",
+          "explanation": "Make muda para made."
+        }
+      ]
+    },
+    {
+      "type": "ordering",
+      "title": "Sequência de update",
+      "instruction": "Organize as palavras para formar uma frase clara no passado.",
+      "items": [
+        {
+          "type": "ordering",
+          "question": "yesterday / fixed / I / two / bugs",
+          "answer": "I fixed two bugs yesterday.",
+          "explanation": "A ordem neutra é sujeito, verbo, objeto e marcador de tempo."
+        },
+        {
+          "type": "ordering",
+          "question": "then / sent / she / the report",
+          "answer": "Then, she sent the report.",
+          "explanation": "Then introduz a ação seguinte e sent é o passado de send."
+        },
+        {
+          "type": "ordering",
+          "question": "the tests / last night / we / ran",
+          "answer": "We ran the tests last night.",
+          "explanation": "Ran expressa a execução concluída."
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "title": "Relato profissional",
+      "instruction": "Traduza para o inglês usando o past simple.",
+      "items": [
+        {
+          "type": "translation",
+          "question": "Eu encontrei a causa nos logs ontem.",
+          "answer": "I found the cause in the logs yesterday.",
+          "explanation": "Find muda para found."
+        },
+        {
+          "type": "translation",
+          "question": "Nós criamos três novos testes na semana passada.",
+          "answer": "We created three new tests last week.",
+          "explanation": "Create é regular e forma created."
+        },
+        {
+          "type": "translation",
+          "question": "Ela escreveu a documentação e enviou o link.",
+          "answer": "She wrote the documentation and sent the link.",
+          "explanation": "Wrote e sent são formas irregulares."
+        },
+        {
+          "type": "translation",
+          "question": "Primeiro, executei os testes. Depois, corrigi o erro.",
+          "answer": "First, I ran the tests. Then, I fixed the error.",
+          "explanation": "First e then organizam duas ações concluídas."
+        }
+      ]
+    }
+  ],
+  "test": [
+    {
+      "type": "multiple_choice",
+      "question": "Qual frase relata corretamente uma tarefa concluída?",
+      "answer": "I deployed the fix yesterday.",
+      "distractors": [
+        "I deploy the fix yesterday.",
+        "I did deployed the fix yesterday."
+      ],
+      "explanation": "A afirmação no past simple usa deployed sem auxiliar did.",
+      "points": 1
+    },
+    {
+      "type": "fill_blank",
+      "question": "Complete: Marta ___ the incident report last night. (write)",
+      "answer": "wrote",
+      "explanation": "O passado de write é wrote.",
+      "points": 1
+    },
+    {
+      "type": "correction",
+      "question": "Corrija: We runned the tests before the release.",
+      "answer": "We ran the tests before the release.",
+      "explanation": "Run é irregular e muda para ran.",
+      "points": 1
+    },
+    {
+      "type": "translation",
+      "question": "Traduza para o inglês: O engenheiro encontrou o problema na configuração.",
+      "answer": "The engineer found the problem in the config.",
+      "explanation": "Found é o passado de find.",
+      "points": 2
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Qual é o passado correto de send?",
+      "answer": "sent",
+      "distractors": [
+        "sended",
+        "send"
+      ],
+      "explanation": "Send tem a forma irregular sent.",
+      "points": 1
+    },
+    {
+      "type": "ordering",
+      "question": "Ordene: last week / a backup / created / we",
+      "answer": "We created a backup last week.",
+      "explanation": "A frase segue sujeito, verbo passado, objeto e tempo.",
+      "points": 1
+    },
+    {
+      "type": "fill_blank",
+      "question": "Complete: I ___ the documentation before the call. (read)",
+      "answer": "read",
+      "explanation": "Read mantém a escrita no passado, embora a pronúncia mude.",
+      "points": 1
+    },
+    {
+      "type": "transformation",
+      "question": "Passe para o passado com yesterday: She makes a small change.",
+      "answer": "She made a small change yesterday.",
+      "explanation": "Make muda para made.",
+      "points": 2
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Qual sequência está correta?",
+      "answer": "First, I reviewed the ticket. Then, I fixed the bug.",
+      "distractors": [
+        "First, I review the ticket. Then, I fixed the bug.",
+        "First, I reviewed the ticket. Then, I fix the bug."
+      ],
+      "explanation": "As duas ações concluídas devem estar no passado.",
+      "points": 1
+    },
+    {
+      "type": "production",
+      "question": "Escreva um update de duas frases sobre tarefas concluídas ontem.",
+      "answer": "Yesterday, I reviewed the pull request. Then, I sent my comments.",
+      "explanation": "Resposta-modelo com dois verbos no passado e sequência clara.",
+      "points": 2
+    }
+  ],
+  "story": {
+    "sections": [
+      {
+        "heading": "A busy morning",
+        "sentences": [
+          {
+            "target": "Yesterday, Camila started work early because the team prepared an important release.",
+            "translation": "Ontem, Camila começou a trabalhar cedo porque a equipe preparou uma versão importante."
+          },
+          {
+            "target": "First, she read the deployment checklist and reviewed the open tickets.",
+            "translation": "Primeiro, ela leu a lista de verificação do deploy e revisou os tickets abertos."
+          },
+          {
+            "target": "She found an incorrect environment variable in the staging config.",
+            "translation": "Ela encontrou uma variável de ambiente incorreta na configuração de staging."
+          },
+          {
+            "target": "Camila fixed the value and created a short regression test.",
+            "translation": "Camila corrigiu o valor e criou um teste curto de regressão."
+          },
+          {
+            "target": "Then, she ran the full test suite and checked the logs.",
+            "translation": "Depois, ela executou a suíte completa de testes e verificou os logs."
+          },
+          {
+            "target": "All tests passed, so she sent the results to the release channel.",
+            "translation": "Todos os testes passaram, então ela enviou os resultados ao canal da versão."
+          }
+        ]
+      },
+      {
+        "heading": "The release update",
+        "sentences": [
+          {
+            "target": "In the afternoon, the team deployed the new version to production.",
+            "translation": "À tarde, a equipe implantou a nova versão em produção."
+          },
+          {
+            "target": "Camila watched the monitoring dashboard for thirty minutes.",
+            "translation": "Camila observou o painel de monitoramento por trinta minutos."
+          },
+          {
+            "target": "She saw no new errors and wrote a clear status update.",
+            "translation": "Ela não viu novos erros e escreveu uma atualização de status clara."
+          },
+          {
+            "target": "The product manager read the message and thanked the team.",
+            "translation": "O gerente de produto leu a mensagem e agradeceu à equipe."
+          },
+          {
+            "target": "Finally, Camila updated the ticket and closed the release task.",
+            "translation": "Por fim, Camila atualizou o ticket e encerrou a tarefa da versão."
+          },
+          {
+            "target": "She finished the day tired but satisfied.",
+            "translation": "Ela terminou o dia cansada, mas satisfeita."
+          }
+        ]
+      }
+    ],
+    "vocabulary_notes": [
+      {
+        "target": "deployment checklist",
+        "note": "lista de verificação usada antes de um deploy"
+      },
+      {
+        "target": "found",
+        "note": "passado irregular de find"
+      },
+      {
+        "target": "ran the full test suite",
+        "note": "executou a suíte completa de testes"
+      },
+      {
+        "target": "sent the results",
+        "note": "enviou os resultados; sent é o passado de send"
+      },
+      {
+        "target": "wrote a status update",
+        "note": "escreveu uma atualização de status"
+      },
+      {
+        "target": "closed the release task",
+        "note": "encerrou a tarefa da versão"
+      }
+    ],
+    "questions": [
+      {
+        "question": "Why did Camila start work early?",
+        "answer": "Because the team prepared an important release.",
+        "explanation": "A primeira frase explica o motivo."
+      },
+      {
+        "question": "What did she find in the staging config?",
+        "answer": "She found an incorrect environment variable.",
+        "explanation": "O problema estava em uma variável de ambiente."
+      },
+      {
+        "question": "What did Camila create after she fixed the value?",
+        "answer": "She created a short regression test.",
+        "explanation": "O teste foi criado após a correção."
+      },
+      {
+        "question": "Where did she send the test results?",
+        "answer": "She sent them to the release channel.",
+        "explanation": "Os resultados foram enviados ao canal da versão."
+      },
+      {
+        "question": "What did the team deploy in the afternoon?",
+        "answer": "The team deployed the new version to production.",
+        "explanation": "A ação principal da tarde foi o deploy."
+      },
+      {
+        "question": "How did Camila finish the day?",
+        "answer": "She finished the day tired but satisfied.",
+        "explanation": "A última frase descreve seu estado."
+      }
+    ],
+    "practice": [
+      {
+        "question": "Complete: Camila ___ an incorrect variable. (find)",
+        "answer": "found",
+        "explanation": "Find muda para found."
+      },
+      {
+        "question": "Complete: She ___ the full test suite. (run)",
+        "answer": "ran",
+        "explanation": "Run muda para ran."
+      },
+      {
+        "question": "Reescreva no passado: She writes a status update.",
+        "answer": "She wrote a status update.",
+        "explanation": "Write muda para wrote."
+      },
+      {
+        "question": "Liste três tarefas concluídas por Camila.",
+        "answer": "She fixed the value, created a regression test, and sent the results.",
+        "explanation": "A resposta reúne três ações explícitas da narrativa."
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "topic": "Artigos definidos",
+  "level": "A1",
+  "lesson": {
+    "objective": "Reconhecer e usar os artigos definidos antes de substantivos frequentes.",
+    "explanation": "Em alemão, os artigos definidos indicam o gênero do substantivo. Aprenda o\nsubstantivo junto com o artigo.\n",
+    "examples": [
+      {
+        "target": "der Tisch",
+        "translation": "a mesa",
+        "note": "Substantivo masculino."
+      }
+    ],
+    "common_mistakes": [
+      "Memorizar Tisch sem o artigo der."
+    ],
+    "guided_practice": "Complete mentalmente: ___ Tisch. Resposta: **der Tisch**.\n",
+    "summary": "Aprenda cada substantivo com seu artigo."
+  },
+  "vocabulary": [
+    {
+      "id": "tisch",
+      "target": "der Tisch",
+      "translation": "a mesa",
+      "type": "noun",
+      "gender": "masculine",
+      "plural": "die Tische",
+      "example": "Der Tisch ist neu.",
+      "example_translation": "A mesa é nova.",
+      "flashcard": true
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "instruction": "Complete com o artigo correto.",
+      "items": [
+        {
+          "type": "fill_blank",
+          "question": "___ Tisch ist neu.",
+          "answer": "Der",
+          "explanation": "Tisch é masculino e usa der no nominativo."
+        }
+      ]
+    }
+  ],
+  "test": [
+    {
+      "type": "multiple_choice",
+      "question": "Qual artigo completa corretamente ___ Tisch?",
+      "answer": "der",
+      "distractors": [
+        "die",
+        "das"
+      ],
+      "explanation": "Tisch é um substantivo masculino.",
+      "points": 1
+    }
+  ],
+  "story": {
+    "sections": [
+      {
+        "heading": "No escritório",
+        "sentences": [
+          {
+            "target": "Der Tisch ist neu.",
+            "translation": "A mesa é nova."
+          },
+          {
+            "target": "Ana stellt den Laptop auf den Tisch.",
+            "translation": "Ana coloca o laptop sobre a mesa."
+          }
+        ]
+      }
+    ],
+    "vocabulary_notes": [
+      {
+        "target": "auf den Tisch",
+        "note": "sobre a mesa, com movimento"
+      }
+    ],
+    "questions": [
+      {
+        "question": "Was ist neu?",
+        "answer": "Der Tisch ist neu.",
+        "explanation": "A primeira frase apresenta a mesa nova."
+      }
+    ],
+    "practice": [
+      {
+        "question": "Complete: ___ Tisch ist neu.",
+        "answer": "Der",
+        "explanation": "Tisch usa o artigo der."
+      }
+    ]
+  }
+}

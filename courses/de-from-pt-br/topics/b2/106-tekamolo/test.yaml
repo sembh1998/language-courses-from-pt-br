@@ -1,0 +1,51 @@
+topic: TeKaMoLo
+level: B2
+questions:
+- type: multiple_choice
+  question: Qual frase apresenta a ordem neutra TeKaMoLo?
+  answer: Wir fahren morgen wegen des Streiks mit dem Bus ins Büro.
+  options:
+  - Wir fahren morgen wegen des Streiks mit dem Bus ins Büro.
+  - Wir fahren ins Büro mit dem Bus wegen des Streiks morgen.
+  - Wir morgen fahren wegen des Streiks mit dem Bus ins Büro.
+- type: classification
+  question: Classifique o trecho aus technischen Gründen.
+  answer: causal
+- type: ordering
+  question: 'Ordene: heute / im Homeoffice / arbeitet / wegen des Wetters / sie'
+  answer: Sie arbeitet heute wegen des Wetters im Homeoffice.
+- type: multiple_choice
+  question: Qual frase enfatiza o local e mantém a sintaxe correta?
+  answer: Im Hauptbüro besprechen wir morgen den Vertrag.
+  options:
+  - Im Hauptbüro wir besprechen morgen den Vertrag.
+  - Im Hauptbüro besprechen wir morgen den Vertrag.
+  - Wir im Hauptbüro besprechen morgen den Vertrag.
+- type: correction
+  question: 'Corrija: Wir prüfen auf dem Server automatisch heute die Daten.'
+  answer: Wir prüfen die Daten heute automatisch auf dem Server.
+- type: translation
+  question: 'Traduza com ordem neutra: A equipe viajará na sexta-feira por motivos de custo de trem para Leipzig.'
+  answer: Das Team fährt am Freitag aus Kostengründen mit dem Zug nach Leipzig.
+- type: multiple_choice
+  question: Qual frase posiciona corretamente os pronomes?
+  answer: Wir haben es ihnen gestern online gezeigt.
+  options:
+  - Wir haben gestern online es ihnen gezeigt.
+  - Wir es ihnen haben gestern online gezeigt.
+  - Wir haben es ihnen gestern online gezeigt.
+- type: transformation
+  question: 'Dê foco à causa: Wir verschieben die Sitzung heute wegen des Ausfalls.'
+  answer: Wegen des Ausfalls verschieben wir die Sitzung heute.
+- type: fill_blank
+  question: 'Complete a subordinada: ..., weil wir morgen wegen der Wartung vor Ort ___. (arbeiten)'
+  answer: arbeiten
+- type: short_answer
+  question: Por que TeKaMoLo não deve ser tratado como uma fórmula absoluta?
+  answer: Porque foco, pronomes e informação conhecida ou nova podem alterar a ordem neutra dos adjuntos.
+- type: ordering
+  question: 'Ordene: per Kurier / wir / morgen / nach Dresden / schicken / die Unterlagen'
+  answer: Wir schicken die Unterlagen morgen per Kurier nach Dresden.
+- type: production
+  question: Escreva uma frase com um elemento temporal, um modal e um local.
+  answer: Wir testen das System morgen automatisch im Rechenzentrum.

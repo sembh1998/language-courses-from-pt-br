@@ -1,0 +1,45 @@
+topic: 'Past simple: tarefas concluídas'
+level: A2
+questions:
+- type: multiple_choice
+  question: Qual frase relata corretamente uma tarefa concluída?
+  answer: I deployed the fix yesterday.
+  options:
+  - I deployed the fix yesterday.
+  - I deploy the fix yesterday.
+  - I did deployed the fix yesterday.
+- type: fill_blank
+  question: 'Complete: Marta ___ the incident report last night. (write)'
+  answer: wrote
+- type: correction
+  question: 'Corrija: We runned the tests before the release.'
+  answer: We ran the tests before the release.
+- type: translation
+  question: 'Traduza para o inglês: O engenheiro encontrou o problema na configuração.'
+  answer: The engineer found the problem in the config.
+- type: multiple_choice
+  question: Qual é o passado correto de send?
+  answer: sent
+  options:
+  - sended
+  - sent
+  - send
+- type: ordering
+  question: 'Ordene: last week / a backup / created / we'
+  answer: We created a backup last week.
+- type: fill_blank
+  question: 'Complete: I ___ the documentation before the call. (read)'
+  answer: read
+- type: transformation
+  question: 'Passe para o passado com yesterday: She makes a small change.'
+  answer: She made a small change yesterday.
+- type: multiple_choice
+  question: Qual sequência está correta?
+  answer: First, I reviewed the ticket. Then, I fixed the bug.
+  options:
+  - First, I review the ticket. Then, I fixed the bug.
+  - First, I reviewed the ticket. Then, I fix the bug.
+  - First, I reviewed the ticket. Then, I fixed the bug.
+- type: production
+  question: Escreva um update de duas frases sobre tarefas concluídas ontem.
+  answer: Yesterday, I reviewed the pull request. Then, I sent my comments.

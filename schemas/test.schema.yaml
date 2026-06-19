@@ -1,8 +1,37 @@
-topic: string
-level: string
-questions:
-  - type: fill_blank | multiple_choice | translation | matching | short_answer
-    question: string
-    options:
-      - string
-    answer: string
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: Teste de tópico ou revisão
+type: object
+required: [topic, level, questions]
+properties:
+  topic:
+    type: string
+    minLength: 1
+  level:
+    type: string
+    pattern: "^(A1|A2|B1|B2|C1|C2)$"
+  questions:
+    type: array
+    minItems: 1
+    items:
+      type: object
+      required: [type, question, answer]
+      properties:
+        id: {}
+        type:
+          type: string
+          minLength: 1
+        question:
+          type: string
+          minLength: 1
+        options:
+          type: array
+          items:
+            type: string
+            minLength: 1
+        answer:
+          type: [string, number]
+        points:
+          type: number
+          minimum: 0
+      additionalProperties: true
+additionalProperties: true

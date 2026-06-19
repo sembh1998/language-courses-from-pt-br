@@ -1,0 +1,77 @@
+topic: 'Past simple: tarefas concluídas'
+level: A2
+exercises:
+- type: fill_blank
+  title: Verbos regulares
+  instruction: Complete com a forma correta no past simple.
+  items:
+  - question: Yesterday, I ___ the payment bug. (fix)
+    answer: fixed
+  - question: We ___ a new staging environment last week. (create)
+    answer: created
+  - question: The team ___ the release carefully. (plan)
+    answer: planned
+  - question: Ana ___ the old branch after the merge. (delete)
+    answer: deleted
+- type: multiple_choice
+  title: Verbos irregulares
+  instruction: Escolha a forma correta no passado.
+  items:
+  - question: Bruno ___ the weekly update yesterday.
+    answer: wrote
+    options:
+    - wrote
+    - writed
+    - write
+  - question: We ___ the full test suite before lunch.
+    answer: ran
+    options:
+    - runned
+    - ran
+    - run
+  - question: The analyst ___ the error in an old log file.
+    answer: found
+    options:
+    - finded
+    - find
+    - found
+  - question: I ___ the screenshots to the support team.
+    answer: sent
+    options:
+    - sent
+    - sended
+    - send
+- type: transformation
+  title: Presente para passado
+  instruction: Reescreva a frase como uma tarefa concluída no momento indicado.
+  items:
+  - question: 'I review the pull request every morning. Use: yesterday morning.'
+    answer: I reviewed the pull request yesterday morning.
+  - question: 'She writes the release notes. Use: last Friday.'
+    answer: She wrote the release notes last Friday.
+  - question: 'They run the security scan. Use: two hours ago.'
+    answer: They ran the security scan two hours ago.
+  - question: 'We make a backup. Use: before the deployment.'
+    answer: We made a backup before the deployment.
+- type: ordering
+  title: Sequência de update
+  instruction: Organize as palavras para formar uma frase clara no passado.
+  items:
+  - question: yesterday / fixed / I / two / bugs
+    answer: I fixed two bugs yesterday.
+  - question: then / sent / she / the report
+    answer: Then, she sent the report.
+  - question: the tests / last night / we / ran
+    answer: We ran the tests last night.
+- type: translation
+  title: Relato profissional
+  instruction: Traduza para o inglês usando o past simple.
+  items:
+  - question: Eu encontrei a causa nos logs ontem.
+    answer: I found the cause in the logs yesterday.
+  - question: Nós criamos três novos testes na semana passada.
+    answer: We created three new tests last week.
+  - question: Ela escreveu a documentação e enviou o link.
+    answer: She wrote the documentation and sent the link.
+  - question: Primeiro, executei os testes. Depois, corrigi o erro.
+    answer: First, I ran the tests. Then, I fixed the error.

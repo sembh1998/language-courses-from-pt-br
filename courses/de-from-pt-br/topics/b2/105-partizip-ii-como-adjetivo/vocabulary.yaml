@@ -1,0 +1,87 @@
+topic: Partizip II como adjetivo
+level: B2
+words:
+- german: gekocht
+  translation: cozido
+  type: adjective
+  gender: null
+  plural: null
+  example: Das gekochte Gemüse steht schon auf dem Tisch.
+  example_translation: Os legumes cozidos já estão sobre a mesa.
+- german: geschrieben
+  translation: escrito
+  type: adjective
+  gender: null
+  plural: null
+  example: Die geschriebene Nachricht war sehr präzise.
+  example_translation: A mensagem escrita era muito precisa.
+- german: repariert
+  translation: consertado
+  type: adjective
+  gender: null
+  plural: null
+  example: Der reparierte Drucker funktioniert wieder.
+  example_translation: A impressora consertada voltou a funcionar.
+- german: geschlossen
+  translation: fechado
+  type: adjective
+  gender: null
+  plural: null
+  example: Wir standen vor einer geschlossenen Tür.
+  example_translation: Ficamos diante de uma porta fechada.
+- german: veröffentlicht
+  translation: publicado
+  type: adjective
+  gender: null
+  plural: null
+  example: Die veröffentlichte Studie löste eine Debatte aus.
+  example_translation: O estudo publicado provocou um debate.
+- german: aktualisiert
+  translation: atualizado
+  type: adjective
+  gender: null
+  plural: null
+  example: Bitte verwenden Sie die aktualisierten Daten.
+  example_translation: Por favor, use os dados atualizados.
+- german: beschlossen
+  translation: decidido, aprovado
+  type: adjective
+  gender: null
+  plural: null
+  example: Die beschlossene Maßnahme gilt ab Montag.
+  example_translation: A medida aprovada vale a partir de segunda-feira.
+- german: angekommen
+  translation: chegado
+  type: adjective
+  gender: null
+  plural: null
+  example: Die angekommenen Gäste warteten in der Lobby.
+  example_translation: Os convidados que chegaram esperavam no saguão.
+- german: verschwunden
+  translation: desaparecido
+  type: adjective
+  gender: null
+  plural: null
+  example: Das verschwundene Dokument wurde im Archiv gefunden.
+  example_translation: O documento desaparecido foi encontrado no arquivo.
+- german: gesunken
+  translation: reduzido, que caiu
+  type: adjective
+  gender: null
+  plural: null
+  example: Die gesunkenen Kosten entlasten das Projekt.
+  example_translation: Os custos reduzidos aliviam o projeto.
+- german: beschädigt
+  translation: danificado
+  type: adjective
+  gender: null
+  plural: null
+  example: Das beschädigte Paket wurde zurückgeschickt.
+  example_translation: O pacote danificado foi devolvido.
+- german: vorbereitet
+  translation: preparado
+  type: adjective
+  gender: null
+  plural: null
+  example: Ein gut vorbereiteter Vortrag wirkt überzeugend.
+  example_translation: Uma apresentação bem preparada parece convincente.

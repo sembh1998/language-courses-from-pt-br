@@ -1,0 +1,610 @@
+{
+  "topic": "TeKaMoLo",
+  "level": "B2",
+  "lesson": {
+    "objective": "Organizar complementos circunstanciais em alemão com o princípio Temporal–Kausal–Modal–Lokal, reconhecer variações motivadas por foco e produzir frases naturais com vários elementos no campo médio.",
+    "explanation": "**TeKaMoLo** é uma orientação para ordenar informações circunstanciais:\n\n- **Te**mporal: quando? por quanto tempo? com que frequência?\n- **Ka**usal: por quê? por qual motivo?\n- **Mo**dal: como? com que meio? de que maneira?\n- **Lo**kal: onde? para onde? de onde?\n\nNa ordem neutra, esses elementos aparecem frequentemente nessa sequência:\n`Wir fahren morgen wegen des Streiks mit dem Bus ins Büro.` O verbo conjugado\ncontinua na posição 2; TeKaMoLo organiza sobretudo o **Mittelfeld**, isto é, a\nregião entre o verbo conjugado e os elementos finais da frase.\n\nTeKaMoLo não é uma fórmula absoluta. Um elemento pode ocupar a primeira posição\npara estabelecer tema ou contraste: `Wegen des Streiks fahren wir morgen mit\ndem Bus ins Büro.` Depois desse elemento, o verbo conjugado permanece na posição\n2 e o sujeito vem em seguida.\n\nPronomes e objetos muito curtos tendem a aparecer cedo: `Ich habe es ihm gestern\nim Büro erklärt.` Além disso, informações conhecidas geralmente precedem\ninformações novas, e elementos enfatizados podem ser deslocados. Por isso,\nTeKaMoLo deve ser entendido como a ordem **neutra dos adjuntos**, não como uma\nregra que ignora foco, pronomes ou estrutura informacional.\n\nEm orações subordinadas, o verbo vai ao final, mas a sequência dos adjuntos\ncontinua útil: `..., weil wir morgen wegen des Streiks mit dem Bus ins Büro\nfahren.` Para revisar uma frase longa, identifique cada bloco pela pergunta que\nresponde e reorganize apenas os elementos realmente comparáveis.\n",
+    "examples": [
+      {
+        "target": "Wir arbeiten heute wegen der Frist besonders konzentriert im Büro.",
+        "translation": "Trabalhamos hoje, por causa do prazo, de forma especialmente concentrada no escritório.",
+        "note": "Temporal – causal – modal – local."
+      },
+      {
+        "target": "Das Team reist nächste Woche aus Kostengründen mit dem Zug nach Hamburg.",
+        "translation": "A equipe viaja na próxima semana, por motivos de custo, de trem para Hamburgo.",
+        "note": "Ordem neutra completa de TeKaMoLo."
+      },
+      {
+        "target": "Wegen des Wetters findet die Besprechung heute online statt.",
+        "translation": "Por causa do tempo, a reunião acontece hoje on-line.",
+        "note": "O causal recebe foco na primeira posição."
+      },
+      {
+        "target": "Ich habe es ihr gestern im Büro erklärt.",
+        "translation": "Eu expliquei isso a ela ontem no escritório.",
+        "note": "Pronomes aparecem antes dos adjuntos."
+      },
+      {
+        "target": "weil wir morgen mit großer Sorgfalt vor Ort arbeiten",
+        "translation": "porque trabalharemos amanhã com muito cuidado no local",
+        "note": "Na subordinada, o verbo vai ao final."
+      }
+    ],
+    "common_mistakes": [
+      "Tratar TeKaMoLo como regra inflexível e considerar toda variação um erro.",
+      "Colocar o verbo depois do sujeito quando outro elemento ocupa a primeira posição: `Morgen wir fahren` está errado; use `Morgen fahren wir`.",
+      "Confundir causa e modo: `wegen des Regens` é causal; `mit dem Bus` é modal.",
+      "Forçar pronomes para depois de todos os adjuntos: formas curtas como `es` e `ihm` tendem a aparecer cedo.",
+      "Esquecer o verbo final na subordinada ao reorganizar os complementos."
+    ],
+    "guided_practice": "Classifique os blocos:\n\n`Wir liefern morgen wegen der Verzögerung per Kurier nach Köln.`\n\n- `morgen` = temporal\n- `wegen der Verzögerung` = causal\n- `per Kurier` = modal\n- `nach Köln` = local\n\nPara dar foco à causa, mova somente esse bloco para o início:\n`Wegen der Verzögerung liefern wir morgen per Kurier nach Köln.`\n\nObserve que o verbo `liefern` continua na posição 2.\n",
+    "summary": "TeKaMoLo descreve a ordem neutra temporal–causal–modal–local no campo médio. A primeira posição pode mudar por foco, pronomes tendem a vir cedo e o verbo continua obedecendo às regras da oração principal ou subordinada."
+  },
+  "vocabulary": [
+    {
+      "id": "heute",
+      "target": "heute",
+      "translation": "hoje",
+      "type": "adverb",
+      "gender": null,
+      "plural": null,
+      "example": "Wir besprechen das Problem heute im Büro.",
+      "example_translation": "Discutimos o problema hoje no escritório."
+    },
+    {
+      "id": "aufgrund",
+      "target": "aufgrund der Verzögerung",
+      "translation": "por causa do atraso",
+      "type": "phrase",
+      "gender": null,
+      "plural": null,
+      "example": "Aufgrund der Verzögerung ändern wir den Plan.",
+      "example_translation": "Por causa do atraso, mudamos o plano."
+    },
+    {
+      "id": "sorgfaeltig",
+      "target": "mit großer Sorgfalt",
+      "translation": "com muito cuidado",
+      "type": "phrase",
+      "gender": null,
+      "plural": null,
+      "example": "Die Techniker prüfen das System mit großer Sorgfalt.",
+      "example_translation": "Os técnicos verificam o sistema com muito cuidado."
+    },
+    {
+      "id": "vor-ort",
+      "target": "vor Ort",
+      "translation": "no local",
+      "type": "phrase",
+      "gender": null,
+      "plural": null,
+      "example": "Morgen arbeitet ein Spezialist vor Ort.",
+      "example_translation": "Amanhã, um especialista trabalha no local."
+    },
+    {
+      "id": "aus-kostengruenden",
+      "target": "aus Kostengründen",
+      "translation": "por motivos de custo",
+      "type": "phrase",
+      "gender": null,
+      "plural": null,
+      "example": "Wir reisen aus Kostengründen mit dem Zug.",
+      "example_translation": "Viajamos de trem por motivos de custo."
+    },
+    {
+      "id": "per-kurier",
+      "target": "per Kurier",
+      "translation": "por serviço de entrega",
+      "type": "phrase",
+      "gender": null,
+      "plural": null,
+      "example": "Die Unterlagen werden per Kurier geschickt.",
+      "example_translation": "Os documentos são enviados por serviço de entrega."
+    },
+    {
+      "id": "naechste-woche",
+      "target": "nächste Woche",
+      "translation": "na próxima semana",
+      "type": "phrase",
+      "gender": null,
+      "plural": null,
+      "example": "Das Team fährt nächste Woche nach Bremen.",
+      "example_translation": "A equipe vai para Bremen na próxima semana."
+    },
+    {
+      "id": "wegen",
+      "target": "wegen des Streiks",
+      "translation": "por causa da greve",
+      "type": "phrase",
+      "gender": null,
+      "plural": null,
+      "example": "Wegen des Streiks beginnt die Sitzung später.",
+      "example_translation": "Por causa da greve, a reunião começa mais tarde."
+    },
+    {
+      "id": "online",
+      "target": "online",
+      "translation": "on-line",
+      "type": "adverb",
+      "gender": null,
+      "plural": null,
+      "example": "Wir führen das Gespräch heute online.",
+      "example_translation": "Realizamos a conversa hoje on-line."
+    },
+    {
+      "id": "mittelfeld",
+      "target": "das Mittelfeld",
+      "translation": "o campo médio da oração",
+      "type": "noun",
+      "gender": "neuter",
+      "plural": "die Mittelfelder",
+      "example": "Im Mittelfeld stehen oft mehrere Ergänzungen.",
+      "example_translation": "No campo médio, muitas vezes aparecem vários complementos."
+    },
+    {
+      "id": "hervorheben",
+      "target": "hervorheben",
+      "translation": "destacar, enfatizar",
+      "type": "verb",
+      "gender": null,
+      "plural": null,
+      "example": "Der erste Satzteil kann eine Information hervorheben.",
+      "example_translation": "O primeiro componente da frase pode destacar uma informação."
+    },
+    {
+      "id": "reihenfolge",
+      "target": "die Reihenfolge",
+      "translation": "a sequência, a ordem",
+      "type": "noun",
+      "gender": "feminine",
+      "plural": "die Reihenfolgen",
+      "example": "Diese Reihenfolge klingt in einem neutralen Kontext natürlich.",
+      "example_translation": "Essa sequência soa natural em um contexto neutro."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "classification",
+      "title": "Identifique os blocos",
+      "instruction": "Classifique o trecho destacado como temporal, causal, modal ou local.",
+      "items": [
+        {
+          "type": "classification",
+          "question": "Wir arbeiten **morgen** im Labor.",
+          "answer": "temporal",
+          "explanation": "Morgen responde à pergunta quando."
+        },
+        {
+          "type": "classification",
+          "question": "Die Sitzung fällt **wegen einer Störung** aus.",
+          "answer": "causal",
+          "explanation": "Wegen einer Störung apresenta o motivo."
+        },
+        {
+          "type": "classification",
+          "question": "Sie löste das Problem **mit viel Geduld**.",
+          "answer": "modal",
+          "explanation": "Mit viel Geduld descreve a maneira."
+        },
+        {
+          "type": "classification",
+          "question": "Der Workshop findet **in Berlin** statt.",
+          "answer": "local",
+          "explanation": "In Berlin responde à pergunta onde."
+        }
+      ]
+    },
+    {
+      "type": "ordering",
+      "title": "Ordem neutra",
+      "instruction": "Organize os blocos segundo TeKaMoLo e mantenha o verbo na posição adequada.",
+      "items": [
+        {
+          "type": "ordering",
+          "question": "Wir fahren / ins Rechenzentrum / morgen / wegen der Wartung / mit einem Mietwagen.",
+          "answer": "Wir fahren morgen wegen der Wartung mit einem Mietwagen ins Rechenzentrum.",
+          "explanation": "A sequência é temporal, causal, modal e local."
+        },
+        {
+          "type": "ordering",
+          "question": "Das Team arbeitet / im Büro / heute / aus Sicherheitsgründen / besonders vorsichtig.",
+          "answer": "Das Team arbeitet heute aus Sicherheitsgründen besonders vorsichtig im Büro.",
+          "explanation": "Heute é temporal, aus Sicherheitsgründen causal, vorsichtig modal e im Büro local."
+        },
+        {
+          "type": "ordering",
+          "question": "Wir liefern / nach München / am Freitag / wegen der Frist / per Kurier.",
+          "answer": "Wir liefern am Freitag wegen der Frist per Kurier nach München.",
+          "explanation": "Os quatro adjuntos seguem a ordem neutra TeKaMoLo."
+        },
+        {
+          "type": "ordering",
+          "question": "Die Entwickler testen / auf dem Server / nachts / wegen der geringeren Last / automatisch.",
+          "answer": "Die Entwickler testen nachts wegen der geringeren Last automatisch auf dem Server.",
+          "explanation": "Nachts, causa, modo e local aparecem nessa sequência."
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "title": "Frases naturais",
+      "instruction": "Escolha a frase mais neutra e natural no contexto apresentado.",
+      "items": [
+        {
+          "type": "multiple_choice",
+          "question": "Sem foco especial, qual frase organiza quatro adjuntos adequadamente?",
+          "answer": "Wir arbeiten morgen wegen der Frist konzentriert im Büro.",
+          "distractors": [
+            "Wir arbeiten im Büro konzentriert wegen der Frist morgen.",
+            "Wir morgen arbeiten wegen der Frist konzentriert im Büro."
+          ],
+          "explanation": "A primeira opção segue TeKaMoLo e mantém o verbo na posição 2."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual frase enfatiza corretamente a causa?",
+          "answer": "Wegen des Ausfalls arbeiten wir heute von zu Hause aus.",
+          "distractors": [
+            "Wegen des Ausfalls wir arbeiten heute von zu Hause aus.",
+            "Wir wegen des Ausfalls heute arbeiten von zu Hause aus."
+          ],
+          "explanation": "O causal ocupa o campo inicial, seguido do verbo e do sujeito."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual frase posiciona naturalmente os pronomes?",
+          "answer": "Ich habe es ihm gestern im Büro erklärt.",
+          "distractors": [
+            "Ich habe gestern im Büro es ihm erklärt.",
+            "Ich es ihm habe gestern im Büro erklärt."
+          ],
+          "explanation": "Os pronomes átonos aparecem cedo no campo médio."
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Qual subordinada está correta?",
+          "answer": "weil wir morgen wegen des Termins mit dem Zug nach Köln fahren",
+          "distractors": [
+            "weil wir fahren morgen wegen des Termins mit dem Zug nach Köln",
+            "weil morgen wir wegen des Termins fahren mit dem Zug nach Köln"
+          ],
+          "explanation": "Na subordinada, o verbo vai ao final, enquanto os adjuntos mantêm ordem natural."
+        }
+      ]
+    },
+    {
+      "type": "transformation",
+      "title": "Mudança de foco",
+      "instruction": "Coloque o elemento indicado no início e faça a inversão necessária.",
+      "items": [
+        {
+          "type": "transformation",
+          "question": "Wir treffen uns morgen im Hauptbüro. Dê foco a morgen.",
+          "answer": "Morgen treffen wir uns im Hauptbüro.",
+          "explanation": "O temporal ocupa a primeira posição e o verbo continua na posição 2."
+        },
+        {
+          "type": "transformation",
+          "question": "Das Team fährt nächste Woche aus Kostengründen mit dem Zug nach Hamburg. Dê foco à causa.",
+          "answer": "Aus Kostengründen fährt das Team nächste Woche mit dem Zug nach Hamburg.",
+          "explanation": "O bloco causal vai ao início e o sujeito passa para depois do verbo."
+        },
+        {
+          "type": "transformation",
+          "question": "Wir prüfen die Anlage morgen mit einem Spezialgerät vor Ort. Dê foco ao local.",
+          "answer": "Vor Ort prüfen wir die Anlage morgen mit einem Spezialgerät.",
+          "explanation": "O local em posição inicial recebe foco; o restante continua gramatical."
+        },
+        {
+          "type": "transformation",
+          "question": "Sie löste das Problem gestern mit großer Geduld im Labor. Dê foco ao modo.",
+          "answer": "Mit großer Geduld löste sie das Problem gestern im Labor.",
+          "explanation": "O elemento modal abre a frase e exige inversão verbo-sujeito."
+        }
+      ]
+    },
+    {
+      "type": "correction",
+      "title": "Revisão de ordem",
+      "instruction": "Corrija a frase preservando o sentido neutro.",
+      "items": [
+        {
+          "type": "correction",
+          "question": "Morgen wir besprechen den Vorfall im Büro.",
+          "answer": "Morgen besprechen wir den Vorfall im Büro.",
+          "explanation": "Com morgen no início, o verbo deve ocupar a posição 2."
+        },
+        {
+          "type": "correction",
+          "question": "Wir fahren nach Berlin mit dem Zug morgen.",
+          "answer": "Wir fahren morgen mit dem Zug nach Berlin.",
+          "explanation": "A ordem neutra coloca o temporal antes do modal e do local."
+        },
+        {
+          "type": "correction",
+          "question": "Weil wir morgen arbeiten im Büro, können wir uns treffen.",
+          "answer": "Weil wir morgen im Büro arbeiten, können wir uns treffen.",
+          "explanation": "Na subordinada, arbeiten vai ao final."
+        },
+        {
+          "type": "correction",
+          "question": "Ich habe gestern im Büro es ihm gezeigt.",
+          "answer": "Ich habe es ihm gestern im Büro gezeigt.",
+          "explanation": "Os pronomes curtos ficam antes dos adjuntos."
+        }
+      ]
+    },
+    {
+      "type": "translation",
+      "title": "Aplicação em contexto",
+      "instruction": "Traduza para o alemão com uma ordem natural.",
+      "items": [
+        {
+          "type": "translation",
+          "question": "Nós enviaremos os documentos amanhã, por causa do prazo, por serviço de entrega para Bonn.",
+          "answer": "Wir schicken die Unterlagen morgen wegen der Frist per Kurier nach Bonn.",
+          "explanation": "A tradução segue temporal, causal, modal e local."
+        },
+        {
+          "type": "translation",
+          "question": "Por motivos de segurança, trabalhamos hoje cuidadosamente no laboratório.",
+          "answer": "Aus Sicherheitsgründen arbeiten wir heute sorgfältig im Labor.",
+          "explanation": "A causa recebe foco inicial; o verbo permanece na posição 2."
+        },
+        {
+          "type": "translation",
+          "question": "Eu expliquei isso a ela ontem no escritório.",
+          "answer": "Ich habe es ihr gestern im Büro erklärt.",
+          "explanation": "Os pronomes es e ihr aparecem antes dos adjuntos."
+        },
+        {
+          "type": "translation",
+          "question": "A reunião acontecerá na próxima semana on-line.",
+          "answer": "Die Besprechung findet nächste Woche online statt.",
+          "explanation": "O temporal precede o elemento modal online."
+        }
+      ]
+    }
+  ],
+  "test": [
+    {
+      "type": "multiple_choice",
+      "question": "Qual frase apresenta a ordem neutra TeKaMoLo?",
+      "answer": "Wir fahren morgen wegen des Streiks mit dem Bus ins Büro.",
+      "distractors": [
+        "Wir fahren ins Büro mit dem Bus wegen des Streiks morgen.",
+        "Wir morgen fahren wegen des Streiks mit dem Bus ins Büro."
+      ],
+      "explanation": "A frase organiza temporal, causal, modal e local e mantém o verbo na posição 2.",
+      "points": 1
+    },
+    {
+      "type": "classification",
+      "question": "Classifique o trecho aus technischen Gründen.",
+      "answer": "causal",
+      "explanation": "A expressão apresenta o motivo de uma ação.",
+      "points": 1
+    },
+    {
+      "type": "ordering",
+      "question": "Ordene: heute / im Homeoffice / arbeitet / wegen des Wetters / sie",
+      "answer": "Sie arbeitet heute wegen des Wetters im Homeoffice.",
+      "explanation": "Temporal precede causal e local; o verbo ocupa a posição 2.",
+      "points": 2
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Qual frase enfatiza o local e mantém a sintaxe correta?",
+      "answer": "Im Hauptbüro besprechen wir morgen den Vertrag.",
+      "distractors": [
+        "Im Hauptbüro wir besprechen morgen den Vertrag.",
+        "Wir im Hauptbüro besprechen morgen den Vertrag."
+      ],
+      "explanation": "Com o local no campo inicial, o verbo vem antes do sujeito.",
+      "points": 1
+    },
+    {
+      "type": "correction",
+      "question": "Corrija: Wir prüfen auf dem Server automatisch heute die Daten.",
+      "answer": "Wir prüfen die Daten heute automatisch auf dem Server.",
+      "explanation": "O objeto aparece antes dos adjuntos; temporal precede modal e local.",
+      "points": 2
+    },
+    {
+      "type": "translation",
+      "question": "Traduza com ordem neutra: A equipe viajará na sexta-feira por motivos de custo de trem para Leipzig.",
+      "answer": "Das Team fährt am Freitag aus Kostengründen mit dem Zug nach Leipzig.",
+      "explanation": "A sequência é temporal, causal, modal e local.",
+      "points": 2
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Qual frase posiciona corretamente os pronomes?",
+      "answer": "Wir haben es ihnen gestern online gezeigt.",
+      "distractors": [
+        "Wir haben gestern online es ihnen gezeigt.",
+        "Wir es ihnen haben gestern online gezeigt."
+      ],
+      "explanation": "Es e ihnen aparecem cedo, antes dos adjuntos temporal e modal.",
+      "points": 1
+    },
+    {
+      "type": "transformation",
+      "question": "Dê foco à causa: Wir verschieben die Sitzung heute wegen des Ausfalls.",
+      "answer": "Wegen des Ausfalls verschieben wir die Sitzung heute.",
+      "explanation": "O causal vai para o início e provoca inversão entre verbo e sujeito.",
+      "points": 2
+    },
+    {
+      "type": "fill_blank",
+      "question": "Complete a subordinada: ..., weil wir morgen wegen der Wartung vor Ort ___. (arbeiten)",
+      "answer": "arbeiten",
+      "explanation": "O verbo fica no final da oração subordinada.",
+      "points": 1
+    },
+    {
+      "type": "short_answer",
+      "question": "Por que TeKaMoLo não deve ser tratado como uma fórmula absoluta?",
+      "answer": "Porque foco, pronomes e informação conhecida ou nova podem alterar a ordem neutra dos adjuntos.",
+      "explanation": "TeKaMoLo orienta a ordem neutra, mas não elimina outras regras discursivas e sintáticas.",
+      "points": 2
+    },
+    {
+      "type": "ordering",
+      "question": "Ordene: per Kurier / wir / morgen / nach Dresden / schicken / die Unterlagen",
+      "answer": "Wir schicken die Unterlagen morgen per Kurier nach Dresden.",
+      "explanation": "O objeto vem antes dos adjuntos; temporal precede modal e local.",
+      "points": 2
+    },
+    {
+      "type": "production",
+      "question": "Escreva uma frase com um elemento temporal, um modal e um local.",
+      "answer": "Wir testen das System morgen automatisch im Rechenzentrum.",
+      "explanation": "Resposta-modelo com temporal, modal e local em ordem neutra.",
+      "points": 2
+    }
+  ],
+  "story": {
+    "sections": [
+      {
+        "heading": "Die kurzfristige Umstellung",
+        "sentences": [
+          {
+            "target": "Das Supportteam wollte am Dienstag wegen einer dringenden Störung mit mehreren Spezialisten im Rechenzentrum arbeiten.",
+            "translation": "A equipe de suporte queria trabalhar na terça-feira, por causa de uma falha urgente, com vários especialistas no centro de dados."
+          },
+          {
+            "target": "Wegen eines starken Unwetters konnten die externen Experten jedoch nicht rechtzeitig anreisen.",
+            "translation": "Por causa de uma forte tempestade, porém, os especialistas externos não conseguiram chegar a tempo."
+          },
+          {
+            "target": "Die Projektleiterin organisierte deshalb noch am Morgen sehr kurzfristig eine Online-Sitzung.",
+            "translation": "Por isso, a gerente do projeto organizou ainda pela manhã, em cima da hora, uma reunião on-line."
+          },
+          {
+            "target": "Das Team analysierte die Protokolle anschließend mit einem neuen Diagnosewerkzeug von zu Hause aus.",
+            "translation": "Em seguida, a equipe analisou os registros com uma nova ferramenta de diagnóstico a partir de casa."
+          },
+          {
+            "target": "Ein Techniker erklärte den Kollegen die auffälligen Messwerte geduldig am geteilten Bildschirm.",
+            "translation": "Um técnico explicou pacientemente aos colegas os valores de medição incomuns na tela compartilhada."
+          },
+          {
+            "target": "Sie konnten die Ursache nach zwei Stunden durch einen gezielten Vergleich in einer alten Konfigurationsdatei finden.",
+            "translation": "Eles conseguiram encontrar a causa depois de duas horas, por meio de uma comparação direcionada, em um arquivo antigo de configuração."
+          }
+        ]
+      },
+      {
+        "heading": "Arbeit vor Ort",
+        "sentences": [
+          {
+            "target": "Am Mittwoch fuhr eine kleine Gruppe aus Sicherheitsgründen mit einem Firmenwagen zum Rechenzentrum.",
+            "translation": "Na quarta-feira, um pequeno grupo foi, por motivos de segurança, com um carro da empresa ao centro de dados."
+          },
+          {
+            "target": "Vor Ort überprüften die Techniker die betroffene Anlage besonders sorgfältig.",
+            "translation": "No local, os técnicos verificaram a instalação afetada com especial cuidado."
+          },
+          {
+            "target": "Die übrigen Kollegen beobachteten den Test währenddessen online im Hauptbüro.",
+            "translation": "Enquanto isso, os demais colegas acompanharam o teste on-line no escritório central."
+          },
+          {
+            "target": "Wegen der guten Vorbereitung konnten sie das System noch am selben Nachmittag kontrolliert neu starten.",
+            "translation": "Graças à boa preparação, eles conseguiram reiniciar o sistema de forma controlada ainda naquela tarde."
+          },
+          {
+            "target": "Das Team dokumentierte die Lösung danach ausführlich im internen Wiki.",
+            "translation": "Depois, a equipe documentou detalhadamente a solução na wiki interna."
+          },
+          {
+            "target": "In der nächsten Woche wollen alle Beteiligten den Ablauf gemeinsam in einem Workshop auswerten.",
+            "translation": "Na semana seguinte, todos os envolvidos querem avaliar juntos o processo em um workshop."
+          }
+        ]
+      }
+    ],
+    "vocabulary_notes": [
+      {
+        "target": "wegen einer dringenden Störung",
+        "note": "bloco causal; por causa de uma falha urgente"
+      },
+      {
+        "target": "noch am Morgen",
+        "note": "ainda pela manhã; informação temporal"
+      },
+      {
+        "target": "mit einem neuen Diagnosewerkzeug",
+        "note": "com uma nova ferramenta de diagnóstico; informação modal"
+      },
+      {
+        "target": "von zu Hause aus",
+        "note": "a partir de casa; informação local"
+      },
+      {
+        "target": "durch einen gezielten Vergleich",
+        "note": "por meio de uma comparação direcionada; modo ou meio"
+      },
+      {
+        "target": "vor Ort",
+        "note": "no local; recebe foco no início da frase"
+      }
+    ],
+    "questions": [
+      {
+        "question": "Warum konnten die externen Experten nicht rechtzeitig anreisen?",
+        "answer": "Wegen eines starken Unwetters.",
+        "explanation": "A causa aparece explicitamente na segunda frase."
+      },
+      {
+        "question": "Wann organisierte die Projektleiterin die Online-Sitzung?",
+        "answer": "Noch am Morgen.",
+        "explanation": "Noch am Morgen é o bloco temporal."
+      },
+      {
+        "question": "Wie analysierte das Team die Protokolle?",
+        "answer": "Mit einem neuen Diagnosewerkzeug.",
+        "explanation": "A ferramenta apresenta o meio usado na análise."
+      },
+      {
+        "question": "Wo fanden sie die Ursache?",
+        "answer": "In einer alten Konfigurationsdatei.",
+        "explanation": "O local da descoberta é o arquivo antigo."
+      },
+      {
+        "question": "Warum fuhr die kleine Gruppe zum Rechenzentrum?",
+        "answer": "Aus Sicherheitsgründen.",
+        "explanation": "O texto apresenta um motivo de segurança."
+      },
+      {
+        "question": "Welche Information wird in Vor Ort überprüften die Techniker... hervorgehoben?",
+        "answer": "Der Ort wird hervorgehoben.",
+        "explanation": "Vor Ort ocupa a primeira posição e recebe foco."
+      }
+    ],
+    "practice": [
+      {
+        "question": "Classifique noch am Morgen.",
+        "answer": "temporal",
+        "explanation": "A expressão responde à pergunta quando."
+      },
+      {
+        "question": "Classifique mit einem Firmenwagen.",
+        "answer": "modal",
+        "explanation": "A expressão informa o meio de transporte."
+      },
+      {
+        "question": "Reescreva com ordem neutra começando pelo sujeito: Vor Ort überprüften die Techniker die Anlage besonders sorgfältig.",
+        "answer": "Die Techniker überprüften die Anlage besonders sorgfältig vor Ort.",
+        "explanation": "Sem foco especial, o modal pode preceder o local."
+      },
+      {
+        "question": "Explique a inversão em Wegen der guten Vorbereitung konnten sie das System neu starten.",
+        "answer": "O bloco causal ocupa a primeira posição, por isso o verbo konnten vem antes do sujeito sie.",
+        "explanation": "A regra de verbo na posição 2 permanece ativa."
+      }
+    ]
+  }
+}
