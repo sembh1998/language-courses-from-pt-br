@@ -7,6 +7,8 @@ The repository is now multi-course: course-specific roadmaps, prompts, topics, r
 New model generation uses schema-validated JSON; deterministic compilers produce
 the learner-facing Markdown and YAML files.
 
+For fast task routing, read `QUICKSTART.md` first. It contains short command recipes for topic lookup, topic PDFs, concat PDFs, supplements, audio, numbered PDFs, and booklet PDFs.
+
 ## Courses
 
 ```txt
@@ -205,12 +207,55 @@ Concatenate topic PDFs:
 
 ```sh
 scripts/concat-topics.sh --course courses/de-from-pt-br 1 10
+scripts/concat-topics.sh --course courses/en-from-pt-br 6 10
 ```
 
 PDF outputs go under the selected course:
 
 ```txt
 courses/<course-id>/output/pdf/
+```
+
+Prepare a compiled or concatenated PDF for printing. This keeps the original PDF and writes a numbered copy plus a booklet-imposed copy beside it:
+
+```sh
+scripts/prepare-print-pdf.sh courses/en-from-pt-br/output/pdf/concat/006-007-008-009-010-combined.pdf
+```
+
+Print booklet PDFs with duplex `flip on short side`.
+
+## Supplements
+
+Use supplements when a topic needs extra practice without changing the normal topic files.
+
+Create supplement source under the topic:
+
+```txt
+courses/<course-id>/topics/<level>/<topic-folder>/supplements/<name>.json
+```
+
+Compile supplement source files:
+
+```sh
+python3 scripts/compile-supplement.py --course courses/de-from-pt-br 34 mastery-001
+```
+
+Compile supplement PDFs:
+
+```sh
+scripts/compile-supplement-pdf.sh --course courses/de-from-pt-br 34 mastery-001
+```
+
+Prepare supplement combined PDF for printing:
+
+```sh
+scripts/prepare-print-pdf.sh courses/de-from-pt-br/output/pdf/034-preposicoes-com-acusativo/supplements/mastery-001/combined.pdf
+```
+
+Generate supplement story audio:
+
+```sh
+.venv/bin/python scripts/generate-supplement-audio.py --course courses/de-from-pt-br 34 mastery-001
 ```
 
 ## Audio

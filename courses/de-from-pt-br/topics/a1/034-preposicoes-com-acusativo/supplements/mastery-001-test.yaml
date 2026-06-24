@@ -1,0 +1,143 @@
+topic: Preposições com acusativo
+level: A1
+questions:
+- type: multiple_choice
+  question: Qual expressão está correta para 'para o pai'?
+  answer: für den Vater
+  options:
+  - für den Vater
+  - für der Vater
+  - für dem Vater
+- type: fill_blank
+  question: Ich gehe ohne ___ Mantel.
+  answer: einen
+- type: translation
+  question: 'Traduza: pelo mercado'
+  answer: durch den Markt
+- type: correction
+  question: gegen der Wind
+  answer: gegen den Wind
+- type: short_answer
+  question: Como se diz 'às onze horas'?
+  answer: um elf Uhr
+- type: multiple_choice
+  question: Escolha 'sem o computador'.
+  answer: ohne den Computer
+  options:
+  - ohne der Computer
+  - ohne den Computer
+  - ohne dem Computer
+- type: fill_blank
+  question: Der Bus fährt bis ___.
+  answer: Hamburg
+- type: translation
+  question: 'Traduza: para a criança'
+  answer: für das Kind
+- type: classification
+  question: Qual preposição significa 'sem'?
+  answer: ohne
+- type: multiple_choice
+  question: Qual expressão está correta para 'ao redor do parque'?
+  answer: um den Park
+  options:
+  - um der Park
+  - um dem Park
+  - um den Park
+- type: fill_blank
+  question: Das Geschenk ist für ___ Mutter.
+  answer: die
+- type: translation
+  question: 'Traduza: contra uma mesa'
+  answer: gegen einen Tisch
+- type: correction
+  question: durch dem Garten
+  answer: durch den Garten
+- type: short_answer
+  question: Escreva 'até sexta-feira'.
+  answer: bis Freitag
+- type: multiple_choice
+  question: Qual opção traduz 'pelo hotel'?
+  answer: durch das Hotel
+  options:
+  - durch das Hotel
+  - durch der Hotel
+  - durch den Hotel
+- type: fill_blank
+  question: Wir laufen gegen ___ Tür.
+  answer: die
+- type: translation
+  question: 'Traduza: sem uma bolsa'
+  answer: ohne eine Tasche
+- type: classification
+  question: Em 'um sieben Uhr', o que significa um?
+  answer: às
+- type: multiple_choice
+  question: Escolha a frase correta.
+  answer: Ich kaufe das Buch für den Lehrer.
+  options:
+  - Ich kaufe das Buch für der Lehrer.
+  - Ich kaufe das Buch für den Lehrer.
+  - Ich kaufe das Buch für dem Lehrer.
+- type: fill_blank
+  question: Sie geht durch ___ Museum.
+  answer: das
+- type: translation
+  question: 'Traduza: sem o plano'
+  answer: ohne den Plan
+- type: correction
+  question: für einen Schwester
+  answer: für eine Schwester
+- type: short_answer
+  question: Como se diz 'para Lisa'?
+  answer: für Lisa
+- type: multiple_choice
+  question: 'Qual preposição completa: Der Kurs geht ___ 18 Uhr.'
+  answer: bis
+  options:
+  - gegen
+  - durch
+  - bis
+- type: fill_blank
+  question: Der Hund läuft um ___ Baum.
+  answer: den
+- type: translation
+  question: 'Traduza: contra o carro'
+  answer: gegen das Auto
+- type: classification
+  question: Qual preposição indica 'por/através de'?
+  answer: durch
+- type: multiple_choice
+  question: Escolha 'para uma amiga'.
+  answer: für eine Freundin
+  options:
+  - für eine Freundin
+  - für einen Freundin
+  - für ein Freundin
+- type: fill_blank
+  question: Ich fahre ohne ___ Fahrrad.
+  answer: das
+- type: translation
+  question: 'Traduza: ao redor da escola'
+  answer: um die Schule
+- type: correction
+  question: ohne der Schlüssel
+  answer: ohne den Schlüssel
+- type: short_answer
+  question: 'Complete com uma expressão: Ich komme ___ acht Uhr.'
+  answer: um acht Uhr
+- type: multiple_choice
+  question: Qual expressão está correta para 'até o fim'?
+  answer: bis Sonntag
+  options:
+  - gegen Sonntag
+  - bis Sonntag
+  - durch Sonntag
+- type: fill_blank
+  question: Das ist für ___ Baby.
+  answer: das
+- type: translation
+  question: 'Traduza: sem leite'
+  answer: ohne Milch
+- type: production
+  question: Escreva uma frase curta com durch den Park.
+  answer: Ich gehe durch den Park.

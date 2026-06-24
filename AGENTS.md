@@ -1,5 +1,7 @@
 # Agent Instructions
 
+Read `QUICKSTART.md` first for short task recipes. It is the fastest map for topic lookup, normal PDFs, concat PDFs, supplements, audio, numbered PDFs, and booklet PDFs.
+
 ## Repo Shape
 
 - This repo generates language-learning source content for Brazilian Portuguese speakers; structured JSON plus compiled Markdown/YAML under `courses/<course-id>/` are the source of truth, not PDFs/audio/Anki exports.
@@ -34,12 +36,27 @@
 - If flashcards are not useful, still create `flashcards.yaml` with `cards: []` and a short `note` explaining the intentional skip; `sync-roadmap.py` records this as `Pulado`.
 - Scale lesson/story/exercises/test volume to roadmap level plus topic difficulty/importance; prefer varied practice over long prose for foundational or error-prone topics.
 
+## Topic Supplements
+
+- When the user asks to `expand topic X`, `generate extra content`, `generate a bigger story`, `generate extra exercises`, `generate an extra test`, or similar, create a supplement instead of changing the normal topic files.
+- Supplements live under `courses/<course-id>/topics/<level>/<topic-folder>/supplements/`; use `<name>.json` as the semantic source and compile it into `<name>-exercises.yaml`, `<name>-test.yaml`, `<name>-story.md`, and `<name>-answers.md` as applicable.
+- Do not edit `content.json`, `lesson.md`, `vocabulary.yaml`, `flashcards.yaml`, `exercises.yaml`, `test.yaml`, `story.md`, or `answers.md` when creating supplements.
+- Use `schemas/supplement.schema.json` and the course-local `prompts/supplement.prompt.md` contract. Read the existing topic first for scope, level, vocabulary, examples, and pitfalls, but do not copy existing exercise or test items.
+- Supported supplement modes are `extra_story`, `extra_exercises`, `extra_test`, and `mastery`; `mastery` should include a large exercise set, a large test, and one or more long stories.
+- Compile supplements with `python3 scripts/compile-supplement.py --course courses/<course-id> <topic-order-or-folder> <supplement-name>`.
+- Compile supplement PDFs with `scripts/compile-supplement-pdf.sh --course courses/<course-id> <topic-order-or-folder> <supplement-name>`; output goes under `courses/<course-id>/output/pdf/<topic-folder>/supplements/<supplement-name>/`.
+- Prepare any compiled PDF for printing with `scripts/prepare-print-pdf.sh <path/to/combined.pdf>`; it writes `<name>-numbered.pdf` and `<name>-booklet.pdf` beside the input without modifying the original.
+- Generate supplement story audio with `.venv/bin/python scripts/generate-supplement-audio.py --course courses/<course-id> <topic-order-or-folder> <supplement-name>`; output goes under `courses/<course-id>/output/audio/<topic-folder>/supplements/`.
+
 ## Commands
 
 - Scaffold a topic: `scripts/generate-topic.sh courses/<course-id>/topics/<level>/<order-slug>`.
 - Build compact model context: `python3 scripts/build-context.py --course courses/<course-id> <order>`.
 - Compile `content.json`: `python3 scripts/compile-content.py --course courses/<course-id> <topic-order-or-folder>`.
 - Check compiled files without writing: `python3 scripts/compile-content.py --check --course courses/<course-id> <topic-order-or-folder>`.
+- Compile supplement JSON: `python3 scripts/compile-supplement.py --course courses/<course-id> <topic-order-or-folder> <supplement-name>`.
+- Compile supplement PDFs: `scripts/compile-supplement-pdf.sh --course courses/<course-id> <topic-order-or-folder> <supplement-name>`.
+- Prepare print PDF: `scripts/prepare-print-pdf.sh <path/to/combined.pdf>`.
 - Validate one topic: `python3 scripts/validate-content.py courses/<course-id>/topics/<level>/<order-slug>`.
 - Validate default German topics: `python3 scripts/validate-content.py`; legacy issues can be filtered with `--baseline courses/<course-id>/qa-baseline.txt`, but new topics should pass with zero unbaselined issues.
 - Compile one topic PDF set: `scripts/compile-topic.sh --course courses/<course-id> <topic-order-or-folder>`; this needs Typst and Ghostscript (`gs`) and writes to `courses/<course-id>/output/pdf/<topic-folder>/`.
@@ -48,6 +65,7 @@
 - Concatenate topics: `scripts/concat-topics.sh --course courses/<course-id> 1 10` for a range, or pass explicit topic numbers/folders.
 - Install Python deps for audio/Anki: `uv venv .venv && uv pip install --python .venv/bin/python -r requirements.txt`.
 - Generate audio: `.venv/bin/python scripts/generate-audio.py --course courses/<course-id> <topic-order-or-folder>`; it downloads Piper voices under `.cache/piper-voices/` and converts WAV to MP3 when `ffmpeg` exists.
+- Generate supplement story audio: `.venv/bin/python scripts/generate-supplement-audio.py --course courses/<course-id> <topic-order-or-folder> <supplement-name>`.
 - Export Anki: `.venv/bin/python scripts/export-anki.py --course courses/<course-id> <topic-order...>`; run audio generation first if card audio should be embedded. With topic args, the default output is separated under `output/exports/topics/` for one topic or `output/exports/selected/` for multiple topics. With no topic args, it writes the course-wide package from `course.yaml`.
 
 ## Reviews

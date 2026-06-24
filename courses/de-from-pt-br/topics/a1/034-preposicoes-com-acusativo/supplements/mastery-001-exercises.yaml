@@ -1,0 +1,235 @@
+topic: Preposições com acusativo
+level: A1
+exercises:
+- type: fill_blank
+  title: Artigo definido depois da preposição
+  instruction: Complete com den, die ou das.
+  items:
+  - question: Das Paket ist für ___ Nachbarn.
+    answer: den
+  - question: Lena geht ohne ___ Jacke aus dem Haus.
+    answer: die
+  - question: Der Weg geht durch ___ Wald.
+    answer: den
+  - question: Das Auto fährt gegen ___ Mauer.
+    answer: die
+  - question: Wir sitzen um ___ Tisch.
+    answer: den
+  - question: Der Brief ist für ___ Kind.
+    answer: das
+  - question: Sie läuft durch ___ Straße.
+    answer: die
+  - question: Der Junge läuft um ___ Garten.
+    answer: den
+- type: fill_blank
+  title: Artigo indefinido masculino e neutro
+  instruction: Complete com einen, eine ou ein.
+  items:
+  - question: Ich kaufe Blumen für ___ Freund.
+    answer: einen
+  - question: Mara geht ohne ___ Tasche.
+    answer: eine
+  - question: Wir laufen durch ___ Dorf.
+    answer: ein
+  - question: Der Ball rollt gegen ___ Stuhl.
+    answer: einen
+  - question: Sie wartet um ___ Moment.
+    answer: einen
+  - question: Paul fährt bis ___ kleines Hotel.
+    answer: ein
+  - question: Das ist für ___ Lehrerin.
+    answer: eine
+  - question: Ich gehe ohne ___ Regenschirm.
+    answer: einen
+- type: multiple_choice
+  title: Escolha a expressão correta
+  instruction: Escolha a opção correta em alemão.
+  items:
+  - question: para o chefe
+    answer: für den Chef
+    options:
+    - für den Chef
+    - für der Chef
+    - für dem Chef
+  - question: sem uma mochila
+    answer: ohne einen Rucksack
+    options:
+    - ohne ein Rucksack
+    - ohne einen Rucksack
+    - ohne einem Rucksack
+  - question: pelo centro
+    answer: durch das Zentrum
+    options:
+    - durch dem Zentrum
+    - durch den Zentrum
+    - durch das Zentrum
+  - question: contra a porta
+    answer: gegen die Tür
+    options:
+    - gegen die Tür
+    - gegen der Tür
+    - gegen den Tür
+  - question: ao redor do lago
+    answer: um den See
+    options:
+    - um der See
+    - um den See
+    - um dem See
+  - question: até Hamburgo
+    answer: bis Hamburg
+    options:
+    - gegen Hamburg
+    - durch Hamburg
+    - bis Hamburg
+  - question: para a família
+    answer: für die Familie
+    options:
+    - für die Familie
+    - für der Familie
+    - für den Familie
+  - question: sem o celular
+    answer: ohne das Handy
+    options:
+    - ohne dem Handy
+    - ohne das Handy
+    - ohne den Handy
+- type: translation
+  title: Tradução curta para o alemão
+  instruction: Traduza as expressões para o alemão.
+  items:
+  - question: para o médico
+    answer: für den Arzt
+  - question: sem uma chave
+    answer: ohne einen Schlüssel
+  - question: pelo jardim
+    answer: durch den Garten
+  - question: contra uma parede
+    answer: gegen eine Wand
+  - question: às quatro horas
+    answer: um vier Uhr
+  - question: até sábado
+    answer: bis Samstag
+  - question: para a professora
+    answer: für die Lehrerin
+  - question: sem o bilhete
+    answer: ohne das Ticket
+- type: correction
+  title: Corrija os erros de caso
+  instruction: Corrija a expressão alemã.
+  items:
+  - question: für der Bruder
+    answer: für den Bruder
+  - question: ohne ein Hund
+    answer: ohne einen Hund
+  - question: durch dem Tunnel
+    answer: durch den Tunnel
+  - question: gegen der Baum
+    answer: gegen den Baum
+  - question: um dem Platz
+    answer: um den Platz
+  - question: für den Schwester
+    answer: für die Schwester
+  - question: ohne einen Auto
+    answer: ohne ein Auto
+  - question: durch der Stadt
+    answer: durch die Stadt
+- type: classification
+  title: Preposição e sentido
+  instruction: Identifique o sentido principal da preposição em português.
+  items:
+  - question: für
+    answer: para
+  - question: ohne
+    answer: sem
+  - question: gegen
+    answer: contra
+  - question: durch
+    answer: por/através de
+  - question: um + hora
+    answer: às
+  - question: um + lugar/coisa
+    answer: ao redor de
+  - question: bis
+    answer: até
+  - question: ohne dich
+    answer: sem você
+- type: transformation
+  title: Troque para acusativo masculino
+  instruction: Reescreva a expressão com o artigo correto no acusativo.
+  items:
+  - question: für + der Sohn
+    answer: für den Sohn
+  - question: ohne + ein Kaffee
+    answer: ohne einen Kaffee
+  - question: durch + der Eingang
+    answer: durch den Eingang
+  - question: gegen + ein Tisch
+    answer: gegen einen Tisch
+  - question: um + der Supermarkt
+    answer: um den Supermarkt
+  - question: bis + Montag
+    answer: bis Montag
+  - question: für + ein Kollegen
+    answer: für einen Kollegen
+  - question: ohne + der Plan
+    answer: ohne den Plan
+- type: short_answer
+  title: Responda com uma expressão curta
+  instruction: Responda em alemão com a preposição correta.
+  items:
+  - question: Você quer dizer 'para Max'.
+    answer: für Max
+  - question: Você quer dizer 'sem Anna'.
+    answer: ohne Anna
+  - question: Você quer dizer 'até Berlim'.
+    answer: bis Berlin
+  - question: Você quer dizer 'às seis horas'.
+    answer: um sechs Uhr
+  - question: Você quer dizer 'contra o vento'.
+    answer: gegen den Wind
+  - question: Você quer dizer 'pelo túnel'.
+    answer: durch den Tunnel
+  - question: Você quer dizer 'ao redor da casa'.
+    answer: um das Haus
+  - question: Você quer dizer 'sem água'.
+    answer: ohne Wasser
+- type: contrast
+  title: Escolha a preposição pelo contexto
+  instruction: Complete com für, ohne, gegen, durch, um ou bis.
+  items:
+  - question: Das Geschenk ist ___ Oma.
+    answer: für
+  - question: Ich trinke Kaffee ___ Zucker.
+    answer: ohne
+  - question: Wir gehen ___ den Bahnhof und sehen viele Menschen.
+    answer: durch
+  - question: Das Team spielt ___ eine starke Mannschaft.
+    answer: gegen
+  - question: Der Unterricht geht ___ zwölf Uhr.
+    answer: bis
+  - question: Der Kurs beginnt ___ neun Uhr.
+    answer: um
+  - question: Die Kinder laufen ___ den Baum.
+    answer: um
+  - question: Ich fahre ___ meine Schwester zum Supermarkt.
+    answer: ohne
+- type: production
+  title: Produção guiada A1
+  instruction: Escreva uma frase curta em alemão usando a preposição indicada.
+  items:
+  - question: Use für + den Vater.
+    answer: Das ist für den Vater.
+  - question: Use ohne + einen Mantel.
+    answer: Ich gehe ohne einen Mantel.
+  - question: Use durch + die Stadt.
+    answer: Wir gehen durch die Stadt.
+  - question: Use gegen + den Ball.
+    answer: Der Hund läuft gegen den Ball.
+  - question: Use um + acht Uhr.
+    answer: Ich komme um acht Uhr.
+  - question: Use bis + Montag.
+    answer: Ich bleibe bis Montag.
+  - question: Use für + das Kind.
+    answer: Das Buch ist für das Kind.
+  - question: Use ohne + die Karte.
+    answer: Ich fahre ohne die Karte.
